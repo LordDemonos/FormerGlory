@@ -26,9 +26,9 @@ navbar-links:
     - Spell Bank: "spells"
     - Sky Bank: "sky"
     - Loot Rights: "loot"
-  Resources:
-    - Quarm.Guide: "https://quarm.guide/"
-    - TunnelAuctions: "https://www.eqtunnelauctions.com/"
+#  Resources:
+#    - Quarm.Guide: "https://quarm.guide/"
+#S    - TunnelAuctions: "https://www.eqtunnelauctions.com/"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #S    - Table Generator: "https://www.tablesgenerator.com"
   OpenDKP: "https://formerglory.opendkp.com/"
