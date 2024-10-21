@@ -20,12 +20,15 @@ author: Xanax
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About FG: "aboutme"
+  DKP: "aboutdkp"
+  Services:
+    - Beautiful Jekyll: "spells"
+    - Beautiful Jekyll: "sky"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Table Generator: "https://www.tablesgenerator.com"
-  Author's home: "https://quarm.guide"
+  Quarm.Guide: "https://quarm.guide"
 
 ################
 # --- Logo --- #
@@ -57,7 +60,7 @@ social-network-links:
   github: lorddemonos
 #  twitter: daattali
 #  patreon: DeanAttali
-  youtube: "@lorddemonos"
+#  youtube: "@lorddemonos"
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
