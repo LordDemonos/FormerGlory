@@ -23,8 +23,8 @@ navbar-links:
   About FG: "aboutme"
   DKP: "aboutdkp"
   Services:
-    - Beautiful Jekyll: "spells"
-    - Beautiful Jekyll: "sky"
+    - Spell Bank: "spells"
+    - Sky Bank: "sky"
   Resources:
     - Quarm.Guide: "https://quarm.guide/"
     - TunnelAuctions: "https://www.eqtunnelauctions.com/"
