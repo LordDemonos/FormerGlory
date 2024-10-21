@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DKP Info
-subtitle: Why you'd want to go on a date with me
+subtitle: Understanding Our Guild's DKP System and Raiding Policies
 ---
 
 # Former Glory Guild Raiding and DKP System

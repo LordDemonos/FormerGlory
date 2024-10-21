@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Former Glory
-subtitle: Why you'd want to go on a date with me
+subtitle: A Relaxed EverQuest Guild for Friends and Adventure
 ---
 
 # Former Glory Guild Charter
