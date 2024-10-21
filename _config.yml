@@ -25,6 +25,7 @@ navbar-links:
   Services:
     - Spell Bank: "spells"
     - Sky Bank: "sky"
+    - Loot Rights: "loot"
   Resources:
     - Quarm.Guide: "https://quarm.guide/"
     - TunnelAuctions: "https://www.eqtunnelauctions.com/"
