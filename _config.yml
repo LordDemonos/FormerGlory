@@ -26,9 +26,11 @@ navbar-links:
     - Beautiful Jekyll: "spells"
     - Beautiful Jekyll: "sky"
   Resources:
+    - Quarm.Guide: "https://quarm.guide/"
+    - TunnelAuctions: "https://www.eqtunnelauctions.com/"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Table Generator: "https://www.tablesgenerator.com"
-  Quarm.Guide: "https://quarm.guide"
+  OpenDKP: "https://formerglory.opendkp.com/"
 
 ################
 # --- Logo --- #
