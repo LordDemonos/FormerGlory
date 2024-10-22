@@ -1124,43 +1124,43 @@ pre {
   }
 }
 
-
 #tooltip-container {
   position: absolute;
   display: none;
-  background-color: #333; 
-  color: rgba(255, 255, 255, 0);
-  padding: 15px; 
-  border-radius: 8px; 
-  z-index: 1000;
+  background-color: #333; /* Darken the background for better contrast */
+  color: #fff; /* Ensure text is readable */
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   font-family: Arial, sans-serif;
   font-size: 14px;
   line-height: 1.5;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-  }
+  z-index: 1000;
+}
 
-  tr {
-    border: none;
-  }
+#tooltip-container table {
+  border-collapse: collapse; /* Remove gaps between table cells */
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
 
-  td {
-    padding: 0;
-    border: none;
-    line-height: 1.2;
-  }
+#tooltip-container tr {
+  border: none; /* Remove borders between rows */
+}
+
+#tooltip-container td {
+  padding: 0;
+  border: none; /* Remove borders between cells */
+  line-height: 1.2;
 }
 
 #tooltip-container h4 {
-  font-size: 20px; 
+  font-size: 20px;
   margin: 0;
   padding: 0;
   color: #fff;
-  font-weight: bold; 
+  font-weight: bold;
 }
 
 #tooltip-container p {
@@ -1171,6 +1171,6 @@ pre {
 #tooltip-container .item-details {
   display: flex;
   justify-content: space-between;
-  margin: 0; 
+  margin: 0;
   padding: 0;
 }
