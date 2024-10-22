@@ -68,6 +68,7 @@ document.addEventListener('DOMContentLoaded', function () {
           const newIconSpan = document.createElement('span');
           newIconSpan.classList.add('item-icon');
           newIconSpan.style.backgroundImage = iconSpan.style.backgroundImage;
+          console.log('Background Image URL:', newIconSpan.style.backgroundImage); // Log the URL
           newIconSpan.style.display = 'inline-block';
           newIconSpan.style.verticalAlign = 'middle';
           newIconSpan.style.width = '1em';
