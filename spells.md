@@ -7,20 +7,35 @@ subtitle: List of Spells in the guild bank
 ## Spell Bank Contents
 
 [A Worn Candle](https://www.pqdi.cc/item/9979)
+
 [Spell: Divine Intervention](https://www.pqdi.cc/item/19230)
+
 [Spell: Minion of Shadows](https://www.pqdi.cc/item/19297)
+
 [Spell: Disintegrate](https://www.pqdi.cc/item/19415)
+
 [Spell: Banishment](https://www.pqdi.cc/item/19262)
+
 [Spell: Markar`s Discord](https://www.pqdi.cc/item/19331)
+
 [Spell: Thrall of Bones](https://www.pqdi.cc/item/19299)
+
 [Spell: Trepidation](https://www.pqdi.cc/item/19220)
+
 [Spell: Vocarate: Fire](https://www.pqdi.cc/item/19355)
+
 [Spell: Spirit of Oak](https://www.pqdi.cc/item/19258)
+
 [Spell: Greater Vocaration: Air](https://www.pqdi.cc/item/19371)
+
 [Spell: Flaming Sword of Xuzl](https://www.pqdi.cc/item/19344)
+
 [Spell: Disintegrate](https://www.pqdi.cc/item/19415)
+
 [Spell: Pox of Bertoxxulous](https://www.pqdi.cc/item/19288)
+
 [Spell: Legacy of Thorn](https://www.pqdi.cc/item/19259)
+
 [Spell: Word of Redemption](https://www.pqdi.cc/item/19229)
 [Spell: Talisman of Jasinth](https://www.pqdi.cc/item/19264)
 [Spell: Mala](https://www.pqdi.cc/item/19418)
