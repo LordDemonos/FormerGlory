@@ -67,7 +67,14 @@ document.addEventListener('DOMContentLoaded', function () {
         if (iconSpan) {
           const newIconSpan = document.createElement('span');
           newIconSpan.classList.add('item-icon');
-          newIconSpan.style.backgroundImage = iconSpan.style.backgroundImage;
+
+          // Extract the relative URL from the original background image
+          const backgroundImageUrl = iconSpan.style.backgroundImage.match(/url\(["']?([^"']*)["']?\)/)[1];
+          
+          // Construct the full URL using BASE_URL
+          const fullImageUrl = `${BASE_URL}${backgroundImageUrl}`;
+          newIconSpan.style.backgroundImage = `url("${fullImageUrl}")`;
+
           console.log('Background Image URL:', newIconSpan.style.backgroundImage); // Log the URL
           newIconSpan.style.display = 'inline-block';
           newIconSpan.style.verticalAlign = 'middle';
