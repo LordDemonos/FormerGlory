@@ -30,13 +30,23 @@ document.addEventListener('DOMContentLoaded', function () {
           const tempDiv = document.createElement('div');
           tempDiv.innerHTML = html;
 
+          // Remove scripts for security
           tempDiv.querySelectorAll('script').forEach(script => script.remove());
 
+          // Remove empty table cells and rows
           tempDiv.querySelectorAll('td').forEach(td => {
             if (!td.textContent.trim()) td.remove();
           });
           tempDiv.querySelectorAll('tr').forEach(tr => {
             if (!tr.textContent.trim()) tr.remove();
+          });
+
+          // Update image URLs within the tooltip
+          tempDiv.querySelectorAll('img').forEach(img => {
+            const src = img.getAttribute('src');
+            if (src && !src.startsWith('http')) {
+              img.setAttribute('src', `${BASE_URL}${src}`);
+            }
           });
 
           tooltipContainer.innerHTML = tempDiv.innerHTML;
