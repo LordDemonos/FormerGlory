@@ -37,8 +37,5 @@
   {% endfor %}
 {% endif %}
 
-{% if page.js %}
-  {% for js in page.js %}
     <script src="{{ '/assets/js/tooltip.js' | relative_url }}"></script>
-  {% endfor %}
-{% endif %}
+
