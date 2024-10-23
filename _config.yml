@@ -12,7 +12,7 @@
 # with your folder name, otherwise leave it empty
 baseurl: "/"
 # the base hostname & protocol for your site
-url: "https://lorddemonos.github.io/FormerGlory/"
+url: "https://lorddemonos.github.io/"
 
 # Name of website
 title: Former Glory

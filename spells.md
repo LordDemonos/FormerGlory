@@ -5,10 +5,6 @@ subtitle: List of Spells in the guild bank
 ---
 
 ## Spell Bank Contents
-[A Worn Candle](https://www.pqdi.cc/item/9979)
-
-[Elemental Grimoire](https://www.pqdi.cc/item/17502)
-
 [Spell: Aegis of Ro](https://www.pqdi.cc/item/15863) x3
 
 [Spell: Avatar](https://www.pqdi.cc/item/19292) x3
