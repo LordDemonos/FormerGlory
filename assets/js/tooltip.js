@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', function () {
-  const BASE_URL = 'https://www.pqdi.cc'; // Set the base URL for the images
   const SPRITE_SHEET_WIDTH = 640;
   const SPRITE_SHEET_HEIGHT = 480;
   const ICON_SIZE = 40;
@@ -24,16 +23,17 @@ document.addEventListener('DOMContentLoaded', function () {
       const linkBottom = linkRect.bottom + window.scrollY;
       const linkLeft = linkRect.left + window.scrollX;
 
-      fetch(`${BASE_URL}/get-item-tooltip/${itemId}`)
+      fetch(`https://www.pqdi.cc/get-item-tooltip/${itemId}`)
         .then((response) => response.text())
         .then((html) => {
+          // Create a temporary div to parse the HTML
           const tempDiv = document.createElement('div');
           tempDiv.innerHTML = html;
 
-          // Remove scripts for security
+          // Remove any script tags
           tempDiv.querySelectorAll('script').forEach(script => script.remove());
 
-          // Remove empty table cells and rows
+          // Clean up empty table cells and rows
           tempDiv.querySelectorAll('td').forEach(td => {
             if (!td.textContent.trim()) td.remove();
           });
@@ -41,22 +41,15 @@ document.addEventListener('DOMContentLoaded', function () {
             if (!tr.textContent.trim()) tr.remove();
           });
 
-          // Update image URLs within the tooltip
-          tempDiv.querySelectorAll('img').forEach(img => {
-            const src = img.getAttribute('src');
-            if (src && !src.startsWith('http')) {
-              img.setAttribute('src', `${BASE_URL}${src}`);
-            }
-          });
-
           tooltipContainer.innerHTML = tempDiv.innerHTML;
           tooltipContainer.style.left = `${linkLeft}px`;
-          tooltipContainer.style.top = `${linkBottom + 5}px`;
+          tooltipContainer.style.top = `${linkBottom + 5}px`; // Position below the link by default
           tooltipContainer.style.display = 'block';
 
+          // Adjust position if tooltip goes out of viewport
           const tooltipRect = tooltipContainer.getBoundingClientRect();
           if (tooltipRect.bottom > window.innerHeight) {
-            tooltipContainer.style.top = `${linkTop - tooltipRect.height - 5}px`;
+            tooltipContainer.style.top = `${linkTop - tooltipRect.height - 5}px`; // Position above the link
           }
         });
     });
@@ -68,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     // Icon functionality
-    fetch(`${BASE_URL}/get-item-tooltip/${itemId}`)
+    fetch(`https://www.pqdi.cc/get-item-tooltip/${itemId}`)
       .then((response) => response.text())
       .then((html) => {
         const tempDiv = document.createElement('div');
@@ -77,15 +70,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (iconSpan) {
           const newIconSpan = document.createElement('span');
           newIconSpan.classList.add('item-icon');
-
-          // Extract the relative URL from the original background image
-          const backgroundImageUrl = iconSpan.style.backgroundImage.match(/url\(["']?([^"']*)["']?\)/)[1];
-          
-          // Construct the full URL using BASE_URL
-          const fullImageUrl = `${BASE_URL}${backgroundImageUrl}`;
-          newIconSpan.style.backgroundImage = `url("${fullImageUrl}")`;
-
-          console.log('Background Image URL:', newIconSpan.style.backgroundImage); // Log the URL
+          newIconSpan.style.backgroundImage = iconSpan.style.backgroundImage;
           newIconSpan.style.display = 'inline-block';
           newIconSpan.style.verticalAlign = 'middle';
           newIconSpan.style.width = '1em';
@@ -93,19 +78,23 @@ document.addEventListener('DOMContentLoaded', function () {
           newIconSpan.style.marginRight = '0.25em';
           newIconSpan.title = iconSpan.title;
 
+          // Parse the background position
           const match = iconSpan.style.backgroundPosition.match(/(-?\d+)px\s+(-?\d+)px/);
           if (match) {
             const [, x, y] = match;
             const originalX = parseInt(x);
             const originalY = parseInt(y);
 
+            // Calculate the scaling factor
             const scaleFactor = 1 / ICON_SIZE;
 
+            // Scale the background position
             const scaledX = originalX * scaleFactor;
             const scaledY = originalY * scaleFactor;
 
             newIconSpan.style.backgroundPosition = `${scaledX}em ${scaledY}em`;
 
+            // Set the background size
             const scaledSheetWidth = SPRITE_SHEET_WIDTH * scaleFactor;
             const scaledSheetHeight = SPRITE_SHEET_HEIGHT * scaleFactor;
             newIconSpan.style.backgroundSize = `${scaledSheetWidth}em ${scaledSheetHeight}em`;
