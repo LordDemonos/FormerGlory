@@ -9,6 +9,11 @@
 # --- Required options --- #
 ############################
 
+# with your folder name, otherwise leave it empty
+baseurl: "/"
+# the base hostname & protocol for your site
+url: "https://lorddemonos.github.io/FormerGlory/"
+
 # Name of website
 title: Former Glory
 
@@ -28,9 +33,9 @@ navbar-links:
     - Loot Rights: "loot"
 #  Resources:
 #    - Quarm.Guide: "https://quarm.guide/"
-#S    - TunnelAuctions: "https://www.eqtunnelauctions.com/"
+#    - TunnelAuctions: "https://www.eqtunnelauctions.com/"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-#S    - Table Generator: "https://www.tablesgenerator.com"
+#    - Table Generator: "https://www.tablesgenerator.com"
   OpenDKP: "https://formerglory.opendkp.com/"
 
 ################
@@ -60,7 +65,7 @@ social-network-links:
 #  email: "someone@example.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: lorddemonos
+   github: lorddemonos
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@lorddemonos"
@@ -83,7 +88,7 @@ social-network-links:
 #  bluesky: yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-  discord: "pW3sMv3u"
+   discord: "pW3sMv3u"
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
@@ -107,7 +112,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "FormerGlory"
+url-pretty: "Former Glory"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -176,12 +181,12 @@ footer-hover-col: "#FF7A5E"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
+site-css:
   - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
-#site-js:
-  - "/assets/js/tooltip.js"
+site-js:
+ - "/assets/js/tooltip.js"
 
 #################################
 # --- Web Analytics Section --- #
@@ -272,30 +277,6 @@ date_format: "%B %-d, %Y"
 # Facebook App ID
 #fb_app_id: ""
 
-#################
-# -- Prose.io-- #
-#################
-
-prose:
-  rooturl: '_posts'
-  siteurl: 'http://lorddemonos.github.io/FormerGlory/'
-  relativeLinks: 'http://lorddemonos.github.io/FormerGlory/links.jsonp'
-  media: 'media'
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Post title"
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Published"
-          value: false
 
 #################################################################################
 # --- You don't need to touch anything below here (but you can if you want) --- #

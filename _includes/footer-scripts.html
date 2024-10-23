@@ -14,14 +14,14 @@
         }
       </script>
     {% else %}
-      <script src="{{ js | relative_url }}"></script>
+      <script src="{{ js | relative_url }}" defer></script>
     {% endif %}
   {% endfor %}
 {% endif %}
 
 {% if site.site-js %}
   {% for js in site.site-js %}
-    <script src="{{ js | relative_url }}"></script>
+    <script src="{{ js | relative_url }}" defer></script>
   {% endfor %}
 {% endif %}
 
@@ -33,7 +33,7 @@
 
 {% if page.js %}
   {% for js in page.js %}
-    <script src="{{ js | relative_url }}"></script>
+    <script src="{{ js | relative_url }}" defer></script>
   {% endfor %}
 {% endif %}
 
