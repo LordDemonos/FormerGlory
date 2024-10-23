@@ -177,11 +177,11 @@ footer-hover-col: "#FF7A5E"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
-#  - "/assets/css/custom-styles.css"
+  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
-#  - "/assets/js/custom-script.js"
+  - "/assets/js/tooltip.js"
 
 #################################
 # --- Web Analytics Section --- #
@@ -276,7 +276,26 @@ date_format: "%B %-d, %Y"
 # -- Prose.io-- #
 #################
 
-
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://lorddemonos.github.io/FormerGlory/'
+  relativeLinks: 'http://lorddemonos.github.io/FormerGlory/links.jsonp'
+  media: 'media'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
 
 #################################################################################
 # --- You don't need to touch anything below here (but you can if you want) --- #

@@ -1,0 +1,78 @@
+
+.item-icon {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  margin-right: 0.25em;
+}
+
+#tooltip-container {
+  position: absolute;
+  display: none;
+  background-color: #333; 
+  color: white;
+  padding: 15px; 
+  border-radius: 8px; 
+  z-index: 1000;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  tr {
+    border: none;
+  }
+
+  td {
+    padding: 0;
+    border: none;
+    line-height: 1.2;
+  }
+}
+
+#tooltip-container h4 {
+  font-size: 20px; 
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  font-weight: bold; 
+}
+
+#tooltip-container p {
+  margin: 0;
+  padding: 0;
+}
+
+#tooltip-container .item-details {
+  display: flex;
+  justify-content: space-between;
+  margin: 0; 
+  padding: 0;
+}
+
+#tooltip-container {
+  position: absolute;
+  display: none;
+  background-color: #333; 
+  color: white;
+  padding: 15px; 
+  border-radius: 8px; 
+  z-index: 1000;
+  font-family: Arial, sans-serif; 
+  font-size: 14px; 
+  line-height: 1.5;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  isolation: isolate;
+}
+
+#tooltip-container .item-icon {
+  filter: invert(0);
+}
