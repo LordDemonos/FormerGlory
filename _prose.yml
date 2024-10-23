@@ -1,0 +1,52 @@
+prose:
+  rooturl: '_posts'
+  siteurl: 'https://lorddemonos.github.io/formerglory/'
+#  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'assets/images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "date"
+        field:
+          label: "date"
+          element: "text"
+          value: "CURRENT_DATETIME"
+      - name: "author"
+        field:
+          label: "author"
+          element: "text"
+          value: "CURRENT_USER"
+      - name: "title"
+        field:
+          label: "title"
+          element: "text"
+          placeholder: "Enter a title for your post"
+      - name: "description"
+        field:
+          label: "description"
+          element: "text"
+          placeholder: "Enter a description for your post."
+      - name: "keywords"
+        field:
+          label: "keywords"
+          element: "text"
+          placeholder: "Enter keywords you might use to search for this page."
+      - name: "toc"
+        field:
+          label: "toc"
+          element: "hidden"
+          value: "true"
+      - name: "published"
+        field:
+          label: "published"
+          element: "hidden"
+          value: "true"
+      - name: "sitemap"
+        field:
+          label: "sitemap"
+          element: "hidden"
+          value: "true"
