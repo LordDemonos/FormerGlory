@@ -2,7 +2,7 @@
 published: 'true'
 date: '2024-09-23 17:35 -0400'
 author: Woest
-title: target-tracking
+title: Target Tracking
 description: Target Tracking
 keywords: 'Raid, named, targets, vp, ffa'
 ---
