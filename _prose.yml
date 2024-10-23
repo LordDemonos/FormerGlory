@@ -35,18 +35,8 @@ prose:
           label: "keywords"
           element: "text"
           placeholder: "Enter keywords you might use to search for this page."
-      - name: "toc"
-        field:
-          label: "toc"
-          element: "hidden"
-          value: "true"
       - name: "published"
         field:
           label: "published"
-          element: "hidden"
-          value: "true"
-      - name: "sitemap"
-        field:
-          label: "sitemap"
           element: "hidden"
           value: "true"
