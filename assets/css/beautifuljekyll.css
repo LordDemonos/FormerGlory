@@ -830,7 +830,9 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 /* --- Tables --- */
 
 table {
-  padding: 0;
+  width: 100%; /* or a specific width like 80% */
+  margin: 0 auto; /* Center the table */
+  border-collapse: collapse; /* Optional: for cleaner borders */
 }
 table tr {
   border-top: 1px solid #cccccc;
@@ -839,7 +841,7 @@ table tr {
   padding: 0;
 }
 table tr:nth-child(2n) {
-  background-color: #1d1d1d;
+  background-color: #111111;
 }
 table tr th,
 table tr td {
