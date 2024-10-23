@@ -839,7 +839,7 @@ table tr {
   padding: 0;
 }
 table tr:nth-child(2n) {
-  background-color: #f8f8f8;
+  background-color: #1d1d1d;
 }
 table tr th,
 table tr td {
