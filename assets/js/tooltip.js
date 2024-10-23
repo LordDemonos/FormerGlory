@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const SPRITE_SHEET_HEIGHT = 480;
   const ICON_SIZE = 40;
   const PQDI_URL = 'https://www.pqdi.cc';
+  const FALLBACK_URL = 'https://lorddemonos.github.io/static/icons/'; // Your fallback URL
 
   const tooltipContainer = document.createElement('div');
   tooltipContainer.id = 'tooltip-container';
@@ -26,14 +27,25 @@ document.addEventListener('DOMContentLoaded', function () {
         if (iconSpan && !link.previousElementSibling?.classList.contains('item-icon')) {
           const newIconSpan = document.createElement('span');
           newIconSpan.classList.add('item-icon');
-          
+
           // Extract the relative URL from the original background image
           const backgroundImageUrl = iconSpan.style.backgroundImage.match(/url\(["']?([^"']*)["']?\)/)[1];
-          
-          // Construct the full URL using PQDI_URL
           const fullImageUrl = `${PQDI_URL}${backgroundImageUrl}`;
+
+          // Set the background image with a fallback
           newIconSpan.style.backgroundImage = `url("${fullImageUrl}")`;
-          
+          newIconSpan.style.backgroundImage = `url("${fullImageUrl}")`;
+          newIconSpan.style.backgroundSize = 'contain';
+          newIconSpan.style.backgroundRepeat = 'no-repeat';
+
+          // Fallback logic
+          const fallbackImageUrl = `${FALLBACK_URL}item_${itemId}.png`; // Adjust the naming convention as needed
+          const img = new Image();
+          img.src = fullImageUrl;
+          img.onerror = function() {
+            newIconSpan.style.backgroundImage = `url("${fallbackImageUrl}")`;
+          };
+
           newIconSpan.style.display = 'inline-block';
           newIconSpan.style.verticalAlign = 'middle';
           newIconSpan.style.width = '1em';
