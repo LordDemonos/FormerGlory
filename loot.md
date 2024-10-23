@@ -4,13 +4,8 @@ title: Loot Rights
 subtitle: List of items you can purchase loot rights for
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+| Item                                                         | Next Available Date | Price |
+|--------------------------------------------------------------|---------------------|-------|
+| [Fungus Covered Scale Shirt](https://www.pqdi.cc/item/2735)  | Saturday/Sunday     | 2000p |
+| [Fungus Covered Scale Stick](https://www.pqdi.cc/item/10895) | Saturday/Sunday     | 2000p |
+| [Shissar Apothic Staff](https://www.pqdi.cc/item/10892)      | Monday 10/28        | 2000p |
