@@ -2,6 +2,8 @@ document.addEventListener('DOMContentLoaded', function () {
   const SPRITE_SHEET_WIDTH = 640;
   const SPRITE_SHEET_HEIGHT = 480;
   const ICON_SIZE = 40;
+  const PQDI_URL = 'https://www.pqdi.cc';
+  const FALLBACK_URL = 'https://lorddemonos.github.io/static/icons/'; // Your fallback URL
 
   const tooltipContainer = document.createElement('div');
   tooltipContainer.id = 'tooltip-container';
@@ -15,62 +17,35 @@ document.addEventListener('DOMContentLoaded', function () {
     link.classList.add('tooltip-link');
     link.setAttribute('data-item-id', itemId);
 
-    // Tooltip functionality
-    link.addEventListener('mouseenter', function (event) {
-      clearTimeout(hideTooltipTimeout);
-      const linkRect = link.getBoundingClientRect();
-      const linkTop = linkRect.top + window.scrollY;
-      const linkBottom = linkRect.bottom + window.scrollY;
-      const linkLeft = linkRect.left + window.scrollX;
-
-      fetch(`https://www.pqdi.cc/get-item-tooltip/${itemId}`)
-        .then((response) => response.text())
-        .then((html) => {
-          // Create a temporary div to parse the HTML
-          const tempDiv = document.createElement('div');
-          tempDiv.innerHTML = html;
-
-          // Remove any script tags
-          tempDiv.querySelectorAll('script').forEach(script => script.remove());
-
-          // Clean up empty table cells and rows
-          tempDiv.querySelectorAll('td').forEach(td => {
-            if (!td.textContent.trim()) td.remove();
-          });
-          tempDiv.querySelectorAll('tr').forEach(tr => {
-            if (!tr.textContent.trim()) tr.remove();
-          });
-
-          tooltipContainer.innerHTML = tempDiv.innerHTML;
-          tooltipContainer.style.left = `${linkLeft}px`;
-          tooltipContainer.style.top = `${linkBottom + 5}px`; // Position below the link by default
-          tooltipContainer.style.display = 'block';
-
-          // Adjust position if tooltip goes out of viewport
-          const tooltipRect = tooltipContainer.getBoundingClientRect();
-          if (tooltipRect.bottom > window.innerHeight) {
-            tooltipContainer.style.top = `${linkTop - tooltipRect.height - 5}px`; // Position above the link
-          }
-        });
-    });
-
-    link.addEventListener('mouseleave', function () {
-      hideTooltipTimeout = setTimeout(() => {
-        tooltipContainer.style.display = 'none';
-      }, 300);
-    });
-
-    // Icon functionality
-    fetch(`https://www.pqdi.cc/get-item-tooltip/${itemId}`)
+    // Immediately load the icon
+    fetch(`${PQDI_URL}/get-item-tooltip/${itemId}`)
       .then((response) => response.text())
       .then((html) => {
         const tempDiv = document.createElement('div');
         tempDiv.innerHTML = html;
         const iconSpan = tempDiv.querySelector('.item-icon');
-        if (iconSpan) {
+        if (iconSpan && !link.previousElementSibling?.classList.contains('item-icon')) {
           const newIconSpan = document.createElement('span');
           newIconSpan.classList.add('item-icon');
-          newIconSpan.style.backgroundImage = iconSpan.style.backgroundImage;
+
+          // Extract the relative URL from the original background image
+          const backgroundImageUrl = iconSpan.style.backgroundImage.match(/url\(["']?([^"']*)["']?\)/)[1];
+          const fullImageUrl = `${PQDI_URL}${backgroundImageUrl}`;
+
+          // Set the background image with a fallback
+          newIconSpan.style.backgroundImage = `url("${fullImageUrl}")`;
+          newIconSpan.style.backgroundImage = `url("${fullImageUrl}")`;
+          newIconSpan.style.backgroundSize = 'contain';
+          newIconSpan.style.backgroundRepeat = 'no-repeat';
+
+          // Fallback logic
+          const fallbackImageUrl = `${FALLBACK_URL}item_${itemId}.png`; // Adjust the naming convention as needed
+          const img = new Image();
+          img.src = fullImageUrl;
+          img.onerror = function() {
+            newIconSpan.style.backgroundImage = `url("${fallbackImageUrl}")`;
+          };
+
           newIconSpan.style.display = 'inline-block';
           newIconSpan.style.verticalAlign = 'middle';
           newIconSpan.style.width = '1em';
@@ -78,23 +53,15 @@ document.addEventListener('DOMContentLoaded', function () {
           newIconSpan.style.marginRight = '0.25em';
           newIconSpan.title = iconSpan.title;
 
-          // Parse the background position
           const match = iconSpan.style.backgroundPosition.match(/(-?\d+)px\s+(-?\d+)px/);
           if (match) {
             const [, x, y] = match;
             const originalX = parseInt(x);
             const originalY = parseInt(y);
-
-            // Calculate the scaling factor
             const scaleFactor = 1 / ICON_SIZE;
-
-            // Scale the background position
             const scaledX = originalX * scaleFactor;
             const scaledY = originalY * scaleFactor;
-
             newIconSpan.style.backgroundPosition = `${scaledX}em ${scaledY}em`;
-
-            // Set the background size
             const scaledSheetWidth = SPRITE_SHEET_WIDTH * scaleFactor;
             const scaledSheetHeight = SPRITE_SHEET_HEIGHT * scaleFactor;
             newIconSpan.style.backgroundSize = `${scaledSheetWidth}em ${scaledSheetHeight}em`;
@@ -103,5 +70,75 @@ document.addEventListener('DOMContentLoaded', function () {
           link.parentNode.insertBefore(newIconSpan, link);
         }
       });
+
+    // Cache for tooltip data
+    let tooltipData = null;
+
+    // Tooltip functionality
+    link.addEventListener('mouseenter', function (event) {
+      clearTimeout(hideTooltipTimeout);
+      const linkRect = link.getBoundingClientRect();
+      const linkTop = linkRect.top + window.scrollY;
+      const linkBottom = linkRect.bottom + window.scrollY;
+      const linkLeft = linkRect.left + window.scrollX;
+
+      if (!tooltipData) {
+        fetch(`${PQDI_URL}/get-item-tooltip/${itemId}`)
+          .then((response) => response.text())
+          .then((html) => {
+            tooltipData = html;
+            processTooltipData(html);
+          });
+      } else {
+        processTooltipData(tooltipData);
+      }
+
+      function processTooltipData(html) {
+        const tempDiv = document.createElement('div');
+        tempDiv.innerHTML = html;
+
+        tempDiv.querySelectorAll('script').forEach(script => script.remove());
+        tempDiv.querySelectorAll('td').forEach(td => {
+          if (!td.textContent.trim()) td.remove();
+        });
+        tempDiv.querySelectorAll('tr').forEach(tr => {
+          if (!tr.textContent.trim()) tr.remove();
+        });
+
+        // Handle all elements with background images
+        tempDiv.querySelectorAll('*').forEach(element => {
+          const backgroundImage = element.style.backgroundImage;
+          if (backgroundImage && !backgroundImage.startsWith('url("http')) {
+            const match = backgroundImage.match(/url\(["']?([^"']*)["']?\)/);
+            if (match) {
+              const relativeUrl = match[1];
+              element.style.backgroundImage = `url("${PQDI_URL}${relativeUrl}")`;
+            }
+          }
+          if (element.hasAttribute('src')) {
+            const src = element.getAttribute('src');
+            if (!src.startsWith('http')) {
+              element.setAttribute('src', `${PQDI_URL}${src}`);
+            }
+          }
+        });
+
+        tooltipContainer.innerHTML = tempDiv.innerHTML;
+        tooltipContainer.style.left = `${linkLeft}px`;
+        tooltipContainer.style.top = `${linkBottom + 5}px`;
+        tooltipContainer.style.display = 'block';
+
+        const tooltipRect = tooltipContainer.getBoundingClientRect();
+        if (tooltipRect.bottom > window.innerHeight) {
+          tooltipContainer.style.top = `${linkTop - tooltipRect.height - 5}px`;
+        }
+      }
+    });
+
+    link.addEventListener('mouseleave', function () {
+      hideTooltipTimeout = setTimeout(() => {
+        tooltipContainer.style.display = 'none';
+      }, 300);
+    });
   });
 });
