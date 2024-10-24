@@ -187,6 +187,7 @@ site-css:
 # If you have common JavaScript files that should be included in every page, list them here
 site-js:
  - "/assets/js/tooltip.js"
+ - "/assets/js/back-to-top.js"
 
 #################################
 # --- Web Analytics Section --- #

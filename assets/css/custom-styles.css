@@ -79,3 +79,17 @@
   margin: 0;
   padding: 0;
 }
+
+#back-to-top-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-size: 18px; /* Adjust size as needed */
+  cursor: pointer;
+  background: none; /* Remove background */
+  border: none; /* Remove border */
+  outline: none; /* Remove focus outline */
+}
+
+
+
