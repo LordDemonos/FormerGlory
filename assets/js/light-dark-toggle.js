@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
     root.classList.remove('dark-mode');
     modeToggle.classList.remove('dark'); // Remove dark class
     modeToggle.querySelector('.toggle-icon').textContent = '🌙'; // Moon emoji
-    sessionStorage.setItem('theme', 'light'); // Save preference
+    localStorage.setItem('theme', 'light'); // Save preference
   }
 
   // Function to switch to dark mode
@@ -15,11 +15,11 @@ document.addEventListener('DOMContentLoaded', function() {
     root.classList.add('dark-mode');
     modeToggle.classList.add('dark'); // Add dark class
     modeToggle.querySelector('.toggle-icon').textContent = '☀️'; // Sun emoji
-    sessionStorage.setItem('theme', 'dark'); // Save preference
+    localStorage.setItem('theme', 'dark'); // Save preference
   }
 
   // Check for saved theme preference on page load
-  const savedTheme = sessionStorage.getItem('theme');
+  const savedTheme = localStorage.getItem('theme');
   if (savedTheme === 'dark') {
     enableDarkMode();
   } else {
