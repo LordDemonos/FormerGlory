@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Former Glory
+cover-img: /assets/img/fg.jpg
 subtitle: A Relaxed EverQuest Guild for Friends and Adventure
 ---
 
