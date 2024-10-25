@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sky Bank
-cover-img: /assets/img/sky.png
+cover-img: /assets/img/sky.webp
 subtitle: List of Plane of Sky items in the guild bank
 ---
 

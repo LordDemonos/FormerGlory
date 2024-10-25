@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Loot Rights
-cover-img: /assets/img/vs.png
+cover-img: /assets/img/vs.webp
 subtitle: List of items you can purchase loot rights for
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DKP Info
-cover-img: /assets/img/dkp.png
+cover-img: /assets/img/dkp.webp
 subtitle: Understanding Our Guild's DKP System and Raiding Policies
 ---
 

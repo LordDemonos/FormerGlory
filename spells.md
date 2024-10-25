@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spell Bank
-cover-img: /assets/img/spells.jpg
+cover-img: /assets/img/spells.webp
 subtitle: List of Spells in the guild bank
 ---
 
