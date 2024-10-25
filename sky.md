@@ -4,7 +4,7 @@ title: Sky Bank
 subtitle: List of Plane of Sky items in the guild bank
 ---
 
-## Sky Bank Contents
+### Last Update: 2024-10-21
 
 [Acidic Venom](https://www.pqdi.cc/item/20736)
 
@@ -245,5 +245,4 @@ subtitle: List of Plane of Sky items in the guild bank
 [Writ of Quellious](https://www.pqdi.cc/item/20804)
 
 [Ysgaril Root](https://www.pqdi.cc/item/20849)
-
 

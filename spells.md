@@ -4,7 +4,8 @@ title: Spell Bank
 subtitle: List of Spells in the guild bank
 ---
 
-## Spell Bank Contents
+### Last Update: 2024-10-24
+
 [Spell: Aegis of Ro](https://www.pqdi.cc/item/15863) x4
 
 [Spell: Asphyxiate](https://www.pqdi.cc/item/19402) x2
@@ -116,6 +117,4 @@ subtitle: List of Spells in the guild bank
 [Spell: Word of Redemption](https://www.pqdi.cc/item/19229) x2
 
 [Spell: Yaulp IV](https://www.pqdi.cc/item/19209)
-
-
 
