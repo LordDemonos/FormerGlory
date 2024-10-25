@@ -5,15 +5,15 @@ layout: null
 @import url("pygment_highlights.css");
 
 :root {
-  /* config file CSS variables */
+  /* Light mode colors */
   --page-col: {{ site.page-col | default: "#FFFFFF" }};
   --text-col: {{ site.text-col | default: "#404040" }};
   --link-col: {{ site.link-col | default: "#008AFF" }};
   --hover-col: {{ site.hover-col | default: "#0085A1" }};
   --navbar-col: {{ site.navbar-col | default: "#EAEAEA" }};
-  --navbar-text-col: {{ site.navbar-text-col | default: "#404040" }};
+  --navbar-text-col: {{ site.navbar-text.col | default: "#404040" }};
   --navbar-border-col: {{ site.navbar-border-col | default: "#DDDDDD" }};
-  --footer-col: {{ site.footer-col | default: "#EAEAEA" }};
+  --footer-col: {{ site-footer-col | default: "#EAEAEA" }};
   --footer-text-col: {{ site.footer-text-col | default: "#777777" }};
   --footer-link-col: {{ site.footer-link-col | default: "#404040" }};
   --footer-hover-col: {{ site.footer-hover-col | default: "#0085A1" }};
@@ -22,6 +22,18 @@ layout: null
   --body-font: 'Lora', 'Times New Roman', serif;
   --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --mid-col: #808080;
+}
+
+.dark-mode {
+  --page-col: {{ site.page-col-drk | default: "#000000" }};
+  --text-col: {{ site.text-col-drk | default: "#BFBFBF" }};
+  --link-col: {{ site.link-col-drk | default: "#FF7500" }};
+  --hover-col: {{ site.hover-col-drk | default: "#FF7A5E" }};
+  --navbar-col: {{ site.navbar-col-drk | default: "#151515" }};
+  --navbar-text-col: {{ site.navbar-text-col-drk | default: "#BFBFBF" }};
+  --navbar-border-col: {{ site.navbar-border-col-drk | default: "#222222" }};
+  --footer-col: {{ site.footer-col-drk | default: "#151515" }};
+  --footer-text-col-drk: {{site.footer-text-col-drk|default:"#888888"}};
 }
 
 /* --- General --- */
@@ -1125,4 +1137,6 @@ pre {
     display: inline-block;
   }
 }
+
+
 

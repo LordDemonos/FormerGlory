@@ -91,5 +91,59 @@
   outline: none; /* Remove focus outline */
 }
 
+body {
+  background-color: var(--page-col);
+  color: var(--text-col);
+}
+
+a {
+  color: var(--link-col);
+}
+
+a:hover {
+  color: var(--hover-col);
+}
+
+.mode-toggle {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 35px; /* Adjust width as needed */
+  height: 20px; /* Adjust height as needed */
+  background-color: #808080; /* Background color */
+  border-radius: 20px; /* Full rounding for pill shape */
+  border: solid 2px #000000; /* Add border and adjust thickness */
+  cursor: pointer;
+  padding: 0;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Add transition for box-shadow */
+}
+
+.mode-toggle:focus {
+  outline: none; /* Remove focus outline */
+}
+
+.toggle-icon {
+  position: absolute;
+  left: 13px; /* Adjust this value to move emoji horizontally */
+  top: -2px; /* Move up by 1px */
+  transition: transform 0.3s ease, left 0.3s ease;
+}
+
+.mode-toggle.dark .toggle-icon {
+  transform: translateX(-14px); /* Increase this value to move emoji further right */
+
+}
+
+.mode-toggle.dark {
+  background-color: #f0f0f0; /* Gray background for dark mode */
+
+}
+
+.nav-item {
+  display: flex;
+  align-items: center; /* Align vertically with other nav items */
+}
+
 
 

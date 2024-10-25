@@ -145,30 +145,32 @@ navbar-var-length: true
 ######################################
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
-# Former Light Mode
-# page-col: "#FFFFFF"
-# text-col: "#404040"
-# link-col: "#008AFF"
-# hover-col: "#0085A1"
-# navbar-col: "#EAEAEA"
-# navbar-text-col: "#404040"
-# navbar-border-col: "#DDDDDD"
-# footer-col: "#EAEAEA"
-# footer-text-col: "#777777"
-# footer-link-col: "#404040"
-# footer-hover-col: "#0085A1"
 
-page-col: "#000000"
-text-col: "#BFBFBF"
-link-col: "#FF7500"
-hover-col: "#FF7A5E"
-navbar-col: "#151515"
-navbar-text-col: "#BFBFBF"
-navbar-border-col: "#222222"
-footer-col: "#151515"
-footer-text-col: "#888888"
-footer-link-col: "#BFBFBF"
-footer-hover-col: "#FF7A5E"
+# Light Mode
+#page-col: "#FFFFFF"
+#text-col: "#404040"
+#link-col: "#008AFF"
+#hover-col: "#0085A1"
+#navbar-col: "#EAEAEA"
+#navbar-text-col: "#404040"
+#navbar-border-col: "#DDDDDD"
+#footer-col: "#EAEAEA"
+#footer-text-col: "#777777"
+#footer-link-col: "#404040"
+#footer-hover-col: "#0085A1"
+
+# Dark Mode
+#page-col-drk: "#000000"
+#text-col-drk: "#BFBFBF"
+#link-col-drk: "#FF7500"
+#hover-col-drk: "#FF7A5E"
+#navbar-col-drk: "#151515"
+#navbar-text-col-drk: "#BFBFBF"
+#navbar-border-col-drk: "#222222"
+#footer-col-drk: "#151515"
+#footer-text-col-drk: "#888888"
+#footer-link-col-drk: "#BFBFBF"
+#footer-hover-col-drk: "#FF7A5E"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -188,6 +190,7 @@ site-css:
 site-js:
  - "/assets/js/tooltip.js"
  - "/assets/js/back-to-top.js"
+ - "/assets/js/light-dark-toggle.js"
 
 #################################
 # --- Web Analytics Section --- #
@@ -326,4 +329,5 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
 
