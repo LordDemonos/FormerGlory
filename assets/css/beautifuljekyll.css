@@ -852,9 +852,9 @@ table tr {
   margin: 0;
   padding: 0;
 }
-table tr:nth-child(2n) {
-  background-color: #070707;
-}
+/* table tr:nth-child(2n) {
+  background-color: #808080;
+} */
 table tr th,
 table tr td {
   border: 1px solid #cccccc;
