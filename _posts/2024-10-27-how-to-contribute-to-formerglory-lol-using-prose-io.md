@@ -14,7 +14,7 @@ _The following guide was made using the Firefox web browser. I lost some functio
 
 If you'd like to contribute to FormerGlory.lol, the Prose.io controls are an easy way for non-technical users to add wiki articles and blog posts directly into the site without having to go through the hassle of taking a class on using github and forking the entire repository. You may have already noticed these controls when browsing the site. 
 
-![proseio1]({{site.baseurl}}/assets//proseio1.jpg)
+![proseio1]({{site.baseurl}}/assets/img/proseio1.jpg)
 
 ## Step 1: Create a Github Account
 
