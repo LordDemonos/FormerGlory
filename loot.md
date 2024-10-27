@@ -5,6 +5,8 @@ cover-img: /assets/img/vs.webp
 subtitle: List of items you can purchase loot rights for
 ---
 
+## This was just a test until management agrees on something.
+
 | Item                                                         | Next Available Date | Price |
 |--------------------------------------------------------------|---------------------|-------|
 | [Fungus Covered Scale Shirt](https://www.pqdi.cc/item/2735)  | Saturday/Sunday     | 2000p |
