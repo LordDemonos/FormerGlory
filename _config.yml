@@ -10,7 +10,7 @@
 ############################
 
 # with your folder name, otherwise leave it empty
-# baseurl: "/"
+baseurl: "/"
 # the base hostname & protocol for your site
 url: "https://formerglory.lol"
 
