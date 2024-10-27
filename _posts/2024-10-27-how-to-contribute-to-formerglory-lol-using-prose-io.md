@@ -64,7 +64,7 @@ You then have the option to press the Preview button to see a sample of what the
 
 ## Edit
 
-Once the post is published on FormerGlory.lol you can always view the article and press the Edit button at the top right corner of the page. Here you can edit any page's content and submit them to the site for approval.
+Once the post is published on FormerGlory.lol you can always view the article and press the Edit button at bottom of the page. Here you can edit any page's content and submit them to the site for approval.
 
 ## Removal
 
