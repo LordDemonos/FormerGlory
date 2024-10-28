@@ -59,8 +59,49 @@ If you don't see your character in the list, message an officer directly with yo
 
 ## Changes to Bidding Rules (Effective 11/4/2024)
 
-- Main and alt bids will be in the same pool
-- Main bids max at 1000 DKP
-- Alt bids max at 400 DKP
+### New Member Classification
+
+- Any new member attending a raid will be added as an **ALT RAIDER** to the roster within 24-48 hours of the raid.
+- To gain **MAIN RAIDER** bid priority:
+  - Character must be Level 60
+  - Only 1 Main Raider allowed per member
+- Raid with any qualified character; all DKP pools between linked characters are combined.
+- To request a change from ALT to MAIN Raider status, direct message Talamild on Discord.
+
+### Raid Schedule and DKP Awards
+
+**Main Raid Nights**
+- Monday, Wednesday & Friday at 9pm Eastern US
+- DKP Award: +25 at beginning, middle, and end of raid
+- Total potential DKP: +75 for full attendance
+
+**Off Night Raids**
+- Generally Saturday nights at 9pm Eastern
+- Focus on smaller targets
+- DKP Award: +20 at beginning and end of raid
+- Total potential DKP: +40 for full attendance
+
+### Bidding Priority and Limits
+
+1. **Main Raiders and Alt Raiders**
+   - Equal priority in bids
+   - Main Raiders: Can bid up to 1000 DKP
+   - Alt Raiders: Maximum bid of 400 DKP
+
+2. **Non-Raiding Alts and Greed/Selling Bids**
+   - Equal priority with each other
+   - Can bid up to 1000 DKP
+   - Lose to minimum bids made by Raiding Characters
+
+**Note**: You must select the character for which the item is being bid, regardless of which character you're raiding with at the time.
+
+### Summary
+
+- Raiders default as Alt
+- Level 60 required for Main status or highest level character
+- Mains can bid up to 1000 DKP
+- Raiding alts can bid up to 400 DKP
+- Raiders prioritize loot rights over non-raiding alts and greed bids
+- Greed bids up to 1000 DKP if no raiding characters need the item
 
 These changes aim to balance main and alt gearing while maintaining our casual mindset. Feedback is always welcome and should be directed to officers for consideration.
