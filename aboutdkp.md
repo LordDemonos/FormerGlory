@@ -98,7 +98,7 @@ If you don't see your character in the list, message an officer directly with yo
 ### Summary
 
 - Raiders default as Alt
-- Level 60 required for Main status
+- Level 60 required for Main status or highest level character
 - Mains can bid up to 1000 DKP
 - Raiding alts can bid up to 400 DKP
 - Raiders prioritize loot rights over non-raiding alts and greed bids
