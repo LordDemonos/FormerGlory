@@ -27,6 +27,7 @@ author: Xanax
 navbar-links:
   About FG: "aboutme"
   DKP: "aboutdkp"
+  Requirements: "requirements"
   Services:
     - Spell Bank: "spells"
     - Sky Bank: "sky"
