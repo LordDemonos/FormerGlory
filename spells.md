@@ -6,11 +6,11 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2024-11-03
+### Last Update: 2024-11-08
 
-[Spell: Aegis of Ro](https://www.pqdi.cc/item/15863) x4
+[Spell: Aegis of Ro](https://www.pqdi.cc/item/15863) x5
 
-[Spell: Aegis](https://www.pqdi.cc/item/19227) x2
+[Spell: Aegis](https://www.pqdi.cc/item/19227) x3
 
 [Spell: Asphyxiate](https://www.pqdi.cc/item/19402) x2
 
@@ -18,15 +18,17 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Avatar](https://www.pqdi.cc/item/19292) x4
 
-[Spell: Banishment of Shadows](https://www.pqdi.cc/item/19228) x3
+[Spell: Banishment of Shadows](https://www.pqdi.cc/item/19228) x5
 
-[Spell: Banishment](https://www.pqdi.cc/item/19262) x3
+[Spell: Banishment](https://www.pqdi.cc/item/19262) x6
 
 [Spell: Bonds of Tunare](https://www.pqdi.cc/item/19419)
 
-[Spell: Bristlebane`s Bundle](https://www.pqdi.cc/item/19351)
+[Spell: Breath of Karana](https://www.pqdi.cc/item/19250)
 
-[Spell: Call of the Hero](https://www.pqdi.cc/item/19360)
+[Spell: Bristlebane`s Bundle](https://www.pqdi.cc/item/19351) x2
+
+[Spell: Call of the Hero](https://www.pqdi.cc/item/19360) x2
 
 [Spell: Conjure Corpse](https://www.pqdi.cc/item/19307)
 
@@ -36,65 +38,69 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Dementia](https://www.pqdi.cc/item/19384)
 
-[Spell: Demi Lich](https://www.pqdi.cc/item/19314) x2
+[Spell: Demi Lich](https://www.pqdi.cc/item/19314) x4
 
-[Spell: Dictate](https://www.pqdi.cc/item/19406) x3
+[Spell: Dictate](https://www.pqdi.cc/item/19406) x4
 
 [Spell: Disintegrate](https://www.pqdi.cc/item/19415) x5
 
 [Spell: Divine Intervention](https://www.pqdi.cc/item/19230)
 
+[Spell: Draught of Jiva](https://www.pqdi.cc/item/19328)
+
 [Spell: Emissary of Thule](https://www.pqdi.cc/item/19311)
 
-[Spell: Enlightenment](https://www.pqdi.cc/item/19396) x3
+[Spell: Enlightenment](https://www.pqdi.cc/item/19396) x5
 
-[Spell: Enslave Death](https://www.pqdi.cc/item/19313) x2
+[Spell: Enslave Death](https://www.pqdi.cc/item/19313) x3
 
-[Spell: Entrapping Roots](https://www.pqdi.cc/item/19263) x3
+[Spell: Entrapping Roots](https://www.pqdi.cc/item/19263) x4
 
 [Spell: Exile Undead](https://www.pqdi.cc/item/19214)
 
 [Spell: Eye of Tallon](https://www.pqdi.cc/item/19411) x2
 
-[Spell: Flaming Sword of Xuzl](https://www.pqdi.cc/item/19344) x5
+[Spell: Flaming Sword of Xuzl](https://www.pqdi.cc/item/19344) x6
 
-[Spell: Gift of Pure Thought](https://www.pqdi.cc/item/19401)
+[Spell: Gift of Pure Thought](https://www.pqdi.cc/item/19401) x2
 
-[Spell: Greater Vocaration: Air](https://www.pqdi.cc/item/19371) x3
+[Spell: Greater Vocaration: Air](https://www.pqdi.cc/item/19371) x4
 
-[Spell: Greater Vocaration: Water](https://www.pqdi.cc/item/19372) x2
+[Spell: Greater Vocaration: Water](https://www.pqdi.cc/item/19372) x3
 
 [Spell: Heroic Bond](https://www.pqdi.cc/item/19224)
 
 [Spell: Infusion](https://www.pqdi.cc/item/19424)
 
-[Spell: Invert Gravity](https://www.pqdi.cc/item/19341) x4
+[Spell: Invert Gravity](https://www.pqdi.cc/item/19341) x5
 
-[Spell: Legacy of Thorn](https://www.pqdi.cc/item/19259) x2
+[Spell: Legacy of Thorn](https://www.pqdi.cc/item/19259) x4
 
 [Spell: Levant](https://www.pqdi.cc/item/19303) x2
 
-[Spell: Lure of Ice](https://www.pqdi.cc/item/19422) x3
+[Spell: Lure of Ice](https://www.pqdi.cc/item/19422) x4
 
-[Spell: Mala](https://www.pqdi.cc/item/19418) x3
+[Spell: Mala](https://www.pqdi.cc/item/19418) x4
 
-[Spell: Manastorm](https://www.pqdi.cc/item/19370) x4
+[Spell: Manastorm](https://www.pqdi.cc/item/19370) x5
 
-[Spell: Markar`s Discord](https://www.pqdi.cc/item/19331) x6
+[Spell: Markar`s Discord](https://www.pqdi.cc/item/19331) x7
 
 [Spell: Pillar of Lightning](https://www.pqdi.cc/item/19326) x3
 
 [Spell: Pouch of Quellious](https://www.pqdi.cc/item/19361)
 
-[Spell: Pox of Bertoxxulous](https://www.pqdi.cc/item/19288)
+[Spell: Pox of Bertoxxulous](https://www.pqdi.cc/item/19288) x2
 
-[Spell: Reckoning](https://www.pqdi.cc/item/19212) x3
+[Spell: Reckoning](https://www.pqdi.cc/item/19212) x4
 
 [Spell: Regrowth of the Grove](https://www.pqdi.cc/item/19256) x2
 
 [Spell: Retribution of Al`Kabor](https://www.pqdi.cc/item/19332) x3
 
-[Spell: Spirit of Oak](https://www.pqdi.cc/item/19258) x3
+[Spell: Servant of Bones](https://www.pqdi.cc/item/19305) x2
+
+[Spell: Spirit of Oak](https://www.pqdi.cc/item/19258) x4
 
 [Spell: Splurt](https://www.pqdi.cc/item/19294)
 
@@ -104,41 +110,49 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Talisman of Jasinth](https://www.pqdi.cc/item/19264) x2
 
-[Spell: Talisman of the Brute](https://www.pqdi.cc/item/19281)
+[Spell: Talisman of the Brute](https://www.pqdi.cc/item/19281) x3
 
 [Spell: Talisman of the Raptor](https://www.pqdi.cc/item/19289)
 
+[Spell: Talisman of the Rhino](https://www.pqdi.cc/item/19284)
+
 [Spell: Tears of Prexus](https://www.pqdi.cc/item/19339) x3
 
-[Spell: The Unspoken Word](https://www.pqdi.cc/item/19225) x2
+[Spell: The Unspoken Word](https://www.pqdi.cc/item/19225) x4
 
 [Spell: Theft of Thought](https://www.pqdi.cc/item/19374)
 
-[Spell: Thrall of Bones](https://www.pqdi.cc/item/19299) x2
+[Spell: Thrall of Bones](https://www.pqdi.cc/item/19299) x3
 
-[Spell: Tigir`s Insects](https://www.pqdi.cc/item/19285)
+[Spell: Tigir`s Insects](https://www.pqdi.cc/item/19285) x2
+
+[Spell: Torment of Argli](https://www.pqdi.cc/item/19391)
+
+[Spell: Torpor](https://www.pqdi.cc/item/19293)
 
 [Spell: Trepidation](https://www.pqdi.cc/item/19220) x3
 
-[Spell: Trucidation](https://www.pqdi.cc/item/19425) x3
+[Spell: Trucidation](https://www.pqdi.cc/item/19425) x4
 
 [Spell: Umbra](https://www.pqdi.cc/item/19393)
 
-[Spell: Vengeance of Al`Kabor](https://www.pqdi.cc/item/19342) x3
+[Spell: Velocity](https://www.pqdi.cc/item/19348)
 
-[Spell: Visions of Grandeur](https://www.pqdi.cc/item/19407)
+[Spell: Vengeance of Al`Kabor](https://www.pqdi.cc/item/19342) x4
+
+[Spell: Visions of Grandeur](https://www.pqdi.cc/item/19407) x2
 
 [Spell: Vocarate: Fire](https://www.pqdi.cc/item/19355)
 
 [Spell: Vocarate: Water](https://www.pqdi.cc/item/19362)
 
-[Spell: Voice of the Berserker](https://www.pqdi.cc/item/19290) x3
+[Spell: Voice of the Berserker](https://www.pqdi.cc/item/19290) x4
 
 [Spell: Wake of Tranquility](https://www.pqdi.cc/item/19215)
 
-[Spell: Wind of Tashanian](https://www.pqdi.cc/item/19405) x3
+[Spell: Wind of Tashanian](https://www.pqdi.cc/item/19405) x5
 
-[Spell: Winds of Gelid](https://www.pqdi.cc/item/19343) x3
+[Spell: Winds of Gelid](https://www.pqdi.cc/item/19343) x4
 
 [Spell: Word of Redemption](https://www.pqdi.cc/item/19229) x3
 
