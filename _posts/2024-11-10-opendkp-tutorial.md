@@ -50,7 +50,7 @@ Missing Raid Ticks - Here you can select your character and request that any mis
 
 Bidding Tool - During the raid when items drop, this is where they will go out for bid. Its important to stay on this page and understand the workflow. 
 
-	Character Select - Select your character name and rank. The character name is mostly to identify who is bidding and is not as important as specifying the Rank.
+Character Select - Select your character name and rank. The character name is mostly to identify who is bidding and is not as important as specifying the Rank.
 
 		- Level 60 required for Main status or highest level character
 		- Mains can bid up to 1000 DKP
@@ -60,15 +60,15 @@ Bidding Tool - During the raid when items drop, this is where they will go out f
         
 ![characterselect]({{site.baseurl}}/assets/img/characterselect.jpg)
 
-	Characters - Here you can see a listing of all your characters and your current DKP total.
+Characters - Here you can see a listing of all your characters and your current DKP total.
     
 ![characters]({{site.baseurl}}/assets/img/characters.jpg)
 
-	Bid Amount - Minimum bid for any item is 10 DKP and all higher bids are made in increments of 10 DKP. Please do not try to up bid 1 DKP at a time.
+Bid Amount - Minimum bid for any item is 10 DKP and all higher bids are made in increments of 10 DKP. Please do not try to up bid 1 DKP at a time.
     
 ![bid]({{site.baseurl}}/assets/img/bid.jpg)
 
-	Auctions - Here you will find tabs with names of the items that dropped during the raid. Select the item tab to see a listing of people bidding for this item. Once you have selected the item's tab, you can place your own bid for this item. When the progress bar in the item tab runs out, the raid leader will call the winner of the item to loot the item. In the event of a tie, for example if two people bid the maximum 1000 DKP, the raid leader will call each member to /random 1000 in order to determine the winner.
+Auctions - Here you will find tabs with names of the items that dropped during the raid. Select the item tab to see a listing of people bidding for this item. Once you have selected the item's tab, you can place your own bid for this item. When the progress bar in the item tab runs out, the raid leader will call the winner of the item to loot the item. In the event of a tie, for example if two people bid the maximum 1000 DKP, the raid leader will call each member to /random 1000 in order to determine the winner.
 
 Bidding Results - This is a quick and easy table to see all the items that have dropped recently, who won them, and how much DKP they paid for the item.
 
