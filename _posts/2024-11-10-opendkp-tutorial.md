@@ -40,7 +40,7 @@ Each time we raid, Talamild typically takes three snapshots of all the raid memb
 
 ### Familiarize yourself with the website
 
-Summary - This is the default landing page. When you scroll down you can see a list of all the main raider names and their current DKP total. If someone does not earn DKP for 60 days their names may become hidden and archived, but their DKP is never lost or deducted. Their names will reappear after attending their next raid.
+Summary - This is the default landing page. When you scroll down you can see a list of all the main raider names and their current DKP total. If someone does not earn DKP for 20 days their names may become hidden and archived, but their DKP is never lost or deducted. Their names will reappear after attending their next raid.
 
 Raids - Here you'll find a list of past raids. Clicking on a raid will list the items that were bid for and the winners of each item, as well as the DKP they paid for said items.
 
