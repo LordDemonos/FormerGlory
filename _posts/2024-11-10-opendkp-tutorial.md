@@ -92,6 +92,10 @@ Over time you may have multiple characters that have attended raids. You can cla
 
 Linking characters together unifies your DKP totals. In Former Glory, you own all your DKP and can use it as you wish. Any DKP earned by an alt is pooled together in your total, so its helpful to have them linked this way.
 
+### Conclusion
+
+This should get you started and familiar with the OpenDKP site. For a list of our raiding rules and expectations, head on over to the [DKP Rules](https://formerglory.lol/aboutdkp/) page. If you have any questions, feel free to message Talamild, Dihat, or Xanax in game or on Discord. You can also find some helpful troubleshooting tips in the following section below. Have fun and stay safe out there!
+
 ### Troubleshooting FAQ
 
 Q: I've claimed my character, but when I select the Bidding Tool there is no character in my drop down and my DKP is showing zero.
