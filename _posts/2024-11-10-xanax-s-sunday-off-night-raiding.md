@@ -10,7 +10,6 @@ title: Xanax's Sunday Off Night Raiding
 #### Hard cutoff at 11pm if we run late
 Goal is to start earlier and end earlier so people can go to bed before work. We'll do what we can but attendance and numbers will drive how many targets we take out.
 
-### Even Week Targets
 #### Requirements
 - 2 Hybrid Tanks
 - 2 Clerics
@@ -18,6 +17,7 @@ Goal is to start earlier and end earlier so people can go to bed before work. We
 - 1 Druid/Wizard for transportation
 - Goal is 18+ players
 
+### Even Week Targets
 #### Fire Giants
 [Crown of King Tranix](https://www.pqdi.cc/item/4504) 25% Droprate for MR
 
@@ -71,4 +71,3 @@ If we should fail to get enough people we will open the target options to any ep
 | [Red Dragon Scale](https://www.pqdi.cc/item/11622)           | 10,000p  |
 | [Green Dragon Scale](https://www.pqdi.cc/item/11582)         | 4500p    |
 | [White Dragon Scale](https://www.pqdi.cc/item/11602)         | 5000p    |
-
