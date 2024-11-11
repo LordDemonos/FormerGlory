@@ -1,8 +1,10 @@
 ---
 published: 'true'
 date: '2024-11-10 19:41 -0500'
-author: LordDemonos
+author: Xanax
 title: Xanax's Sunday Off Night Raiding
+description: Game plan for Sunday Off Night raiding for rare epic bottlenecks.
+keywords: 'quarm, everquet, epic, sky, fire giant, hole, kedge'
 ---
 ### Time: Sundays 8pm - 10pm EST
 *This is not a guild run raid and no DKP will be awarded.*
