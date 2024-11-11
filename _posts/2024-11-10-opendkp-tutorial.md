@@ -26,6 +26,8 @@ When you are finished, click the `Register` button. An email will be sent to the
 
 Finally, enter the username and password you chose to log in to the OpenDKP website.
 
+![login]({{site.baseurl}}/assets/img/login.jpg)
+
 ### Step 2: Attend your first raid
 
 The upper-right corner of the screen is where your profile can be accessed. To the left of the configuration button is where your character names and DKP totals will be shown. However right now, your account does not have any characters linked to it.
@@ -98,5 +100,3 @@ A: The DKP site uses JavaScript in many ways to bring various features to your b
 
 1. Try logging out and back in to the website.
 2. You should also try using a different web browser or Incognito Mode to sign into the website. This may be a good temporary solution until you discover the issue with your main web browser.
-
-
