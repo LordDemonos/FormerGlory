@@ -8,10 +8,6 @@ subtitle: List of Spells in the guild bank
 
 ### Last Update: 2024-11-14
 
-[Bread Cakes*](https://www.pqdi.cc/item/9991)
-
-[Skin of Milk](https://www.pqdi.cc/item/9990)
-
 [Spell: Aegis of Ro](https://www.pqdi.cc/item/15863) x5
 
 [Spell: Aegis](https://www.pqdi.cc/item/19227) x3
