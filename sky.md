@@ -6,7 +6,7 @@ subtitle: List of Plane of Sky items in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2024-11-03
+### Last Update: 2024-11-14
 
 [Acidic Venom](https://www.pqdi.cc/item/20736) x2
 
@@ -36,13 +36,13 @@ subtitle: List of Plane of Sky items in the guild bank
 
 [Bloodstained Hilt](https://www.pqdi.cc/item/20712) x11
 
-[Bluish Stone](https://www.pqdi.cc/item/20769) x8
+[Bluish Stone](https://www.pqdi.cc/item/20769) x9
 
 [Bottled Djinni](https://www.pqdi.cc/item/20981) x12
 
-[Bronze Disc](https://www.pqdi.cc/item/20935) x16
+[Bronze Disc](https://www.pqdi.cc/item/20935) x15
 
-[Carmine Spiroc Feather](https://www.pqdi.cc/item/20959) x11
+[Carmine Spiroc Feather](https://www.pqdi.cc/item/20959) x10
 
 [Copper Air Band](https://www.pqdi.cc/item/20751) x12
 
@@ -50,17 +50,17 @@ subtitle: List of Plane of Sky items in the guild bank
 
 [Cracked Leather Belt](https://www.pqdi.cc/item/20992) x1
 
-[Crimson Tessera](https://www.pqdi.cc/item/20931) x4
+[Crimson Tessera](https://www.pqdi.cc/item/20931) x7
 
-[Dark Spiroc Feather](https://www.pqdi.cc/item/20957) x3
+[Dark Spiroc Feather](https://www.pqdi.cc/item/20957) x4
 
-[Dark Wood](https://www.pqdi.cc/item/20808) x16
+[Dark Wood](https://www.pqdi.cc/item/20808) x17
 
-[Diaphanous Globe](https://www.pqdi.cc/item/20943) x6
+[Diaphanous Globe](https://www.pqdi.cc/item/20943) x7
 
 [Djinni Blood](https://www.pqdi.cc/item/20784) x20
 
-[Djinni Statuette](https://www.pqdi.cc/item/20955) x10
+[Djinni Statuette](https://www.pqdi.cc/item/20955) x11
 
 [Dragon-hide Mantle](https://www.pqdi.cc/item/20854) x20
 
@@ -70,11 +70,13 @@ subtitle: List of Plane of Sky items in the guild bank
 
 [Dull Stone](https://www.pqdi.cc/item/20826) x5
 
-[Ebon Tessera](https://www.pqdi.cc/item/20929) x4
+[Ebon Tessera](https://www.pqdi.cc/item/20929) x5
 
 [Efreeti Battle Axe](https://www.pqdi.cc/item/20983) x1
 
-[Efreeti Mace](https://www.pqdi.cc/item/20816) x2
+[Efreeti Mace](https://www.pqdi.cc/item/20816) x3
+
+[Efreeti Magi Staff](https://www.pqdi.cc/item/20870) x1
 
 [Efreeti Statuette](https://www.pqdi.cc/item/20951) x1
 
@@ -82,7 +84,7 @@ subtitle: List of Plane of Sky items in the guild bank
 
 [Efreeti War Maul](https://www.pqdi.cc/item/20846) x1
 
-[Efreeti War Spear](https://www.pqdi.cc/item/20831) x1
+[Efreeti War Spear](https://www.pqdi.cc/item/20831) x2
 
 [Efreeti War Staff](https://www.pqdi.cc/item/20753) x3
 
@@ -90,7 +92,7 @@ subtitle: List of Plane of Sky items in the guild bank
 
 [Efreeti Zweihander](https://www.pqdi.cc/item/20725) x2
 
-[Emerald Spiroc Feather](https://www.pqdi.cc/item/20962) x5
+[Emerald Spiroc Feather](https://www.pqdi.cc/item/20962) x4
 
 [Essence of Wind](https://www.pqdi.cc/item/10229) x15
 
@@ -98,13 +100,13 @@ subtitle: List of Plane of Sky items in the guild bank
 
 [Ethereal Amethyst](https://www.pqdi.cc/item/20801) x5
 
-[Ethereal Opal](https://www.pqdi.cc/item/20743) x15
+[Ethereal Opal](https://www.pqdi.cc/item/20743) x14
 
 [Ethereal Sapphire](https://www.pqdi.cc/item/20754) x1
 
 [Ethereal Topaz](https://www.pqdi.cc/item/20723) x2
 
-[Faintly Glowing Diamond](https://www.pqdi.cc/item/20810) x29
+[Faintly Glowing Diamond](https://www.pqdi.cc/item/20810) x33
 
 [Finely Woven Gold Mesh](https://www.pqdi.cc/item/20793) x1
 
@@ -112,7 +114,7 @@ subtitle: List of Plane of Sky items in the guild bank
 
 [Fire Sky Ruby](https://www.pqdi.cc/item/20848) x11
 
-[Ganoric Poison](https://www.pqdi.cc/item/20775) x5
+[Ganoric Poison](https://www.pqdi.cc/item/20775) x4
 
 [Gem of Empowerment](https://www.pqdi.cc/item/20756) x9
 
@@ -128,7 +130,7 @@ subtitle: List of Plane of Sky items in the guild bank
 
 [Gridelin Globe](https://www.pqdi.cc/item/20948) x9
 
-[Griffenne Blood](https://www.pqdi.cc/item/22526) x2
+[Griffenne Blood](https://www.pqdi.cc/item/22526) x3
 
 [Griffon Statuette](https://www.pqdi.cc/item/20950) x9
 
@@ -136,25 +138,25 @@ subtitle: List of Plane of Sky items in the guild bank
 
 [Harpy Statuette](https://www.pqdi.cc/item/20952) x15
 
-[Harpy Tongue](https://www.pqdi.cc/item/20852) x8
+[Harpy Tongue](https://www.pqdi.cc/item/20852) x9
 
-[Honeyed Nectar](https://www.pqdi.cc/item/20963) x9
+[Honeyed Nectar](https://www.pqdi.cc/item/20963) x8
 
-[Hyaline Globe](https://www.pqdi.cc/item/20944) x14
+[Hyaline Globe](https://www.pqdi.cc/item/20944) x16
 
-[Imp Statuette](https://www.pqdi.cc/item/20953) x14
+[Imp Statuette](https://www.pqdi.cc/item/20953) x15
 
-[Iron Disc](https://www.pqdi.cc/item/20937) x20
+[Iron Disc](https://www.pqdi.cc/item/20937) x19
 
 [Ivory Pendant](https://www.pqdi.cc/item/20758) x20
 
-[Ivory Tessera](https://www.pqdi.cc/item/20928) x8
+[Ivory Tessera](https://www.pqdi.cc/item/20928) x7
 
 [Jar of Honey](https://www.pqdi.cc/item/20708) x5
 
 [Large Sky Pearl](https://www.pqdi.cc/item/20707) x3
 
-[Lightning Rod](https://www.pqdi.cc/item/20995) x12
+[Lightning Rod](https://www.pqdi.cc/item/20995) x11
 
 [Lush Nectar](https://www.pqdi.cc/item/20965) x5
 
@@ -164,13 +166,13 @@ subtitle: List of Plane of Sky items in the guild bank
 
 [Mottled Spiroc Feather](https://www.pqdi.cc/item/20956) x17
 
-[Music Box](https://www.pqdi.cc/item/20822) x20
+[Music Box](https://www.pqdi.cc/item/20822) x19
 
-[Nature Walker's Sky Emerald](https://www.pqdi.cc/item/20730) x5
+[Nature Walker's Sky Emerald](https://www.pqdi.cc/item/20730) x8
 
 [Nebulous Emerald](https://www.pqdi.cc/item/20832) x9
 
-[Nebulous Ruby](https://www.pqdi.cc/item/20788) x11
+[Nebulous Ruby](https://www.pqdi.cc/item/20788) x10
 
 [Obsidian Amulet](https://www.pqdi.cc/item/20786) x4
 
@@ -178,7 +180,7 @@ subtitle: List of Plane of Sky items in the guild bank
 
 [Pearlescent Globe](https://www.pqdi.cc/item/20942) x18
 
-[Pegasus Statuette](https://www.pqdi.cc/item/20949) x8
+[Pegasus Statuette](https://www.pqdi.cc/item/20949) x7
 
 [Petrified Wood](https://www.pqdi.cc/item/20873) x23
 
@@ -186,15 +188,13 @@ subtitle: List of Plane of Sky items in the guild bank
 
 [Platinum Disc](https://www.pqdi.cc/item/20940) x20
 
-[Prismatic Sphere](https://www.pqdi.cc/item/20990) x6
+[Prismatic Sphere](https://www.pqdi.cc/item/20990) x5
 
-[Pulsating Sapphire](https://www.pqdi.cc/item/20749) x1
-
-[Red Face Paint](https://www.pqdi.cc/item/20986) x9
+[Red Face Paint](https://www.pqdi.cc/item/20986) x8
 
 [Rugous Globe](https://www.pqdi.cc/item/20945) x1
 
-[Saffron Spiroc Feather](https://www.pqdi.cc/item/20961) x5
+[Saffron Spiroc Feather](https://www.pqdi.cc/item/20961) x4
 
 [Shimmering Diamond](https://www.pqdi.cc/item/20824) x20
 
@@ -208,9 +208,9 @@ subtitle: List of Plane of Sky items in the guild bank
 
 [Silvery Girdle](https://www.pqdi.cc/item/20868) x20
 
-[Sky Pearl](https://www.pqdi.cc/item/20771) x19
+[Sky Pearl](https://www.pqdi.cc/item/20771) x20
 
-[Small Pick](https://www.pqdi.cc/item/20972) x2
+[Small Pick](https://www.pqdi.cc/item/20972) x3
 
 [Small Ruby](https://www.pqdi.cc/item/20970) x2
 
@@ -222,7 +222,7 @@ subtitle: List of Plane of Sky items in the guild bank
 
 [Spiroc Healing Totem](https://www.pqdi.cc/item/20812) x6
 
-[Spiroc Peace Totem](https://www.pqdi.cc/item/20721) x1
+[Spiroc Peace Totem](https://www.pqdi.cc/item/20721) x2
 
 [Spiroc Statuette](https://www.pqdi.cc/item/20954) x6
 
@@ -238,15 +238,15 @@ subtitle: List of Plane of Sky items in the guild bank
 
 [Thickened Nectar](https://www.pqdi.cc/item/20969) x7
 
-[Tiny Ruby](https://www.pqdi.cc/item/20795) x1
+[Tiny Ruby](https://www.pqdi.cc/item/20795) x4
 
 [Verdant Tessera](https://www.pqdi.cc/item/20932) x2
 
 [Virulent Poison](https://www.pqdi.cc/item/20979) x6
 
-[White Spiroc Feather](https://www.pqdi.cc/item/20960) x13
+[White Spiroc Feather](https://www.pqdi.cc/item/20960) x11
 
-[White-tipped Spiroc Feather](https://www.pqdi.cc/item/20958) x14
+[White-tipped Spiroc Feather](https://www.pqdi.cc/item/20958) x13
 
 [Wilders Girdle](https://www.pqdi.cc/item/20734) x6
 
