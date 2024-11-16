@@ -70,6 +70,8 @@ Bid Amount - Minimum bid for any item is 10 DKP and all higher bids are made in 
 
 Auctions - Here you will find tabs with names of the items that dropped during the raid. Select the item tab to see a listing of people bidding for this item. Once you have selected the item's tab, you can place your own bid for this item. When the progress bar in the item tab runs out, the raid leader will call the winner of the item to loot the item. In the event of a tie, for example if two people bid the maximum 1000 DKP, the raid leader will call each member to /random 1000 in order to determine the winner.
 
+![bids.jpg]({{site.baseurl}}/assets/img/bids.jpg)
+
 Bidding Results - This is a quick and easy table to see all the items that have dropped recently, who won them, and how much DKP they paid for the item.
 
 ### Step 3: Claim your Characters
