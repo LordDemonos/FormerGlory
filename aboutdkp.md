@@ -26,14 +26,10 @@ If you don't see your character in the list, message an officer directly with yo
 
 ## Raid Types and DKP Awards
 
-### Standard Raids (M/W/F @9pm EST)
+### Standard Raids (M/W/F/Sat @9pm EST)
 - On-time arrival: +25 DKP
 - Mid-raid attendance check: +25 DKP
 - Raid completion: +25 DKP
-
-### Off-Night Raids
-- Show up for attempt: +10 DKP
-- Raid completion: +10 DKP
 
 **Note:** You are responsible for tracking your DKP. Check your DKP and raid history regularly on the website. Escalation tools are available on the site.
 
@@ -75,15 +71,9 @@ If you don't see your character in the list, message an officer directly with yo
 ### Raid Schedule and DKP Awards
 
 **Main Raid Nights**
-- Monday, Wednesday & Friday at 9pm Eastern US
+- Monday, Wednesday, Friday, and Saturday at 9pm Eastern US
 - DKP Award: +25 at beginning, middle, and end of raid
 - Total potential DKP: +75 for full attendance
-
-**Off Night Raids**
-- Generally Saturday nights at 9pm Eastern
-- Focus on smaller targets
-- DKP Award: +20 at beginning and end of raid
-- Total potential DKP: +40 for full attendance
 
 ### Bidding Priority and Limits
 
