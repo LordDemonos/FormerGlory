@@ -1,11 +1,24 @@
 ---
 layout: page
 title: Raid Requirements
-cover-img: 
+cover-img: null
 subtitle: A list of raid requirements
 ---
 
-## Raid Gear Requirements
+## Raiding Level Requirements
+
+- **Old World Planes**
+	- Level 46+
+- **Kunark Targets**
+	- Level 50+
+- **Veeshan's Peak**
+	- Level 56 (Nov '24)
+    - Level 57 (Dec '24)
+    - Level 58 (Jan '25)
+    - Level 59 (Feb '25)
+    - Level 60 (Mar '25)
+
+## Raiding Gear Requirements
 
 ### Veeshan's Peak Raids
 - **Resist Gear:**
