@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Raid Requirements
-cover-img: null
+cover-img: /assets/img/hate.webp
 subtitle: A list of raid requirements
 ---
 
