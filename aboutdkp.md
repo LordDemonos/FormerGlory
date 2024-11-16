@@ -9,9 +9,11 @@ subtitle: Understanding Our Guild's DKP System and Raiding Policies
 
 ## Registration
 
-Please register your raiding characters at [formerglory.opendkp.com](https://formerglory.opendkp.com):
+Please register your raiding characters at [formerglory.opendkp.com](https://formerglory.opendkp.com).
 
-A tutorail on how to use OpenDKP can be found [here](https://formerglory.lol/2024-11-10-opendkp-tutorial/).
+A full tutorial on how to use OpenDKP can be found [here](https://formerglory.lol/2024-11-10-opendkp-tutorial/).
+
+### OpenDKP Basics
 
 1. Register with the site and create a profile
 2. After your first raid, your character will appear in the character list
