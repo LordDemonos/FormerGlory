@@ -20,10 +20,8 @@ Goal is to start earlier and end earlier so people can go to bed before work. We
 - Goal is 18+ players
 
 ### Even Week Targets
-#### Fire Giants
-[Crown of King Tranix](https://www.pqdi.cc/item/4504) 25% Droprate for MR
 
-#### Lord Nagafen (If target is  not down)
+#### Severilous
 
 #### Plane of Sky: Island Trash
 Island 3 for [Spiroc Feathers](https://www.pqdi.cc/item/20782) 7.7% Droprate off Various Mobs for Necromancer Epic
@@ -33,12 +31,8 @@ Optional Island 4 for [Swirling Sphere of Color](https://www.pqdi.cc/item/20494)
 Island 7 for [Crown of Elemental Mastery](https://www.pqdi.cc/item/20764) 6.6% Droprate off Various Mobs for Mage Epic
 
 ### Odd Week Targets
-#### Lady Vox (If target is not down)
 
-#### Fire Giants
-[Crown of King Tranix](https://www.pqdi.cc/item/4504) 25% Droprate for MR
-
-#### Lord Nagafen (If target is not down)
+#### Faydedar
 
 #### Phinigel Autropos
 [Staff of Elemental Mastery: Water](https://www.pqdi.cc/item/11569) 12% Droprate for Mage Epic
