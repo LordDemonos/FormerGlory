@@ -42,4 +42,18 @@ By joining Former Glory, you agree to:
 - Direct feedback, criticism, ideas, and issues to an officer for discussion
 - We value your input to help us grow and improve
 
+## Current Roster of Officers
+
+**Talamild - Guild Leader**
+Cukazi/Barakkas
+Dihat
+Healzar
+Logikill/Docktah
+Saenorn
+Thrang
+Velde
+Waulker
+Woest
+Xanax/Xanathema
+
 Thank you for joining us on this epic adventure to reclaim our Former Glory in Norrath! Happy Hunting!
