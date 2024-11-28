@@ -45,6 +45,7 @@ By joining Former Glory, you agree to:
 ## Current Roster of Officers
 
 - **Talamild - Guild Leader**
+- Amberita
 - Cukazi/Barakkas
 - Dihat
 - Healzar
