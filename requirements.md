@@ -7,12 +7,9 @@ subtitle: A list of raid requirements
 
 ## Raiding Level Requirements
 
-- **Old World Planes**
-	- Level 46+
-- **Kunark Targets**
+- **All Raids**
 	- Level 50+
 - **Veeshan's Peak**
-	- Level 56 (Nov '24)
     - Level 57 (Dec '24)
     - Level 58 (Jan '25)
     - Level 59 (Feb '25)
