@@ -53,10 +53,6 @@ Former Glory kills these in regular rotation – Off limits
 - Cazic Thule - 6 Days 18 Hours
 - Innoruuk – 6 Days 18 Hours
 - Trakanon – 6 Days 18 hours
-- Severilous – 2 Days 18 Hours - Off Rotation unless requested
-- Gorenaire – 2 Days 18 Hours - Off Rotation unless requested
-- Faydedar – 2 Days 18 Hours - Off Rotation unless requested
-- Talendor – 2 Days 18 Hours - Off Rotation unless requested
 - Venril Sathir – 2 Days 18 Hours
 
 ### FFA Targets
@@ -70,3 +66,7 @@ Go nuts, kill these whenever you want, officers please ping the role when organi
 - Plane of Sky – 18 Hours - Off limits when on the schedule for the day, otherwise FFA
 - Lord Nagafen – 6 Days 18 Hours
 - Lady Vox – 6 Days 18 Hours
+- Severilous – 2 Days 18 Hours - Off Rotation unless requested
+- Gorenaire – 2 Days 18 Hours - Off Rotation unless requested
+- Faydedar – 2 Days 18 Hours - Off Rotation unless requested
+- Talendor – 2 Days 18 Hours - Off Rotation unless requested
