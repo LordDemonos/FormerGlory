@@ -1,0 +1,41 @@
+name: Update Epic Needs
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Runs at 9 AM UTC daily (4 AM EST)
+  workflow_dispatch:
+      inputs:
+        logLevel:
+          description: 'Log level'
+          required: true
+          default: 'warning'
+        environment:
+          description: 'Environment to run tests against'
+          type: environment
+          required: true
+
+jobs:
+  update-epic-needs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+      - name: Run update script
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+        run: |
+          echo "$GOOGLE_CREDENTIALS" > token.json
+          python assets/py/update_epic_needs.py
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add epic_needs.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update epic needs" && git push)
