@@ -29,7 +29,7 @@ navbar-links:
   DKP: "aboutdkp"
   Requirements: "requirements"
   Services:
-    - Raid Target Requests: "epic_needs"
+    - Target Requests: "epic_needs"
     - Spell Bank: "spells"
     - Sky Bank: "sky"
 #    - Loot Rights: "loot"
