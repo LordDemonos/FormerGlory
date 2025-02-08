@@ -1,17 +1,48 @@
 import os
+import json
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
 from datetime import datetime
 
-# Load credentials from the JSON file
+# Add debug logging
+print("Script started")
+print("Current working directory:", os.getcwd())
+
+# Load credentials from the environment variable
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
-creds = Credentials.from_service_account_info(
-    eval(os.environ['GOOGLE_CREDENTIALS']), 
-    scopes=SCOPES
-)
+try:
+    print("Attempting to load credentials...")
+    creds_content = os.environ.get('GOOGLE_CREDENTIALS')
+    if not creds_content:
+        print("Error: GOOGLE_CREDENTIALS environment variable is not set")
+        exit(1)
+    
+    # Try to parse the credentials
+    try:
+        creds_dict = eval(creds_content)
+        print("Credential keys available:", list(creds_dict.keys()))
+    except Exception as e:
+        print(f"Error parsing credentials: {str(e)}")
+        exit(1)
+
+    creds = Credentials.from_service_account_info(
+        creds_dict,
+        scopes=SCOPES
+    )
+    print("Credentials loaded successfully")
+
+except Exception as e:
+    print(f"Error setting up credentials: {str(e)}")
+    exit(1)
 
 # Build the service
-service = build('sheets', 'v4', credentials=creds)
+try:
+    print("Building service...")
+    service = build('sheets', 'v4', credentials=creds)
+    print("Service built successfully")
+except Exception as e:
+    print(f"Error building service: {str(e)}")
+    exit(1)
 
 # Specify the spreadsheet ID and range
 SPREADSHEET_ID = '10Y4D2n7LFb0WwZpZwNRxK1eKy0J8xjA6LZknpPuszc0'

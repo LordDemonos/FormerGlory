@@ -27,12 +27,23 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+      - name: Debug Credentials
+        run: |
+          echo "Checking if GOOGLE_CREDENTIALS is set:"
+          if [ -n "$GOOGLE_CREDENTIALS" ]; then echo "GOOGLE_CREDENTIALS is set"; else echo "GOOGLE_CREDENTIALS is not set"; fi
+          echo "First few characters of credentials:"
+          echo "$GOOGLE_CREDENTIALS" | head -c 50
+          echo "Writing credentials to file..."
+          echo "$GOOGLE_CREDENTIALS" > token.json
+          echo "Checking token.json contents (first few lines):"
+          head -n 5 token.json
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
       - name: Run update script
         env:
           GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
         run: |
-          echo "$GOOGLE_CREDENTIALS" > token.json
-          python assets/py/update_epic_needs.py
+          python -X dev assets/py/update_epic_needs.py
       - name: Commit and push if changed
         run: |
           git config --global user.email "actions@github.com"
