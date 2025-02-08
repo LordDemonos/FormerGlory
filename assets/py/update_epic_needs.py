@@ -46,12 +46,28 @@ except Exception as e:
 
 # Specify the spreadsheet ID and range
 SPREADSHEET_ID = '10Y4D2n7LFb0WwZpZwNRxK1eKy0J8xjA6LZknpPuszc0'
-RANGE_NAME = 'Sheet1!A1:Z'  # Adjust as needed
+RANGE_NAME = "'Form Responses 1'!A1:Z1000"  # Updated sheet name to match exactly
 
-# Call the Sheets API
-sheet = service.spreadsheets()
-result = sheet.values().get(spreadsheetId=SPREADSHEET_ID, range=RANGE_NAME).execute()
-values = result.get('values', [])
+try:
+    print(f"Attempting to access spreadsheet {SPREADSHEET_ID}")
+    print(f"Using range: {RANGE_NAME}")
+    # Call the Sheets API
+    sheet = service.spreadsheets()
+    result = sheet.values().get(spreadsheetId=SPREADSHEET_ID, range=RANGE_NAME).execute()
+    values = result.get('values', [])
+    print(f"Successfully retrieved {len(values)} rows of data")
+
+    if not values:
+        print("No data found in spreadsheet")
+        exit(1)
+
+except Exception as e:
+    print(f"Error accessing spreadsheet: {str(e)}")
+    print("Please verify:")
+    print("1. The spreadsheet ID is correct")
+    print("2. The sheet name is exactly 'Form Responses 1'")
+    print("3. The service account has access to the spreadsheet")
+    exit(1)
 
 # Predefined zone groupings
 zone_groupings = {
