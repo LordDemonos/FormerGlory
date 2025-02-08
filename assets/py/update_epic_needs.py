@@ -150,7 +150,7 @@ for group, zones in grouped_data.items():
             markdown_output.append('</div>\n')
 
 # Write to file
-with open('epic_needs.md', 'w') as f:
+with open('targets.md', 'w') as f:
     f.write('\n'.join(markdown_output))
 
-print("\nMarkdown file 'epic_needs.md' has been generated successfully.")
+print("\nMarkdown file 'targets.md' has been generated successfully.")
