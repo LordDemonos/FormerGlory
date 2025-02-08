@@ -57,6 +57,14 @@ try:
     values = result.get('values', [])
     print(f"Successfully retrieved {len(values)} rows of data")
 
+    # Debug: Print the first few rows of data
+    print("\nFirst few rows of data:")
+    for i, row in enumerate(values[:3]):  # Print first 3 rows
+        print(f"Row {i}: {row}")
+    print("\nColumn headers:")
+    if values:
+        print(values[0])  # Print headers
+
     if not values:
         print("No data found in spreadsheet")
         exit(1)
@@ -76,17 +84,39 @@ zone_groupings = {
     "Sat": ["Plane of Hate", "Plane of Fear"]
 }
 
+# Debug: Print zone groupings
+print("\nZone groupings:")
+for day, zones in zone_groupings.items():
+    print(f"{day}: {zones}")
+
 # Organize data by group and zone
 grouped_data = {group: {zone: [] for zone in zones} for group, zones in zone_groupings.items()}
 
+# Debug: Print row processing
+print("\nProcessing rows:")
 for row in values[1:]:  # Skip header row
-    if len(row) < 7 or row[6] == "Completed":  # Skip if row is incomplete or task is completed
+    print(f"\nProcessing row: {row}")
+    if len(row) < 7:
+        print(f"Skipping row - too short (length: {len(row)})")
+        continue
+    if row[6] == "Completed":
+        print("Skipping row - marked as completed")
         continue
 
     zone = row[3]  # Zone column
+    print(f"Zone from row: {zone}")
     for group, zones in zone_groupings.items():
         if zone in zones:
+            print(f"Found zone {zone} in group {group}")
             grouped_data[group][zone].append(row)
+
+# Debug: Print grouped data
+print("\nGrouped data:")
+for group, zones in grouped_data.items():
+    print(f"\n{group}:")
+    for zone, entries in zones.items():
+        if entries:
+            print(f"  {zone}: {len(entries)} entries")
 
 # Generate markdown file
 markdown_output = []
@@ -123,4 +153,4 @@ for group, zones in grouped_data.items():
 with open('epic_needs.md', 'w') as f:
     f.write('\n'.join(markdown_output))
 
-print("Markdown file 'epic_needs.md' has been generated successfully.")
+print("\nMarkdown file 'epic_needs.md' has been generated successfully.")
