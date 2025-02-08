@@ -1,10 +1,14 @@
 import os
-from google.oauth2.credentials import Credentials
+from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
 from datetime import datetime
 
 # Load credentials from the JSON file
-creds = Credentials.from_authorized_user_file('token.json', ['https://www.googleapis.com/auth/spreadsheets.readonly'])
+SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
+creds = Credentials.from_service_account_info(
+    eval(os.environ['GOOGLE_CREDENTIALS']), 
+    scopes=SCOPES
+)
 
 # Build the service
 service = build('sheets', 'v4', credentials=creds)
@@ -42,8 +46,7 @@ markdown_output = []
 markdown_output.append('---')
 markdown_output.append('layout: page')
 markdown_output.append('title: Epic Mob Requests')
-markdown_output.append('cover-img: /assets/img/sky.webp')
-markdown_output.append('subtitle: Epic Requests Sorted by Raid Night')
+markdown_output.append('permalink: /epic-needs/')
 markdown_output.append('last_updated: ' + datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 markdown_output.append('---\n')
 
