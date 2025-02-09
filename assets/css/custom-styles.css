@@ -132,12 +132,10 @@ a:hover {
 
 .mode-toggle.dark .toggle-icon {
   transform: translateX(-14px); /* Increase this value to move emoji further right */
-
 }
 
 .mode-toggle.dark {
   background-color: #f0f0f0; /* Gray background for dark mode */
-
 }
 
 .nav-item {
