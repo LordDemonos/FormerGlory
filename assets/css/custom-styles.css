@@ -196,12 +196,12 @@ a:hover {
   background-color: #f0f0f0;
   border: 3px solid;
   border-radius: 8px;
-  padding: 8px;
+  padding: 4px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   color: #333;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 0.875rem;
-  line-height: 1.4;
+  line-height: 1.2;
   font-weight: 400;
   display: flex; /* Add flex display */
   flex-direction: column; /* Stack children vertically */
@@ -225,14 +225,21 @@ a:hover {
 }
 
 .card li {
-  padding: 2px 4px;
+  padding: 1px 3px;
   border-radius: 2px;
   letter-spacing: 0.01em;
+  margin: 0;
 }
 
 /* First item (name) slightly more prominent */
 .card li:first-child {
   font-weight: 500;
+  margin-top: 0;
+}
+
+/* Remove any bottom margin from last item */
+.card li:last-child {
+  margin-bottom: 0;
 }
 
 /* Class-specific styles */
