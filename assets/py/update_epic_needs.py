@@ -9,7 +9,7 @@ print("Script started")
 print("Current working directory:", os.getcwd())
 
 # Load credentials from the environment variable
-SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
+SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
 try:
     print("Attempting to load credentials...")
     creds_content = os.environ.get('GOOGLE_CREDENTIALS')
@@ -41,9 +41,9 @@ except Exception as e:
     print(f"Error building service: {str(e)}")
     exit(1)
 
-# Specify the spreadsheet ID and range
+# Specify the spreadsheet ID and range for a single cell
 SPREADSHEET_ID = '10Y4D2n7LFb0WwZpZwNRxK1eKy0J8xjA6LZknpPuszc0'
-RANGE_NAME = "'Form Responses 1'!A1:G10"
+RANGE_NAME = "'Form Responses 1'!A1"
 
 try:
     print(f"Attempting to access spreadsheet {SPREADSHEET_ID}")
@@ -58,11 +58,8 @@ try:
         exit(1)
 
     print("\nFirst few rows of data:")
-    for i, row in enumerate(values[:3]):
+    for i, row in enumerate(values[:3]):  # Print first 3 rows
         print(f"Row {i}: {row}")
-    print("\nColumn headers:")
-    if values:
-        print(values[0])
 
 except Exception as e:
     print(f"Error accessing spreadsheet: {str(e)}")
