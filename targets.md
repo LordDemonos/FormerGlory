@@ -3,7 +3,7 @@ layout: page
 title: Epic Mob Requests
 cover-img: /assets/img/targets.webp
 subtitle: List of raid target requests
-last_updated: 2025-02-09 00:43:54
+last_updated: 2025-02-09 00:52:16
 ---
 
 ## Table of Contents
