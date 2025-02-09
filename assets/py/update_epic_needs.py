@@ -63,12 +63,14 @@ try:
 
             # Write the submission link and table of contents in one flex container
             file.write('<div style="display: flex; justify-content: space-between; align-items: center; font-size: 1.25em; margin-bottom: 20px;">\n')
-            file.write('  <div style="display: flex; gap: 20px;">\n')
+            file.write('  <div style="display: flex; gap: 20px; flex: 1;">\n')
             for day in ["Monday/Friday", "Wednesday", "Saturday"]:
                 anchor = day.lower().replace("/", "-")
                 file.write(f'    <a href="#{anchor}">{day}</a>\n')
             file.write('  </div>\n')
-            file.write('  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrdGZCRdUpdJ14DtRNTurlymNWYFvUbFBp0GvLOXvZb9JApA/viewform">Request Form</a>\n')
+            file.write('  <div style="margin-left: 20px;">\n')
+            file.write('    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrdGZCRdUpdJ14DtRNTurlymNWYFvUbFBp0GvLOXvZb9JApA/viewform">Request Form</a>\n')
+            file.write('  </div>\n')
             file.write('</div>\n\n')
 
             # Write cards under each day
