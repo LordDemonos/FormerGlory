@@ -19,7 +19,7 @@ service = build('sheets', 'v4', credentials=creds)
 
 # Specify the spreadsheet ID and range for the data
 SPREADSHEET_ID = '10Y4D2n7LFb0WwZpZwNRxK1eKy0J8xjA6LZknpPuszc0'
-RANGE_NAME = "'Form Responses 1'!A1:G10"  # Adjust the range as needed
+RANGE_NAME = "'Form Responses 1'!B2:G10"  # Adjust the range as needed, starting from A2 to skip headers
 
 try:
     sheet = service.spreadsheets()
@@ -39,12 +39,12 @@ try:
             file.write("subtitle: List of Target Requests\n")
             file.write("---\n\n")
 
-            # Write the data as a bulleted list
-            file.write("# Targets\n\n")
-            file.write("Retrieved data as a bulleted list:\n\n")
+            # Write the data as individual bullet points
             for row in values:
-                # Join each row's values with a tab and write as a bullet point
-                file.write(f"- {'\t'.join(row)}\n")
+                # Skip the first column (timestamp) and write each remaining item as a bullet point
+                for item in row[1:]:
+                    file.write(f"- {item}\n")
+                file.write("\n")  # Add a newline between each set of bullets
 
         print("Data successfully written to targets.md with front matter")
 
