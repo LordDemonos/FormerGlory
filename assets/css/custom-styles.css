@@ -197,7 +197,7 @@ a:hover {
   background-color: #f0f0f0;
   border: 3px solid;
   border-radius: 8px;
-  padding: 15px;
+  padding: 2px; /* This determines the space between the border and the text */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   color: #333;
 }
@@ -217,8 +217,23 @@ a:hover {
 
 .card li {
   margin-bottom: 5px;
-  padding: 0px;
+  padding: 5px;
   border-radius: 4px;
+}
+
+/* Make specific lines match page background */
+.card li:nth-child(1),
+.card li:nth-child(3),
+.card li:nth-child(4),
+.card li:nth-child(5) {
+  background-color: #fff;
+}
+
+[data-theme="dark"] .card li:nth-child(1),
+[data-theme="dark"] .card li:nth-child(3),
+[data-theme="dark"] .card li:nth-child(4),
+[data-theme="dark"] .card li:nth-child(5) {
+  background-color: #222;
 }
 
 /* Class-specific styles */
