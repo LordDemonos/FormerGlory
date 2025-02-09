@@ -19,7 +19,7 @@ service = build('sheets', 'v4', credentials=creds)
 
 # Specify the spreadsheet ID and range for the data
 SPREADSHEET_ID = '10Y4D2n7LFb0WwZpZwNRxK1eKy0J8xjA6LZknpPuszc0'
-RANGE_NAME = "'Form Responses 1'!A2:G10"  # Adjust the range as needed, starting from A2 to skip headers
+RANGE_NAME = "'Form Responses 1'!A2:G10"  # Start from A2 to skip headers
 
 try:
     sheet = service.spreadsheets()
@@ -29,7 +29,6 @@ try:
     if not values:
         print("No data found in the specified range.")
     else:
-        # Open the file in write mode
         with open('targets.md', 'w') as file:
             # Write the front matter
             file.write("---\n")
@@ -39,12 +38,21 @@ try:
             file.write("subtitle: List of Target Requests\n")
             file.write("---\n\n")
 
-            # Write the data as individual bullet points
+            # Start the card container
+            file.write('<div class="card-container">\n')
+
             for row in values:
-                # Skip the first column (timestamp) and write each remaining item as a bullet point
+                # Start a new card
+                file.write('  <div class="card">\n')
+                file.write('    <ul>\n')
+                # Skip the first column (timestamp) and write each remaining item as a list item
                 for item in row[1:]:
-                    file.write(f"- {item}\n")
-                file.write("\n")  # Add a newline between each set of bullets
+                    file.write(f'      <li>{item}</li>\n')
+                file.write('    </ul>\n')
+                file.write('  </div>\n')  # End the card
+
+            # End the card container
+            file.write('</div>\n')
 
         print("Data successfully written to targets.md with front matter")
 
