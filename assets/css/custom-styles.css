@@ -219,4 +219,10 @@ body.dark .card {
   color: #f9f9f9;
 }
 
+/* Specific styles for Magician */
+.card.magician {
+  border-color: #8dd0ff;
+}
+
+
 

@@ -1,5 +1,6 @@
 import os
 import json
+from collections import defaultdict
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
 
@@ -21,6 +22,13 @@ service = build('sheets', 'v4', credentials=creds)
 SPREADSHEET_ID = '10Y4D2n7LFb0WwZpZwNRxK1eKy0J8xjA6LZknpPuszc0'
 RANGE_NAME = "'Form Responses 1'!A2:G10"  # Start from A2 to skip headers
 
+# Define the zone-day mapping
+zone_day_mapping = {
+    "Plane of Sky": "Wednesday",
+    "Plane of Hate": "Saturday",
+    # Add more mappings as needed
+}
+
 try:
     sheet = service.spreadsheets()
     result = sheet.values().get(spreadsheetId=SPREADSHEET_ID, range=RANGE_NAME).execute()
@@ -29,6 +37,14 @@ try:
     if not values:
         print("No data found in the specified range.")
     else:
+        # Organize cards by day
+        cards_by_day = defaultdict(list)
+        for row in values:
+            zone = row[3]  # Assuming the zone is in the fourth column
+            day = zone_day_mapping.get(zone)
+            if day:
+                cards_by_day[day].append(row)
+
         with open('targets.md', 'w') as file:
             # Write the front matter
             file.write("---\n")
@@ -38,22 +54,19 @@ try:
             file.write("subtitle: List of Target Requests\n")
             file.write("---\n\n")
 
-            # Start the card container
-            file.write('<div class="card-container">\n')
-
-            for row in values:
-                # Use the second item in the row as a class name
-                class_name = row[2].lower().replace(" ", "-")
-                file.write(f'  <div class="card {class_name}">\n')
-                file.write('    <ul>\n')
-                # Skip the first column (timestamp) and write each remaining item as a list item
-                for item in row[1:]:
-                    file.write(f'      <li>{item}</li>\n')
-                file.write('    </ul>\n')
-                file.write('  </div>\n')  # End the card
-
-            # End the card container
-            file.write('</div>\n')
+            # Write cards under each day
+            for day in ["Monday", "Wednesday", "Saturday"]:
+                file.write(f"## {day}\n\n")
+                file.write('<div class="card-container">\n')
+                for row in cards_by_day.get(day, []):
+                    class_name = row[2].lower().replace(" ", "-")
+                    file.write(f'  <div class="card {class_name}">\n')
+                    file.write('    <ul>\n')
+                    for item in row[1:]:
+                        file.write(f'      <li>{item}</li>\n')
+                    file.write('    </ul>\n')
+                    file.write('  </div>\n')
+                file.write('</div>\n\n')
 
         print("Data successfully written to targets.md with front matter")
 
