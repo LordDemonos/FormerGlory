@@ -201,14 +201,14 @@ a:hover {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   color: #333;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 0.875rem; /* 14px */
+  font-size: 0.875rem;
   line-height: 1.4;
   font-weight: 400;
 }
 
 /* Dark mode card styles */
 [data-theme="dark"] .card {
-  background-color: #2d2d2d;
+  background-color: #121212;
   color: #f0f0f0;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 }
@@ -220,10 +220,9 @@ a:hover {
 }
 
 .card li {
-  margin-bottom: 5px;
-  padding: 5px;
+  padding: 3px 5px;
   border-radius: 4px;
-  letter-spacing: 0.01em; /* Slight letter spacing for better readability */
+  letter-spacing: 0.01em;
 }
 
 /* First item (name) slightly more prominent */
