@@ -222,7 +222,7 @@ a:hover {
 }
 
 /* Class-specific styles */
-.card.wizard li:nth-child(2) { background-color: #941313; color: #fff; }
+.card.wizard li:nth-child(2) { background-color: #941313 40px; color: #121212; }
 .card.warrior li:nth-child(2) { background-color: #946b29; color: #fff; }
 .card.shaman li:nth-child(2) { background-color: #642e06; color: #fff; }
 .card.shadow-knight li:nth-child(2) { background-color: #8c3030; color: #fff; }
