@@ -5,12 +5,18 @@ cover-img: /assets/img/targets.webp
 subtitle: List of Target Requests
 ---
 
-## Monday/Friday
+<div style="display: flex; justify-content: space-around; font-size: 1.25em; margin-bottom: 20px;">
+<a href="#monday-friday">Monday/Friday</a>
+<a href="#wednesday">Wednesday</a>
+<a href="#saturday">Saturday</a>
+</div>
+
+<h2 id="monday-friday">Monday/Friday</h2>
 
 <div class="card-container">
 </div>
 
-## Wednesday
+<h2 id="wednesday">Wednesday</h2>
 
 <div class="card-container">
   <div class="card magician">
@@ -24,7 +30,7 @@ subtitle: List of Target Requests
   </div>
 </div>
 
-## Saturday
+<h2 id="saturday">Saturday</h2>
 
 <div class="card-container">
   <div class="card magician">
@@ -33,6 +39,24 @@ subtitle: List of Target Requests
       <li>Magician</li>
       <li>Plane of Hate</li>
       <li>Innoruuk - Staff of Elemental Mastery: Earth</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card enchanter">
+    <ul>
+      <li>Charr</li>
+      <li>Enchanter</li>
+      <li>Plane of Hate</li>
+      <li>a forsaken revenant - Essence of a Vampire</li>
+      <li>Sat</li>
+    </ul>
+  </div>
+  <div class="card enchanter">
+    <ul>
+      <li>Tarchi</li>
+      <li>Enchanter</li>
+      <li>Plane of Fear</li>
+      <li>Wraith of a Shissar - Head of the Serpent</li>
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
