@@ -14,6 +14,24 @@ subtitle: List of Target Requests
 <h2 id="monday-friday">Monday/Friday</h2>
 
 <div class="card-container">
+  <div class="card cleric">
+    <ul>
+      <li>Kran</li>
+      <li>Cleric</li>
+      <li>Skyfire</li>
+      <li>Zordak Ragefire's Heart</li>
+      <li>Mon, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card cleric">
+    <ul>
+      <li>Millerlite</li>
+      <li>Cleric</li>
+      <li>Skyfire</li>
+      <li>Zordak Ragefire's Heart</li>
+      <li>Mon, Wed, Sat</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="wednesday">Wednesday</h2>
@@ -26,6 +44,24 @@ subtitle: List of Target Requests
       <li>Plane of Sky</li>
       <li>Crown of Elemental Mastery</li>
       <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card druid">
+    <ul>
+      <li>Soreprtar</li>
+      <li>Druid</li>
+      <li>Timorous Deep</li>
+      <li>Pod of Seawater</li>
+      <li>Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card shadow-knight">
+    <ul>
+      <li>Tagnikzur</li>
+      <li>Shadow Knight</li>
+      <li>City of Mist</li>
+      <li>Lhranc - Lhranc's Token</li>
+      <li>Mon, Wed, Fri</li>
     </ul>
   </div>
 </div>
