@@ -192,14 +192,14 @@ a:hover {
   padding: 20px;
 }
 
-/* Light mode styles (default) */
+/* Default card styles */
 .card {
   background-color: #f9f9f9;
   border: 1px solid #ddd;
   border-radius: 8px;
   padding: 15px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  color: #333; /* Text color */
+  color: #333;
 }
 
 .card ul {
@@ -214,9 +214,14 @@ a:hover {
 
 /* Dark mode styles */
 body.dark .card {
-  background-color: #333 !important; /* Dark background */
-  border: 1px solid #555 !important; /* Darker border */
-  color: #f9f9f9 !important; /* Light text color */
+  background-color: #333;
+  border: 1px solid #555;
+  color: #f9f9f9;
+}
+
+/* Specific styles for Magician */
+.card.magician {
+  border-color: #8dd0ff;
 }
 
 

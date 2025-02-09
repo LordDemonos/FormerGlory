@@ -42,8 +42,9 @@ try:
             file.write('<div class="card-container">\n')
 
             for row in values:
-                # Start a new card
-                file.write('  <div class="card">\n')
+                # Use the second item in the row as a class name
+                class_name = row[2].lower().replace(" ", "-")
+                file.write(f'  <div class="card {class_name}">\n')
                 file.write('    <ul>\n')
                 # Skip the first column (timestamp) and write each remaining item as a list item
                 for item in row[1:]:
