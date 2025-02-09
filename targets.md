@@ -5,15 +5,23 @@ cover-img: /assets/img/targets.webp
 subtitle: List of Target Requests
 ---
 
-- Xanax (Xanamaniac)
-- Magician
-- Plane of Sky
-- Crown of Elemental Mastery
-- Mon, Wed, Fri, Sat
-
-- Xanax (Xanamaniac)
-- Magician
-- Plane of Hate
-- Innoruuk - Staff of Elemental Mastery: Earth
-- Mon, Wed, Fri, Sat
-
+<div class="card-container">
+  <div class="card">
+    <ul>
+      <li>Xanax (Xanamaniac)</li>
+      <li>Magician</li>
+      <li>Plane of Sky</li>
+      <li>Crown of Elemental Mastery</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card">
+    <ul>
+      <li>Xanax (Xanamaniac)</li>
+      <li>Magician</li>
+      <li>Plane of Hate</li>
+      <li>Innoruuk - Staff of Elemental Mastery: Earth</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+</div>
