@@ -214,9 +214,9 @@ a:hover {
 
 /* Dark mode styles */
 body.dark .card {
-  background-color: #333; /* Dark background */
-  border: 1px solid #555; /* Darker border */
-  color: #f9f9f9; /* Light text color */
+  background-color: #333 !important; /* Dark background */
+  border: 1px solid #555 !important; /* Darker border */
+  color: #f9f9f9 !important; /* Light text color */
 }
 
 
