@@ -31,13 +31,22 @@ try:
     else:
         # Open the file in write mode
         with open('targets.md', 'w') as file:
+            # Write the front matter
+            file.write("---\n")
+            file.write("layout: page\n")
+            file.write("title: Target Requests\n")
+            file.write("cover-img: /assets/img/targets.webp\n")
+            file.write("subtitle: List of Target Requests\n")
+            file.write("---\n\n")
+
+            # Write the data as a bulleted list
             file.write("# Targets\n\n")
             file.write("Retrieved data as a bulleted list:\n\n")
             for row in values:
                 # Join each row's values with a tab and write as a bullet point
                 file.write(f"- {'\t'.join(row)}\n")
 
-        print("Data successfully written to targets.md")
+        print("Data successfully written to targets.md with front matter")
 
 except Exception as e:
     print(f"Error accessing spreadsheet: {str(e)}")
