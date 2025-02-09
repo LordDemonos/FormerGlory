@@ -214,6 +214,8 @@ a:hover {
 .card li {
   padding: 4px 8px;
   border-radius: 4px;
+  background: linear-gradient(to bottom, #222 0%, #121212 100%);
+  color: #fff;
 }
 
 /* First item (name) styling */
@@ -237,20 +239,20 @@ a:hover {
 .card.cleric li:nth-child(1) { background-color: #121212; color: #fff;  }
 .card.bard li:nth-child(1) { background-color: #121212; color: #fff;  }
 
-.card.wizard li:nth-child(2) { background-color: #941313; color: #fff; }
-.card.warrior li:nth-child(2) { background-color: #946b29; color: #fff; }
-.card.shaman li:nth-child(2) { background-color: #642e06; color: #fff; }
-.card.shadow-knight li:nth-child(2) { background-color: #8c3030; color: #fff; }
-.card.rogue li:nth-child(2) { background-color: #8c8c30; color: #fff; }
-.card.ranger li:nth-child(2) { background-color: #156f1d; color: #fff; }
-.card.paladin li:nth-child(2) { background-color: #ac3a96; color: #fff; }
-.card.necromancer li:nth-child(2) { background-color: #5b308c; color: #fff; }
-.card.monk li:nth-child(2) { background-color: #a45711; color: #fff; }
-.card.magician li:nth-child(2) { background-color: #167e8d; color: #fff; }
-.card.enchanter li:nth-child(2) { background-color: #00a5a9; color: #fff; }
-.card.druid li:nth-child(2) { background-color: #39b343; color: #fff; }
-.card.cleric li:nth-child(2) { background-color: #30388c; color: #fff; }
-.card.bard li:nth-child(2) { background-color: #20d4be; color: #fff; }
+.card.wizard li:nth-child(2) { background: linear-gradient(to bottom, #941313 0%, #720e0e 100%); }
+.card.warrior li:nth-child(2) { background: linear-gradient(to bottom, #946b29 0%, #715020 100%); }
+.card.shaman li:nth-child(2) { background: linear-gradient(to bottom, #642e06 0%, #4b2204 100%); }
+.card.shadow-knight li:nth-child(2) { background: linear-gradient(to bottom, #8c3030 0%, #6b2424 100%); }
+.card.rogue li:nth-child(2) { background: linear-gradient(to bottom, #8c8c30 0%, #6b6b24 100%); }
+.card.ranger li:nth-child(2) { background: linear-gradient(to bottom, #156f1d 0%, #105417 100%); }
+.card.paladin li:nth-child(2) { background: linear-gradient(to bottom, #ac3a96 0%, #842c73 100%); }
+.card.necromancer li:nth-child(2) { background: linear-gradient(to bottom, #5b308c 0%, #45246a 100%); }
+.card.monk li:nth-child(2) { background: linear-gradient(to bottom, #a45711 0%, #7d420d 100%); }
+.card.magician li:nth-child(2) { background: linear-gradient(to bottom, #167e8d 0%, #115f6b 100%); }
+.card.enchanter li:nth-child(2) { background: linear-gradient(to bottom, #00a5a9 0%, #007c7f 100%); }
+.card.druid li:nth-child(2) { background: linear-gradient(to bottom, #39b343 0%, #2b8833 100%); }
+.card.cleric li:nth-child(2) { background: linear-gradient(to bottom, #30388c 0%, #252a6b 100%); }
+.card.bard li:nth-child(2) { background: linear-gradient(to bottom, #20d4be 0%, #18a090 100%); }
 
 .card.wizard li:nth-child(3) { background-color: #121212; color: #fff;  }
 .card.warrior li:nth-child(3) { background-color: #121212; color: #fff;  }
