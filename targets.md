@@ -5,12 +5,14 @@ cover-img: /assets/img/targets.webp
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; font-size: 1.25em; margin-bottom: 20px;">
-  <div style="display: flex; gap: 20px;">
+  <div style="display: flex; gap: 20px; flex: 1;">
     <a href="#monday-friday">Monday/Friday</a>
     <a href="#wednesday">Wednesday</a>
     <a href="#saturday">Saturday</a>
   </div>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrdGZCRdUpdJ14DtRNTurlymNWYFvUbFBp0GvLOXvZb9JApA/viewform">Request Form</a>
+  <div style="margin-left: 20px;">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrdGZCRdUpdJ14DtRNTurlymNWYFvUbFBp0GvLOXvZb9JApA/viewform">Request Form</a>
+  </div>
 </div>
 
 <h2 id="monday-friday">Monday/Friday</h2>
