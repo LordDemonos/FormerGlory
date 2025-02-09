@@ -17,7 +17,7 @@ try:
         print("Error: GOOGLE_CREDENTIALS environment variable is not set")
         exit(1)
     
-    creds_dict = json.loads(creds_content)  # Changed from eval to json.loads
+    creds_dict = json.loads(creds_content)
     print("Credential keys available:", list(creds_dict.keys()))
     
     creds = Credentials.from_service_account_info(
@@ -113,7 +113,8 @@ markdown_output = []
 markdown_output.append('---')
 markdown_output.append('layout: page')
 markdown_output.append('title: Epic Mob Requests')
-markdown_output.append('permalink: /targets/')  # Updated permalink
+markdown_output.append('cover-img: /assets/img/targets.webp')
+markdown_output.append('subtitle: List of raid target requests')
 markdown_output.append('last_updated: ' + datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 markdown_output.append('---\n')
 
