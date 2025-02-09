@@ -1,3 +1,10 @@
+---
+layout: page
+title: Target Requests
+cover-img: /assets/img/targets.webp
+subtitle: List of Target Requests
+---
+
 # Targets
 
 Retrieved data as a bulleted list:
