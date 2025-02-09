@@ -19,7 +19,7 @@ service = build('sheets', 'v4', credentials=creds)
 
 # Specify the spreadsheet ID and range for a single cell
 SPREADSHEET_ID = '10Y4D2n7LFb0WwZpZwNRxK1eKy0J8xjA6LZknpPuszc0'
-RANGE_NAME = "'Form Responses 1'!A1"
+RANGE_NAME = "'Form Responses 1'!B2"
 
 try:
     sheet = service.spreadsheets()
