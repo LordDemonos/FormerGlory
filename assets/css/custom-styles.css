@@ -195,7 +195,16 @@ a:hover {
 /* Default card styles */
 .card {
   background-color: #f0f0f0; /* Softer white for light mode */
-  border: 2px solid #ddd;
+  border: 3px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  color: #333;
+}
+
+.card.dark {
+  background-color: #121212; /* Softer white for light mode */
+  border: 3px solid #ddd;
   border-radius: 8px;
   padding: 15px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -279,7 +288,7 @@ body.dark .card {
 /* Specific styles for each class */
 .card.wizard li:nth-child(2) {
   background-color: #941313;
-  color: #333; /* Dark text for light mode */
+  color: #fff; /* Dark text for light mode */
 }
 
 body.dark .card.wizard li:nth-child(2) {
@@ -288,7 +297,7 @@ body.dark .card.wizard li:nth-child(2) {
 
 .card.warrior li:nth-child(2) {
   background-color: #946b29;
-  color: #333;
+  color: #fff;
 }
 
 body.dark .card.warrior li:nth-child(2) {
@@ -297,7 +306,7 @@ body.dark .card.warrior li:nth-child(2) {
 
 .card.shaman li:nth-child(2) {
   background-color: #642e06;
-  color: #333;
+  color: #fff;
 }
 
 body.dark .card.shaman li:nth-child(2) {
@@ -306,7 +315,7 @@ body.dark .card.shaman li:nth-child(2) {
 
 .card.shadow-knight li:nth-child(2) {
   background-color: #8c3030;
-  color: #333;
+  color: #fff;
 }
 
 body.dark .card.shadow-knight li:nth-child(2) {
@@ -315,7 +324,7 @@ body.dark .card.shadow-knight li:nth-child(2) {
 
 .card.rogue li:nth-child(2) {
   background-color: #8c8c30;
-  color: #333;
+  color: #fff;
 }
 
 body.dark .card.rogue li:nth-child(2) {
@@ -324,7 +333,7 @@ body.dark .card.rogue li:nth-child(2) {
 
 .card.ranger li:nth-child(2) {
   background-color: #156f1d;
-  color: #333;
+  color: #fff;
 }
 
 body.dark .card.ranger li:nth-child(2) {
@@ -342,7 +351,7 @@ body.dark .card.paladin li:nth-child(2) {
 
 .card.necromancer li:nth-child(2) {
   background-color: #5b308c;
-  color: #333;
+  color: #fff;
 }
 
 body.dark .card.necromancer li:nth-child(2) {
@@ -351,7 +360,7 @@ body.dark .card.necromancer li:nth-child(2) {
 
 .card.monk li:nth-child(2) {
   background-color: #a45711;
-  color: #333;
+  color: #fff;
 }
 
 body.dark .card.monk li:nth-child(2) {
@@ -360,7 +369,7 @@ body.dark .card.monk li:nth-child(2) {
 
 .card.magician li:nth-child(2) {
   background-color: #167e8d;
-  color: #333;
+  color: #fff;
 }
 
 body.dark .card.magician li:nth-child(2) {
@@ -369,7 +378,7 @@ body.dark .card.magician li:nth-child(2) {
 
 .card.enchanter li:nth-child(2) {
   background-color: #00a5a9;
-  color: #333;
+  color: #fff;
 }
 
 body.dark .card.enchanter li:nth-child(2) {
@@ -378,7 +387,7 @@ body.dark .card.enchanter li:nth-child(2) {
 
 .card.druid li:nth-child(2) {
   background-color: #39b343;
-  color: #333;
+  color: #fff;
 }
 
 body.dark .card.druid li:nth-child(2) {
@@ -387,7 +396,7 @@ body.dark .card.druid li:nth-child(2) {
 
 .card.cleric li:nth-child(2) {
   background-color: #30388c;
-  color: #333;
+  color: #fff;
 }
 
 body.dark .card.cleric li:nth-child(2) {
@@ -396,7 +405,7 @@ body.dark .card.cleric li:nth-child(2) {
 
 .card.bard li:nth-child(2) {
   background-color: #20d4be;
-  color: #333;
+  color: #fff;
 }
 
 body.dark .card.bard li:nth-child(2) {
