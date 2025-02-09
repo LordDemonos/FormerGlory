@@ -24,9 +24,17 @@ RANGE_NAME = "'Form Responses 1'!A2:G10"  # Start from A2 to skip headers
 
 # Define the zone-day mapping
 zone_day_mapping = {
-    "Plane of Sky": "Wednesday",
     "Plane of Hate": "Saturday",
-    # Add more mappings as needed
+    "Plane of Fear": "Saturday",
+    "Plane of Sky": "Wednesday",
+    "Kithicor Forest": "Wednesday",
+    "Lake of Ill Omen": "Wednesday",
+    "Skyfire": "Monday/Friday",
+    "City of Mist": "Wednesday",
+    "Chardok": "Wednesday",
+    "Timorous Deep": "Wednesday",
+    "Karnor's Castle": "Wednesday",
+    "Sebilis": "Monday/Friday",
 }
 
 try:
@@ -55,7 +63,7 @@ try:
             file.write("---\n\n")
 
             # Write cards under each day
-            for day in ["Monday", "Wednesday", "Saturday"]:
+            for day in ["Monday/Friday", "Wednesday", "Saturday"]:
                 file.write(f"## {day}\n\n")
                 file.write('<div class="card-container">\n')
                 for row in cards_by_day.get(day, []):
