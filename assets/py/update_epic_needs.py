@@ -43,7 +43,7 @@ except Exception as e:
 
 # Specify the spreadsheet ID and range
 SPREADSHEET_ID = '10Y4D2n7LFb0WwZpZwNRxK1eKy0J8xjA6LZknpPuszc0'
-RANGE_NAME = "'Form Responses 1'!A1:Z1000"
+RANGE_NAME = "'Form Responses 1'!A1:G10"
 
 try:
     print(f"Attempting to access spreadsheet {SPREADSHEET_ID}")
@@ -54,7 +54,7 @@ try:
     print(f"Successfully retrieved {len(values)} rows of data")
 
     if not values:
-        print("No data found in spreadsheet")
+        print("No data found in the specified range.")
         exit(1)
 
     print("\nFirst few rows of data:")
