@@ -63,3 +63,26 @@
 {% endif %}
 
 </header>
+
+{% if page.title %}
+<header class="header-section">
+  <div class="intro-header no-img">
+    <div class="container-md">
+      <div class="row">
+        <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+          <div class="page-heading">
+            <h1>{{ page.title }}</h1>
+            {% if page.subtitle %}
+              <hr class="small">
+              <span class="page-subheading">{{ page.subtitle }}</span>
+            {% endif %}
+            {% if page.description %}
+              <div class="page-description">{{ page.description }}</div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+{% endif %}

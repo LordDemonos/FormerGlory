@@ -59,7 +59,8 @@ try:
             file.write("layout: page\n")
             file.write("title: Target Requests\n")
             file.write("cover-img: /assets/img/targets.webp\n")
-            file.write("subtitle: List of Target Requests\n")
+            file.write("subtitle: Submit your target requests [here](https://docs.google.com/forms/d/e/1FAIpQLSfrdGZCRdUpdJ14DtRNTurlymNWYFvUbFBp0GvLOXvZb9JApA/viewform).\n")
+            file.write("description: Please report any corrections that need to be made.\n")
             file.write("---\n\n")
 
             # Write the table of contents
