@@ -9,7 +9,7 @@ print("Script started")
 print("Current working directory:", os.getcwd())
 
 # Load credentials from the environment variable
-SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
+SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 try:
     print("Attempting to load credentials...")
     creds_content = os.environ.get('GOOGLE_CREDENTIALS')
