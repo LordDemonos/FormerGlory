@@ -17,14 +17,9 @@ try:
         print("Error: GOOGLE_CREDENTIALS environment variable is not set")
         exit(1)
     
-    # Try to parse the credentials
-    try:
-        creds_dict = eval(creds_content)
-        print("Credential keys available:", list(creds_dict.keys()))
-    except Exception as e:
-        print(f"Error parsing credentials: {str(e)}")
-        exit(1)
-
+    creds_dict = json.loads(creds_content)  # Changed from eval to json.loads
+    print("Credential keys available:", list(creds_dict.keys()))
+    
     creds = Credentials.from_service_account_info(
         creds_dict,
         scopes=SCOPES
@@ -46,24 +41,22 @@ except Exception as e:
 
 # Specify the spreadsheet ID and range
 SPREADSHEET_ID = '10Y4D2n7LFb0WwZpZwNRxK1eKy0J8xjA6LZknpPuszc0'
-RANGE_NAME = "'Form Responses 1'!A1:Z1000"  # Updated sheet name to match exactly
+RANGE_NAME = "'Form Responses 1'!A1:Z1000"
 
 try:
     print(f"Attempting to access spreadsheet {SPREADSHEET_ID}")
     print(f"Using range: {RANGE_NAME}")
-    # Call the Sheets API
     sheet = service.spreadsheets()
     result = sheet.values().get(spreadsheetId=SPREADSHEET_ID, range=RANGE_NAME).execute()
     values = result.get('values', [])
     print(f"Successfully retrieved {len(values)} rows of data")
 
-    # Debug: Print the first few rows of data
     print("\nFirst few rows of data:")
-    for i, row in enumerate(values[:3]):  # Print first 3 rows
+    for i, row in enumerate(values[:3]):
         print(f"Row {i}: {row}")
     print("\nColumn headers:")
     if values:
-        print(values[0])  # Print headers
+        print(values[0])
 
     if not values:
         print("No data found in spreadsheet")
@@ -84,7 +77,6 @@ zone_groupings = {
     "Sat": ["Plane of Hate", "Plane of Fear"]
 }
 
-# Debug: Print zone groupings
 print("\nZone groupings:")
 for day, zones in zone_groupings.items():
     print(f"{day}: {zones}")
@@ -92,7 +84,6 @@ for day, zones in zone_groupings.items():
 # Organize data by group and zone
 grouped_data = {group: {zone: [] for zone in zones} for group, zones in zone_groupings.items()}
 
-# Debug: Print row processing
 print("\nProcessing rows:")
 for row in values[1:]:  # Skip header row
     print(f"\nProcessing row: {row}")
@@ -110,7 +101,6 @@ for row in values[1:]:  # Skip header row
             print(f"Found zone {zone} in group {group}")
             grouped_data[group][zone].append(row)
 
-# Debug: Print grouped data
 print("\nGrouped data:")
 for group, zones in grouped_data.items():
     print(f"\n{group}:")
@@ -123,7 +113,7 @@ markdown_output = []
 markdown_output.append('---')
 markdown_output.append('layout: page')
 markdown_output.append('title: Epic Mob Requests')
-markdown_output.append('permalink: /epic-needs/')
+markdown_output.append('permalink: /targets/')  # Updated permalink
 markdown_output.append('last_updated: ' + datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 markdown_output.append('---\n')
 
