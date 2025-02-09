@@ -4,12 +4,13 @@ title: Target Requests
 cover-img: /assets/img/targets.webp
 ---
 
-### Submit your target requests [here](https://docs.google.com/forms/d/e/1FAIpQLSfrdGZCRdUpdJ14DtRNTurlymNWYFvUbFBp0GvLOXvZb9JApA/viewform).
-
-<div style="display: flex; justify-content: space-around; font-size: 1.25em; margin-bottom: 20px;">
-<a href="#monday-friday">Monday/Friday</a>
-<a href="#wednesday">Wednesday</a>
-<a href="#saturday">Saturday</a>
+<div style="display: flex; justify-content: space-between; align-items: center; font-size: 1.25em; margin-bottom: 20px;">
+  <div style="display: flex; gap: 20px;">
+    <a href="#monday-friday">Monday/Friday</a>
+    <a href="#wednesday">Wednesday</a>
+    <a href="#saturday">Saturday</a>
+  </div>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrdGZCRdUpdJ14DtRNTurlymNWYFvUbFBp0GvLOXvZb9JApA/viewform">Request Form</a>
 </div>
 
 <h2 id="monday-friday">Monday/Friday</h2>
