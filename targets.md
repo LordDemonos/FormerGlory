@@ -6,7 +6,7 @@ subtitle: List of Target Requests
 ---
 
 <div class="card-container">
-  <div class="card">
+  <div class="card magician">
     <ul>
       <li>Xanax (Xanamaniac)</li>
       <li>Magician</li>
@@ -15,7 +15,7 @@ subtitle: List of Target Requests
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
-  <div class="card">
+  <div class="card magician">
     <ul>
       <li>Xanax (Xanamaniac)</li>
       <li>Magician</li>
