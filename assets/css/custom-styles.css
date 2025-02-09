@@ -226,6 +226,7 @@ body.dark .card {
 
 .card.magician li:nth-child(2) {
   color: #8dd0ff; /* Color the second line of text */
+  text-shadow: 1px 1px 2px #000; /* Add a black shadow for readability */
 }
 
 
