@@ -29,10 +29,15 @@ try:
     if not values:
         print("No data found in the specified range.")
     else:
-        print("Retrieved data as a bulleted list:\n")
-        for row in values:
-            # Join each row's values with a tab and print as a bullet point
-            print(f"- {'\t'.join(row)}\n")
+        # Open the file in write mode
+        with open('targets.md', 'w') as file:
+            file.write("# Targets\n\n")
+            file.write("Retrieved data as a bulleted list:\n\n")
+            for row in values:
+                # Join each row's values with a tab and write as a bullet point
+                file.write(f"- {'\t'.join(row)}\n")
+
+        print("Data successfully written to targets.md")
 
 except Exception as e:
     print(f"Error accessing spreadsheet: {str(e)}")
