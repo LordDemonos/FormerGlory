@@ -62,9 +62,17 @@ try:
             file.write("subtitle: List of Target Requests\n")
             file.write("---\n\n")
 
+            # Write the table of contents
+            file.write('<div style="display: flex; justify-content: space-around; font-size: 1.25em; margin-bottom: 20px;">\n')
+            for day in ["Monday/Friday", "Wednesday", "Saturday"]:
+                anchor = day.lower().replace("/", "-")
+                file.write(f'<a href="#{anchor}">{day}</a>\n')
+            file.write('</div>\n\n')
+
             # Write cards under each day
             for day in ["Monday/Friday", "Wednesday", "Saturday"]:
-                file.write(f"## {day}\n\n")
+                anchor = day.lower().replace("/", "-")
+                file.write(f'<h2 id="{anchor}">{day}</h2>\n\n')
                 file.write('<div class="card-container">\n')
                 for row in cards_by_day.get(day, []):
                     class_name = row[2].lower().replace(" ", "-")
