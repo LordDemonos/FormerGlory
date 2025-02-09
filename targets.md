@@ -2,9 +2,9 @@
 layout: page
 title: Target Requests
 cover-img: /assets/img/targets.webp
-subtitle: Submit your target requests [here](https://docs.google.com/forms/d/e/1FAIpQLSfrdGZCRdUpdJ14DtRNTurlymNWYFvUbFBp0GvLOXvZb9JApA/viewform).
-description: Please report any corrections that need to be made.
 ---
+
+### Submit your target requests [here](https://docs.google.com/forms/d/e/1FAIpQLSfrdGZCRdUpdJ14DtRNTurlymNWYFvUbFBp0GvLOXvZb9JApA/viewform).
 
 <div style="display: flex; justify-content: space-around; font-size: 1.25em; margin-bottom: 20px;">
 <a href="#monday-friday">Monday/Friday</a>
