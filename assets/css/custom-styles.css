@@ -196,15 +196,12 @@ a:hover {
   background-color: #f0f0f0;
   border: 3px solid;
   border-radius: 8px;
-  padding: 4px;
+  padding: 12px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   color: #333;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 0.875rem;
-  line-height: 1.2;
-  font-weight: 400;
-  display: flex; /* Add flex display */
-  flex-direction: column; /* Stack children vertically */
+  font-size: 0.9375rem; /* 15px */
+  line-height: 1.5;
 }
 
 /* Dark mode card styles */
@@ -218,28 +215,34 @@ a:hover {
   list-style-type: none;
   padding: 0;
   margin: 0;
-  flex-grow: 1; /* Allow list to fill available space */
-  display: flex; /* Add flex display */
-  flex-direction: column; /* Stack list items vertically */
-  gap: 2px; /* Add small gap between items */
+  display: flex;
+  flex-direction: column;
+  gap: 4px; /* Consistent spacing between items */
 }
 
 .card li {
-  padding: 1px 3px;
-  border-radius: 2px;
-  letter-spacing: 0.01em;
-  margin: 0;
+  padding: 4px 8px;
+  border-radius: 4px;
 }
 
-/* First item (name) slightly more prominent */
+/* Make specific lines match page background */
+.card li:nth-child(1),
+.card li:nth-child(3),
+.card li:nth-child(4),
+.card li:nth-child(5) {
+  background-color: #fff;
+}
+
+[data-theme="dark"] .card li:nth-child(1),
+[data-theme="dark"] .card li:nth-child(3),
+[data-theme="dark"] .card li:nth-child(4),
+[data-theme="dark"] .card li:nth-child(5) {
+  background-color: #222;
+}
+
+/* First item (name) styling */
 .card li:first-child {
-  font-weight: 500;
-  margin-top: 0;
-}
-
-/* Remove any bottom margin from last item */
-.card li:last-child {
-  margin-bottom: 0;
+  font-weight: 600;
 }
 
 /* Class-specific styles */
