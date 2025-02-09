@@ -219,14 +219,4 @@ body.dark .card {
   color: #f9f9f9;
 }
 
-/* Specific styles for Magician */
-.card.magician {
-  border-color: #8dd0ff;
-}
-
-.card.magician li:nth-child(2) {
-  color: #8dd0ff; /* Color the second line of text */
-  text-shadow: 1px 1px 2px #000; /* Add a black shadow for readability */
-}
-
 
