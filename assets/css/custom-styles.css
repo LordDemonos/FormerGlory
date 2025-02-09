@@ -170,7 +170,7 @@ a:hover {
 }
 
 .request-card li {
-  margin-bottom: 5px;
+  margin-bottom: 0px;
 }
 
 @media (max-width: 768px) {
@@ -197,8 +197,13 @@ a:hover {
   background-color: #f0f0f0;
   border: 3px solid;
   border-radius: 8px;
+  padding: 15px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   color: #333;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.875rem; /* 14px */
+  line-height: 1.4;
+  font-weight: 400;
 }
 
 /* Dark mode card styles */
@@ -217,7 +222,13 @@ a:hover {
 .card li {
   margin-bottom: 5px;
   padding: 5px;
+  border-radius: 4px;
+  letter-spacing: 0.01em; /* Slight letter spacing for better readability */
+}
 
+/* First item (name) slightly more prominent */
+.card li:first-child {
+  font-weight: 500;
 }
 
 /* Class-specific styles */
