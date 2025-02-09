@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Epic Mob Requests
-permalink: /epic-needs/
-last_updated: 2025-02-09 00:00:06
+permalink: /targets/
+last_updated: 2025-02-09 00:04:04
 ---
 
 ## Table of Contents
