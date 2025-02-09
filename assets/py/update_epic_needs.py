@@ -17,8 +17,19 @@ try:
         print("Error: GOOGLE_CREDENTIALS environment variable is not set")
         exit(1)
     
-    creds_dict = json.loads(creds_content)
-    print("Credential keys available:", list(creds_dict.keys()))
+    # Write credentials to a temporary file for debugging
+    with open('temp_creds.json', 'w') as f:
+        f.write(creds_content)
+    print("Wrote credentials to temp file for verification")
+    
+    try:
+        creds_dict = json.loads(creds_content)
+        print("Successfully parsed credentials JSON")
+        print("Available keys:", list(creds_dict.keys()))
+    except json.JSONDecodeError as e:
+        print("Failed to parse credentials JSON:", str(e))
+        print("First 100 characters of credentials:", creds_content[:100])
+        exit(1)
     
     creds = Credentials.from_service_account_info(
         creds_dict,
@@ -28,6 +39,7 @@ try:
 
 except Exception as e:
     print(f"Error setting up credentials: {str(e)}")
+    print("Exception type:", type(e).__name__)
     exit(1)
 
 # Build the service
