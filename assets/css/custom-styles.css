@@ -195,7 +195,7 @@ a:hover {
 /* Default card styles */
 .card {
   background-color: #f9f9f9;
-  border: 1px solid #ddd;
+  border: 2px solid #ddd; /* Thicker border */
   border-radius: 8px;
   padding: 15px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -215,13 +215,17 @@ a:hover {
 /* Dark mode styles */
 body.dark .card {
   background-color: #333;
-  border: 1px solid #555;
+  border: 2px solid #555; /* Thicker border */
   color: #f9f9f9;
 }
 
 /* Specific styles for Magician */
 .card.magician {
   border-color: #8dd0ff;
+}
+
+.card.magician li:nth-child(2) {
+  color: #8dd0ff; /* Color the second line of text */
 }
 
 
