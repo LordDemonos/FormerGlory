@@ -19,7 +19,7 @@ service = build('sheets', 'v4', credentials=creds)
 
 # Specify the spreadsheet ID and range for the data
 SPREADSHEET_ID = '10Y4D2n7LFb0WwZpZwNRxK1eKy0J8xjA6LZknpPuszc0'
-RANGE_NAME = "'Form Responses 1'!B2:G10"  # Adjust the range as needed, starting from A2 to skip headers
+RANGE_NAME = "'Form Responses 1'!A2:G10"  # Adjust the range as needed, starting from A2 to skip headers
 
 try:
     sheet = service.spreadsheets()
