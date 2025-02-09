@@ -1,20 +1,7 @@
----
-layout: page
-title: Epic Mob Requests
-cover-img: /assets/img/targets.webp
-subtitle: List of raid target requests
-last_updated: 2025-02-09 05:43:19
----
+# Targets
 
-## Table of Contents
+Retrieved data as a bulleted list:
 
-- [Mon/Fri](#mon-fri)
-- [Wed](#wed)
-- [Sat](#sat)
-
-
-## Mon/Fri
-
-## Wed
-
-## Sat
+- Timestamp	Character Name (If this is an alt, add your main as well please)	Class	Zone	Target	Availability	Status
+- 2/8/2025 2:21:44	Xanax (Xanamaniac)	Magician	Plane of Sky	Crown of Elemental Mastery	Mon, Wed, Fri, Sat
+- 2/8/2025 2:22:04	Xanax (Xanamaniac)	Magician	Plane of Hate	Innoruuk - Staff of Elemental Mastery: Earth	Mon, Wed, Fri, Sat
