@@ -217,12 +217,12 @@ a:hover {
 
 .card li {
   margin-bottom: 5px;
-  padding: 5px;
+  padding: 0px;
   border-radius: 4px;
 }
 
 /* Class-specific styles */
-.card.wizard li:nth-child(2) { background-color: #941313 40px; color: #121212; }
+.card.wizard li:nth-child(2) { background-color: #941313; color: #fff; }
 .card.warrior li:nth-child(2) { background-color: #946b29; color: #fff; }
 .card.shaman li:nth-child(2) { background-color: #642e06; color: #fff; }
 .card.shadow-knight li:nth-child(2) { background-color: #8c3030; color: #fff; }
@@ -234,7 +234,7 @@ a:hover {
 .card.magician li:nth-child(2) { background-color: #167e8d; color: #fff; }
 .card.enchanter li:nth-child(2) { background-color: #00a5a9; color: #fff; }
 .card.druid li:nth-child(2) { background-color: #39b343; color: #fff; }
-.card.cleric li:nth-child(2) { background-color: #30388c 40px; color: #121212; }
+.card.cleric li:nth-child(2) { background-color: #30388c; color: #fff; }
 .card.bard li:nth-child(2) { background-color: #20d4be; color: #fff; }
 
 /* Border colors */
