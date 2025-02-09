@@ -184,6 +184,7 @@ a:hover {
     width: 100%;
   }
 }
+
 .card-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -194,7 +195,7 @@ a:hover {
 /* Default card styles */
 .card {
   background-color: #121212;
-  border: 3px solid;
+  border: 5px solid;
   border-radius: 8px;
   padding: 12px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
