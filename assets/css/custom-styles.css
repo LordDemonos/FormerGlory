@@ -234,7 +234,7 @@ a:hover {
 .card.magician li:nth-child(2) { background-color: #167e8d; color: #fff; }
 .card.enchanter li:nth-child(2) { background-color: #00a5a9; color: #fff; }
 .card.druid li:nth-child(2) { background-color: #39b343; color: #fff; }
-.card.cleric li:nth-child(2) { background-color: #30388c; color: #fff; }
+.card.cleric li:nth-child(2) { background-color: #30388c 40px; color: #121212; }
 .card.bard li:nth-child(2) { background-color: #20d4be; color: #fff; }
 
 /* Border colors */
