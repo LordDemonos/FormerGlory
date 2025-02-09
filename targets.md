@@ -5,12 +5,18 @@ cover-img: /assets/img/targets.webp
 subtitle: List of Target Requests
 ---
 
-## Monday/Friday
+<div style="display: flex; justify-content: space-around; font-size: 1.25em; margin-bottom: 20px;">
+<a href="#monday-friday">Monday/Friday</a>
+<a href="#wednesday">Wednesday</a>
+<a href="#saturday">Saturday</a>
+</div>
+
+<h2 id="monday-friday">Monday/Friday</h2>
 
 <div class="card-container">
 </div>
 
-## Wednesday
+<h2 id="wednesday">Wednesday</h2>
 
 <div class="card-container">
   <div class="card magician">
@@ -24,7 +30,7 @@ subtitle: List of Target Requests
   </div>
 </div>
 
-## Saturday
+<h2 id="saturday">Saturday</h2>
 
 <div class="card-container">
   <div class="card magician">
