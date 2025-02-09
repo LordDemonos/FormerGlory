@@ -5,7 +5,7 @@ cover-img: /assets/img/targets.webp
 subtitle: List of Target Requests
 ---
 
-## Monday
+## Monday/Friday
 
 <div class="card-container">
 </div>
