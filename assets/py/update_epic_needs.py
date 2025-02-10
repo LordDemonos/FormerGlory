@@ -46,8 +46,12 @@ def process_sheet(sheet):
     
     # Skip header row
     for row in sheet.iter_rows(min_row=2, values_only=True):
-        # Check if there's a value in the Status column (column G, index 6)
-        if row[6]:  # If Status column has any value, skip this row
+        # Debugging: Print the row to see its contents
+        print("Processing row:", row)
+        
+        # Check if there's a value in the Completed column (column G, index 6)
+        if row[6] is not None and row[6] != "":
+            print("Skipping row due to Completed column:", row)
             continue
             
         name = row[0]
