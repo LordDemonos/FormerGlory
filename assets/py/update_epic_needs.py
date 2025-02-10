@@ -61,7 +61,8 @@ try:
             file.write("subtitle: Submit your requests for raid night\n")
             file.write("cover-img: /assets/img/targets.webp\n")
             file.write("---\n\n")
-
+            # Add the table of contents heading
+            file.write('<div class="toc-heading">Table of Contents - Jump to a Raid Night</div>\n')
             # Write the submission link and table of contents in one flex container
             file.write('<div style="display: flex; justify-content: space-between; align-items: center; font-size: 1.25em; margin-bottom: 20px;">\n')
             file.write('  <div style="display: flex; gap: 20px; flex: 1;">\n')
@@ -89,9 +90,6 @@ try:
                     file.write('    </ul>\n')
                     file.write('  </div>\n')
                 file.write('</div>\n\n')
-
-            # Add the table of contents heading
-            file.write('<div class="toc-heading">Table of Contents - Jump to a Raid Night</div>\n')
 
         print("Data successfully written to targets.md with front matter")
 
