@@ -4,6 +4,7 @@ title: Target Requests
 subtitle: Submit your requests for raid night
 cover-img: /assets/img/targets.webp
 ---
+
 <div class="toc-heading">Table of Contents - Jump to a Raid Night</div>
 <div style="display: flex; justify-content: space-between; align-items: center; font-size: 1.25em; margin-bottom: 20px;">
   <div style="display: flex; gap: 20px; flex: 1;">
@@ -81,6 +82,7 @@ cover-img: /assets/img/targets.webp
       <li>Plane of Hate</li>
       <li>Innoruuk - Staff of Elemental Mastery: Earth</li>
       <li>Mon, Wed, Fri, Sat</li>
+      <li>Xanax</li>
     </ul>
   </div>
   <div class="card enchanter">
@@ -102,5 +104,4 @@ cover-img: /assets/img/targets.webp
     </ul>
   </div>
 </div>
-
 
