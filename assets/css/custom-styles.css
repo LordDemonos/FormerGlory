@@ -365,6 +365,14 @@ a:hover {
   text-decoration: none;
 }
 
+/* TOC heading text */
+.toc-heading {
+  font-family: "Fira Sans", var(--md-text-font);
+  font-size: 0.95rem;
+  color: var(--link-col);
+  margin: 1.5em 0 0.5em 0;
+}
+
 /* TOC description text */
 .toc-description {
   font-family: "Fira Sans", var(--md-text-font);
@@ -382,7 +390,7 @@ a:hover {
   font-family: "Fira Sans", var(--md-text-font);
   font-weight: 600;
   font-size: 1.1rem;
-  color: var(--md-primary-fg-color);
+  color: var(--link-col);  /* Match the link color */
   text-decoration: none;
   transition: color 0.2s ease;
   display: inline-block;
@@ -398,7 +406,7 @@ a:hover {
   font-family: "Fira Sans", var(--md-text-font);
   font-weight: 600;
   font-size: 1.1rem;
-  color: var(--md-primary-fg-color);
+  color: var(--link-col);  /* Match the link color */
   text-decoration: none;
   transition: color 0.2s ease;
 }
