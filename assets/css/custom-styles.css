@@ -364,3 +364,45 @@ a:hover {
   color: var(--md-accent-fg-color);
   text-decoration: none;
 }
+
+/* TOC description text */
+.toc-description {
+  font-family: "Fira Sans", var(--md-text-font);
+  font-size: 0.95rem;
+  color: var(--link-col);
+  margin: 1.5em 0 0.5em 0;
+}
+
+/* Raid day anchor links */
+.raid-day-links {
+  margin: 1em 0;
+}
+
+.raid-day-links a {
+  font-family: "Fira Sans", var(--md-text-font);
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: var(--md-primary-fg-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+  display: inline-block;
+  margin: 0.3em 0;
+}
+
+.raid-day-links a:hover {
+  color: var(--md-accent-fg-color);
+}
+
+/* Request form link */
+.request-form-link a {
+  font-family: "Fira Sans", var(--md-text-font);
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: var(--md-primary-fg-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.request-form-link a:hover {
+  color: var(--md-accent-fg-color);
+}
