@@ -96,6 +96,10 @@ body {
   color: var(--text-col);
 }
 
+a {
+  color: var(--link-col);
+}
+
 a:hover {
   color: var(--hover-col);
 }
@@ -194,7 +198,7 @@ a:hover {
   border-radius: 8px;
   padding: 0;  /* Removed padding from card */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  font-family: "Fira Sans", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 0.9375rem;
   line-height: 1.5;
   background: #121212;
@@ -359,13 +363,4 @@ a:hover {
 .md-content .toc a:hover {
   color: var(--md-accent-fg-color);
   text-decoration: none;
-}
-
-/* Add to existing CSS */
-a {
-  color: var(--link-col);
-  font-family: "Fira Sans", sans-serif;
-  font-size: 1.2rem;
-  font-weight: 600;
-  margin: 1.5em 0 0.5em 0;
 }
