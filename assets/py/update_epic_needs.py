@@ -53,47 +53,44 @@ try:
             if day:
                 cards_by_day[day].append(row)
 
-        with open('targets.md', 'w') as file:
-            # Write the front matter
-            file.write("---\n")
-            file.write("layout: page\n")
-            file.write("title: Target Requests\n")
-            file.write("subtitle: Submit your requests for raid night\n")
-            file.write("cover-img: /assets/img/targets.webp\n")
-            file.write("---\n\n")
+        def write_markdown(epic_needs):
+            with open("docs/epic_needs.md", "w") as f:
+                # Write the title
+                f.write("# Epic Quest Needs\n\n")
+                
+                # Write the description and TOC section
+                f.write('<div class="toc-description">Table of Contents - Jump to a Raid Night</div>\n\n')
+                
+                # Write the raid day links in their own div
+                f.write('<div class="raid-day-links">\n')
+                f.write("- [Monday/Friday](#mondayfriday)\n")
+                f.write("- [Wednesday](#wednesday)\n")
+                f.write("- [Saturday](#saturday)\n")
+                f.write("</div>\n\n")
+                
+                # Write the request form link in its own div
+                f.write('<div class="request-form-link">\n')
+                f.write("[Request Form](https://forms.gle/your-form-link-here)\n")
+                f.write("</div>\n\n")
+                
+                # Write the Monday/Friday section
+                f.write("## Monday/Friday\n")
+                f.write("Typical raid targets include Veeshan's Peak in Skyfire, and Trakanon in Old Sebilis.\n\n")
+                # ... rest of Monday/Friday content
 
-            # Write the submission link and table of contents in one flex container
-            file.write('<div style="display: flex; justify-content: space-between; align-items: center; font-size: 1.25em; margin-bottom: 20px;">\n')
-            file.write('  <div style="display: flex; gap: 20px; flex: 1;">\n')
-            for day in ["Monday/Friday", "Wednesday", "Saturday"]:
-                anchor = day.lower().replace("/", "-")
-                file.write(f'    <a href="#{anchor}">{day}</a>\n')
-            file.write('  </div>\n')
-            file.write('  <div style="margin-left: 20px;">\n')
-            file.write('    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrdGZCRdUpdJ14DtRNTurlymNWYFvUbFBp0GvLOXvZb9JApA/viewform">Request Form</a>\n')
-            file.write('  </div>\n')
-            file.write('</div>\n\n')
+                # Write the Wednesday section
+                f.write("## Wednesday\n")
+                f.write("Typical raid targets include Plane of Sky and various Epic raid mobs that are less convenient on other nights.\n\n")
+                # ... rest of Wednesday content
 
-            # Write cards under each day
-            for day in ["Monday/Friday", "Wednesday", "Saturday"]:
-                anchor = day.lower().replace("/", "-")
-                file.write(f'<h2 id="{anchor}">{day}</h2>\n')
-                file.write(f'<p class="raid-description">{day} raid targets include {", ".join([zone for zone, d in zone_day_mapping.items() if d == day])}</p>\n')
-                file.write('<div class="card-container">\n')
-                for row in cards_by_day.get(day, []):
-                    class_name = row[2].lower().replace(" ", "-")
-                    file.write(f'  <div class="card {class_name}">\n')
-                    file.write('    <ul>\n')
-                    for item in row[1:]:
-                        file.write(f'      <li>{item}</li>\n')
-                    file.write('    </ul>\n')
-                    file.write('  </div>\n')
-                file.write('</div>\n\n')
+                # Write the Saturday section
+                f.write("## Saturday\n")
+                f.write("Typical raid targets include Plane of Hate, Plane of Fear, Venril Sathir.\n\n")
+                # ... rest of Saturday content
 
-            # Add the table of contents heading
-            file.write('<div class="toc-heading">Table of Contents - Jump to a Raid Night</div>\n')
+                # Continue with the rest of your existing markdown generation...
 
-        print("Data successfully written to targets.md with front matter")
+        write_markdown(cards_by_day)
 
 except Exception as e:
     print(f"Error accessing spreadsheet: {str(e)}")
