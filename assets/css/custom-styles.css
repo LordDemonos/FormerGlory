@@ -96,10 +96,6 @@ body {
   color: var(--text-col);
 }
 
-a {
-  color: var(--link-col);
-}
-
 a:hover {
   color: var(--hover-col);
 }
@@ -367,6 +363,7 @@ a:hover {
 
 /* Add to existing CSS */
 a {
+  color: var(--link-col);
   font-family: var(--md-text-font);
   font-size: 1.2rem;
   font-weight: 600;
