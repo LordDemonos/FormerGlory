@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Target Requests
+subtitle: Submit your requests for raid night
 cover-img: /assets/img/targets.webp
 ---
 
@@ -16,7 +17,7 @@ cover-img: /assets/img/targets.webp
 </div>
 
 <h2 id="monday-friday">Monday/Friday</h2>
-
+<p class="raid-description">Monday/Friday raid targets include Skyfire, Sebilis</p>
 <div class="card-container">
   <div class="card cleric">
     <ul>
@@ -39,7 +40,7 @@ cover-img: /assets/img/targets.webp
 </div>
 
 <h2 id="wednesday">Wednesday</h2>
-
+<p class="raid-description">Wednesday raid targets include Plane of Sky, Kithicor Forest, Lake of Ill Omen, City of Mist, Chardok, Timorous Deep, Karnor's Castle</p>
 <div class="card-container">
   <div class="card magician">
     <ul>
@@ -71,7 +72,7 @@ cover-img: /assets/img/targets.webp
 </div>
 
 <h2 id="saturday">Saturday</h2>
-
+<p class="raid-description">Saturday raid targets include Plane of Hate, Plane of Fear</p>
 <div class="card-container">
   <div class="card magician">
     <ul>
@@ -102,3 +103,4 @@ cover-img: /assets/img/targets.webp
   </div>
 </div>
 
+<div class="toc-heading">Table of Contents - Jump to a Raid Night</div>
