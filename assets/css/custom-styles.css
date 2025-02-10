@@ -334,3 +334,42 @@ a:hover {
   color: #777;
   font-weight: 300;
 }
+
+/* Add to existing CSS */
+.raid-description {
+  font-size: 0.875rem;
+  color: #a0a0a0;
+  margin: 4px 0 12px 0;
+  line-height: 1.4;
+  padding: 0 12px;
+}
+
+/* Add to existing CSS */
+.md-content .toc {
+  font-family: var(--md-text-font);
+  margin: 1em 0;
+}
+
+.md-content .toc a {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--md-primary-fg-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+  display: inline-block;
+  margin: 0.3em 0;
+}
+
+.md-content .toc a:hover {
+  color: var(--md-accent-fg-color);
+  text-decoration: none;
+}
+
+/* Add to existing CSS */
+.toc-heading {
+  font-family: var(--md-text-font);
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--md-primary-fg-color);
+  margin: 1.5em 0 0.5em 0;
+}

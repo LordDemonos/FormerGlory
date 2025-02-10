@@ -76,7 +76,8 @@ try:
             # Write cards under each day
             for day in ["Monday/Friday", "Wednesday", "Saturday"]:
                 anchor = day.lower().replace("/", "-")
-                file.write(f'<h2 id="{anchor}">{day}</h2>\n\n')
+                file.write(f'<h2 id="{anchor}">{day}</h2>\n')
+                file.write(f'<p class="raid-description">{day} raid targets include {", ".join([zone for zone, d in zone_day_mapping.items() if d == day])}</p>\n')
                 file.write('<div class="card-container">\n')
                 for row in cards_by_day.get(day, []):
                     class_name = row[2].lower().replace(" ", "-")
@@ -87,6 +88,9 @@ try:
                     file.write('    </ul>\n')
                     file.write('  </div>\n')
                 file.write('</div>\n\n')
+
+            # Add the table of contents heading
+            file.write('<div class="toc-heading">Table of Contents - Jump to a Raid Night</div>\n')
 
         print("Data successfully written to targets.md with front matter")
 
