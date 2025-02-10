@@ -366,7 +366,6 @@ a {
   color: var(--link-col);
   font-family: "Fira Sans", sans-serif;
   font-size: 1.2rem;
-  font-weight: 600;
-  color: var(--md-primary-fg-color);
+  font-weight: 1500;
   margin: 1.5em 0 0.5em 0;
 }
