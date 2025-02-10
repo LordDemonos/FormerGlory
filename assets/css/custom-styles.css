@@ -364,7 +364,7 @@ a:hover {
 /* Add to existing CSS */
 a {
   color: var(--link-col);
-  font-family: var(--md-text-font);
+  font-family: "Fira Sans", sans-serif;
   font-size: 1.2rem;
   font-weight: 600;
   color: var(--md-primary-fg-color);
