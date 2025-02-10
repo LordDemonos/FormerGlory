@@ -58,6 +58,7 @@ try:
             file.write("---\n")
             file.write("layout: page\n")
             file.write("title: Target Requests\n")
+            file.write("subtitle: Submit your requests for raid night\n")
             file.write("cover-img: /assets/img/targets.webp\n")
             file.write("---\n\n")
 
