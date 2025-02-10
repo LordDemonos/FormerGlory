@@ -1,0 +1,23 @@
+name: Spreadsheet Update
+
+on:
+  repository_dispatch:
+    types: [spreadsheet_updated]
+
+jobs:
+  process_spreadsheet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+      - name: Process spreadsheet
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+        run: python assets/py/update_epic_needs.py

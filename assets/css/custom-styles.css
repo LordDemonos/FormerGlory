@@ -194,15 +194,14 @@ a:hover {
 
 /* Default card styles */
 .card {
-  background-color: #121212;
-  border: 5px solid;
+  border: 3px solid;
   border-radius: 8px;
-  padding: 12px;
+  padding: 0;  /* Removed padding from card */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  color: #f0f0f0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 0.9375rem; /* 15px */
+  font-size: 0.9375rem;
   line-height: 1.5;
+  background: #121212;
 }
 
 .card ul {
@@ -211,17 +210,28 @@ a:hover {
   margin: 0;
   display: flex;
   flex-direction: column;
-  gap: 4px; /* Consistent spacing between items */
+  gap: 0;  /* Removed gap */
 }
 
 .card li {
-  padding: 4px 8px;
-  border-radius: 4px;
+  padding: 4px 12px;  /* Increased horizontal padding */
+  color: #fff;
+  background: #1a1a1a;
 }
 
-/* First item (name) styling */
+/* Remove border radius from edges that touch the card border */
 .card li:first-child {
+  border-radius: 5px 5px 0 0;  /* Only round top corners */
   font-weight: 600;
+}
+
+.card li:last-child {
+  border-radius: 0 0 5px 5px;  /* Only round bottom corners */
+}
+
+/* Middle items have no border radius */
+.card li:not(:first-child):not(:last-child) {
+  border-radius: 0;
 }
 
 /* Class-specific styles */
