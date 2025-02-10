@@ -70,6 +70,15 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri</li>
     </ul>
   </div>
+  <div class="card rogue">
+    <ul>
+      <li>Stabioh</li>
+      <li>Rogue</li>
+      <li>Kithicor Forest</li>
+      <li>General V'ghera - General's Pouch</li>
+      <li>Wed</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="saturday">Saturday</h2>
