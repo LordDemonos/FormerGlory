@@ -194,7 +194,7 @@ a:hover {
   border-radius: 8px;
   padding: 0;  /* Removed padding from card */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  font-family:  "Fira Sans", sans-serif;
+  font-family: "Fira Sans", sans-serif;
   font-size: 0.9375rem;
   line-height: 1.5;
   background: #121212;
@@ -365,7 +365,7 @@ a:hover {
 a {
   color: var(--link-col);
   font-family: "Fira Sans", sans-serif;
-  font-size: 1.3rem;
-  font-weight: 1200;
+  font-size: 1.2rem;
+  font-weight: 600;
   margin: 1.5em 0 0.5em 0;
 }
