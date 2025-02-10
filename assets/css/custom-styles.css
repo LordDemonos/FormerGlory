@@ -366,7 +366,7 @@ a:hover {
 }
 
 /* Add to existing CSS */
-.a {
+a {
   font-family: var(--md-text-font);
   font-size: 1.2rem;
   font-weight: 600;
