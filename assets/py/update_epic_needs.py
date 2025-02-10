@@ -37,6 +37,48 @@ zone_day_mapping = {
     "Sebilis": "Monday/Friday",
 }
 
+def process_sheet(sheet):
+    epic_needs = {
+        'monday_friday': [],
+        'wednesday': [],
+        'saturday': []
+    }
+    
+    # Skip header row
+    for row in sheet.iter_rows(min_row=2, values_only=True):
+        # Check if there's a value in the Status column (column G, index 6)
+        if row[6]:  # If Status column has any value, skip this row
+            continue
+            
+        name = row[0]
+        char_class = row[1]
+        zone = row[2]
+        item = row[3]
+        days = row[4]
+        
+        if not all([name, char_class, zone, item, days]):  # Skip if any required field is empty
+            continue
+            
+        days_list = [day.strip() for day in days.split(',')]
+        
+        entry = {
+            'name': name,
+            'class': char_class,
+            'zone': zone,
+            'item': item,
+            'days': days_list
+        }
+        
+        # Add to appropriate day lists
+        if any(day in ['Mon', 'Fri'] for day in days_list):
+            epic_needs['monday_friday'].append(entry)
+        if 'Wed' in days_list:
+            epic_needs['wednesday'].append(entry)
+        if 'Sat' in days_list:
+            epic_needs['saturday'].append(entry)
+    
+    return epic_needs
+
 try:
     sheet = service.spreadsheets()
     result = sheet.values().get(spreadsheetId=SPREADSHEET_ID, range=RANGE_NAME).execute()
