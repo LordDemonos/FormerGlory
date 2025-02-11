@@ -2,7 +2,7 @@ name: Update Epic Needs
 
 on:
   schedule:
-    - cron: '0 9 * * *'  # Runs at 9 AM UTC daily (4 AM EST)
+    - cron: '0 9,21 * * *'  # Runs at 9 AM UTC (5 AM EST) and 9 PM UTC (5 PM EST) daily
   workflow_dispatch:
       inputs:
         logLevel:
