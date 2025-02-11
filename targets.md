@@ -23,12 +23,12 @@ cover-img: /assets/img/targets.webp
 </div>
 
 <h2 id="wednesday">Wednesday</h2>
-<p class="raid-description">Wednesday raid targets include Plane of Sky, Kithicor Forest, Lake of Ill Omen, City of Mist, Chardok, Timorous Deep, Karnor's Castle</p>
+<p class="raid-description">Wednesday raid targets include Plane of Sky, Kithicor Forest, Lake of Ill Omen, City of Mist, Chardok, Karnor's Castle</p>
 <div class="card-container">
 </div>
 
 <h2 id="saturday">Saturday</h2>
-<p class="raid-description">Saturday raid targets include Plane of Hate, Plane of Fear</p>
+<p class="raid-description">Saturday raid targets include Plane of Hate, Plane of Fear, Timorous Deep</p>
 <div class="card-container">
 </div>
 
