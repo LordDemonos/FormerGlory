@@ -20,18 +20,16 @@ cover-img: /assets/img/targets.webp
 <h2 id="monday-friday">Monday/Friday</h2>
 <p class="raid-description">Monday/Friday raid targets include Skyfire, Sebilis</p>
 <div class="card-container">
-  <div class="card kran">
+  <div class="card cleric">
     <ul>
-      <li>2/9/2025 2:52:21</li>
       <li>Kran</li>
       <li>Cleric</li>
       <li>Skyfire</li>
       <li>Zordak Ragefire's Heart</li>
     </ul>
   </div>
-  <div class="card millerlite">
+  <div class="card cleric">
     <ul>
-      <li>2/9/2025 2:52:44</li>
       <li>Millerlite</li>
       <li>Cleric</li>
       <li>Skyfire</li>
@@ -43,27 +41,24 @@ cover-img: /assets/img/targets.webp
 <h2 id="wednesday">Wednesday</h2>
 <p class="raid-description">Wednesday raid targets include Plane of Sky, Kithicor Forest, Lake of Ill Omen, City of Mist, Chardok, Karnor's Castle</p>
 <div class="card-container">
-  <div class="card xanax-(xanamaniac)">
+  <div class="card magician">
     <ul>
-      <li>2/8/2025 2:21:44</li>
       <li>Xanax (Xanamaniac)</li>
       <li>Magician</li>
       <li>Plane of Sky</li>
       <li>Crown of Elemental Mastery</li>
     </ul>
   </div>
-  <div class="card tagnikzur">
+  <div class="card shadow-knight">
     <ul>
-      <li>2/9/2025 2:53:49</li>
       <li>Tagnikzur</li>
       <li>Shadow Knight</li>
       <li>City of Mist</li>
       <li>Lhranc - Lhranc's Token</li>
     </ul>
   </div>
-  <div class="card stabioh">
+  <div class="card rogue">
     <ul>
-      <li>2/10/2025 11:08:33</li>
       <li>Stabioh</li>
       <li>Rogue</li>
       <li>Kithicor Forest</li>
@@ -75,27 +70,24 @@ cover-img: /assets/img/targets.webp
 <h2 id="saturday">Saturday</h2>
 <p class="raid-description">Saturday raid targets include Plane of Hate, Plane of Fear, Timorous Deep</p>
 <div class="card-container">
-  <div class="card charr">
+  <div class="card enchanter">
     <ul>
-      <li>2/9/2025 2:42:14</li>
       <li>Charr</li>
       <li>Enchanter</li>
       <li>Plane of Hate</li>
       <li>a forsaken revenant - Essence of a Vampire</li>
     </ul>
   </div>
-  <div class="card tarchi">
+  <div class="card enchanter">
     <ul>
-      <li>2/9/2025 2:42:33</li>
       <li>Tarchi</li>
       <li>Enchanter</li>
       <li>Plane of Fear</li>
       <li>Wraith of a Shissar - Head of the Serpent</li>
     </ul>
   </div>
-  <div class="card soreprtar">
+  <div class="card druid">
     <ul>
-      <li>2/9/2025 2:52:05</li>
       <li>Soreprtar</li>
       <li>Druid</li>
       <li>Timorous Deep</li>
