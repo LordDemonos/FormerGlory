@@ -26,6 +26,7 @@ cover-img: /assets/img/targets.webp
       <li>Cleric</li>
       <li>Skyfire</li>
       <li>Zordak Ragefire's Heart</li>
+      <li>Mon, Fri, Sat</li>
     </ul>
   </div>
   <div class="card cleric">
@@ -34,6 +35,7 @@ cover-img: /assets/img/targets.webp
       <li>Cleric</li>
       <li>Skyfire</li>
       <li>Zordak Ragefire's Heart</li>
+      <li>Mon, Wed, Sat</li>
     </ul>
   </div>
 </div>
@@ -47,6 +49,7 @@ cover-img: /assets/img/targets.webp
       <li>Magician</li>
       <li>Plane of Sky</li>
       <li>Crown of Elemental Mastery</li>
+      <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
   <div class="card shadow-knight">
@@ -55,6 +58,7 @@ cover-img: /assets/img/targets.webp
       <li>Shadow Knight</li>
       <li>City of Mist</li>
       <li>Lhranc - Lhranc's Token</li>
+      <li>Mon, Wed, Fri</li>
     </ul>
   </div>
   <div class="card rogue">
@@ -63,6 +67,7 @@ cover-img: /assets/img/targets.webp
       <li>Rogue</li>
       <li>Kithicor Forest</li>
       <li>General V'ghera - General's Pouch</li>
+      <li>Wed</li>
     </ul>
   </div>
 </div>
@@ -76,6 +81,7 @@ cover-img: /assets/img/targets.webp
       <li>Enchanter</li>
       <li>Plane of Hate</li>
       <li>a forsaken revenant - Essence of a Vampire</li>
+      <li>Sat</li>
     </ul>
   </div>
   <div class="card enchanter">
@@ -84,6 +90,7 @@ cover-img: /assets/img/targets.webp
       <li>Enchanter</li>
       <li>Plane of Fear</li>
       <li>Wraith of a Shissar - Head of the Serpent</li>
+      <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
   <div class="card druid">
@@ -92,6 +99,7 @@ cover-img: /assets/img/targets.webp
       <li>Druid</li>
       <li>Timorous Deep</li>
       <li>Pod of Seawater</li>
+      <li>Wed, Fri, Sat</li>
     </ul>
   </div>
 </div>
