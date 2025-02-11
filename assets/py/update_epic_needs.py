@@ -94,11 +94,17 @@ try:
         # Organize cards by day
         cards_by_day = defaultdict(list)
         for row in values:
-
-            zone = row[2]  # Assuming the zone is in the third column
-            day = zone_day_mapping.get(zone)
-            if day:
-                cards_by_day[day].append(row)
+            # Ensure row has enough elements and check completed column
+            if len(row) > 6 and row[6]:
+                print(f"Skipping completed row: {row}")
+                continue
+            
+            # Only process if we have all required fields
+            if len(row) >= 5 and all(row[0:5]):
+                zone = row[2]  # Assuming the zone is in the third column
+                day = zone_day_mapping.get(zone)
+                if day:
+                    cards_by_day[day].append(row)
 
         with open('targets.md', 'w') as file:
             # Write the front matter
