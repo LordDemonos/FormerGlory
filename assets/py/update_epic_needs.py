@@ -152,10 +152,13 @@ try:
                 file.write(f'<p class="raid-description">{day} raid targets include {", ".join([zone for zone, d in zone_day_mapping.items() if d == day])}</p>\n')
                 file.write('<div class="card-container">\n')
                 for row in cards_by_day.get(day, []):
-                    class_name = row[1].lower().replace(" ", "-")
+                    # Sanitize the class name - use the class name from index 2 instead of character name
+                    # This ensures we use the class (e.g., "magician", "cleric") rather than character name
+                    class_name = row[2].lower().replace(" ", "-")
                     file.write(f'  <div class="card {class_name}">\n')
                     file.write('    <ul>\n')
-                    for item in row[0:5]:
+                    # Start from index 1 to skip the timestamp
+                    for item in row[1:5]:
                         file.write(f'      <li>{item}</li>\n')
                     file.write('    </ul>\n')
                     file.write('  </div>\n')
