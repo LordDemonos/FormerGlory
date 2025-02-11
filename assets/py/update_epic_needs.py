@@ -50,7 +50,7 @@ def process_sheet(sheet):
         print("Processing row:", row)
         
         # Check if there's a value in the Completed column (column G, index 6)
-        if row[6] is not None and row[6] != "":
+        if row[6]:  # If Completed column has any value, skip this row
             print("Skipping row due to Completed column:", row)
             continue
             
@@ -94,7 +94,11 @@ try:
         # Organize cards by day
         cards_by_day = defaultdict(list)
         for row in values:
-            zone = row[3]  # Assuming the zone is in the fourth column
+            # Skip rows with a value in the Completed column
+            if len(row) > 6 and row[6]:
+                continue
+
+            zone = row[2]  # Assuming the zone is in the third column
             day = zone_day_mapping.get(zone)
             if day:
                 cards_by_day[day].append(row)
@@ -128,10 +132,10 @@ try:
                 file.write(f'<p class="raid-description">{day} raid targets include {", ".join([zone for zone, d in zone_day_mapping.items() if d == day])}</p>\n')
                 file.write('<div class="card-container">\n')
                 for row in cards_by_day.get(day, []):
-                    class_name = row[2].lower().replace(" ", "-")
+                    class_name = row[1].lower().replace(" ", "-")
                     file.write(f'  <div class="card {class_name}">\n')
                     file.write('    <ul>\n')
-                    for item in row[1:]:
+                    for item in row[0:5]:
                         file.write(f'      <li>{item}</li>\n')
                     file.write('    </ul>\n')
                     file.write('  </div>\n')
