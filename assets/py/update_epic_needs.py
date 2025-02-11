@@ -32,7 +32,7 @@ zone_day_mapping = {
     "Skyfire": "Monday/Friday",
     "City of Mist": "Wednesday",
     "Chardok": "Wednesday",
-    "Timorous Deep": "Wednesday",
+    "Timorous Deep": "Saturday",
     "Karnor's Castle": "Wednesday",
     "Sebilis": "Monday/Friday",
 }
@@ -94,9 +94,6 @@ try:
         # Organize cards by day
         cards_by_day = defaultdict(list)
         for row in values:
-            # Skip rows with a value in the Completed column
-            if len(row) > 6 and row[6]:
-                continue
 
             zone = row[2]  # Assuming the zone is in the third column
             day = zone_day_mapping.get(zone)
