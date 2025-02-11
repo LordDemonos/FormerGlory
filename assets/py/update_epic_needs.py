@@ -111,7 +111,7 @@ try:
             
             # Only process if we have all required fields
             if all(field.strip() for field in row[0:5]):  # Check if first 5 fields have non-empty values
-                zone = row[2]  # Zone is in the third column
+                zone = row[3]  # Changed from row[2] to row[3] to get the correct zone
                 day = zone_day_mapping.get(zone)
                 if day:
                     cards_by_day[day].append(row)
