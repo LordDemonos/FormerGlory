@@ -88,7 +88,8 @@ try:
     result = sheet.values().get(spreadsheetId=SPREADSHEET_ID, range=RANGE_NAME).execute()
     values = result.get('values', [])
 
-    print(f"Total rows fetched from spreadsheet: {len(values)}")  # Debug line
+    print(f"DEBUG: Total rows fetched: {len(values)}")
+    print(f"DEBUG: Raw values: {values}")  # This will show us exactly what data we're getting
 
     if not values:
         print("No data found in the specified range.")
@@ -96,31 +97,31 @@ try:
         # Organize cards by day
         cards_by_day = defaultdict(list)
         for row in values:
-            print(f"Processing row: {row}")  # Debug line
+            print(f"DEBUG: Processing row: {row}")
             
             # Skip if row doesn't have enough elements
             if len(row) < 5:
-                print(f"Skipping row due to insufficient fields: {row}")
+                print(f"DEBUG: Row skipped - insufficient fields: {row}")
                 continue
 
-            # Skip completed rows
+            # Skip completed rows (only if column G exists and has a value)
             if len(row) > 6 and row[6]:
-                print(f"Skipping completed row: {row}")
+                print(f"DEBUG: Row skipped - marked as completed: {row}")
                 continue
             
             # Only process if we have all required fields
-            if all(row[0:5]):  # Check if first 5 fields have values
+            if all(field.strip() for field in row[0:5]):  # Check if first 5 fields have non-empty values
                 zone = row[2]  # Zone is in the third column
                 day = zone_day_mapping.get(zone)
                 if day:
                     cards_by_day[day].append(row)
-                    print(f"Added row to {day}: {row}")  # Debug line
+                    print(f"DEBUG: Added row to {day}: {row}")
                 else:
-                    print(f"No day mapping found for zone: {zone}")  # Debug line
+                    print(f"DEBUG: No day mapping found for zone: {zone}")
             else:
-                print(f"Skipping row due to missing required fields: {row}")  # Debug line
+                print(f"DEBUG: Row skipped - empty required fields: {row}")
 
-        print(f"Final cards_by_day contents: {dict(cards_by_day)}")  # Debug line
+        print(f"DEBUG: Final cards_by_day contents: {dict(cards_by_day)}")
 
         with open('targets.md', 'w') as file:
             # Write the front matter
