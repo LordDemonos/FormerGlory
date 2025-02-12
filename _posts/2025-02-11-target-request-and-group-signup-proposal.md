@@ -20,8 +20,11 @@ The raid leader needs a fast and simple way to look at a raid night, and determi
 1. We remove or "archive" all content in #epic-mob-fight-request.
 2. Post an description of the new process:
 	a. Use the Target Request Form to sumbit your request and availability.
+    
     b. Requests can be found at https://formerglory.lol/targets
+    
     c. If you need a raid force for a target not in the form, please message Xanax
+    
 3. The thread is then locked so no posts can be made by members. This is done to keep the form and instructions visible at all times, indicating this is the new process. 
 
 ## Preview - Target Requests
@@ -64,7 +67,4 @@ I firmly believe this plan only works if both processes are enacted, giving peop
 
 ## Future Thoughts
 
-This was a fun project and I learned a lot. The minute I got the handshake between Github and Google to work, a slew of ideas opened up. I could give Dihat a Google Doc to paste his spells and sky items into. I could make another system for people to apply to the guild, and give tickets to officers to invite them. I'd love to add a way to post MQs on this Targets page too. I have a lot of work to do before Velious, thats for sure. 
-
-
-
+This was a fun project and I learned a lot. The minute I got the handshake between Github and Google to work, a slew of ideas opened up. I could give Dihat a Google Doc to paste his spells and sky items into. I could make another system for people to apply to the guild, and give tickets to officers to invite them. I'd love to add a way to post MQs on this Targets page too. I have a lot of work to do before Velious, thats for sure.
