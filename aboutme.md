@@ -51,6 +51,7 @@ By joining Former Glory, you agree to:
 - Healzar
 - Logikill/Docktah
 - Saenorn
+- Vamcill
 - Velde
 - Waulker
 - Woest
