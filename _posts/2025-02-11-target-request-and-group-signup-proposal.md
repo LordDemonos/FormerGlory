@@ -18,7 +18,7 @@ The raid leader needs a fast and simple way to look at a raid night, and determi
 ## Proposal - Target Requests
 
 1. We remove or "archive" all content in #epic-mob-fight-request.
-2. Post an description of the new process:
+2. Post a description of the new process:
 
 	a. Use the Target Request Form to sumbit your request and availability.
     
