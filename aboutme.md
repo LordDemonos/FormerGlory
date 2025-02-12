@@ -20,7 +20,7 @@ As a member of Former Glory, you can expect:
 - No expectation of being a "pro"
 - A focus on Epic Weapons during Kunark and Velious expansions
 - Support for active members seeking their epic weapon
-- Scheduled raids on Monday, Wednesday, and Friday at 9pm EST
+- Scheduled raids on Monday, Wednesday, Friday, and Saturday at 9pm EST
 - Occasional unscheduled raids with notifications
 - No mandatory expectations or pressures (Life > pixels)
 - Zero tolerance for toxic players and toxic play
@@ -51,7 +51,6 @@ By joining Former Glory, you agree to:
 - Healzar
 - Logikill/Docktah
 - Saenorn
-- Thrang
 - Velde
 - Waulker
 - Woest
