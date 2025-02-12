@@ -19,9 +19,10 @@ The raid leader needs a fast and simple way to look at a raid night, and determi
 
 1. We remove or "archive" all content in #epic-mob-fight-request.
 2. Post an description of the new process:
+
 	a. Use the Target Request Form to sumbit your request and availability.
     
-    b. Requests can be found at https://formerglory.lol/targets
+    b. Requests can be found at [https://formerglory.lol/targets](https://formerglory.lol/targets "Target Requests")
     
     c. If you need a raid force for a target not in the form, please message Xanax
     
