@@ -70,6 +70,15 @@ cover-img: /assets/img/targets.webp
       <li>Wed</li>
     </ul>
   </div>
+  <div class="card shaman">
+    <ul>
+      <li>Fatlewtz</li>
+      <li>Shaman</li>
+      <li>City of Mist</li>
+      <li>Lord Rak'ashiir - Iksar Scale</li>
+      <li>Wed, Fri</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="saturday">Saturday</h2>
