@@ -34,15 +34,6 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
-  <div class="card shadow-knight">
-    <ul>
-      <li>Skarred (Kildrey/Shiela)</li>
-      <li>Shadow Knight</li>
-      <li>City of Mist</li>
-      <li>Lhranc - Lhranc's Token</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
 </div>
 
 <h2 id="saturday">Saturday</h2>
