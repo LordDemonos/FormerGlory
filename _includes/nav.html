@@ -3,16 +3,28 @@
   {%- if site.title-img -%}
     <a class="navbar-brand navbar-brand-logo" href="{{ '/' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
   {%- elsif site.title -%}
-    <div class="navbar-brand">
-      <a href="{{ '' | absolute_url }}" class="navbar-item">
+    <div class="navbar-nav">
+      <a class="nav-link" href="{{ '' | absolute_url }}">
         {% if site.title-img %}
           <img src="{{ site.title-img | relative_url }}" alt="{{ site.title }}" />
         {% endif %}
-        <span style="font-weight: bold;">{{ site.title }}</span>
+        <span>{{ site.title }}</span>
       </a>
       {% if site.discord_url %}
-        <span class="separator">|</span>
-        <a href="{{ site.discord_url }}" class="navbar-item">Discord</a>
+        <span class="nav-item">|</span>
+        <a class="nav-link" href="{{ site.discord_url }}">Discord</a>
+      {% endif %}
+      {% if site.wiki_url %}
+        <span class="nav-item">|</span>
+        <a class="nav-link" href="{{ site.wiki_url }}">Wiki</a>
+      {% endif %}
+      {% if site.tools_url %}
+        <span class="nav-item">|</span>
+        <a class="nav-link" href="{{ site.tools_url }}">Tools</a>
+      {% endif %}
+      {% if site.guides_url %}
+        <span class="nav-item">|</span>
+        <a class="nav-link" href="{{ site.guides_url }}">Guides</a>
       {% endif %}
     </div>
   {%- endif -%}
