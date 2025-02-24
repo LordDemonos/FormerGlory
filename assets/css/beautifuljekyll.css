@@ -183,11 +183,16 @@ img {
   padding-bottom: 0;
 }
 
-.navbar-custom .navbar-brand {
-  line-height: 1.5;
-  padding-top: 0.625rem;
-  padding-bottom: 0.625rem;
-  font-size: 1.125rem;
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  color: inherit !important;
+  background: none !important;
+}
+
+.navbar-brand:hover {
+  color: inherit !important;
+  background: none !important;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -231,6 +236,29 @@ img {
 .navbar-custom .navbar-nav .nav-link {
   font-weight: 800;
   color: var(--navbar-text-col);
+}
+
+.navbar-item {
+  color: inherit;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 0 10px;
+  transition: color 0.3s;
+  background: none !important;
+}
+
+/* Match the hover color with other nav links */
+a.navbar-item:hover {
+  color: #FEB95F !important; /* Beautiful Jekyll's nav hover color */
+  text-decoration: underline;
+  background: none !important;
+}
+
+.separator {
+  font-weight: bold;
+  color: inherit !important;
+  pointer-events: none;
+  background: none !important;
 }
 
 .navbar-toggler {

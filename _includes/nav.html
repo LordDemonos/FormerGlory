@@ -3,7 +3,18 @@
   {%- if site.title-img -%}
     <a class="navbar-brand navbar-brand-logo" href="{{ '/' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
   {%- elsif site.title -%}
-    <a class="navbar-brand" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
+    <div class="navbar-brand">
+      <a href="{{ '' | absolute_url }}" class="navbar-item">
+        {% if site.title-img %}
+          <img src="{{ site.title-img | relative_url }}" alt="{{ site.title }}" />
+        {% endif %}
+        <span style="font-weight: bold;">{{ site.title }}</span>
+      </a>
+      {% if site.discord_url %}
+        <span class="separator">|</span>
+        <a href="{{ site.discord_url }}" class="navbar-item">Discord</a>
+      {% endif %}
+    </div>
   {%- endif -%}
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">

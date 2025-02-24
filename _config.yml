@@ -13,6 +13,7 @@
 baseurl: "/"
 # the base hostname & protocol for your site
 url: "https://formerglory.lol"
+discord_url: "https://discord.gg/avMS4JSxrp"
 
 # Name of website
 title: Former Glory
