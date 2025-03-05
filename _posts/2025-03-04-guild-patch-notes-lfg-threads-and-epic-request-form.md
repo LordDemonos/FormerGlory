@@ -11,34 +11,17 @@ description: >-
 ---
 **Guild Patch Notes 3/4/25**
 
-Hey Glorious Adventurers! We've made some exciting changes to improve how we organize groups outside of raids and streamline epic quest tracking. Here's what's new:
+Hey Glorious Adventurers!! We made some changes to the work flows of organizing how y’all group up outside of raids and how we can better streamline anc keep track of who needs epic quest stuff from raid encounters. 
 
-## Self-Organizing is Cool
 
-The static LFG channel has evolved into a thread-based system! This upgrade will help keep conversations organized, especially when multiple groups are forming simultaneously.
+## Self Organizing is Cool 
+The static LFG channel has changed to a thread based system! This will help keep that channel a little more organized, especially when multiple conversations are happening at once.
 
-Key features:
+If you post in a thread you’ll always be notified when there’s new comment. If no activity occurs in 3-7 days that thread will be “invisible” unless you go look for it manually in the channel, or someone adds to it, 
 
-- Post in a thread to receive notifications for all new comments
-    
-- Inactive threads (no activity for 7 days) become "invisible" but can be revived anytime
-    
-- Encourages self-organized groups for:
-    
-    - Static exp groups
-        
-    - Item farming
-        
-    - Faction grinding
-        
-    - Quest assistance
-        
-    - Quake snipes
-        
-    - Any non-raid content you want to gauge interest in
-        
+We heavily encourage this channel to make self organized static exp groups, item farm groups, faction farm sessions, quest step help, quake snipes, etc.. really anything you’d like to gauge interest in content on that isn’t a raid or raid epic fight.
 
-Feel free to delete your posts after one-off groups or let threads naturally archive.
+Feel free to delete your posts if you’re done with a one off group or just let the thread expire and archive. 
 
 ## Let There Be Epics
 
@@ -54,13 +37,7 @@ We've revamped our epic mob fight request process:
     
     - The #epic-mob-fight-request channel is now for announcements only
         
-    - Smaller group targets should be posted in #static-group-signup
-        
 4. **Special Requests**: For raid force targets not in the form, please message Xanax directly
     
 
-These changes will help us better organize epic hunts and ensure everyone has a fair chance to participate. Remember, teamwork makes the dream work!
-
-Let's make this a glorious adventure for all! If you have any questions about these changes, please don't hesitate to ask a guild officer.
-
-Happy hunting, and may your epics be legendary!
+These changes will help us better organize epic hunts and ensure everyone has a fair chance to participate. If you have any questions about these changes, please don't hesitate to ask a guild officer. Happy hunting!
