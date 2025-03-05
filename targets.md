@@ -52,6 +52,15 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card warrior">
+    <ul>
+      <li>Desaix (Arsepoker)</li>
+      <li>Warrior</li>
+      <li>Plane of Sky</li>
+      <li>The Spiroc Lord - Spiroc Wingblade</li>
+      <li>Wed</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="saturday">Saturday</h2>
