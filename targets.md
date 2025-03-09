@@ -75,14 +75,5 @@ cover-img: /assets/img/targets.webp
 <h2 id="saturday">Saturday</h2>
 <p class="raid-description">Saturday raid targets include Plane of Hate, Plane of Fear, Timorous Deep</p>
 <div class="card-container">
-  <div class="card warrior">
-    <ul>
-      <li>Boogzee (Orez)</li>
-      <li>Warrior</li>
-      <li>Plane of Hate</li>
-      <li>Maestro of Rancor - Hand of the Maestro</li>
-      <li>Sat</li>
-    </ul>
-  </div>
 </div>
 
