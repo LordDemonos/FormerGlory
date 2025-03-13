@@ -20,15 +20,6 @@ cover-img: /assets/img/targets.webp
 <h2 id="monday-friday">Monday/Friday</h2>
 <p class="raid-description">Monday/Friday raid targets include Skyfire, Sebilis</p>
 <div class="card-container">
-  <div class="card cleric">
-    <ul>
-      <li>Muffy</li>
-      <li>Cleric</li>
-      <li>Skyfire</li>
-      <li>Zordak Ragefire's Heart</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
 </div>
 
 <h2 id="wednesday">Wednesday</h2>
@@ -40,15 +31,6 @@ cover-img: /assets/img/targets.webp
       <li>Necromancer</li>
       <li>Plane of Sky</li>
       <li>Black Silk Cape</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card rogue">
-    <ul>
-      <li>Tabbs / Wiphy</li>
-      <li>Rogue</li>
-      <li>Kithicor Forest</li>
-      <li>General V'ghera - General's Pouch</li>
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
@@ -85,24 +67,6 @@ cover-img: /assets/img/targets.webp
       <li>Shadow Knight</li>
       <li>City of Mist</li>
       <li>Lhranc - Lhranc's Token</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card rogue">
-    <ul>
-      <li>Bludbathe (Omagurd)</li>
-      <li>Rogue</li>
-      <li>Kithicor Forest</li>
-      <li>General V'ghera - General's Pouch</li>
-      <li>Wed</li>
-    </ul>
-  </div>
-  <div class="card rogue">
-    <ul>
-      <li>Rylandir - Main Tari</li>
-      <li>Rogue</li>
-      <li>Kithicor Forest</li>
-      <li>General V'ghera - General's Pouch</li>
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
