@@ -20,6 +20,15 @@ cover-img: /assets/img/targets.webp
 <h2 id="monday-friday">Monday/Friday</h2>
 <p class="raid-description">Monday/Friday raid targets include Skyfire, Sebilis</p>
 <div class="card-container">
+  <div class="card cleric">
+    <ul>
+      <li>Muffy</li>
+      <li>Cleric</li>
+      <li>Skyfire</li>
+      <li>Zordak Ragefire's Heart</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="wednesday">Wednesday</h2>
@@ -34,10 +43,82 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card rogue">
+    <ul>
+      <li>Tabbs / Wiphy</li>
+      <li>Rogue</li>
+      <li>Kithicor Forest</li>
+      <li>General V'ghera - General's Pouch</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card warrior">
+    <ul>
+      <li>Desaix (Arsepoker)</li>
+      <li>Warrior</li>
+      <li>Plane of Sky</li>
+      <li>The Spiroc Lord - Spiroc Wingblade</li>
+      <li>Wed</li>
+    </ul>
+  </div>
+  <div class="card warrior">
+    <ul>
+      <li>Boogzee (Orez)</li>
+      <li>Warrior</li>
+      <li>Plane of Sky</li>
+      <li>The Spiroc Lord - Spiroc Wingblade</li>
+      <li>Wed</li>
+    </ul>
+  </div>
+  <div class="card warrior">
+    <ul>
+      <li>Thebiggest</li>
+      <li>Warrior</li>
+      <li>Chardok</li>
+      <li>Queen Velazul Di`zok - Ancient Blade</li>
+      <li>Wed</li>
+    </ul>
+  </div>
+  <div class="card shadow-knight">
+    <ul>
+      <li>Alrien / Kuyt (week of 3/17 - out of town week of 3/10)</li>
+      <li>Shadow Knight</li>
+      <li>City of Mist</li>
+      <li>Lhranc - Lhranc's Token</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card rogue">
+    <ul>
+      <li>Bludbathe (Omagurd)</li>
+      <li>Rogue</li>
+      <li>Kithicor Forest</li>
+      <li>General V'ghera - General's Pouch</li>
+      <li>Wed</li>
+    </ul>
+  </div>
+  <div class="card rogue">
+    <ul>
+      <li>Rylandir - Main Tari</li>
+      <li>Rogue</li>
+      <li>Kithicor Forest</li>
+      <li>General V'ghera - General's Pouch</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="saturday">Saturday</h2>
 <p class="raid-description">Saturday raid targets include Plane of Hate, Plane of Fear, Timorous Deep</p>
 <div class="card-container">
+  <div class="card warrior">
+    <ul>
+      <li>Boogzee (Orez)</li>
+      <li>Warrior</li>
+      <li>Plane of Hate</li>
+      <li>Maestro of Rancor - Hand of the Maestro</li>
+      <li>Sat</li>
+    </ul>
+  </div>
 </div>
 
