@@ -20,6 +20,15 @@ cover-img: /assets/img/targets.webp
 <h2 id="monday-friday">Monday/Friday</h2>
 <p class="raid-description">Monday/Friday raid targets include Skyfire, Sebilis</p>
 <div class="card-container">
+  <div class="card cleric">
+    <ul>
+      <li>Elclerkio</li>
+      <li>Cleric</li>
+      <li>Skyfire</li>
+      <li>Zordak Ragefire's Heart</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="wednesday">Wednesday</h2>
@@ -49,15 +58,6 @@ cover-img: /assets/img/targets.webp
       <li>Warrior</li>
       <li>Plane of Sky</li>
       <li>The Spiroc Lord - Spiroc Wingblade</li>
-      <li>Wed</li>
-    </ul>
-  </div>
-  <div class="card warrior">
-    <ul>
-      <li>Thebiggest</li>
-      <li>Warrior</li>
-      <li>Chardok</li>
-      <li>Queen Velazul Di`zok - Ancient Blade</li>
       <li>Wed</li>
     </ul>
   </div>
