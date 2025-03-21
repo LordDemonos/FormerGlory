@@ -54,15 +54,6 @@ cover-img: /assets/img/targets.webp
   </div>
   <div class="card warrior">
     <ul>
-      <li>Desaix (Arsepoker)</li>
-      <li>Warrior</li>
-      <li>Plane of Sky</li>
-      <li>The Spiroc Lord - Spiroc Wingblade</li>
-      <li>Wed</li>
-    </ul>
-  </div>
-  <div class="card warrior">
-    <ul>
       <li>Boogzee (Orez)</li>
       <li>Warrior</li>
       <li>Plane of Sky</li>
@@ -86,6 +77,15 @@ cover-img: /assets/img/targets.webp
       <li>City of Mist</li>
       <li>Lord Rak'ashiir - Iksar Scale</li>
       <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card cleric">
+    <ul>
+      <li>Banthal (Vae)</li>
+      <li>Cleric</li>
+      <li>Chardok</li>
+      <li>Overking Bathezid - A Singed Scroll</li>
+      <li>Fri</li>
     </ul>
   </div>
 </div>
