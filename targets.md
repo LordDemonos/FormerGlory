@@ -29,6 +29,15 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card cleric">
+    <ul>
+      <li>Xanti (Xanax)</li>
+      <li>Cleric</li>
+      <li>Skyfire</li>
+      <li>Zordak Ragefire's Heart</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="wednesday">Wednesday</h2>
