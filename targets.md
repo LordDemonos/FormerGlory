@@ -61,15 +61,6 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
-  <div class="card cleric">
-    <ul>
-      <li>Banthal (Vae)</li>
-      <li>Cleric</li>
-      <li>Chardok</li>
-      <li>Overking Bathezid - A Singed Scroll</li>
-      <li>Fri</li>
-    </ul>
-  </div>
   <div class="card shaman">
     <ul>
       <li>Tyrantis</li>
@@ -117,6 +108,15 @@ cover-img: /assets/img/targets.webp
       <li>Enchanter</li>
       <li>Plane of Hate</li>
       <li>a forsaken revenant - Essence of a Vampire</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card magician">
+    <ul>
+      <li>Xanamaniac (Xanax)</li>
+      <li>Magician</li>
+      <li>Plane of Hate</li>
+      <li>Innoruuk - Staff of Elemental Mastery: Earth</li>
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
