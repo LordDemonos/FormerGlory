@@ -20,24 +20,6 @@ cover-img: /assets/img/targets.webp
 <h2 id="monday-friday">Monday/Friday</h2>
 <p class="raid-description">Monday/Friday raid targets include Skyfire, Sebilis</p>
 <div class="card-container">
-  <div class="card cleric">
-    <ul>
-      <li>Elclerkio</li>
-      <li>Cleric</li>
-      <li>Skyfire</li>
-      <li>Zordak Ragefire's Heart</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card cleric">
-    <ul>
-      <li>Xanti (Xanax)</li>
-      <li>Cleric</li>
-      <li>Skyfire</li>
-      <li>Zordak Ragefire's Heart</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
 </div>
 
 <h2 id="wednesday">Wednesday</h2>
@@ -88,6 +70,15 @@ cover-img: /assets/img/targets.webp
       <li>Fri</li>
     </ul>
   </div>
+  <div class="card shaman">
+    <ul>
+      <li>Tyrantis</li>
+      <li>Shaman</li>
+      <li>City of Mist</li>
+      <li>Lord Rak'ashiir - Iksar Scale</li>
+      <li>Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="saturday">Saturday</h2>
@@ -100,6 +91,33 @@ cover-img: /assets/img/targets.webp
       <li>Plane of Hate</li>
       <li>Maestro of Rancor - Hand of the Maestro</li>
       <li>Sat</li>
+    </ul>
+  </div>
+  <div class="card wizard">
+    <ul>
+      <li>Caezar</li>
+      <li>Wizard</li>
+      <li>Plane of Fear</li>
+      <li>an enraged golem - Green Oil</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card enchanter">
+    <ul>
+      <li>Walgreens</li>
+      <li>Enchanter</li>
+      <li>Plane of Fear</li>
+      <li>Wraith of a Shissar - Head of the Serpent</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card enchanter">
+    <ul>
+      <li>Walgreens</li>
+      <li>Enchanter</li>
+      <li>Plane of Hate</li>
+      <li>a forsaken revenant - Essence of a Vampire</li>
+      <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
 </div>
