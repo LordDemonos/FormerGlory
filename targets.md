@@ -84,5 +84,14 @@ cover-img: /assets/img/targets.webp
 <h2 id="saturday">Saturday</h2>
 <p class="raid-description">Saturday raid targets include Plane of Hate, Plane of Fear, Timorous Deep</p>
 <div class="card-container">
+  <div class="card wizard">
+    <ul>
+      <li>Intan</li>
+      <li>Wizard</li>
+      <li>Plane of Fear</li>
+      <li>an enraged golem - Green Oil</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
