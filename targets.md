@@ -70,55 +70,19 @@ cover-img: /assets/img/targets.webp
       <li>Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card rogue">
+    <ul>
+      <li>Wreckdem</li>
+      <li>Rogue</li>
+      <li>Kithicor Forest</li>
+      <li>General V'ghera - General's Pouch</li>
+      <li>Wed</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="saturday">Saturday</h2>
 <p class="raid-description">Saturday raid targets include Plane of Hate, Plane of Fear, Timorous Deep</p>
 <div class="card-container">
-  <div class="card warrior">
-    <ul>
-      <li>Boogzee (Orez)</li>
-      <li>Warrior</li>
-      <li>Plane of Hate</li>
-      <li>Maestro of Rancor - Hand of the Maestro</li>
-      <li>Sat</li>
-    </ul>
-  </div>
-  <div class="card wizard">
-    <ul>
-      <li>Caezar</li>
-      <li>Wizard</li>
-      <li>Plane of Fear</li>
-      <li>an enraged golem - Green Oil</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card enchanter">
-    <ul>
-      <li>Walgreens</li>
-      <li>Enchanter</li>
-      <li>Plane of Fear</li>
-      <li>Wraith of a Shissar - Head of the Serpent</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card enchanter">
-    <ul>
-      <li>Walgreens</li>
-      <li>Enchanter</li>
-      <li>Plane of Hate</li>
-      <li>a forsaken revenant - Essence of a Vampire</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card magician">
-    <ul>
-      <li>Xanamaniac (Xanax)</li>
-      <li>Magician</li>
-      <li>Plane of Hate</li>
-      <li>Innoruuk - Staff of Elemental Mastery: Earth</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
 </div>
 
