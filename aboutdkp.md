@@ -67,5 +67,4 @@ If you don't see your character in the list, message an officer directly with yo
 - Maximum Bid: 1000 DKP for all loot, 400 DKP for Raid Alts
 - Multiple max bids: /random roll between max bidders
 - Generally, you cannot win the same item twice (some exceptions apply)
-- Items won with DKP can be donated back for 50% DKP return
 - Certain items may be claimed by the guild for first drops (e.g., Puppet strings)
