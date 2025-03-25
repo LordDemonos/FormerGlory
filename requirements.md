@@ -10,10 +10,7 @@ subtitle: A list of raid requirements
 - **All Raids**
 	- Level 50+
 - **Veeshan's Peak**
-    - Level 57 (Dec '24)
-    - Level 58 (Jan '25)
-    - Level 59 (Feb '25)
-    - Level 60 (Mar '25)
+	- Level 58+
 
 ## Raiding Gear Requirements
 
@@ -61,8 +58,7 @@ Go nuts, kill these whenever you want, officers please ping the role when organi
 - Phinigel Autotrops – 18 hours
 - Fire Giants - King Tranix/Magi Rokyl/Warlord Skarlon – 18 Hours
 - Master Yael – 2 Days 18 hours
-- Chardok Royals – Overking Bathezid/Queen Velazul Dizok/Prince Selrach Dizok – 2 Hours
-- Drusella – 2 Days 18 Hours lockout
+- Chardok Royals – Overking Bathezid/Queen Velazul Dizok/Prince Selrach Dizok – 18 Hours
 - Plane of Sky – 18 Hours - Off limits when on the schedule for the day, otherwise FFA
 - Lord Nagafen – 6 Days 18 Hours
 - Lady Vox – 6 Days 18 Hours
