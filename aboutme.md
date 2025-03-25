@@ -29,6 +29,7 @@ If you aren't here to support your fellow guildie in a positive manner and minds
 - Scheduled raids on Monday, Wednesday, Friday, and Saturday at 9pm EST
 - Unscheduled raids will be done with notifications in Discord and /guild chat
 - Willingness to help raiders learn
+- No expectations of members being "pro", and willingness to help raiders learn
 - Zero tolerance for toxic players and toxic play
 - Officers will be available to open instances for guild members seeking off-target raids with the understanding that officers, too, have their own lives and schedules.
 - To listen to feedback from members and improve rules/policies for the overall benefit of the guild.
