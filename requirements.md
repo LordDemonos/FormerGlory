@@ -57,11 +57,11 @@ Go nuts, kill these whenever you want, officers please ping the role when organi
 
 - Phinigel Autotrops – 18 hours
 - Fire Giants - King Tranix/Magi Rokyl/Warlord Skarlon – 18 Hours
-- Master Yael – 2 Days 18 hours
+- Master Yael – 2 Days 18 hours - Currently run on Mondays bt Talamild
 - Chardok Royals – Overking Bathezid/Queen Velazul Dizok/Prince Selrach Dizok – 18 Hours
 - Plane of Sky – 18 Hours - Off limits when on the schedule for the day, otherwise FFA
-- Lord Nagafen – 6 Days 18 Hours
-- Lady Vox – 6 Days 18 Hours
+- Lord Nagafen – 6 Days 18 Hours - Currently run on Tuesdays by Xanax
+- Lady Vox – 6 Days 18 Hours - Currently run on Tuesdays by Xanax
 - Severilous – 2 Days 18 Hours - Off Rotation unless requested
 - Gorenaire – 2 Days 18 Hours - Off Rotation unless requested
 - Faydedar – 2 Days 18 Hours - Off Rotation unless requested
