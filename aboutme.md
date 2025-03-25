@@ -11,51 +11,51 @@ subtitle: A Relaxed EverQuest Guild for Friends and Adventure
 
 Our guild was founded by a group of former strangers who met in Blackburrow on Project Quarm. We offer a relaxed atmosphere with non-hardcore, non-mandatory raiding. Our goal is not to be the server's first, but to foster a guild of friends across all walks of life to conquer Norrath over the coming years.
 
-## Expectations
+If you aren't here to support your fellow guildie in a positive manner and mindset then this is not the guild for you. 
 
-As a member of Former Glory, you can expect:
+## Guild Member Expectations:
 
-- Respect for all guildies and fellow Norrathians
-- No yelling at mistakes or ridiculing questions
-- No expectation of being a "pro"
-- A focus on Epic Weapons during Kunark and Velious expansions
-- Support for active members seeking their epic weapon
-- Scheduled raids on Monday, Wednesday, Friday, and Saturday at 9pm EST
-- Occasional unscheduled raids with notifications
-- No mandatory expectations or pressures (Life > pixels)
-- Zero tolerance for toxic players and toxic play
-
-## Guild Play Nice Policy
-
-By joining Former Glory, you agree to:
-
-- Never shame others for mistakes or lack of knowledge
-- Avoid having fun at others' expense
-- Treat guildies and non-guildies with respect
-- Refrain from non-Norrathian political or religious discussions
-- Avoid criticizing others' character builds or playstyles
+- Treat guildies and fellow Norrathians with respect
+- To both give and receive help as an active member
 - Support fellow guildies with a positive mindset
+- Life > pixels. No mandatory raid attendance.
+- On raids, come prepared to listen to the raid officers and be willing to learn the raid encounters.
+- To follow any rules put forth by the server admins of Project Quarm: https://discord.com/channels/1133452007412334643/1135970415852924958
 
+
+## Guild Leadership Expectations:
+
+- A focus on Epic Weapons during Kunark and Velious expansions
+- Scheduled raids on Monday, Wednesday, Friday, and Saturday at 9pm EST
+- Unscheduled raids will be done with notifications in Discord and /guild chat
+- Willingness to help raiders learn
+- Zero tolerance for toxic players and toxic play
+- Officers will be available to open instances for guild members seeking off-target raids with the understanding that officers, too, have their own lives and schedules.
+- To listen to feedback from members and improve rules/policies for the overall benefit of the guild.
+- To follow all Guild Member Expectations as well.
+
+	
 ## Feedback Method
 
-- Officer Meetings are held on the first Sunday of every month
-- Direct feedback, criticism, ideas, and issues to an officer for discussion
-- We value your input to help us grow and improve
+Officer Meetings are held on the first Sunday of every month where feedback, in addition to other items, will be discussed.
 
-## Current Roster of Officers
+We value your input to help us grow and improve so please direct any feedback, criticism, ideas, and issues to an officer to be discussed at one of these meetings.
+
+Thank you for joining us on this epic adventure to reclaim our Former Glory in Norrath! Happy Hunting!
+
+## Roster of Officers as of 2025-03-25
 
 - **Talamild - Guild Leader**
 - Amberita
-- Cukazi/Barakkas
+- Cukazi/Brakkas/Biggiesmallz
 - Dihat
+- Elcleriko/Polgera/Elwario/Wichy
 - Healzar
+- Kildrey/Shiela
 - Logikill/Docktah
-- Saenorn
-- Tarchimache
-- Vamcill
+- Quis / Charr / Activist
+- Vamcill / Vamistill
 - Velde
 - Waulker
 - Woest
-- Xanax/Xanathema
-
-Thank you for joining us on this epic adventure to reclaim our Former Glory in Norrath! Happy Hunting!
+- Xanax/Xanathema/Xanamaniac
