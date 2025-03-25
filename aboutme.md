@@ -20,7 +20,7 @@ If you aren't here to support your fellow guildie in a positive manner and minds
 - Support fellow guildies with a positive mindset
 - Life > pixels. No mandatory raid attendance.
 - On raids, come prepared to listen to the raid officers and be willing to learn the raid encounters.
-- To follow any rules put forth by the server admins of Project Quarm: https://discord.com/channels/1133452007412334643/1135970415852924958
+- To follow any rules put forth by the server admins of Project Quarm: [Link to Project Quarm Rules](https://discord.com/channels/1133452007412334643/1135970415852924958)
 
 
 ## Guild Leadership Expectations:
