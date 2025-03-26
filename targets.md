@@ -79,6 +79,15 @@ cover-img: /assets/img/targets.webp
       <li>Wed</li>
     </ul>
   </div>
+  <div class="card warrior">
+    <ul>
+      <li>Boogzee (Orez)</li>
+      <li>Warrior</li>
+      <li>Chardok</li>
+      <li>Queen Velazul Di`zok - Ancient Blade</li>
+      <li>Wed</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="saturday">Saturday</h2>
@@ -90,6 +99,15 @@ cover-img: /assets/img/targets.webp
       <li>Wizard</li>
       <li>Plane of Fear</li>
       <li>an enraged golem - Green Oil</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card druid">
+    <ul>
+      <li>Smallme</li>
+      <li>Druid</li>
+      <li>Timorous Deep</li>
+      <li>Pod of Seawater</li>
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
