@@ -65,3 +65,5 @@ cover-img: /assets/img/king_tranix.webp
 <div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Proximity Aggro</div>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/INVngCGZE6w?si=7sE0mqABpcE_ePrD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
