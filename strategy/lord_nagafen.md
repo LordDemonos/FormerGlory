@@ -62,3 +62,15 @@ cover-img: /assets/img/lord_nagafen.webp
 <div class="ability-cell">Flee percentage</div>
 <div class="ability-cell">Leashed</div>
 </div>
+
+### Preparation
+If you're fighting in era, you'll want to stack FR and MR. Typically the fear is more dangerous than the fire damage as it takes you out of position away from the healers. Healers and casters will be out of line of sight of the AOE and will instead need levitate.
+
+### Engage
+When you enter Lord Nagafen's lair, he will immediately aggro the first person entering the room, and will leash at the doorway. The MT should be the only one entering the room for the first 5 seconds, pulling Naggy into his room and to the left wall nearest the moat. 
+
+- Naggy will face to the left, and 
+- Melee will follow the tank in and fight against the wall behind Naggy.
+- Healers and casters will levitate in the moat left of the bridge and cast through the wall.
+
+
