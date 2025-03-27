@@ -198,8 +198,8 @@ site-js:
  - "/assets/js/tooltip.js"
  - "/assets/js/back-to-top.js"
  - "/assets/js/light-dark-toggle.js"
- - "https://unpkg.com/tippy.js@6"
  - "https://unpkg.com/@popperjs/core@2"
+ - "https://unpkg.com/tippy.js@6"
  - "/assets/js/spell-tooltip.js"
 
 #################################
