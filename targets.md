@@ -97,6 +97,15 @@ cover-img: /assets/img/targets.webp
       <li>Sat</li>
     </ul>
   </div>
+  <div class="card magician">
+    <ul>
+      <li>Maqe (main: Llik)</li>
+      <li>Magician</li>
+      <li>City of Mist</li>
+      <li>Lord Rak'ashiir - Iksar Scale</li>
+      <li>Wed</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="saturday">Saturday</h2>
