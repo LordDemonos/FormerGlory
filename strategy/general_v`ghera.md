@@ -8,7 +8,7 @@ cover-img: /assets/img/general_v`ghera.webp
 <div class="info-section">
 <div class="info-item"><strong>HP:</strong> 32,000</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/20" target="_blank">Kithicor Forest</a></div>
-<div class="info-item"><strong>Exp:</strong> Default</div>
+<div class="info-item"><strong>Exp:</strong> Classic</div>
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/420" target="_blank">Fallen of Bloody Kithicor</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/20205" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 

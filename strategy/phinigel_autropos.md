@@ -8,7 +8,7 @@ cover-img: /assets/img/phinigel_autropos.webp
 <div class="info-section">
 <div class="info-item"><strong>HP:</strong> 16,250</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/64" target="_blank">Kedge Keep</a></div>
-<div class="info-item"><strong>Exp:</strong> Default</div>
+<div class="info-item"><strong>Exp:</strong> Classic</div>
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/299" target="_blank">Phinigel Autropos</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/64001" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 

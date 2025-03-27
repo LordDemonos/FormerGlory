@@ -8,7 +8,7 @@ cover-img: /assets/img/king_tranix.webp
 <div class="info-section">
 <div class="info-item"><strong>HP:</strong> 15,500</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/32" target="_blank">Nagafen's Lair</a></div>
-<div class="info-item"><strong>Exp:</strong> Default</div>
+<div class="info-item"><strong>Exp:</strong> Classic</div>
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/249" target="_blank">Nagafen</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/32322" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 

@@ -8,7 +8,7 @@ cover-img: /assets/img/lady_vox.webp
 <div class="info-section">
 <div class="info-item"><strong>HP:</strong> 32,000</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/73" target="_blank">Permafrost Caverns</a></div>
-<div class="info-item"><strong>Exp:</strong> Default</div>
+<div class="info-item"><strong>Exp:</strong> Classic</div>
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/319" target="_blank">Vox</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/73057" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 

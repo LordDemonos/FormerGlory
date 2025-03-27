@@ -8,7 +8,7 @@ cover-img: /assets/img/master_yael.webp
 <div class="info-section">
 <div class="info-item"><strong>HP:</strong> 32,100</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/1039" target="_blank">The Hole</a></div>
-<div class="info-item"><strong>Exp:</strong> Default</div>
+<div class="info-item"><strong>Exp:</strong> Classic</div>
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/5017" target="_blank">KOS</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/39538" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
