@@ -7,6 +7,9 @@ document.addEventListener('DOMContentLoaded', function() {
   function enableLightMode() {
     root.classList.remove('dark-mode');
     body.classList.remove('dark');
+    document.body.setAttribute('data-theme', 'light');
+    document.documentElement.style.backgroundColor = '';
+    document.body.style.backgroundColor = '';
     modeToggle.classList.remove('dark');
     modeToggle.querySelector('.toggle-icon').textContent = '🌙';
     localStorage.setItem('theme', 'light');
@@ -16,6 +19,9 @@ document.addEventListener('DOMContentLoaded', function() {
   function enableDarkMode() {
     root.classList.add('dark-mode');
     body.classList.add('dark');
+    document.body.setAttribute('data-theme', 'dark');
+    document.documentElement.style.backgroundColor = '#000000';
+    document.body.style.backgroundColor = '#000000';
     modeToggle.classList.add('dark');
     modeToggle.querySelector('.toggle-icon').textContent = '☀️';
     localStorage.setItem('theme', 'dark');

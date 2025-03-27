@@ -420,3 +420,406 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Fira Sans", var(--md-text-font);
 }
+
+
+.spell-tooltip {
+    font-family: system-ui, sans-serif;
+    padding: 12px;
+    background: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    max-width: 300px;
+}
+
+.spell-tooltip h4 {
+    margin: 0 0 8px 0;
+    color: #f5f5f5;
+    font-size: 1.1em;
+}
+
+.spell-meta {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+    margin-bottom: 12px;
+    font-size: 0.9em;
+    color: #888;
+}
+
+.spell-effects {
+    font-size: 0.95em;
+}
+
+.spell-effect {
+    padding: 4px 0;
+    border-top: 1px solid #333;
+}
+
+/* Item tooltips */
+.item-tooltip { /* styles */ }
+
+/* Spell tooltips */
+.spell-tooltip { 
+    /* Reset any inherited item styles */
+    background-image: none !important;
+}
+
+.spell-tooltip .item-icon {
+    display: none !important;
+}
+
+/* Add this rule to prevent icon inheritance */
+a[href*="/spell/"] .item-icon {
+    display: none !important;
+}
+
+a[href^="https://www.pqdi.cc/spell/"]:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    border-color: #444;
+}
+
+/* spell tooltips */
+.spell-item:hover a {
+    color: #fff;
+    background: rgba(60, 60, 60, 0.9);
+    border-color: rgba(80, 80, 80, 0.9);
+}
+
+.tippy-box {
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.tippy-arrow {
+    display: none !important;
+}
+
+.spell-tooltip {
+    background: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 4px;
+    padding: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Spells List Container */
+.spells-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    padding: 4px 0;
+    margin: 8px 0;
+}
+
+.spell-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.spell-icon {
+    width: 16px;
+    height: 16px;
+}
+
+.spell-item a {
+    color: #ccc;
+    text-decoration: none;
+    background: rgba(40, 40, 40, 0.9);
+    padding: 2px 6px;
+    border-radius: 8px;
+    font-size: 0.95em;
+    border: 1px solid rgba(60, 60, 60, 0.8);
+}
+
+/* Boss Info Styles */
+body {
+  /* These font styles are overriding beautifuljekyll.css */
+  background-color: #121212;
+  color: #f5f5f5;
+  /* font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, sans-serif; */
+  /* line-height: 1.4; */
+  /* font-size: 14px; */
+}
+
+h2 {
+  /* font-size: 1.2rem; */
+  color: #e0e0e0;
+  margin: 1rem 0 0.5rem;
+  border-bottom: 1px solid #333;
+  padding-bottom: 0.3rem;
+}
+
+/* Card Styles */
+.info-section, .stats-grid, .spell-grid, .ability-grid {
+  background-color: #1e1e1e;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  margin-bottom: 1rem;
+  overflow: hidden;
+  padding: 0.5rem;
+}
+
+/* Basic Information */
+.info-section {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.35rem;
+}
+
+.info-item {
+  padding: 0.35rem 0.7rem;
+  border-bottom: 1px solid #2a2a2a;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: left;
+  gap: 0.05rem;
+}
+
+/* Add HP value styling */
+.info-item:first-child {
+  color: #50fa7b;  /* Bright green color similar to game health bars */
+  font-weight: 600;
+  text-shadow: 0 0 8px rgba(80, 250, 123, 0.3);  /* Subtle glow effect */
+}
+
+.info-item strong {
+  color: #9e9e9e;
+  font-size: 0.8rem;
+  min-width: 60px;
+  display: inline-block;
+}
+
+
+/* Combat Stats */
+.stats-grid {
+  display: grid;
+  gap: 0.25rem;
+}
+
+.stats-row {
+  display: grid;
+  grid-template-columns: minmax(100px, 1fr) minmax(150px, 2fr) minmax(150px, 2fr);
+  gap: 0.25rem;
+}
+
+.stats-cell {
+  padding: 0.3rem 0.5rem;
+  border-bottom: 1px solid #2a2a2a;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.stats-cell strong {
+  color: #9e9e9e;
+  font-size: 0.8rem;
+  min-width: 60px;
+  margin-right: 0.5rem;
+  display: inline-block;
+}
+
+/* Spells */
+.spell-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5rem;
+}
+
+.spell-cell {
+  background-color: #2a2a2a;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  overflow: hidden;
+  border: 1px solid #333;
+  font-size: 0.85rem;
+}
+
+.spell-cell a {
+  color: #f5f5f5;
+  text-decoration: none;
+  display: block;
+  padding: 0.5rem;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: all 0.2s ease;
+}
+
+.spell-cell:hover {
+  background-color: #3a3a3a;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  border-color: #FF7A5E;
+}
+
+.spell-cell a:hover {
+  color: #f5f5f5;
+  text-decoration: none;
+}
+
+/* Special Abilities */
+.ability-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5rem;
+}
+
+.ability-cell {
+  background-color: #2a2a2a;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  padding: 0.5rem;
+  text-align: center;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border: 1px solid #333;
+}
+
+.ability-cell:hover {
+  background-color: #3a3a3a;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  border-color: #FF7A5E;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .info-section {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  
+  .spell-grid, .ability-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .info-section {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .stats-row {
+    grid-template-columns: 1fr 2fr;
+  }
+  
+  .spell-grid, .ability-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .info-section, .spell-grid, .ability-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .stats-row {
+    grid-template-columns: 1fr;
+  }
+} 
+
+[data-theme="dark"] {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+[data-theme="light"] {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+/* Fix heading colors in light mode */
+[data-theme="light"] h2,
+[data-theme="light"] h3,
+[data-theme="light"] h4,
+[data-theme="light"] h5,
+[data-theme="light"] h6 {
+  color: #333333;
+}
+
+/* Fix other light mode specific styles */
+[data-theme="light"] .card {
+  background: #f5f5f5;
+  color: #333333;
+}
+
+[data-theme="light"] .card li {
+  background: #ffffff;
+  color: #333333;
+}
+
+/* Light mode styles for Basic Information section */
+[data-theme="light"] .info-section,
+[data-theme="light"] .stats-grid,
+[data-theme="light"] .spell-grid,
+[data-theme="light"] .ability-grid {
+  background-color: #e8e8e8;
+  border: 1px solid #ddd;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="light"] .info-item {
+  color: #333333;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+[data-theme="light"] .info-item strong,
+[data-theme="light"] .stats-cell strong {
+  color: #555555;
+}
+
+[data-theme="light"] .info-item:first-child {
+  color: #2a8d3a;
+  text-shadow: none;
+}
+
+[data-theme="light"] .spell-cell,
+[data-theme="light"] .ability-cell {
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+}
+
+[data-theme="light"] .spell-cell a {
+  color: #333333;
+}
+
+[data-theme="light"] .spell-cell:hover,
+[data-theme="light"] .ability-cell:hover {
+  background-color: #e8e8e8;
+  border-color: #0085A1;
+}
+
+/* Keep spell tooltip styles consistent in both light and dark modes */
+[data-theme="light"] .spell-tooltip,
+[data-theme="dark"] .spell-tooltip {
+  background: #1a1a1a;
+  border: 1px solid #333;
+  color: #f5f5f5;
+}
+
+[data-theme="light"] .spell-tooltip h4,
+[data-theme="dark"] .spell-tooltip h4 {
+  color: #f5f5f5;
+}
+
+[data-theme="light"] .spell-tooltip .spell-meta,
+[data-theme="dark"] .spell-tooltip .spell-meta {
+  color: #888;
+}
+
+[data-theme="light"] .spell-tooltip .spell-effect,
+[data-theme="dark"] .spell-tooltip .spell-effect {
+  color: #f5f5f5;
+  border-top: 1px solid #333;
+}

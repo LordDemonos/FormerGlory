@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   let hideTooltipTimeout;
 
-  document.querySelectorAll('a[href*="pqdi.cc/item/"]').forEach((link) => {
+  document.querySelectorAll('a[href^="https://www.pqdi.cc/item/"]').forEach((link) => {
     const urlParts = link.href.split('/');
     const itemId = urlParts[urlParts.length - 1];
     link.classList.add('tooltip-link');

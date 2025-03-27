@@ -32,6 +32,7 @@ navbar-links:
   About FG: "aboutme"
   DKP: "aboutdkp"
   Requirements: "requirements"
+  Strategy: "strategy"
   Services:
     - Target Requests: "targets"
     - Spell Bank: "spells"
@@ -197,6 +198,9 @@ site-js:
  - "/assets/js/tooltip.js"
  - "/assets/js/back-to-top.js"
  - "/assets/js/light-dark-toggle.js"
+ - "https://unpkg.com/tippy.js@6"
+ - "https://unpkg.com/@popperjs/core@2"
+ - "/assets/js/spell-tooltip.js"
 
 #################################
 # --- Web Analytics Section --- #
