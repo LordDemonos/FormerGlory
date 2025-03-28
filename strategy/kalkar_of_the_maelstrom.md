@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Kalkar of the Maelstrom
 subtitle: Level 65 Drake Shadow Knight

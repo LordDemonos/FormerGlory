@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Belijor the Emerald Eye
 subtitle: Level 63 Drake Warrior

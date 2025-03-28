@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Lord Koi`Doken
 subtitle: Level 66 Dragon Rogue

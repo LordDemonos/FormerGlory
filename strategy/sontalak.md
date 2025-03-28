@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Sontalak
 subtitle: Level 70 Dragon Warrior

@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Dagarn the Destroyer
 subtitle: Level 70 Wurm Warrior

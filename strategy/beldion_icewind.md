@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Beldion Icewind
 subtitle: Level 65 Drake Cleric

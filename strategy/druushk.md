@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Druushk
 subtitle: Level 65 Dragon Ranger

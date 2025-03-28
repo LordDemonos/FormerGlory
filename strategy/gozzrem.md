@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Gozzrem
 subtitle: Level 66 Dragon Cleric

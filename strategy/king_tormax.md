@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: King Tormax
 subtitle: Level 70 Giant Warrior

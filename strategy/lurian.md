@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Lurian
 subtitle: Level 60 Drake Warrior

@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Nortlav the Scalekeeper
 subtitle: Level 51 Erudite Warrior

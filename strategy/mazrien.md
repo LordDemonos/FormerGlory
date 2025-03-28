@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Mazrien
 subtitle: Level 60 Drake Warrior

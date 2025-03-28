@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Ikatiar the Venom
 subtitle: Level 66 Wyvern Rogue

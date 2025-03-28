@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Lady Vox
 subtitle: Level 55 Dragon Cleric

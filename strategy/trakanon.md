@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Trakanon
 subtitle: Level 65 Trakanon Necromancer

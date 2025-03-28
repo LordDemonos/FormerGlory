@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Klandicar
 subtitle: Level 70 Dragon Warrior

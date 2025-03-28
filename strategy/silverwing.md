@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Silverwing
 subtitle: Level 65 Dragon Enchanter

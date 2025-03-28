@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Hoshkar
 subtitle: Level 65 Dragon Shaman

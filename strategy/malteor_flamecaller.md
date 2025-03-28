@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Malteor Flamecaller
 subtitle: Level 65 Drake Monk

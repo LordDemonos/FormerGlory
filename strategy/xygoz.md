@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Xygoz
 subtitle: Level 65 Dragon Bard

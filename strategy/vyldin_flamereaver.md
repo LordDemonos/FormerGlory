@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Vyldin Flamereaver
 subtitle: Level 65 Drake Monk

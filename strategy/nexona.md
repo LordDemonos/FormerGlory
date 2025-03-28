@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Nexona
 subtitle: Level 65 Dragon Shadow Knight

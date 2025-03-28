@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Yrrindor Emerald Claw
 subtitle: Level 65 Drake Rogue

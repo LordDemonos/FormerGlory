@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Master of the Guard
 subtitle: Level 69 Golem Warrior

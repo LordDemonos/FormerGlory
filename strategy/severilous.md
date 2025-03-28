@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Severilous
 subtitle: Level 60 Dragon Shaman

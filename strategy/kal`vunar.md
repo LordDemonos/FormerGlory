@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Kal`Vunar
 subtitle: Level 60 Drake Warrior

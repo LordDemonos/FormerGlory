@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: A Lava Defender
 subtitle: Level 65 Drake Monk

@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Nelaarn the Ebon Claw
 subtitle: Level 63 Drake Warrior

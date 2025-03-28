@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Master Yael
 subtitle: Level 56 Elemental Wizard

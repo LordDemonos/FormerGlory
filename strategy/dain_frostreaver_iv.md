@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Dain Frostreaver IV
 subtitle: Level 70 Coldain Warrior

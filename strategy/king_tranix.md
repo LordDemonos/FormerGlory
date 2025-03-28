@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: King Tranix
 subtitle: Level 52 Giant Shadow Knight

@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Eashen of the Sky
 subtitle: Level 66 Drake Warrior

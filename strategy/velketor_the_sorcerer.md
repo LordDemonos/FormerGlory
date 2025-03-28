@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Velketor the Sorcerer
 subtitle: Level 66 Giant Wizard

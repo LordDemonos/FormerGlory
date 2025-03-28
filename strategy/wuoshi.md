@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Wuoshi
 subtitle: Level 64 Dragon Druid

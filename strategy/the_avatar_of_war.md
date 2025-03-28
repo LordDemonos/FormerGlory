@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: The Avatar of War
 subtitle: Level 70 Rallos Zek Warrior

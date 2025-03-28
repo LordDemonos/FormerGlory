@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Ajorek the Crimson Fang
 subtitle: Level 63 Drake Warrior

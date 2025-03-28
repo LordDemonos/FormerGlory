@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Gra`Vloren
 subtitle: Level 60 Drake Warrior

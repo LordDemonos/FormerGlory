@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Cyndor Lightningfang
 subtitle: Level 65 Drake Cleric

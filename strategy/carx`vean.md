@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Carx`Vean
 subtitle: Level 60 Drake Warrior

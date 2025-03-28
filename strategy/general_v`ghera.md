@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: General V`ghera
 subtitle: Level 65 Dark Elf Shadow Knight

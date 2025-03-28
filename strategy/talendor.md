@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Talendor
 subtitle: Level 60 Dragon Warrior

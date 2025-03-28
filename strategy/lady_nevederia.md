@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Lady Nevederia
 subtitle: Level 66 Dragon Enchanter

@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Tunare
 subtitle: Level 70 Tunare Druid

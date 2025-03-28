@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Quellod Earthspirit
 subtitle: Level 65 Drake Rogue

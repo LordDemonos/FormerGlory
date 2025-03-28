@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: The Statue of Rallos Zek
 subtitle: Level 59 Rallos Zek Warrior

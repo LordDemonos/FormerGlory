@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Kelorek`Dar
 subtitle: Level 65 Dragon Warrior

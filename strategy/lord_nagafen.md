@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Lord Nagafen
 subtitle: Level 55 Dragon Warrior

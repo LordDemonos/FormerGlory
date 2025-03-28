@@ -1,4 +1,5 @@
 ---
+resize_images: true
 layout: page
 title: Lord Feshlak
 subtitle: Level 66 Dragon Warrior
