@@ -69,4 +69,5 @@ cover-img: /assets/img/phinigel_autropos.webp
 </div>
 
 ## STRATEGY
-Phinny is surrounded by Four seahorses that will complete heal, so he must be seperated from them.Bind sight on Phinny and when he paths to one of the sides a pet class targets the west most seahorse then attacks it from the east side. After the seahorse is agro'd he pulls his pet back and swims back into the room behind him. This should allow the puller to tag in phinny solo. The raid then burns Phinny down, and deals with any seahorses that return if needed. 
+Phinny is surrounded by Four seahorses that will complete heal, so he must be seperated from them.Bind sight on Phinny and when he paths to one of the sides a pet class targets the west most seahorse then attacks it from the east side. After the seahorse is agro'd he pulls his pet back and swims back into the room behind him. This should allow the puller to tag in phinny solo. The raid then burns Phinny down, and deals with any seahorses that return if needed.
+![Phinny pull](https://drive.google.com/file/d/1Q_hENNdcodqNgp3tv-egTNl6lcBJtiwc/view?usp=drive_link)
