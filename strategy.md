@@ -5,23 +5,81 @@ subtitle: Boss fight strategies and information
 cover-img: /assets/img/strategy.webp
 ---
 
+<head>
+  <style type="text/css">
+      li.fire { 
+        color:red; 
+      }
+      li.cold { 
+        color:aqua; 
+      }
+      li.magic { 
+        color:fuchsia; 
+      }
+      li.poison { 
+        color:green; 
+      }
+      li.disease { 
+        color:yellow; 
+      }    
+    </style>
+</head>
 <div class="toc-heading">Table of Contents - Jump to an Expansion</div>
 <div style="display: flex; justify-content: space-between; align-items: center; font-size: 1.25em; margin-bottom: 20px;">
   <div style="display: flex; gap: 20px; flex: 1;">
+    <a href="#legened">Legend</a>
     <a href="#classic">Classic</a>
     <a href="#kunark">Kunark</a>
     <a href="#velious">Velious</a>
   </div>
 </div>
-
+<h2 id="legend">Legend</h2>
+<p class="raid-description">Color coding of cards based on Resists needed for the raid target. Recommended to view the web page in dark mode.</p>
+<div class="card-container">
+  <div class="card dragon">
+    <ul>
+      <li>n/a</li>
+    </ul>
+  </div>
+  <div class="card dragon" style="border-color:red">
+    <ul>
+      <li class="fire">Fire</li>
+    </ul>
+  </div>
+  <div class="card dragon" style="border-color:aqua">
+    <ul>
+      <li class="cold">Cold</li>
+    </ul>
+  </div>
+  <div class="card dragon" style="border-color:fuchsia">
+    <ul>
+      <li class="Magic">Magic</li>
+    </ul>
+  </div>
+  <div class="card dragon" style="border-color:green">
+    <ul>
+      <li class="poison">Poison</li>
+    </ul>
+  </div>
+  <div class="card dragon" style="border-color:yellow">
+    <ul>
+      <li class="disease">Disease</li>
+    </ul>
+  </div>
+</div>
 <h2 id="classic">Classic</h2>
 <p class="raid-description">Classic EverQuest raid targets from original zones</p>
 <h4><a href="https://www.pqdi.cc/zone/64" target="_blank">Kedge Keep</a></h4>
 <div class="card-container">
-  <div class="card dragon">
+  <div class="card dragon" style="border-top-color:red;border-right-color:red;border-bottom-color:fuchsia;border-left-color:fuchsia;">
     <ul>
       <li><a href="phinigel_autropos">Phinigel Autropos</a></li>
       <li>Level 55 Kedge Wizard</li>
+      <li class="fire">AoE: FR 800 DD</li>
+      <li class="magic">AoE: MR 300 DD+toss</li>
+      <li class="magic">AoE: MR Snare</li>
+      <li class="magic">AoE: MR 848 DD</li>
+      <li class="magic">Proc: MR Dispel</li>
     </ul>
   </div>
 </div>
@@ -31,6 +89,7 @@ cover-img: /assets/img/strategy.webp
     <ul>
       <li><a href="general_v`ghera">General V`ghera</a></li>
       <li>Level 65 Dark Elf Shadow Knight</li>
+      <li>Proc: n/a 500 DD</li>
     </ul>
   </div>
 </div>
@@ -42,28 +101,36 @@ cover-img: /assets/img/strategy.webp
       <li>Level 52 Giant Shadow Knight</li>
     </ul>
   </div>
-  <div class="card dragon">
+  <div class="card dragon" style="border-top-color:red;border-right-color:red;border-bottom-color:fuchsia;border-left-color:fuchsia;">
     <ul>
       <li><a href="lord_nagafen">Lord Nagafen</a></li>
       <li>Level 55 Dragon Warrior</li>
+      <li class="fire">AoE: FR DD+Dispel 12s</li>
+      <li class="magic">AoE: MR Fear 36s</li>
     </ul>
   </div>
 </div>
 <h4><a href="https://www.pqdi.cc/zone/73" target="_blank">Permafrost Caverns</a></h4>
 <div class="card-container">
-  <div class="card dragon">
+  <div class="card dragon" style="border-top-color:aqua;border-right-color:aqua;border-bottom-color:fuchsia;border-left-color:fuchsia;">
     <ul>
       <li><a href="lady_vox">Lady Vox</a></li>
       <li>Level 55 Dragon Cleric</li>
+      <li class="cold">AoE: CR DD+Dispel 12s</li>
+      <li class="magic">AoE: MR Fear 36s</li>
     </ul>
   </div>
 </div>
 <h4><a href="https://www.pqdi.cc/zone/1039" target="_blank">The Hole</a></h4>
 <div class="card-container">
-  <div class="card dragon">
+  <div class="card dragon" style="border-top-color:red;border-right-color:red;border-bottom-color:fuchsia;border-left-color:fuchsia;">
     <ul>
       <li><a href="master_yael">Master Yael</a></li>
       <li>Level 56 Elemental Wizard</li>
+      <li>Timer: n/a DT ?s</li>
+      <li class="fire">AoE: FR 800 DD</li>
+      <li class="magic">AoE: MR 300 DD+toss</li>
+      <li class="magic">AoE: MR Snare</li>
     </ul>
   </div>
 </div>
@@ -72,85 +139,119 @@ cover-img: /assets/img/strategy.webp
 <p class="raid-description">Ruins of Kunark expansion raid targets</p>
 <h4><a href="https://www.pqdi.cc/zone/89" target="_blank">Ruins of Sebilis</a></h4>
 <div class="card-container">
-  <div class="card dragon">
+  <div class="card dragon" style="border-top-color:green;border-right-color:green;border-bottom-color:fuchsia;border-left-color:fuchsia;">
     <ul>
       <li><a href="trakanon">Trakanon</a></li>
       <li>Level 65 Trakanon Necromancer</li>
+      <li>Timer: n/a TP 30s</li>
+      <li>AoE: n/a Stun+Blind 30s</li>
+      <li class="poison">AoE: PR DD+DoT 35s</li>
+      <li class="magic">Proc: MR 1500 Tap</li>
     </ul>
   </div>
 </div>
 <h4><a href="https://www.pqdi.cc/zone/91" target="_blank">Skyfire Mountains</a></h4>
 <div class="card-container">
-  <div class="card dragon">
+  <div class="card dragon" style="border-top-color:red;border-right-color:red;border-bottom-color:fuchsia;border-left-color:fuchsia;">
     <ul>
       <li><a href="talendor">Talendor</a></li>
       <li>Level 60 Dragon Warrior</li>
+      <li class="fire">AoE: FR DD+DoT 12s</li>
+      <li class="magic">AoE: MR Fear 36s</li>
     </ul>
   </div>
 </div>
 <h4><a href="https://www.pqdi.cc/zone/86" target="_blank">The Dreadlands</a></h4>
 <div class="card-container">
-  <div class="card dragon">
+  <div class="card dragon" style="border-top-color:aqua;border-right-color:aqua;border-bottom-color:fuchsia;border-left-color:fuchsia;">
     <ul>
       <li><a href="gorenaire">Gorenaire</a></li>
       <li>Level 60 Dragon Cleric</li>
+      <li class="cold">AoE: CR DD+Slow 12s</li>
+      <li class="magic">AoE: MR Fear 36s</li>
+      <li class="magic">AoE: MR DD </li>
+      <li class="magic">AoE: MR DD+Blind+Stun</li>
     </ul>
   </div>
 </div>
 <h4><a href="https://www.pqdi.cc/zone/94" target="_blank">The Emerald Jungle</a></h4>
 <div class="card-container">
-  <div class="card dragon">
+  <div class="card dragon" style="border-top-color:green;border-right-color:green;border-bottom-color:fuchsia;border-left-color:fuchsia;">
     <ul>
       <li><a href="severilous">Severilous</a></li>
       <li>Level 60 Dragon Shaman</li>
+      <li class="poison">AoE: PR DD+Stun ?s</li>
+      <li class="poison">AoE: PR 540 DD</li>
+      <li class="magic">AoE: MR Fear 36s</li>
+      <li class="magic">AoE: MR Slow</li>
     </ul>
   </div>
 </div>
 <h4><a href="https://www.pqdi.cc/zone/96" target="_blank">Timorous Deep</a></h4>
 <div class="card-container">
-  <div class="card dragon">
+  <div class="card dragon" style="border-top-color:red;border-right-color:red;border-bottom-color:fuchsia;border-left-color:fuchsia;">
     <ul>
       <li><a href="faydedar">Faydedar</a></li>
       <li>Level 55 Dragon Warrior</li>
+      <li class="fire">AoE: FR DD+Dispel 12s</li>
+      <li class="magic">AoE: MR Fear 36s</li>
     </ul>
   </div>
 </div>
 <h4><a href="https://www.pqdi.cc/zone/108" target="_blank">Veeshan's Peak</a></h4>
 <div class="card-container">
-  <div class="card dragon">
+  <div class="card dragon" style="border-color:fuchsia">
     <ul>
       <li><a href="druushk">Druushk</a></li>
       <li>Level 65 Dragon Ranger</li>
+      <li class="magic">Timer: MR Charm 15s</li>
+      <li class="magic">AoE: MR DD+Dispel 12s</li>
     </ul>
   </div>
-  <div class="card dragon">
+  <div class="card dragon" style="border-top-color:yellow;border-right-color:green;border-bottom-color:fuchsia;border-left-color:fuchsia;">
     <ul>
       <li><a href="hoshkar">Hoshkar</a></li>
       <li>Level 65 Dragon Shaman</li>
+      <li class="disease">AoE: DR DD+Slow 12s</li>
+      <li class="poison">AoE: PR 650 DD</li>
+      <li class="magic">Timer: MR Charm 15s</li>
+      <li class="magic">AoE: MR Slow</li>
     </ul>
   </div>
-  <div class="card dragon">
+  <div class="card dragon" style="border-top-color:red;border-right-color:red;border-bottom-color:fuchsia;border-left-color:fuchsia;">
     <ul>
       <li><a href="nexona">Nexona</a></li>
       <li>Level 65 Dragon Shadow Knight</li>
+      <li class="fire">AoE: FR DD+DoT+Mvm 12s</li>
+      <li class="magic">Timer: MR Charm 15s</li>
     </ul>
   </div>
-  <div class="card dragon">
+  <div class="card dragon" style="border-color:fuchsia">
     <ul>
       <li><a href="phara_dar">Phara Dar</a></li>
       <li>Level 65 Dragon Cleric</li>
+      <li class="magic">Timer: MR Charm 15s</li>
+      <li class="magic">AoE: MR DD+Stun 12s</li>
+      <li class="magic">AoE: MR DD+Blind+Stun</li>
+      <li class="magic">AoE: MR 850 DD</li>
     </ul>
   </div>
-  <div class="card dragon">
+  <div class="card dragon" style="border-color:fuchsia">
     <ul>
       <li><a href="silverwing">Silverwing</a></li>
       <li>Level 65 Dragon Enchanter</li>
+      <li class="magic">Timer: MR Charm 15s</li>
+      <li class="magic">AoE: MR DD+Toss 12s</li>
+      <li class="magic">AoE: MR 300 DD+Toss</li>
+      <li class="magic">AoE: MR Resist Debuff</li>
     </ul>
   </div>
-  <div class="card dragon">
+  <div class="card dragon" style="border-color:fuchsia">
     <ul>
       <li><a href="xygoz">Xygoz</a></li>
       <li>Level 65 Dragon Bard</li>
+      <li class="magic">Timer: MR Silence 12s</li>
+      <li class="magic">Timer: MR Charm 15s</li>
     </ul>
   </div>
 </div>
@@ -574,4 +675,3 @@ cover-img: /assets/img/strategy.webp
     </ul>
   </div>
 </div>
-
