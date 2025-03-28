@@ -201,6 +201,7 @@ site-js:
  - "https://unpkg.com/@popperjs/core@2"
  - "https://unpkg.com/tippy.js@6"
  - "/assets/js/spell-tooltip.js"
+ - "/assets/js/image-resize.js"
 
 #################################
 # --- Web Analytics Section --- #

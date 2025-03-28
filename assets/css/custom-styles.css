@@ -833,4 +833,16 @@ h2 {
   margin-right: 5px !important;
   vertical-align: top !important;
   isolation: isolate !important;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* Full size state */
+[data-theme="dark"] .resize-img.full-size,
+[data-theme="light"] .resize-img.full-size {
+  height: auto !important;
+  width: auto !important;
+  max-width: 100% !important;
+  position: relative;
+  z-index: 1000;
 }
