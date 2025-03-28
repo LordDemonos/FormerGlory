@@ -823,3 +823,14 @@ h2 {
   color: #f5f5f5;
   border-top: 1px solid #333;
 }
+
+/* Image resizing styles */
+[data-theme="dark"] .resize-img,
+[data-theme="light"] .resize-img {
+  height: 200px !important;
+  width: auto !important;
+  display: inline-block !important;
+  margin-right: 5px !important;
+  vertical-align: top !important;
+  isolation: isolate !important;
+}

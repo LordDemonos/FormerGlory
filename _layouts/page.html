@@ -15,7 +15,11 @@ layout: base
         </div>
       {% endif %}
 
-      {{ content }}
+      {% if page.resize_images %}
+        {{ content | replace: '<img', '<img class="resize-img"' }}
+      {% else %}
+        {{ content }}
+      {% endif %}
 
       {% if page.after-content %}
         <div class="after-content">
