@@ -97,13 +97,13 @@ cover-img: /assets/img/targets.webp
       <li>Sat</li>
     </ul>
   </div>
-  <div class="card magician">
+  <div class="card necromancer">
     <ul>
-      <li>Maqe (main: Llik)</li>
-      <li>Magician</li>
-      <li>City of Mist</li>
-      <li>Lord Rak'ashiir - Iksar Scale</li>
-      <li>Wed</li>
+      <li>Tanarac</li>
+      <li>Necromancer</li>
+      <li>Plane of Sky</li>
+      <li>Black Silk Cape</li>
+      <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
 </div>
@@ -126,6 +126,24 @@ cover-img: /assets/img/targets.webp
       <li>Druid</li>
       <li>Timorous Deep</li>
       <li>Pod of Seawater</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card enchanter">
+    <ul>
+      <li>Walgreens</li>
+      <li>Enchanter</li>
+      <li>Plane of Fear</li>
+      <li>Wraith of a Shissar - Head of the Serpent</li>
+      <li>Mon, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card magician">
+    <ul>
+      <li>Maqe (Main: Llik)</li>
+      <li>Magician</li>
+      <li>Plane of Hate</li>
+      <li>Innoruuk - Staff of Elemental Mastery: Earth</li>
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
