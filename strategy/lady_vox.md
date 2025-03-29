@@ -71,3 +71,16 @@ cover-img: /assets/img/lady_vox.webp
 <div class="ability-cell">Use Warrior Skills</div>
 <div class="ability-cell">Leashed</div>
 </div>
+
+### Preparation
+
+ - Vox is a AOE fear dragon with a 500pt cold DD and dispel every 12 seconds
+ - Have an instant click buff in your top slot to prevent the loss of buffs
+ - Cold and magic resist are needed
+ - Turn walk on. Fear is the most dangerous part of the fight because if you have a chance to run into the bear pits and die
+ - Vox will cast complete heal, so enchanters should cast mana sieve throughout the fight.
+### Engage
+
+The main tank will use the fearless discipline and will run through the door and pull Vox away from the entrance and against the right hand wall. All casters will move past the door but stay in hallway outside of the AOE. When Vox is in position, melee will enter and pin Vox against the wall.
+
+![Vox strategy](https://github.com/user-attachments/assets/a24469eb-91f0-4026-9624-7213e3eb5ca7)
