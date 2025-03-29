@@ -87,3 +87,22 @@ cover-img: /assets/img/zlandicar.webp
 <div class="ability-cell">effects</div>
 <div class="ability-cell">Flee percentage</div>
 </div>
+
+### Preparation
+Disease and magic resistance required
+### Engage
+ - Two DA tanks run into lair and place Zlandicar on his platform
+ - As soon as the fear and disease AOE are out they need to call for the rest of the raid to run in. All of the raid force will position themselves below the ledge out of the AOE
+ - Tanks remove DA as raid arrives and clerics start healing. Zlandicar does not hit that hard and can be slowed
+ - Fear is every 36 seconds, Melee needs to drop back off ledge on 5 second warning
+ - After the second fear goes out melee can go in and Zlandicar needs to be slowed. Zlandicar is a belly caster. We need Malo, Tash, and a puretone bard can MR debuff, then shamans try and slow.
+### During Fight
+ - CH chain of around 5 seconds, with one cleric on fast spot heals
+ - One cleric on Rampage tank
+ - Zlandicar proc's a 900dd plus long stun AOE centered on the tank
+ - Do not die or get low hp aggro! Call for heals, call for disease cure, bind wound, heal yourself. If you are getting low do not run back in, get a heal
+ - Consent a melee to drag if you die, drag all corpses to the corner, have a cleric that is not next on the chain to rez
+
+ - ![Zlandicar lair](https://github.com/user-attachments/assets/1a4dc3be-70ad-464c-8bdc-353fe8a8b194)
+
+   ![Zlandicar ledge](https://github.com/user-attachments/assets/34c6aa89-6b55-4e6f-9687-f7572c2aa874)
