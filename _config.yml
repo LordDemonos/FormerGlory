@@ -32,7 +32,9 @@ navbar-links:
   About FG: "aboutme"
   DKP: "aboutdkp"
   Requirements: "requirements"
-  Strategy: "strategy"
+  Strategy:
+    - Boss Guides: "strategy"
+    - Quick Reference: "spoilers"
   Services:
     - Target Requests: "targets"
     - Spell Bank: "spells"

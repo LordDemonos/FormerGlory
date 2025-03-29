@@ -5,11 +5,14 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
     }
 
-    // Check localStorage and redirect if needed
+    // Check if this was a direct page load or navigation from menu
+    const fromNavigation = document.referrer.includes(window.location.hostname);
+
+    // Check localStorage and redirect if needed - only for direct access
     const savedView = localStorage.getItem('viewPreference');
     const savedScrollPosition = localStorage.getItem('scrollPosition');
     
-    if (savedView) {
+    if (savedView && !fromNavigation) {
         const currentPage = document.body.classList.contains('strategy-page') ? 'strategy' : 'spoilers';
         if (savedView !== currentPage) {
             window.location.href = savedView === 'strategy' ? '/strategy/' : '/spoilers/';
