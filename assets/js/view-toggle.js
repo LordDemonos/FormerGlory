@@ -23,6 +23,22 @@ document.addEventListener('DOMContentLoaded', function() {
         localStorage.removeItem('scrollPosition'); // Clear after using
     }
 
+    // If on spoilers page, modify internal links to point to strategy
+    if (document.body.classList.contains('spoilers-page')) {
+        document.querySelectorAll('.card-container a').forEach(link => {
+            // Check if this is an internal link (no target="_blank" and no external domain)
+            if (!link.hasAttribute('target') && !link.href.includes('pqdi.cc')) {
+                // Get just the last part of the href (the filename)
+                const href = link.getAttribute('href');
+                // Make sure we're not duplicating /strategy/
+                if (!href.startsWith('/strategy/')) {
+                    link.href = '/strategy/' + href;
+                }
+                console.log('Modified link:', link.href); // Debug log
+            }
+        });
+    }
+
     // Create toggle button
     const toggleButton = document.createElement('button');
     toggleButton.className = 'view-toggle';
