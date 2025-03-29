@@ -106,6 +106,15 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card cleric">
+    <ul>
+      <li>Corranhorn (Kneepuncher)</li>
+      <li>Cleric</li>
+      <li>Chardok</li>
+      <li>Overking Bathezid - A Singed Scroll</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="saturday">Saturday</h2>
