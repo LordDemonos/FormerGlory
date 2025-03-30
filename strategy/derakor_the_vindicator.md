@@ -66,3 +66,14 @@ cover-img: /assets/img/derakor_the_vindicator.webp
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>
+
+### Preparation
+ - Two guards spawn with Vindi and will always assist him. They can either be split and killed first or kited.
+ - Vindi is unslowable, but you can cripple and debuff
+ - Pull Vindi back to arena and corner pin
+### Engage
+ - Establish rampage tank on pull
+ - Main tank will need a 2 second CH chain, or maybe 3 seconds if he has over 6k hp
+ - Main and rampage tank should use defensive discipline
+ - Rampage tank should have 2 clerics alternating CH, with a shaman to torpor and heal if needed
+ - Stay at max melee range
