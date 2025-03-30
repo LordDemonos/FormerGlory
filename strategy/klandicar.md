@@ -69,3 +69,15 @@ cover-img: /assets/img/klandicar.webp
 <div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Flee percentage</div>
 </div>
+
+Klandicar
+### Preparation
+ - First slot instant click and junk buffs. 400pt DD and dispel is unresistable every 12 seconds
+ - As much Magic resist as possible
+ - Klandicar can be pre slowed and debuffed. Either have a shaman that is non KOS or a ranger that is cast harmony. Shaman binds inside Dragon Necropolis, then gets a TL box from a wizard to bind. Shaman can then cast malo, take TL, cast slow, take TL.
+### Engage
+ - DA tank runs in and engages
+ - As soon as fear is out the rest of the raid force runs in
+ - Surround Klandicar (not all on one side or back) and then use bark pots
+ - Continue to use instant click item and bark pots
+ - Clerics may want to use DA to avoid fear when it is called out
