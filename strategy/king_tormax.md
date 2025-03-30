@@ -65,3 +65,17 @@ cover-img: /assets/img/king_tormax.webp
 <div class="ability-cell">for Help</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>
+
+### Preparation
+ - King Tormax's room has a lot of guards. It is possible to pull Tormax to Zone line and kite all the guards during kill. But will be safer if the guards are split off and killed first.
+ - King Tormax is unslowable, but you can cripple and debuff
+ - Can corner pin at zone line, or kill near the enterence of throne room
+### Engage
+ - Establish rampage tank on pull, the rampage tank should not be in the rotation for tank swaps
+ - Main tank will need a 3 or 4 second CH chain, and then faster if defensive discipline drops
+ - Main and rampage tank should use defensive discipline
+ - Rampage tank should have 2 clerics alternating CH but might not need much while defensive is going, and with a shaman to torpor and heal if needed
+ - King Tormax has 450,000 hp. This is almost triple Vindi. A defensive tank swap may be required. Defensive tank swap saves on mana but adds risk while swapping 
+ - To swap tanks; the defensive warrior calls when he has 15 seconds left on defensive, at this time the cleric CH chain has to swap to the new tank. As soon as a CH lands on the new tank he has to take agro.
+ - Assign a "speedbump" tank, this is a high agro class can snap agro if the maintank dies or during the main tank swap. They should use a discipline that mitigates or prevents damage while the CH chain switches to the new tank
+ - Stay at max melee range
