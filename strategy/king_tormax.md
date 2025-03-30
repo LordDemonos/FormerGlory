@@ -79,3 +79,5 @@ cover-img: /assets/img/king_tormax.webp
  - To swap tanks; the defensive warrior calls when he has 15 seconds left on defensive, at this time the cleric CH chain has to swap to the new tank. As soon as a CH lands on the new tank he has to take agro.
  - Assign a "speedbump" tank, this is a high agro class can snap agro if the maintank dies or during the main tank swap. They should use a discipline that mitigates or prevents damage while the CH chain switches to the new tank
  - Stay at max melee range
+
+![king_tormax](/assets/img/king_tormax.gif)
