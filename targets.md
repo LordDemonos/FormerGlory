@@ -115,6 +115,15 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card shaman">
+    <ul>
+      <li>Souske</li>
+      <li>Shaman</li>
+      <li>City of Mist</li>
+      <li>Lord Rak'ashiir - Iksar Scale</li>
+      <li>Sat</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="saturday">Saturday</h2>
@@ -153,6 +162,15 @@ cover-img: /assets/img/targets.webp
       <li>Magician</li>
       <li>Plane of Hate</li>
       <li>Innoruuk - Staff of Elemental Mastery: Earth</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card wizard">
+    <ul>
+      <li>Xerzis</li>
+      <li>Wizard</li>
+      <li>Plane of Fear</li>
+      <li>an enraged golem - Green Oil</li>
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
