@@ -72,3 +72,21 @@ cover-img: /assets/img/sontalak.webp
 <div class="ability-cell">Flee percentage</div>
 <div class="ability-cell">Proximity Aggro</div>
 </div>
+
+### Preparation
+ - Top slot instant click
+ - Magic and Fire resists
+ - Rune's
+ - Sontalak self dispels himself so debuffs will not work
+ - The most important thing is keeping Sontalak on the tank, he has a very small range AOE 4 slot dispel on target, if he flips he will dispel the raid
+ - Belly caster
+### Engage
+ - High aggro tank DA and pull Sontalak into tunnel parking him at the next wall
+ - Raid follows in after fear is out and pins Sontalak on the wall, using bark pots
+ - Chain runes on tank to keep from being dispelled
+ - MT should keep clicking 2 instant buffs when dispelled
+ - A cleric should chain cast HB, and a shaman should chain cast Kragg on MT (maybe also resists?)
+ - Low HP aggro will cause Sontalak to flip, need to heal group so that does not happen
+ - Bring wizards and nuke hard to kill as fast as possible, use disciplines
+
+![Sontalak strat](https://github.com/user-attachments/assets/8b98ea64-465d-4e9b-be53-def6e00f7468)
