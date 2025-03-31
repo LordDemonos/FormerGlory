@@ -60,3 +60,11 @@ cover-img: /assets/img/the_statue_of_rallos_zek.webp
 <div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>
+
+### Preparation
+ - Establish rampage tank on pull
+ - Statue can be slowed. We need Malo, Tash, and a puretone bard can MR debuff, then shamans try and slow. Call out when these land or are resisted
+### Engage
+ - 2 second complete heal chain on main tank before slow. Once slow has landed switch to 4 second complete heal chain
+ - Main and rampage tank use defensive
+ - Stay at max melee range
