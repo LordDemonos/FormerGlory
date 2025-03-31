@@ -3,7 +3,7 @@ resize_images: true
 layout: page
 title: King Tormax
 subtitle: Level 70 Giant Warrior
-cover-img: /assets/img/king_tormax.webp
+cover-img: /assets/img/king_tormax.gif
 ---
 
 <div class="info-section">
