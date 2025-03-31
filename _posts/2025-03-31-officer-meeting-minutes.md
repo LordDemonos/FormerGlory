@@ -2,11 +2,11 @@
 published: 'true'
 date: '2025-03-31 14:21 -0400'
 author: Dihat
-title: OFFICER MEETING MINUTES
+title: Officer Meeting Minutes
 description: Officer Meeting Minutes for March 30th 2025 the Weekend Before Velious
 keywords: 'Officer, velious, raiding, dkp, time, rules, level'
 ---
-# OFFICER MEETING MINUTES
+# Officer Meeting Minutes
 
 ## Member Questions
 
