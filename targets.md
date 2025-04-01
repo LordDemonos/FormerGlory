@@ -70,15 +70,6 @@ cover-img: /assets/img/targets.webp
       <li>Wed, Fri, Sat</li>
     </ul>
   </div>
-  <div class="card rogue">
-    <ul>
-      <li>Wreckdem</li>
-      <li>Rogue</li>
-      <li>Kithicor Forest</li>
-      <li>General V'ghera - General's Pouch</li>
-      <li>Wed</li>
-    </ul>
-  </div>
   <div class="card warrior">
     <ul>
       <li>Boogzee (Orez)</li>
@@ -86,15 +77,6 @@ cover-img: /assets/img/targets.webp
       <li>Chardok</li>
       <li>Queen Velazul Di`zok - Ancient Blade</li>
       <li>Wed</li>
-    </ul>
-  </div>
-  <div class="card monk">
-    <ul>
-      <li>Stanjutsu alt, Stanzo Main</li>
-      <li>Monk</li>
-      <li>Lake of Ill Omen</li>
-      <li>Xenevorash - Demon Fangs</li>
-      <li>Sat</li>
     </ul>
   </div>
   <div class="card necromancer">
