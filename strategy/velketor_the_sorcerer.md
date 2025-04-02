@@ -74,3 +74,15 @@ cover-img: /assets/img/velketor_the_sorcerer.webp
 <div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>
+
+### Preparation
+ - Tank needs CR and FR as well as junk buffs because Velk can dispel the tank
+ - Velk can have a damage shield, should dispel before any debuffs
+ - Belly caster
+ - Can be killed in his room
+
+### Engage
+ - Pull into position or engage with a monk or ranger using discipline, this will let tank establish agro
+ - 3 second CH chain
+ - Velk has very high MR, only try slowing and debuffing after agro is well established
+ - Velks dps will increase when he is out of mana and only meleeing
