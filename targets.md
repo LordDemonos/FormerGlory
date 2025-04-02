@@ -25,24 +25,6 @@ cover-img: /assets/img/targets.webp
 <h2 id="wednesday">Wednesday</h2>
 <p class="raid-description">Wednesday raid targets include Plane of Sky, Kithicor Forest, Lake of Ill Omen, City of Mist, Chardok, Karnor's Castle</p>
 <div class="card-container">
-  <div class="card necromancer">
-    <ul>
-      <li>Nektarius</li>
-      <li>Necromancer</li>
-      <li>Plane of Sky</li>
-      <li>Black Silk Cape</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card warrior">
-    <ul>
-      <li>Boogzee (Orez)</li>
-      <li>Warrior</li>
-      <li>Plane of Sky</li>
-      <li>The Spiroc Lord - Spiroc Wingblade</li>
-      <li>Wed</li>
-    </ul>
-  </div>
   <div class="card shadow-knight">
     <ul>
       <li>Alrien / Kuyt (week of 3/17 - out of town week of 3/10)</li>
@@ -68,15 +50,6 @@ cover-img: /assets/img/targets.webp
       <li>City of Mist</li>
       <li>Lord Rak'ashiir - Iksar Scale</li>
       <li>Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card warrior">
-    <ul>
-      <li>Boogzee (Orez)</li>
-      <li>Warrior</li>
-      <li>Chardok</li>
-      <li>Queen Velazul Di`zok - Ancient Blade</li>
-      <li>Wed</li>
     </ul>
   </div>
   <div class="card necromancer">
