@@ -67,7 +67,7 @@ cover-img: /assets/img/king_tormax.gif
 </div>
 
 ### Preparation
- - King Tormax's room has a lot of guards. It is possible to pull Tormax to Zone line and kite all the guards during kill. But will be safer if the guards are split off and killed first.
+ - King Tormax's room has a lot of guards. It is possible to pull Tormax to Zone line and kite all the guards during kill. But will be safer if the guards are split off and killed first. After 5 minutes, Tormax summons all his throne room guards to him if they are not engaged
  - King Tormax is unslowable, but you can cripple and debuff
  - Can corner pin at zone line, or kill near the enterence of throne room
 ### Engage
