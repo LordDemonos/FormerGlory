@@ -79,6 +79,15 @@ cover-img: /assets/img/targets.webp
       <li>Sat</li>
     </ul>
   </div>
+  <div class="card monk">
+    <ul>
+      <li>Stynkfyst, Atmosphere is main</li>
+      <li>Monk</li>
+      <li>Lake of Ill Omen</li>
+      <li>Xenevorash - Demon Fangs</li>
+      <li>Sat</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="saturday">Saturday</h2>
