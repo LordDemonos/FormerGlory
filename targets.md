@@ -147,5 +147,14 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card wizard">
+    <ul>
+      <li>Nukeblen (Moeblen)</li>
+      <li>Wizard</li>
+      <li>Plane of Hate</li>
+      <li>an enraged golem - Green Oil</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
