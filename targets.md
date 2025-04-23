@@ -5,25 +5,33 @@ subtitle: Submit your requests for raid night
 cover-img: /assets/img/targets.webp
 ---
 
-<div class="toc-heading">Table of Contents - Jump to a Raid Night</div>
+<div class="toc-heading">Table of Contents</div>
 <div style="display: flex; justify-content: space-between; align-items: center; font-size: 1.25em; margin-bottom: 20px;">
   <div style="display: flex; gap: 20px; flex: 1;">
-    <a href="#monday-friday">Monday/Friday</a>
-    <a href="#wednesday">Wednesday</a>
-    <a href="#saturday">Saturday</a>
+    <a href="#raid-nights">Raid Nights</a>
+    <a href="#off-night-targets">Off Night Targets</a>
   </div>
   <div style="margin-left: 20px;">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrdGZCRdUpdJ14DtRNTurlymNWYFvUbFBp0GvLOXvZb9JApA/viewform">Request Form</a>
   </div>
 </div>
 
-<h2 id="monday-friday">Monday/Friday</h2>
-<p class="raid-description">Monday/Friday raid targets include Skyfire, Sebilis</p>
+<h2 id="raid-nights">Raid Nights</h2>
+<p class="raid-description">Our main raid nights are focused on the Dain Ring War in Great Divide.</p>
 <div class="card-container">
+  <div class="card warrior">
+    <ul>
+      <li>Testamild</li>
+      <li>Warrior</li>
+      <li>Great Divide</li>
+      <li>Ring of Dain Frostreaver IV - Ring War</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
-<h2 id="wednesday">Wednesday</h2>
-<p class="raid-description">Wednesday raid targets include Plane of Sky, Kithicor Forest, Lake of Ill Omen, City of Mist, Chardok, Karnor's Castle</p>
+<h2 id="off-night-targets">Off Night Targets</h2>
+<p class="raid-description">These targets can be tackled on off nights with smaller groups.</p>
 <div class="card-container">
   <div class="card shadow-knight">
     <ul>
@@ -52,6 +60,33 @@ cover-img: /assets/img/targets.webp
       <li>Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card wizard">
+    <ul>
+      <li>Intan</li>
+      <li>Wizard</li>
+      <li>Plane of Fear</li>
+      <li>an enraged golem - Green Oil</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card druid">
+    <ul>
+      <li>Smallme</li>
+      <li>Druid</li>
+      <li>Timorous Deep</li>
+      <li>Pod of Seawater</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card enchanter">
+    <ul>
+      <li>Walgreens</li>
+      <li>Enchanter</li>
+      <li>Plane of Fear</li>
+      <li>Wraith of a Shissar - Head of the Serpent</li>
+      <li>Mon, Fri, Sat</li>
+    </ul>
+  </div>
   <div class="card necromancer">
     <ul>
       <li>Tanarac</li>
@@ -61,12 +96,30 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card magician">
+    <ul>
+      <li>Maqe (Main: Llik)</li>
+      <li>Magician</li>
+      <li>Plane of Hate</li>
+      <li>Innoruuk - Staff of Elemental Mastery: Earth</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
   <div class="card cleric">
     <ul>
       <li>Corranhorn (Kneepuncher)</li>
       <li>Cleric</li>
       <li>Chardok</li>
       <li>Overking Bathezid - A Singed Scroll</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card wizard">
+    <ul>
+      <li>Xerzis</li>
+      <li>Wizard</li>
+      <li>Plane of Fear</li>
+      <li>an enraged golem - Green Oil</li>
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
@@ -95,56 +148,6 @@ cover-img: /assets/img/targets.webp
       <li>Lake of Ill Omen</li>
       <li>Xenevorash - Demon Fangs</li>
       <li>Mon, Wed, Sat</li>
-    </ul>
-  </div>
-</div>
-
-<h2 id="saturday">Saturday</h2>
-<p class="raid-description">Saturday raid targets include Plane of Hate, Plane of Fear, Timorous Deep</p>
-<div class="card-container">
-  <div class="card wizard">
-    <ul>
-      <li>Intan</li>
-      <li>Wizard</li>
-      <li>Plane of Fear</li>
-      <li>an enraged golem - Green Oil</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card druid">
-    <ul>
-      <li>Smallme</li>
-      <li>Druid</li>
-      <li>Timorous Deep</li>
-      <li>Pod of Seawater</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card enchanter">
-    <ul>
-      <li>Walgreens</li>
-      <li>Enchanter</li>
-      <li>Plane of Fear</li>
-      <li>Wraith of a Shissar - Head of the Serpent</li>
-      <li>Mon, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card magician">
-    <ul>
-      <li>Maqe (Main: Llik)</li>
-      <li>Magician</li>
-      <li>Plane of Hate</li>
-      <li>Innoruuk - Staff of Elemental Mastery: Earth</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card wizard">
-    <ul>
-      <li>Xerzis</li>
-      <li>Wizard</li>
-      <li>Plane of Fear</li>
-      <li>an enraged golem - Green Oil</li>
-      <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
   <div class="card wizard">
