@@ -22,26 +22,36 @@ service = build('sheets', 'v4', credentials=creds)
 SPREADSHEET_ID = '10Y4D2n7LFb0WwZpZwNRxK1eKy0J8xjA6LZknpPuszc0'
 RANGE_NAME = "'Form Responses 1'!A2:G100"  # Start from A2 to skip headers
 
-# Define the zone-day mapping
-zone_day_mapping = {
-    "Plane of Hate": "Saturday",
-    "Plane of Fear": "Saturday",
-    "Plane of Sky": "Wednesday",
-    "Kithicor Forest": "Wednesday",
-    "Lake of Ill Omen": "Wednesday",
-    "Skyfire": "Monday/Friday",
-    "City of Mist": "Wednesday",
-    "Chardok": "Wednesday",
-    "Timorous Deep": "Saturday",
-    "Karnor's Castle": "Wednesday",
-    "Sebilis": "Monday/Friday",
-}
+# Define the zone mapping for off-night targets
+off_night_zones = [
+    # Kunark zones
+    "Plane of Hate",
+    "Plane of Fear",
+    "Plane of Sky",
+    "Kithicor Forest",
+    "Lake of Ill Omen",
+    "Skyfire",
+    "City of Mist",
+    "Chardok",
+    "Timorous Deep",
+    "Karnor's Castle",
+    "Sebilis",
+    "Burning Woods"
+]
+
+# Define the raid night zones
+raid_night_zones = [
+    # Velious zones
+    "Great Divide"  # For Dain Ring War
+]
+
+# Create a combined mapping for validation
+zone_day_mapping = {zone: "off_night" for zone in off_night_zones}
 
 def process_sheet(sheet):
     epic_needs = {
-        'monday_friday': [],
-        'wednesday': [],
-        'saturday': []
+        'raid_nights': [],
+        'off_night': []
     }
     
     # Skip header row
@@ -63,23 +73,19 @@ def process_sheet(sheet):
         if not all([name, char_class, zone, item, days]):  # Skip if any required field is empty
             continue
             
-        days_list = [day.strip() for day in days.split(',')]
-        
         entry = {
             'name': name,
             'class': char_class,
             'zone': zone,
             'item': item,
-            'days': days_list
+            'days': days
         }
         
-        # Add to appropriate day lists
-        if any(day in ['Mon', 'Fri'] for day in days_list):
-            epic_needs['monday_friday'].append(entry)
-        if 'Wed' in days_list:
-            epic_needs['wednesday'].append(entry)
-        if 'Sat' in days_list:
-            epic_needs['saturday'].append(entry)
+        # Add to appropriate list based on zone
+        if zone in raid_night_zones:
+            epic_needs['raid_nights'].append(entry)
+        elif zone in off_night_zones:
+            epic_needs['off_night'].append(entry)
     
     return epic_needs
 
@@ -94,8 +100,12 @@ try:
     if not values:
         print("No data found in the specified range.")
     else:
-        # Organize cards by day
-        cards_by_day = defaultdict(list)
+        # Organize cards by category
+        cards_by_category = {
+            'raid_nights': [],
+            'off_night': []
+        }
+        
         for row in values:
             print(f"DEBUG: Processing row: {row}")
             
@@ -110,18 +120,16 @@ try:
                 continue
             
             # Only process if we have all required fields
-            if all(field.strip() for field in row[0:5]):  # Check if first 5 fields have non-empty values
-                zone = row[3]  # Changed from row[2] to row[3] to get the correct zone
-                day = zone_day_mapping.get(zone)
-                if day:
-                    cards_by_day[day].append(row)
-                    print(f"DEBUG: Added row to {day}: {row}")
+            if all(field.strip() for field in row[0:5]):
+                zone = row[3]
+                if zone in raid_night_zones:
+                    cards_by_category['raid_nights'].append(row)
+                elif zone in off_night_zones:
+                    cards_by_category['off_night'].append(row)
                 else:
-                    print(f"DEBUG: No day mapping found for zone: {zone}")
-            else:
-                print(f"DEBUG: Row skipped - empty required fields: {row}")
+                    print(f"DEBUG: Zone not found in either category: {zone}")
 
-        print(f"DEBUG: Final cards_by_day contents: {dict(cards_by_day)}")
+        print(f"DEBUG: Final cards_by_category contents: {dict(cards_by_category)}")
 
         with open('targets.md', 'w') as file:
             # Write the front matter
@@ -131,37 +139,47 @@ try:
             file.write("subtitle: Submit your requests for raid night\n")
             file.write("cover-img: /assets/img/targets.webp\n")
             file.write("---\n\n")
+            
             # Add the table of contents heading
-            file.write('<div class="toc-heading">Table of Contents - Jump to a Raid Night</div>\n')
+            file.write('<div class="toc-heading">Table of Contents</div>\n')
             # Write the submission link and table of contents in one flex container
             file.write('<div style="display: flex; justify-content: space-between; align-items: center; font-size: 1.25em; margin-bottom: 20px;">\n')
             file.write('  <div style="display: flex; gap: 20px; flex: 1;">\n')
-            for day in ["Monday/Friday", "Wednesday", "Saturday"]:
-                anchor = day.lower().replace("/", "-")
-                file.write(f'    <a href="#{anchor}">{day}</a>\n')
+            file.write('    <a href="#raid-nights">Raid Nights</a>\n')
+            file.write('    <a href="#off-night-targets">Off Night Targets</a>\n')
             file.write('  </div>\n')
             file.write('  <div style="margin-left: 20px;">\n')
             file.write('    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrdGZCRdUpdJ14DtRNTurlymNWYFvUbFBp0GvLOXvZb9JApA/viewform">Request Form</a>\n')
             file.write('  </div>\n')
             file.write('</div>\n\n')
 
-            # Write cards under each day
-            for day in ["Monday/Friday", "Wednesday", "Saturday"]:
-                anchor = day.lower().replace("/", "-")
-                file.write(f'<h2 id="{anchor}">{day}</h2>\n')
-                file.write(f'<p class="raid-description">{day} raid targets include {", ".join([zone for zone, d in zone_day_mapping.items() if d == day])}</p>\n')
-                file.write('<div class="card-container">\n')
-                for row in cards_by_day.get(day, []):
-                    # Sanitize the class name using the class (index 2)
-                    class_name = row[2].lower().replace(" ", "-")
-                    file.write(f'  <div class="card {class_name}">\n')
-                    file.write('    <ul>\n')
-                    # Start from index 1 to skip timestamp, but include up to index 6 to get days
-                    for item in row[1:6]:  # Changed from row[1:5] to row[1:6]
-                        file.write(f'      <li>{item}</li>\n')
-                    file.write('    </ul>\n')
-                    file.write('  </div>\n')
-                file.write('</div>\n\n')
+            # Write Raid Nights section
+            file.write('<h2 id="raid-nights">Raid Nights</h2>\n')
+            file.write('<p class="raid-description">Our main raid nights are focused on the Dain Ring War in Great Divide.</p>\n')
+            file.write('<div class="card-container">\n')
+            for row in cards_by_category['raid_nights']:
+                class_name = row[2].lower().replace(" ", "-")
+                file.write(f'  <div class="card {class_name}">\n')
+                file.write('    <ul>\n')
+                for item in row[1:6]:
+                    file.write(f'      <li>{item}</li>\n')
+                file.write('    </ul>\n')
+                file.write('  </div>\n')
+            file.write('</div>\n\n')
+
+            # Write Off Night Targets section
+            file.write('<h2 id="off-night-targets">Off Night Targets</h2>\n')
+            file.write('<p class="raid-description">These targets can be tackled on off nights with smaller groups.</p>\n')
+            file.write('<div class="card-container">\n')
+            for row in cards_by_category['off_night']:
+                class_name = row[2].lower().replace(" ", "-")
+                file.write(f'  <div class="card {class_name}">\n')
+                file.write('    <ul>\n')
+                for item in row[1:6]:
+                    file.write(f'      <li>{item}</li>\n')
+                file.write('    </ul>\n')
+                file.write('  </div>\n')
+            file.write('</div>\n\n')
 
         print("Data successfully written to targets.md with front matter")
 
