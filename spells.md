@@ -257,4 +257,3 @@ subtitle: List of Spells in the guild bank
 [Spell: Word of Redemption](https://www.pqdi.cc/item/19229) x3
 
 [Spell: Yaulp IV](https://www.pqdi.cc/item/19209)
-
