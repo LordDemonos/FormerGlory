@@ -19,15 +19,6 @@ cover-img: /assets/img/targets.webp
 <h2 id="raid-nights">Raid Nights</h2>
 <p class="raid-description">Our main raid nights are focused on the Dain Ring War in Great Divide.</p>
 <div class="card-container">
-  <div class="card enchanter">
-    <ul>
-      <li>Fabio</li>
-      <li>Enchanter</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card rogue">
     <ul>
       <li>Scabandari</li>
@@ -174,6 +165,15 @@ cover-img: /assets/img/targets.webp
       <li>Wizard</li>
       <li>Plane of Fear</li>
       <li>an enraged golem - Green Oil</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card shaman">
+    <ul>
+      <li>Hawth</li>
+      <li>Shaman</li>
+      <li>City of Mist</li>
+      <li>Lord Rak'ashiir - Iksar Scale</li>
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
