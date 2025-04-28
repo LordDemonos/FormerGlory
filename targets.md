@@ -177,5 +177,50 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card cleric">
+    <ul>
+      <li>Rolaid (Omagurd)</li>
+      <li>Cleric</li>
+      <li>Burning Woods</li>
+      <li>Ixiblat Fer - Sceptre of Ixiblat Fer</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card cleric">
+    <ul>
+      <li>Rolaid (Omagurd)</li>
+      <li>Cleric</li>
+      <li>Chardok</li>
+      <li>Overking Bathezid - A Singed Scroll</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card cleric">
+    <ul>
+      <li>Rolaid (Omagurd)</li>
+      <li>Cleric</li>
+      <li>Skyfire</li>
+      <li>Zordak Ragefire's Heart</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card magician">
+    <ul>
+      <li>Mendipus</li>
+      <li>Magician</li>
+      <li>Plane of Hate</li>
+      <li>Innoruuk - Staff of Elemental Mastery: Earth</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card magician">
+    <ul>
+      <li>Mendipus</li>
+      <li>Magician</li>
+      <li>Plane of Sky</li>
+      <li>Crown of Elemental Mastery</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
