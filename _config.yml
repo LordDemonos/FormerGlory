@@ -38,6 +38,7 @@ navbar-links:
   Services:
     - Target Requests: "targets"
     - Spell Bank: "spells"
+    - Gems Bank: "gems"
     - Sky Bank: "sky"
 #    - Loot Rights: "loot"
 #  Resources:
