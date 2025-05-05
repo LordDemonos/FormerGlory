@@ -28,15 +28,6 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri</li>
     </ul>
   </div>
-  <div class="card necromancer">
-    <ul>
-      <li>Vamcill</li>
-      <li>Necromancer</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Sat</li>
-    </ul>
-  </div>
   <div class="card monk">
     <ul>
       <li>Beldryn</li>
