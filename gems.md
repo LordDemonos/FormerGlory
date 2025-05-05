@@ -6,7 +6,7 @@ subtitle: List of Gems in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2025-05-04
+### Last Update: 2025-05-05
 
 [Crushed Coral](https://www.pqdi.cc/item/25831) x2
 
@@ -18,8 +18,6 @@ subtitle: List of Gems in the guild bank
 
 [Crushed Onyx Sapphire](https://www.pqdi.cc/item/25841) x1
 
-[Flawed Emerald](https://www.pqdi.cc/item/25821) x1
-
 [Flawed Topaz](https://www.pqdi.cc/item/25818) x1
 
 [Jaundice Gem](https://www.pqdi.cc/item/25815) x1
@@ -27,5 +25,4 @@ subtitle: List of Gems in the guild bank
 [Nephrite](https://www.pqdi.cc/item/25816) x2
 
 [Pristine Emerald](https://www.pqdi.cc/item/25807) x2
-
 
