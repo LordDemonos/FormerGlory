@@ -303,5 +303,23 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card enchanter">
+    <ul>
+      <li>Kimmurielle</li>
+      <li>Enchanter</li>
+      <li>Plane of Fear</li>
+      <li>Wraith of a Shissar - Head of the Serpent</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card enchanter">
+    <ul>
+      <li>Kimmurielle</li>
+      <li>Enchanter</li>
+      <li>Plane of Hate</li>
+      <li>a forsaken revenant - Essence of a Vampire</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
