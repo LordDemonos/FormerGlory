@@ -28,15 +28,6 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri</li>
     </ul>
   </div>
-  <div class="card necromancer">
-    <ul>
-      <li>Vamcill</li>
-      <li>Necromancer</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Sat</li>
-    </ul>
-  </div>
   <div class="card monk">
     <ul>
       <li>Beldryn</li>
@@ -291,6 +282,51 @@ cover-img: /assets/img/targets.webp
       <li>Ranger</li>
       <li>Karnor's Castle</li>
       <li>Venril Sathir - Pulsing Green Stone</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card monk">
+    <ul>
+      <li>Phistso</li>
+      <li>Monk</li>
+      <li>Lake of Ill Omen</li>
+      <li>Xenevorash - Demon Fangs</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card druid">
+    <ul>
+      <li>Glacios (alt of Phistso)</li>
+      <li>Druid</li>
+      <li>Karnor's Castle</li>
+      <li>Venril Sathir - Gnarled Staff</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card enchanter">
+    <ul>
+      <li>Kimmurielle</li>
+      <li>Enchanter</li>
+      <li>Plane of Fear</li>
+      <li>Wraith of a Shissar - Head of the Serpent</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card enchanter">
+    <ul>
+      <li>Kimmurielle</li>
+      <li>Enchanter</li>
+      <li>Plane of Hate</li>
+      <li>a forsaken revenant - Essence of a Vampire</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card shaman">
+    <ul>
+      <li>Puggls (Main), Puggolas(ALT)</li>
+      <li>Shaman</li>
+      <li>City of Mist</li>
+      <li>Lord Rak'ashiir - Iksar Scale</li>
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
