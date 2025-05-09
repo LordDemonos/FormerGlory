@@ -1,6 +1,7 @@
 import os
 import json
 from collections import defaultdict
+from datetime import datetime, timedelta
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
 
@@ -106,6 +107,9 @@ try:
             'off_night': []
         }
         
+        # Get current date for comparison
+        current_date = datetime.now()
+        
         for row in values:
             print(f"DEBUG: Processing row: {row}")
             
@@ -121,6 +125,19 @@ try:
             
             # Only process if we have all required fields
             if all(field.strip() for field in row[0:5]):
+                # Parse the timestamp from the first column
+                try:
+                    entry_date = datetime.strptime(row[0], '%m/%d/%Y %H:%M:%S')
+                    days_old = (current_date - entry_date).days
+                    
+                    # Skip if entry is older than 30 days and not in Great Divide
+                    if days_old > 30 and row[3] != "Great Divide":
+                        print(f"DEBUG: Row skipped - older than 30 days: {row}")
+                        continue
+                except ValueError as e:
+                    print(f"DEBUG: Error parsing date for row: {row}, Error: {e}")
+                    continue
+                
                 zone = row[3]
                 if zone in raid_night_zones:
                     cards_by_category['raid_nights'].append(row)
