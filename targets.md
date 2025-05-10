@@ -222,5 +222,32 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card necromancer">
+    <ul>
+      <li>Zule</li>
+      <li>Necromancer</li>
+      <li>Plane of Sky</li>
+      <li>Black Silk Cape</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card necromancer">
+    <ul>
+      <li>Zule</li>
+      <li>Necromancer</li>
+      <li>Plane of Sky</li>
+      <li>Spiroc Feathers</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card ranger">
+    <ul>
+      <li>Dingbat</li>
+      <li>Ranger</li>
+      <li>Plane of Sky</li>
+      <li>an essence tamer - Swirling Sphere of Color</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
