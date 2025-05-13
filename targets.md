@@ -73,20 +73,20 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri</li>
     </ul>
   </div>
+  <div class="card monk">
+    <ul>
+      <li>Cukazi</li>
+      <li>Monk</li>
+      <li>Great Divide</li>
+      <li>Ring of Dain Frostreaver IV - Ring War</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="off-night-targets">Off Night Targets</h2>
 <p class="raid-description">These targets can be tackled on off nights with smaller groups.</p>
 <div class="card-container">
-  <div class="card monk">
-    <ul>
-      <li>stynkfyst, raid alt, main atmosphere</li>
-      <li>Monk</li>
-      <li>Lake of Ill Omen</li>
-      <li>Xenevorash - Demon Fangs</li>
-      <li>Mon, Wed, Sat</li>
-    </ul>
-  </div>
   <div class="card wizard">
     <ul>
       <li>Nukeblen (Moeblen)</li>
