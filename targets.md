@@ -28,15 +28,6 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri</li>
     </ul>
   </div>
-  <div class="card monk">
-    <ul>
-      <li>Beldryn</li>
-      <li>Monk</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card rogue">
     <ul>
       <li>Eier</li>
@@ -77,6 +68,15 @@ cover-img: /assets/img/targets.webp
     <ul>
       <li>Cukazi</li>
       <li>Monk</li>
+      <li>Great Divide</li>
+      <li>Ring of Dain Frostreaver IV - Ring War</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card shadow-knight">
+    <ul>
+      <li>Klobbor</li>
+      <li>Shadow Knight</li>
       <li>Great Divide</li>
       <li>Ring of Dain Frostreaver IV - Ring War</li>
       <li>Mon, Wed, Fri, Sat</li>
