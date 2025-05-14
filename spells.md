@@ -8,8 +8,6 @@ subtitle: List of Spells in the guild bank
 
 ### Last Update: 2025-05-13
 
-[Ivandyr's Hoop](https://www.pqdi.cc/item/10082)
-
 [Song: Composition of Ervaj](https://www.pqdi.cc/item/30452) x5
 
 [Song: Melody of Ervaj](https://www.pqdi.cc/item/30449) x2
