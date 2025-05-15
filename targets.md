@@ -105,33 +105,6 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
-  <div class="card cleric">
-    <ul>
-      <li>Rolaid (Omagurd)</li>
-      <li>Cleric</li>
-      <li>Burning Woods</li>
-      <li>Ixiblat Fer - Sceptre of Ixiblat Fer</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card cleric">
-    <ul>
-      <li>Rolaid (Omagurd)</li>
-      <li>Cleric</li>
-      <li>Chardok</li>
-      <li>Overking Bathezid - A Singed Scroll</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card cleric">
-    <ul>
-      <li>Rolaid (Omagurd)</li>
-      <li>Cleric</li>
-      <li>Skyfire</li>
-      <li>Zordak Ragefire's Heart</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card magician">
     <ul>
       <li>Mendipus</li>
@@ -247,6 +220,15 @@ cover-img: /assets/img/targets.webp
       <li>Plane of Sky</li>
       <li>an essence tamer - Swirling Sphere of Color</li>
       <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card wizard">
+    <ul>
+      <li>Xerzis</li>
+      <li>Wizard</li>
+      <li>Plane of Hate</li>
+      <li>an enraged golem - Green Oil</li>
+      <li>Sat</li>
     </ul>
   </div>
 </div>
