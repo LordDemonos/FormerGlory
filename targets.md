@@ -109,6 +109,15 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card shadow-knight">
+    <ul>
+      <li>Dubu</li>
+      <li>Shadow Knight</li>
+      <li>Great Divide</li>
+      <li>Ring of Dain Frostreaver IV - Ring War</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="off-night-targets">Off Night Targets</h2>
@@ -138,15 +147,6 @@ cover-img: /assets/img/targets.webp
       <li>Magician</li>
       <li>Plane of Sky</li>
       <li>Crown of Elemental Mastery</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card rogue">
-    <ul>
-      <li>Deedoo (Tenebra)</li>
-      <li>Rogue</li>
-      <li>Kithicor Forest</li>
-      <li>General V'ghera - General's Pouch</li>
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
@@ -183,15 +183,6 @@ cover-img: /assets/img/targets.webp
       <li>Druid</li>
       <li>Karnor's Castle</li>
       <li>Venril Sathir - Gnarled Staff</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card enchanter">
-    <ul>
-      <li>Kimmurielle</li>
-      <li>Enchanter</li>
-      <li>Plane of Fear</li>
-      <li>Wraith of a Shissar - Head of the Serpent</li>
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
