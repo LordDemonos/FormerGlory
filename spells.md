@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2025-05-13
+### Last Update: 2025-05-22
 
 [Song: Composition of Ervaj](https://www.pqdi.cc/item/30452) x5
 
@@ -14,11 +14,11 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Aegis of Ro](https://www.pqdi.cc/item/15863) x3
 
-[Spell: Aegis](https://www.pqdi.cc/item/19227)
+[Spell: Arch Lich](https://www.pqdi.cc/item/30416)
 
 [Spell: Asphyxiate](https://www.pqdi.cc/item/19402) x2
 
-[Spell: Atol`s Spectral Shackles](https://www.pqdi.cc/item/19315)
+[Spell: Atol`s Spectral Shackles](https://www.pqdi.cc/item/19315) x2
 
 [Spell: Augment](https://www.pqdi.cc/item/19416)
 
@@ -28,7 +28,7 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Bane of Nife](https://www.pqdi.cc/item/19277)
 
-[Spell: Banishment of Shadows](https://www.pqdi.cc/item/19228) x2
+[Spell: Banishment of Shadows](https://www.pqdi.cc/item/19228)
 
 [Spell: Banishment](https://www.pqdi.cc/item/19262) x2
 
@@ -42,39 +42,35 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Bristlebane`s Bundle](https://www.pqdi.cc/item/19351)
 
-[Spell: Call of the Predator](https://www.pqdi.cc/item/30464) x2
+[Spell: Call of Fire](https://www.pqdi.cc/item/30463) x2
 
-[Spell: Chill Bones](https://www.pqdi.cc/item/19302) x2
+[Spell: Call of the Predator](https://www.pqdi.cc/item/30464) x2
 
 [Spell: Circle of Force](https://www.pqdi.cc/item/15463)
 
-[Spell: Circle of Summer](https://www.pqdi.cc/item/19234)
+[Spell: Circle of Summer](https://www.pqdi.cc/item/19234) x3
 
-[Spell: Circle of Winter](https://www.pqdi.cc/item/19232) x2
+[Spell: Circle of Winter](https://www.pqdi.cc/item/19232) x3
 
 [Spell: Cobalt Scar Portal](https://www.pqdi.cc/item/30425) x4
 
 [Spell: Color Skew](https://www.pqdi.cc/item/15178) x2
 
-[Spell: Color Slant](https://www.pqdi.cc/item/19378)
+[Spell: Color Slant](https://www.pqdi.cc/item/19378) x2
 
 [Spell: Conjure Corpse](https://www.pqdi.cc/item/19307) x2
-
-[Spell: Convergence](https://www.pqdi.cc/item/19423)
 
 [Spell: Cripple](https://www.pqdi.cc/item/19269)
 
 [Spell: Death Pact](https://www.pqdi.cc/item/19203)
 
-[Spell: Death Peace](https://www.pqdi.cc/item/30460)
+[Spell: Death Peace](https://www.pqdi.cc/item/30460) x3
 
-[Spell: Defoliation](https://www.pqdi.cc/item/19296) x4
+[Spell: Defoliation](https://www.pqdi.cc/item/19296) x3
 
 [Spell: Dementia](https://www.pqdi.cc/item/19384) x2
 
-[Spell: Demi Lich](https://www.pqdi.cc/item/19314) x3
-
-[Spell: Devouring Darkness](https://www.pqdi.cc/item/19312) x2
+[Spell: Demi Lich](https://www.pqdi.cc/item/19314) x2
 
 [Spell: Dictate](https://www.pqdi.cc/item/19406) x2
 
@@ -88,9 +84,7 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Egress](https://www.pqdi.cc/item/19236)
 
-[Spell: Emissary of Thule](https://www.pqdi.cc/item/19311) x3
-
-[Spell: Enforced Reverence](https://www.pqdi.cc/item/19222)
+[Spell: Emissary of Thule](https://www.pqdi.cc/item/19311) x2
 
 [Spell: Enlightenment](https://www.pqdi.cc/item/19396) x4
 
@@ -106,11 +100,11 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Eye of Tallon](https://www.pqdi.cc/item/19411) x2
 
-[Spell: Flame of Light](https://www.pqdi.cc/item/30454) x4
+[Spell: Flame of Light](https://www.pqdi.cc/item/30454) x5
 
 [Spell: Flaming Sword of Xuzl](https://www.pqdi.cc/item/19344) x2
 
-[Spell: Focus of Spirit](https://www.pqdi.cc/item/30432) x4
+[Spell: Focus of Spirit](https://www.pqdi.cc/item/30432) x3
 
 [Spell: Forlorn Deeds](https://www.pqdi.cc/item/19395)
 
@@ -119,6 +113,8 @@ subtitle: List of Spells in the guild bank
 [Spell: Form of the Hunter](https://www.pqdi.cc/item/19260) x2
 
 [Spell: Frost](https://www.pqdi.cc/item/19252)
+
+[Spell: Gift of Brilliance](https://www.pqdi.cc/item/30410)
 
 [Spell: Gift of Insight](https://www.pqdi.cc/item/30409) x4
 
@@ -132,7 +128,7 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Greater Vocaration: Water](https://www.pqdi.cc/item/19372) x2
 
-[Spell: Heroic Bond](https://www.pqdi.cc/item/19224) x2
+[Spell: Heroic Bond](https://www.pqdi.cc/item/19224) x3
 
 [Spell: Ice Spear of Solist](https://www.pqdi.cc/item/30426) x2
 
@@ -140,7 +136,7 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Improved Invisibility](https://www.pqdi.cc/item/30406) x3
 
-[Spell: Infusion](https://www.pqdi.cc/item/19424) x2
+[Spell: Infusion](https://www.pqdi.cc/item/19424)
 
 [Spell: Insipid Weakness](https://www.pqdi.cc/item/15180)
 
@@ -150,7 +146,7 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Legacy of Thorn](https://www.pqdi.cc/item/19259)
 
-[Spell: Levant](https://www.pqdi.cc/item/19303) x2
+[Spell: Levant](https://www.pqdi.cc/item/19303)
 
 [Spell: Lure of Ice](https://www.pqdi.cc/item/19422)
 
@@ -168,23 +164,23 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Monster Summoning II](https://www.pqdi.cc/item/30402) x3
 
-[Spell: Monster Summoning III](https://www.pqdi.cc/item/30404) x4
+[Spell: Monster Summoning III](https://www.pqdi.cc/item/30404) x5
 
 [Spell: Nature Walkers Behest](https://www.pqdi.cc/item/30475) x2
 
 [Spell: Pillage Enchantment](https://www.pqdi.cc/item/15025) x2
 
+[Spell: Pillar of Frost](https://www.pqdi.cc/item/19318) x2
+
 [Spell: Pillar of Lightning](https://www.pqdi.cc/item/19326) x4
 
 [Spell: Plainsight](https://www.pqdi.cc/item/19330)
 
-[Spell: Protection of the Glades](https://www.pqdi.cc/item/30442)
-
-[Spell: Quivering Veil of Xarn](https://www.pqdi.cc/item/19309)
+[Spell: Protection of the Glades](https://www.pqdi.cc/item/30442) x2
 
 [Spell: Rage of Zomm](https://www.pqdi.cc/item/19417)
 
-[Spell: Reckoning](https://www.pqdi.cc/item/19212)
+[Spell: Reckoning](https://www.pqdi.cc/item/19212) x2
 
 [Spell: Regrowth of the Grove](https://www.pqdi.cc/item/19256)
 
@@ -192,7 +188,7 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Retribution of Al`Kabor](https://www.pqdi.cc/item/19332) x3
 
-[Spell: Scars of Sigil](https://www.pqdi.cc/item/19358) x2
+[Spell: Scars of Sigil](https://www.pqdi.cc/item/19358) x3
 
 [Spell: Servant of Bones](https://www.pqdi.cc/item/19305) x3
 
@@ -203,6 +199,8 @@ subtitle: List of Spells in the guild bank
 [Spell: Shroud of Pain](https://www.pqdi.cc/item/30458) x2
 
 [Spell: Spirit of Oak](https://www.pqdi.cc/item/19258)
+
+[Spell: Spirit of Scale](https://www.pqdi.cc/item/19238)
 
 [Spell: Stun Command](https://www.pqdi.cc/item/30446) x2
 
@@ -222,11 +220,11 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Tears of Prexus](https://www.pqdi.cc/item/19339) x2
 
-[Spell: The Unspoken Word](https://www.pqdi.cc/item/19225) x4
+[Spell: The Unspoken Word](https://www.pqdi.cc/item/19225) x3
 
 [Spell: Theft of Thought](https://www.pqdi.cc/item/19374) x3
 
-[Spell: Thrall of Bones](https://www.pqdi.cc/item/19299) x3
+[Spell: Thrall of Bones](https://www.pqdi.cc/item/19299) x2
 
 [Spell: Tigir`s Insects](https://www.pqdi.cc/item/19285)
 
@@ -242,6 +240,8 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Umbra](https://www.pqdi.cc/item/19393)
 
+[Spell: Upheaval](https://www.pqdi.cc/item/19205)
+
 [Spell: Upheaval](https://www.pqdi.cc/item/19233)
 
 [Spell: Vengeance of Al`Kabor](https://www.pqdi.cc/item/19342) x2
@@ -250,15 +250,13 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Vocarate: Fire](https://www.pqdi.cc/item/19355) x2
 
-[Spell: Voice of the Berserker](https://www.pqdi.cc/item/19290)
-
 [Spell: Wave of Healing](https://www.pqdi.cc/item/30455) x5
 
 [Spell: Wind of Tashanian](https://www.pqdi.cc/item/19405) x5
 
 [Spell: Winds of Gelid](https://www.pqdi.cc/item/19343) x3
 
-[Spell: Word of Redemption](https://www.pqdi.cc/item/19229) x2
+[Spell: Word of Redemption](https://www.pqdi.cc/item/19229)
 
-[Spell: Wrath of the Elements](https://www.pqdi.cc/item/30405)
+[Spell: Wrath of the Elements](https://www.pqdi.cc/item/30405) x2
 
