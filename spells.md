@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2025-05-22
+### Last Update: 2025-05-23
 
 [Song: Composition of Ervaj](https://www.pqdi.cc/item/30452) x5
 
@@ -26,7 +26,7 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Bandoleer of Luclin](https://www.pqdi.cc/item/19356)
 
-[Spell: Bane of Nife](https://www.pqdi.cc/item/19277)
+[Spell: Bane of Nife](https://www.pqdi.cc/item/19277) x2
 
 [Spell: Banishment of Shadows](https://www.pqdi.cc/item/19228)
 
@@ -60,11 +60,13 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Conjure Corpse](https://www.pqdi.cc/item/19307) x2
 
+[Spell: Corporeal Empathy](https://www.pqdi.cc/item/30413)
+
 [Spell: Cripple](https://www.pqdi.cc/item/19269)
 
 [Spell: Death Pact](https://www.pqdi.cc/item/19203)
 
-[Spell: Death Peace](https://www.pqdi.cc/item/30460) x3
+[Spell: Death Peace](https://www.pqdi.cc/item/30460) x4
 
 [Spell: Defoliation](https://www.pqdi.cc/item/19296) x3
 
@@ -85,6 +87,8 @@ subtitle: List of Spells in the guild bank
 [Spell: Egress](https://www.pqdi.cc/item/19236)
 
 [Spell: Emissary of Thule](https://www.pqdi.cc/item/19311) x2
+
+[Spell: Enforced Reverence](https://www.pqdi.cc/item/19222)
 
 [Spell: Enlightenment](https://www.pqdi.cc/item/19396) x4
 
@@ -136,7 +140,7 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Improved Invisibility](https://www.pqdi.cc/item/30406) x3
 
-[Spell: Infusion](https://www.pqdi.cc/item/19424)
+[Spell: Infusion](https://www.pqdi.cc/item/19424) x2
 
 [Spell: Insipid Weakness](https://www.pqdi.cc/item/15180)
 
@@ -165,6 +169,8 @@ subtitle: List of Spells in the guild bank
 [Spell: Monster Summoning II](https://www.pqdi.cc/item/30402) x3
 
 [Spell: Monster Summoning III](https://www.pqdi.cc/item/30404) x5
+
+[Spell: Naltron's Mark](https://www.pqdi.cc/item/19435) x2
 
 [Spell: Nature Walkers Behest](https://www.pqdi.cc/item/30475) x2
 
@@ -208,7 +214,7 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Summon Corpse](https://www.pqdi.cc/item/15003)
 
-[Spell: Summon: Muzzle of Mardu](https://www.pqdi.cc/item/19363)
+[Spell: Summon: Muzzle of Mardu](https://www.pqdi.cc/item/19363) x2
 
 [Spell: Sunstrike](https://www.pqdi.cc/item/19345)
 
@@ -252,7 +258,7 @@ subtitle: List of Spells in the guild bank
 
 [Spell: Wave of Healing](https://www.pqdi.cc/item/30455) x5
 
-[Spell: Wind of Tashanian](https://www.pqdi.cc/item/19405) x5
+[Spell: Wind of Tashanian](https://www.pqdi.cc/item/19405) x6
 
 [Spell: Winds of Gelid](https://www.pqdi.cc/item/19343) x3
 
