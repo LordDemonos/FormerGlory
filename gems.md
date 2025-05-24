@@ -28,8 +28,6 @@ subtitle: List of Gems in the guild bank
 
 [Crushed Topaz](https://www.pqdi.cc/item/25832) x2
 
-[Deluxe Toolbox](https://www.pqdi.cc/item/17877) x1
-
 [Flawed Emerald](https://www.pqdi.cc/item/25821) x2
 
 [Flawed Flame Opal](https://www.pqdi.cc/item/25823) x1
