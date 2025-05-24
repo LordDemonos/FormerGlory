@@ -28,15 +28,6 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri</li>
     </ul>
   </div>
-  <div class="card rogue">
-    <ul>
-      <li>Eier</li>
-      <li>Rogue</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card cleric">
     <ul>
       <li>Xanax</li>
