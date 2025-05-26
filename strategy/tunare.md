@@ -13,6 +13,11 @@ cover-img: /assets/img/tunare.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/438" target="_blank">Servants of Tunare</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/127002" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> 2sec with Defensive</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 390</div>
@@ -88,3 +93,5 @@ cover-img: /assets/img/tunare.webp
 <div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Tunare&gt; [Unslowable, flurry, hits hard, no enrage] - [CH: 2s] // Power of the Forests (single target, PR, 0 check, 4s CD) 800 dmg + knockback // Vengeance of the Glades (single target, unresistable, 4s CD) root, 1m max duration | **Need a wall of ogres/trolls to stop MT from being punted out of range**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

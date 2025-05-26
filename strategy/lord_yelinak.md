@@ -13,6 +13,11 @@ cover-img: /assets/img/lord_yelinak.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/436" target="_blank">Yelinak</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/114618" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours </div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> 4s, 2x ramp</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 65</div>
@@ -69,3 +74,5 @@ cover-img: /assets/img/lord_yelinak.webp
 <div class="ability-cell">Immune to fleeing</div>
 <div class="ability-cell">Ranged Spells</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Lord Yelinak&gt; [Unslowable, rampages, baneable] - [CH: 4s, 2x ramp] // Ice Breath (PBAOE, 300 rng, MR, -200 check, 120s CD): 300 dmg + 50 mana/tick drain (60s duration) // Mind Cloud (single target, MR, -200 check, 120s CD): 600 dmg knockback + move speed buff | **Everyone needs levitate to counteract Mind Cloud, especially tank. Bard DA, cleric DA, bard DA, cleric DA, bard DA to avoid Ice Breath**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

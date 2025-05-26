@@ -12,6 +12,11 @@ cover-img: /assets/img/ail_the_elder.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/438" target="_blank">Servants of Tunare</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/127020" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 1 day and 6 hours</div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> 6s+</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 100</div>
@@ -77,3 +82,5 @@ cover-img: /assets/img/ail_the_elder.webp
 <div class="ability-cell">Immune to melee except magical</div>
 <div class="ability-cell">Always Calls for Help</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Ail the Elder&gt; [Unslowable, gates] - [CH: 6s+] // Silver Breath (PBAOE, 300 rng, unresistable, 12s CD): 400 dmg + 1 slot dispel // Cloud of Silence (PBAOE, 300 rng, MR, -150 check, 15s CD): long duration silence | **Must be sieved! Keep your top slot free to easily dispel silence after fight**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

@@ -12,6 +12,11 @@ cover-img: /assets/img/rumbleroot.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/438" target="_blank">Servants of Tunare</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/127019" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 1 day and 6 hours</div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> 4sec</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 100</div>
@@ -75,3 +80,5 @@ cover-img: /assets/img/rumbleroot.webp
 <div class="ability-cell">Unstunable</div>
 <div class="ability-cell">Always Calls for Help</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Rumbleroot&gt; [Unslowable] - [CH: 4s] // Swarm of Retribution (PBAOE, 300 rng, MR, -150 check, 30s): 150 HP/tick DoT, long duration | **Keep your top slot free to dispel DoT after fight or you will die** GATES MUST SIEVE</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
