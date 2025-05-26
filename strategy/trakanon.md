@@ -13,6 +13,11 @@ cover-img: /assets/img/trakanon.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/315" target="_blank">Trakanon</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/89154" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours </div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> Remedy/DL spam</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 100</div>
@@ -50,6 +55,8 @@ cover-img: /assets/img/trakanon.webp
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/855" target="_blank">Trakanon's Touch</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/856" target="_blank">Blinding Fear</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/857" target="_blank">Poison Breath</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1508" target="_blank">Asystole</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/2014" target="_blank">Incinerate Bones</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/3572" target="_blank">Torbas' Venom Blast</a></div>
@@ -86,3 +93,5 @@ cover-img: /assets/img/trakanon.webp
 <div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Trakanon&gt; [Unslowable, banishes] - [Remedy/DL spam] // Trakanon's Touch (Banish, 30s CD): Banish to mushrooms // Deadly Lifetap (targeted lifetap proc, unresistable): 1500 dmg lifetap // Poison Breath (PBAOE, 300 rng, PR, -150 check, 35s CD): 1200 dmg AOE + 150 dmg DoT (long duration, must be cured) // Blinding Fear (PBOE, 15 rng, unresistable, 30s CD): 24s max duration, curable blind | **Snap agro tank w/ Rune + kiter required**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

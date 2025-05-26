@@ -13,6 +13,11 @@ cover-img: /assets/img/xygoz.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/304" target="_blank">Ring of Scale</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/108511" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours </div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> Remedy/DL spam</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 425</div>
@@ -67,3 +72,5 @@ cover-img: /assets/img/xygoz.webp
 <div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Xygoz&gt; [Unslowable, silences, gates] - [Remedy/DL spam] // Mesmerizing Breath (PBAOE, 300 rng, MR, -150 check, 12s CD): AOE silence</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

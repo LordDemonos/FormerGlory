@@ -16,6 +16,15 @@ cover-img: /assets/img/strategy.webp
 
 <h2 id="classic">Classic</h2>
 <p class="raid-description">Classic EverQuest raid targets from original zones</p>
+<h4><a href="https://www.pqdi.cc/zone/1039" target="_blank">The Hole</a></h4>
+<div class="card-container">
+  <div class="card dragon">
+    <ul>
+      <li><a href="master_yael">Master Yael</a></li>
+      <li>Level 56 Elemental Wizard</li>
+    </ul>
+  </div>
+</div>
 <h4><a href="https://www.pqdi.cc/zone/64" target="_blank">Kedge Keep</a></h4>
 <div class="card-container">
   <div class="card dragon">
@@ -58,36 +67,9 @@ cover-img: /assets/img/strategy.webp
     </ul>
   </div>
 </div>
-<h4><a href="https://www.pqdi.cc/zone/1039" target="_blank">The Hole</a></h4>
-<div class="card-container">
-  <div class="card dragon">
-    <ul>
-      <li><a href="master_yael">Master Yael</a></li>
-      <li>Level 56 Elemental Wizard</li>
-    </ul>
-  </div>
-</div>
 
 <h2 id="kunark">Kunark</h2>
 <p class="raid-description">Ruins of Kunark expansion raid targets</p>
-<h4><a href="https://www.pqdi.cc/zone/89" target="_blank">Ruins of Sebilis</a></h4>
-<div class="card-container">
-  <div class="card dragon">
-    <ul>
-      <li><a href="trakanon">Trakanon</a></li>
-      <li>Level 65 Trakanon Necromancer</li>
-    </ul>
-  </div>
-</div>
-<h4><a href="https://www.pqdi.cc/zone/91" target="_blank">Skyfire Mountains</a></h4>
-<div class="card-container">
-  <div class="card dragon">
-    <ul>
-      <li><a href="talendor">Talendor</a></li>
-      <li>Level 60 Dragon Warrior</li>
-    </ul>
-  </div>
-</div>
 <h4><a href="https://www.pqdi.cc/zone/86" target="_blank">The Dreadlands</a></h4>
 <div class="card-container">
   <div class="card dragon">
@@ -103,6 +85,24 @@ cover-img: /assets/img/strategy.webp
     <ul>
       <li><a href="severilous">Severilous</a></li>
       <li>Level 60 Dragon Shaman</li>
+    </ul>
+  </div>
+</div>
+<h4><a href="https://www.pqdi.cc/zone/89" target="_blank">Ruins of Sebilis</a></h4>
+<div class="card-container">
+  <div class="card dragon">
+    <ul>
+      <li><a href="trakanon">Trakanon</a></li>
+      <li>Level 65 Trakanon Necromancer</li>
+    </ul>
+  </div>
+</div>
+<h4><a href="https://www.pqdi.cc/zone/91" target="_blank">Skyfire Mountains</a></h4>
+<div class="card-container">
+  <div class="card dragon">
+    <ul>
+      <li><a href="talendor">Talendor</a></li>
+      <li>Level 60 Dragon Warrior</li>
     </ul>
   </div>
 </div>
@@ -175,6 +175,15 @@ cover-img: /assets/img/strategy.webp
     </ul>
   </div>
 </div>
+<h4><a href="https://www.pqdi.cc/zone/118" target="_blank">The Great Divide</a></h4>
+<div class="card-container">
+  <div class="card dragon">
+    <ul>
+      <li><a href="narandi_the_wretched">Narandi the Wretched</a></li>
+      <li>Level 65 Giant Shadow Knight</li>
+    </ul>
+  </div>
+</div>
 <h4><a href="https://www.pqdi.cc/zone/129" target="_blank">Icewell Keep</a></h4>
 <div class="card-container">
   <div class="card dragon">
@@ -214,6 +223,21 @@ cover-img: /assets/img/strategy.webp
     <ul>
       <li><a href="the_statue_of_rallos_zek">The Statue of Rallos Zek</a></li>
       <li>Level 59 Rallos Zek Warrior</li>
+    </ul>
+  </div>
+</div>
+<h4><a href="https://www.pqdi.cc/zone/72" target="_blank">Plane of Fear</a></h4>
+<div class="card-container">
+  <div class="card dragon">
+    <ul>
+      <li><a href="cazic_thule">Cazic Thule</a></li>
+      <li>Level 70 Cazic Thule Shadow Knight</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="a_dracoliche">a dracoliche</a></li>
+      <li>Level 58 Dragon Necromancer</li>
     </ul>
   </div>
 </div>
@@ -283,6 +307,21 @@ cover-img: /assets/img/strategy.webp
     <ul>
       <li><a href="keeper_of_the_glades">keeper of the glades</a></li>
       <li>Level 65 Puma Warrior</li>
+    </ul>
+  </div>
+</div>
+<h4><a href="https://www.pqdi.cc/zone/76" target="_blank">Plane of Hate</a></h4>
+<div class="card-container">
+  <div class="card dragon">
+    <ul>
+      <li><a href="innoruuk">Innoruuk</a></li>
+      <li>Level 70 Innoruuk Wizard</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="maestro_of_rancor">Maestro of Rancor</a></li>
+      <li>Level 56 Vampire Wizard</li>
     </ul>
   </div>
 </div>
@@ -625,12 +664,12 @@ cover-img: /assets/img/strategy.webp
     </ul>
   </div>
 </div>
-<h4><a href="https://www.pqdi.cc/zone/118" target="_blank">The Great Divide</a></h4>
+<h4><a href="https://www.pqdi.cc/zone/112" target="_blank">Velketor's Labyrinth</a></h4>
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="narandi_the_wretched">Narandi the Wretched</a></li>
-      <li>Level 65 Giant Shadow Knight</li>
+      <li><a href="velketor_the_sorcerer">Velketor the Sorcerer</a></li>
+      <li>Level 66 Giant Wizard</li>
     </ul>
   </div>
 </div>
@@ -640,15 +679,6 @@ cover-img: /assets/img/strategy.webp
     <ul>
       <li><a href="wuoshi">Wuoshi</a></li>
       <li>Level 64 Dragon Druid</li>
-    </ul>
-  </div>
-</div>
-<h4><a href="https://www.pqdi.cc/zone/112" target="_blank">Velketor's Labyrinth</a></h4>
-<div class="card-container">
-  <div class="card dragon">
-    <ul>
-      <li><a href="velketor_the_sorcerer">Velketor the Sorcerer</a></li>
-      <li>Level 66 Giant Wizard</li>
     </ul>
   </div>
 </div>

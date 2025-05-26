@@ -13,6 +13,11 @@ cover-img: /assets/img/nexona.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/304" target="_blank">Ring of Scale</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/108513" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours </div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> Words of Redemption, Remedy/DL spam, Wort pots</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 425</div>
@@ -76,3 +81,5 @@ cover-img: /assets/img/nexona.webp
 <div class="ability-cell">for Help</div>
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Nexona&gt; [Unslowable] - [Words of Redemption, Remedy/DL spam, Wort pots] // Stream of Acid (PBOE, 300 rng, FR, -150 check, 12s CD): 500 dmg + 500/tick DoT (2m duration) **Keep SoW/JBoots top slot, dispel DoT ASAP**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

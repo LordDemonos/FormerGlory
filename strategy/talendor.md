@@ -13,6 +13,11 @@ cover-img: /assets/img/talendor.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/304" target="_blank">Ring of Scale</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/91093" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours </div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> Remedy/DL spam</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 455</div>
@@ -68,3 +73,5 @@ cover-img: /assets/img/talendor.webp
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">Always Calls for Help</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Talendor&gt; [Unslowable, fears, charms] - [Remedy/DL spam] // Immolating Breath (PBAOE, 300 rng, FR, 0 check, 12s CD): 500 dmg AOE // Dragon Roar (PBAOE, 300 rng, MR, -150 check, 36s CD): 18s max duration fear // Dragon Charm (targeted, MR, 0 check, 35s CD): Charms a target</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

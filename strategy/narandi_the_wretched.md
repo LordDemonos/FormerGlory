@@ -8,7 +8,7 @@ cover-img: /assets/img/narandi_the_wretched.webp
 <div class="info-section">
 <div class="info-item"><strong>HP:</strong> 150,000</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/118" target="_blank">The Great Divide</a></div>
-<div class="info-item"><strong>Exp:</strong> Kunark</div>
+<div class="info-item"><strong>Exp:</strong> Velious</div>
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/5017" target="_blank">KOS</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/118083" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
