@@ -34,7 +34,7 @@ navbar-links:
   Requirements: "requirements"
   Strategy:
     - Boss Guides: "strategy"
-    - Quick Reference: "spoilers"
+#    - Quick Reference: "spoilers"
   Services:
     - Target Requests: "targets"
     - Spell Bank: "spells"
@@ -206,6 +206,7 @@ site-js:
  - "/assets/js/spell-tooltip.js"
  - "/assets/js/image-resize.js"
  - "/assets/js/view-toggle.js"
+ - "/assets/js/copy-text.js"
 
 #################################
 # --- Web Analytics Section --- #

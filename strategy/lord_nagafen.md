@@ -10,7 +10,11 @@ cover-img: /assets/img/lord_nagafen.webp
 <div class="info-item"><strong>HP:</strong> 32,000</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/32" target="_blank">Nagafen's Lair</a></div>
 <div class="info-item"><strong>Exp:</strong> Classic</div>
-<div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/249" target="_blank">Nagafen</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/32340" target="_blank" title="View NPC on PQDI">🔗</a></div>
+<div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/249" target="_blank">Nagafen</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/32040" target="_blank" title="View NPC on PQDI">🔗</a></div>
+</div>
+
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
 </div>
 
 <div class="stats-grid">
@@ -64,6 +68,8 @@ cover-img: /assets/img/lord_nagafen.webp
 <div class="ability-cell">Leashed</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="nagafen-text">&lt;Lord Nagafen&gt; [Unslowable, fears] - [CH: As needed] // Lava Breath (PBAOE, 300 rng FR, 0 check, 12s CD): 500 dmg AOE + 1 slot dispel // Dragon Roar (PBAOE, 300 rng, MR, -150 check, 36s CD): 18s max duration fear | **Keep junk buff in top slot**</pre><button class="copy-button" onclick="copyText('nagafen-text')">Copy to Clipboard</button></div>
+
 ### Preparation
 If you're fighting in era, you'll want to stack FR and MR. Typically the fear is more dangerous than the fire damage as it takes you out of position away from the healers. Healers and casters will be out of line of sight of the AOE and will instead need levitate.
 
@@ -73,5 +79,3 @@ When you enter Lord Nagafen's lair, he will immediately aggro the first person e
 - Naggy will face to the left, and 
 - Melee will follow the tank in and fight against the wall behind Naggy.
 - Healers and casters will levitate in the moat left of the bridge and cast through the wall.
-
-
