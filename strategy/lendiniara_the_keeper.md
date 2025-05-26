@@ -13,6 +13,11 @@ cover-img: /assets/img/lendiniara_the_keeper.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/430" target="_blank">Claws of Veeshan</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/124020" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> 4sec</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 1000</div>
@@ -79,3 +84,5 @@ cover-img: /assets/img/lendiniara_the_keeper.webp
 <div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Lendiniara The Keeper&gt; [Unslowable, baneable] - [CH 4s] // Silver Breath (PBAOE, 300 rng, unresistable, 12s CD): 400 dmg + 1 slot dispel | **Keep junk buff in top slot! Clerics shrink and hide on steps**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

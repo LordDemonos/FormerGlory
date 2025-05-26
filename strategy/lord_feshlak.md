@@ -13,6 +13,11 @@ cover-img: /assets/img/lord_feshlak.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/467" target="_blank">Guardians of Veeshan</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/124008" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> Unslowed: 4s, Slowed: 8s</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 150</div>
@@ -70,3 +75,5 @@ cover-img: /assets/img/lord_feshlak.webp
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">Always Calls for Help</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Lord Feshlak&gt; [Slowable, baneable] - [CH Unslowed: 4s, Slowed: 8s] // Wave of Cold (PBAOE, 200 rng, CR, 0 check, 12s CD): 350 dmg // Wave of Fire (PBAOE, 100 rng, FR, 0 check, 9s CD): 75 dmg</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

@@ -13,6 +13,11 @@ cover-img: /assets/img/velketor_the_sorcerer.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/435" target="_blank">Velketor</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/112025" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours  </div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> 3sec</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 140</div>
@@ -74,6 +79,8 @@ cover-img: /assets/img/velketor_the_sorcerer.webp
 <div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Velketor the Sorcerer&gt; [Unslowable, gates, baneable] - [CH: 3s] // Casts several high dmg area of effect spells. Practitioner only of the light magical arts--no dark arts here, friends.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 ### Preparation
  - Tank needs CR and FR as well as junk buffs because Velk can dispel the tank

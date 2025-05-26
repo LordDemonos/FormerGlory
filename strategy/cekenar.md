@@ -13,6 +13,11 @@ cover-img: /assets/img/cekenar.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/467" target="_blank">Guardians of Veeshan</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/124071" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> Unslowed: 4s, Slowed: 8s</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 105</div>
@@ -70,3 +75,5 @@ cover-img: /assets/img/cekenar.webp
 <div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Cekenar&gt; [Slowable, gates] - [CH Unslowed: 4s, Slowed: 8s] // Electric Blast (PBAOE, 200 rng, MR, -100 check, 12s CD): 275 dmg + 175 mana drain</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

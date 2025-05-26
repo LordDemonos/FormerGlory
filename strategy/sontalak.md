@@ -13,6 +13,11 @@ cover-img: /assets/img/sontalak.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/430" target="_blank">Claws of Veeshan</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/120005" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong>6 days and 18 hours </div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> Heroic Bond heals or group heals</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 1000</div>
@@ -72,6 +77,8 @@ cover-img: /assets/img/sontalak.webp
 <div class="ability-cell">Flee percentage</div>
 <div class="ability-cell">Proximity Aggro</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Sontalak&gt; [Slowable (but he dispels himself), flurries, fears] - [Heroic Bond heals or group heals] // Lava Breath (PBAOE, 300 rng FR, 0 check, 12s CD): 500 dmg AOE + 1 slot dispel // Char (single target, FR, 0 check, proc): 700 dmg // Dispel (targeted aoe, unresistable, proc): 4 slot dispel // Dragon Roar (PBAOE, 300 rng, MR, -150 check, 36s CD): 18s max duration fear | **Rune is very important to keep the tank from being dispelled. Wort pot fight, do not get low HP agro. Keep junk buff in top slot!**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 ### Preparation
  - Top slot instant click

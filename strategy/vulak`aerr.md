@@ -13,6 +13,11 @@ cover-img: /assets/img/vulak`aerr.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/467" target="_blank">Guardians of Veeshan</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/124128" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> Spawned</div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> Unslowed: 1s, Slowed: 3s</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 100</div>
@@ -72,3 +77,5 @@ cover-img: /assets/img/vulak`aerr.webp
 <div class="ability-cell">Always Calls for</div>
 <div class="ability-cell">Help</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Vulak`Aerr&gt; [Slowable, flurries, baneable] - [CH Unslowed: 1s, Slowed: 3s] // Ancient Breath (PBAOE, 350 rng, DR, -150 check, 60s CD): 250 dmg + 20 HP/tick DoT (lasts a very long time) + 40% slow // Gift of Aerr (PBAOE, 350 rng, unresistable, 15s CD): 50 dmg lifetap | **Melee hide from Ancient Breath**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

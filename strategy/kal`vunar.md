@@ -13,6 +13,11 @@ cover-img: /assets/img/kal`vunar.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/467" target="_blank">Guardians of Veeshan</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/124016" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours</div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> Remedy Spam</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 125</div>
