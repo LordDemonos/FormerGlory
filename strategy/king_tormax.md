@@ -13,6 +13,11 @@ cover-img: /assets/img/king_tormax.gif
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/429" target="_blank">King Tormax</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/113215" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours </div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> 4sec</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 60</div>
@@ -65,6 +70,8 @@ cover-img: /assets/img/king_tormax.gif
 <div class="ability-cell">for Help</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;King Tormax&gt; [Unslowable, rampages, baneable] - [CH: 4s] // Melee fight</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 ### Preparation
  - King Tormax's room has a lot of guards. It is possible to pull Tormax to Zone line and kite all the guards during kill. But will be safer if the guards are split off and killed first. After 5 minutes, Tormax summons all his throne room guards to him if they are not engaged

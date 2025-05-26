@@ -1005,8 +1005,8 @@ body:not(.strategy-page):not(.spoilers-page) .view-toggle {
     max-height: 200px;
     overflow-y: auto;
     font-weight: bold;
-    padding-bottom: 1.5em; /* Add space for the button */
-    min-height: 2em;       /* At least two lines tall */
+    padding-bottom: 2.5em; /* Add space for the button */
+    min-height: 3em;       /* At least two lines tall */
 }
 
 .copy-button {

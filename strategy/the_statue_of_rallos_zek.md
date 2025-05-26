@@ -13,6 +13,11 @@ cover-img: /assets/img/the_statue_of_rallos_zek.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/5049" target="_blank">KOS_Kael</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/113000" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> Unslowed: 2s, Slowed: 4s</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 195</div>
@@ -61,6 +66,8 @@ cover-img: /assets/img/the_statue_of_rallos_zek.webp
 <div class="ability-cell">NO LOITERING</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Statue of Rallos Zek&gt; [Slowable, flurries] - [CH Unslowed: 2s, Slowed: 4s] // Melee fight</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 ### Preparation
  - Establish rampage tank on pull
  - Statue can be slowed. We need Malo, Tash, and a puretone bard can MR debuff, then shamans try and slow. Call out when these land or are resisted
@@ -68,3 +75,4 @@ cover-img: /assets/img/the_statue_of_rallos_zek.webp
  - 2 second complete heal chain on main tank before slow. Once slow has landed switch to 4 second complete heal chain
  - Main and rampage tank use defensive
  - Stay at max melee range
+

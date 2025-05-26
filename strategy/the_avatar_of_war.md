@@ -13,6 +13,11 @@ cover-img: /assets/img/the_avatar_of_war.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/5049" target="_blank">KOS_Kael</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/113244" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> 1sec</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 1000</div>
@@ -68,3 +73,5 @@ cover-img: /assets/img/the_avatar_of_war.webp
 <div class="ability-cell">Always</div>
 <div class="ability-cell">Calls for Help</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Avatar of War&gt; [Unslowable, hits hard, flurries] - [CH: 1s] // Melee fight | **AoW hits really hard, chain needs to be tight, ideal to have 14+ clerics. All classes patch heal, enchanters cast Rune V. Need several bumps. Need to be ready to swap tanks once defensive wears off.**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

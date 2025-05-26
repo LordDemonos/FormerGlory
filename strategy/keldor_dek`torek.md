@@ -12,6 +12,11 @@ cover-img: /assets/img/keldor_dek`torek.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/429" target="_blank">King Tormax</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/113135" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days </div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> Remedy Spam</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 50</div>
@@ -69,3 +74,5 @@ cover-img: /assets/img/keldor_dek`torek.webp
 <div class="ability-cell">Magical Attack</div>
 <div class="ability-cell">Unstunable</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Keldor Dek`Torek&gt; [Unslowable] - [Remedy/DL spam] // Melee fight | **Must be sieved!**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
