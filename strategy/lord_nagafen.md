@@ -69,7 +69,7 @@ cover-img: /assets/img/lord_nagafen.webp
 <div class="ability-cell">Leashed</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="nagafen-text">&lt;Lord Nagafen&gt; [Unslowable, fears] - [CH: As needed] // Lava Breath (PBAOE, 300 rng FR, 0 check, 12s CD): 500 dmg AOE + 1 slot dispel // Dragon Roar (PBAOE, 300 rng, MR, -150 check, 36s CD): 18s max duration fear | **Keep junk buff in top slot**</pre><button class="copy-button" onclick="copyText('nagafen-text')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Lord Nagafen&gt; [Unslowable, fears] - [CH: As needed] // Lava Breath (PBAOE, 300 rng FR, 0 check, 12s CD): 500 dmg AOE + 1 slot dispel // Dragon Roar (PBAOE, 300 rng, MR, -150 check, 36s CD): 18s max duration fear | **Keep junk buff in top slot**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 ### Preparation
 If you're fighting in era, you'll want to stack FR and MR. Typically the fear is more dangerous than the fire damage as it takes you out of position away from the healers. Healers and casters will be out of line of sight of the AOE and will instead need levitate.

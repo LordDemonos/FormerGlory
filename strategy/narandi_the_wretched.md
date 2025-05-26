@@ -12,6 +12,11 @@ cover-img: /assets/img/narandi_the_wretched.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/5017" target="_blank">KOS</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/118083" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> Spawned</div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> 3sec</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 50</div>
@@ -69,3 +74,5 @@ cover-img: /assets/img/narandi_the_wretched.webp
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to lull effects</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Narandi&gt; [NOT slowable/flurries] - [CH 3s] // AOE slows</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

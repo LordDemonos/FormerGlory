@@ -13,6 +13,11 @@ cover-img: /assets/img/kelorek`dar.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/430" target="_blank">Claws of Veeshan</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/117000" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours </div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 125</div>
@@ -66,3 +71,5 @@ cover-img: /assets/img/kelorek`dar.webp
 <div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Proximity Aggro</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Kelorek'Dar&gt; [Slowable] - [Remedy/DL] // Entomb in Ice (PBAOE, 200 rng, unresistable, 18s CD): 1000 damage AOE + stun</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
