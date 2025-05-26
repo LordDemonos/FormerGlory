@@ -14,6 +14,11 @@ resize_images: true
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/299" target="_blank">Phinigel Autropos</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/64001" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 18 hours </div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> Remedy/DL spam</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 40</div>

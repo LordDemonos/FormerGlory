@@ -13,6 +13,11 @@ cover-img: /assets/img/king_tranix.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/249" target="_blank">Nagafen</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/32322" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 18 hours </div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> Remedy/DL spam</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 450</div>
