@@ -13,6 +13,11 @@ cover-img: /assets/img/master_of_the_guard.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/472" target="_blank">Warders of The Claw</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/128120" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> Unslowed: 5s, Slowed: 9s+</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 200</div>
@@ -64,3 +69,5 @@ cover-img: /assets/img/master_of_the_guard.webp
 <div class="ability-cell">to lull effects</div>
 <div class="ability-cell">Proximity Aggro</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Master of the Guard&gt; [Slowable, flurries, rampages] - [CH Unslowed: 5s, Slowed: 9s+] // Melee fight</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

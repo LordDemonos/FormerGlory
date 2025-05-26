@@ -13,6 +13,11 @@ cover-img: /assets/img/nanzata_the_warder.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/472" target="_blank">Warders of The Claw</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/128090" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> Unslowed: 3s, Slowed: 5s</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 300</div>
@@ -66,3 +71,5 @@ cover-img: /assets/img/nanzata_the_warder.webp
 <div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Proximity Aggro</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Nanzata the Warder&gt; [Slowable] - [CH Unslowed: 3s, Slowed: 5s] // Frost Breath (PBAOE, 300 rng, CR, 0 check, 12s CD): 500 dmg AOE + 1 slot dispel | **Keep junk buff in top slot**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
