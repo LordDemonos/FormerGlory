@@ -34,6 +34,7 @@ navbar-links:
   Requirements: "requirements"
   Strategy:
     - Boss Guides: "strategy"
+    - GINA Guide: "gina"
 #    - Quick Reference: "spoilers"
   Services:
     - Target Requests: "targets"
