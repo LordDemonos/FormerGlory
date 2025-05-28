@@ -240,5 +240,14 @@ cover-img: /assets/img/targets.webp
       <li>Sat</li>
     </ul>
   </div>
+  <div class="card druid">
+    <ul>
+      <li>Whilee </li>
+      <li>Druid</li>
+      <li>Timorous Deep</li>
+      <li>Pod of Seawater</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
