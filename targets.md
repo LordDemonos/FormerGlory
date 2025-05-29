@@ -114,24 +114,6 @@ cover-img: /assets/img/targets.webp
 <h2 id="off-night-targets">Off Night Targets</h2>
 <p class="raid-description">These targets can be tackled on off nights with smaller groups.</p>
 <div class="card-container">
-  <div class="card magician">
-    <ul>
-      <li>Mendipus</li>
-      <li>Magician</li>
-      <li>Plane of Hate</li>
-      <li>Innoruuk - Staff of Elemental Mastery: Earth</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card magician">
-    <ul>
-      <li>Mendipus</li>
-      <li>Magician</li>
-      <li>Plane of Sky</li>
-      <li>Crown of Elemental Mastery</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card ranger">
     <ul>
       <li>Synthran (Synthor is main)</li>
