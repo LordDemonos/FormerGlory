@@ -981,13 +981,8 @@ body:not(.strategy-page):not(.spoilers-page) .view-toggle {
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
     margin: 1rem 0;
     padding: 1rem;
-    border: 1px solid #333;
+    border: 1px solid #333333;
     transition: border-color 0.2s, background-color 0.2s;
-}
-
-.copy-text-container:hover {
-    border-color: #FF7A5E;
-    background-color: #3a3a3a;
 }
 
 .copy-text-content {
