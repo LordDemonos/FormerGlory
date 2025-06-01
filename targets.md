@@ -222,5 +222,14 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card necromancer">
+    <ul>
+      <li>Xanbik</li>
+      <li>Necromancer</li>
+      <li>Plane of Sky</li>
+      <li>Black Silk Cape</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
