@@ -116,15 +116,6 @@ cover-img: /assets/img/targets.webp
 <div class="card-container">
   <div class="card ranger">
     <ul>
-      <li>Synthran (Synthor is main)</li>
-      <li>Ranger</li>
-      <li>Karnor's Castle</li>
-      <li>Venril Sathir - Pulsing Green Stone</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card ranger">
-    <ul>
       <li>Synthran (Synthor)</li>
       <li>Ranger</li>
       <li>Karnor's Castle</li>
