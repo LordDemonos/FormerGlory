@@ -13,6 +13,6 @@ Hey all, just wanted to give a quick update on some changes that came on June 1s
 
 - Western Wastes dragons (guild instance) are being taken off DKP. Feel free to grab a raid from an officer and go to town on them for 6 necks. 
 
--  Lodizol loot is also being taken off of DKP. Please try to keep Velious targets in the 6pm EST+ window for availability.
+-  Lodizal loot is also being taken off of DKP. Please try to keep Velious targets in the 6pm EST+ window for availability.
 
-- Cukazi would like to have a word with you all about turning /anon and /roleplay OFF during raids. It makes it easier to get class counts and organize groups. 
+- Cukazi would like to have a word with you all about turning /anon and /roleplay OFF during raids. It makes it easier to get class counts and organize groups.
