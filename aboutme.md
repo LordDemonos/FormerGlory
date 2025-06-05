@@ -25,7 +25,7 @@ If you aren't here to support your fellow guildie in a positive manner and minds
 
 ## Guild Leadership Expectations:
 
-- A focus on Epic Weapons during Kunark and Velious expansions
+- A focus on Epic Weapons during Kunark expansion
 - Scheduled raids on Monday, Wednesday, Friday, and Saturday at 9pm EST
 - Unscheduled raids will be done with notifications in Discord and /guild chat
 - Willingness to help raiders learn
@@ -46,6 +46,7 @@ Thank you for joining us on this epic adventure to reclaim our Former Glory in N
 ## Roster of Officers as of 2025-03-25
 
 - **Talamild - Guild Leader**
+- **Xanax/Xanathema/Xanamaniac/Xanti - Co-Guild Leader**
 - Amberita
 - Cukazi/Brakkas/Biggiesmallz
 - Dihat
@@ -58,4 +59,3 @@ Thank you for joining us on this epic adventure to reclaim our Former Glory in N
 - Velde
 - Waulker
 - Woest
-- Xanax/Xanathema/Xanamaniac

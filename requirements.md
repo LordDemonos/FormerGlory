@@ -8,22 +8,21 @@ subtitle: A list of raid requirements
 ## Raiding Level Requirements
 
 - **All Raids**
-	- Level 50+
-- **Veeshan's Peak**
-	- Level 58+
+	- Level 55+
 
 ## Raiding Gear Requirements
 
-### Veeshan's Peak Raids
+### ToV Raids
 - **Resist Gear:**
   - Magic Resist
   - Fire Resist
-  - Disease Resist
+  - Cold Resist
 - **Consumables:**
   - Resist Potions (available from Shaman)
   - Pumice Stone (available from vendors)
 
-### Kunark Dragon Raids
+### Velious Dragon Raids
+- Recommended two instant click buffs that stack with each other. Examples: Fungi Stick and Shrunken Goblin Skull Earring
 - **Resist Gear:**
   - Magic Resist
   - Fire Resist
@@ -34,12 +33,7 @@ subtitle: A list of raid requirements
 
 ### Plane of Fear
 - **Resist Gear:**
-  - Disease Resist
   - Magic Resist
-
-### Plane of Sky
-- **Resist Gear:**
-  - Disease Resist
   
 ## Target Availability
 
@@ -48,9 +42,13 @@ Former Glory kills these in regular rotation – Off limits
 
 - Veeshan’s Peak – All Dragons 
 - Cazic Thule - 6 Days 18 Hours
-- Innoruuk – 6 Days 18 Hours
+- Innoruuk – 6 Days 18 hours
 - Trakanon – 6 Days 18 hours
-- Venril Sathir – 2 Days 18 Hours
+- Venril Sathir – 2 Days 18 hours
+- Dozekar - 2 days 18 hours
+- Klandicar - 2 days 18 hours
+- Zlandicar - 2 days 18 hours
+- Kelorek'Dar -  6 days and 18 hours
 
 ### FFA Targets
 Go nuts, kill these whenever you want, officers please ping the role when organizing and record the target down time after kill under #target-tracking.
@@ -66,3 +64,9 @@ Go nuts, kill these whenever you want, officers please ping the role when organi
 - Gorenaire – 2 Days 18 Hours - Off Rotation unless requested
 - Faydedar – 2 Days 18 Hours - Off Rotation unless requested
 - Talendor – 2 Days 18 Hours - Off Rotation unless requested
+
+Current era targets should be killed after 6 PM EST and before 1 AM EST to give most raiders a chance to participate. Please announce in guildchat and Discord 30 minutes in advance if you plan on forming a hunting party for these targets. 
+- a dracoliche - 2 days and 18 hours 
+- Lodizal - 18 hours idk
+- Myga - 1 hour
+- Western Waste 6neck dragons
