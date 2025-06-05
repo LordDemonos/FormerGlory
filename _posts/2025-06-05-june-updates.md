@@ -1,8 +1,9 @@
 ---
 published: 'true'
 date: '2025-06-05 19:25 -0400'
-author: LordDemonos
+author: Xanax
 title: June Updates
+description: Update on rules and changes we're making in June 2025
 ---
 ## Words
 
