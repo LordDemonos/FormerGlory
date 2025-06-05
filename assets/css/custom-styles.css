@@ -1093,3 +1093,61 @@ body:not(.strategy-page):not(.spoilers-page) .view-toggle {
         position: absolute;
     }
 }
+
+/* Gem Legend Styles */
+.gem-legend {
+    font-size: 0.85rem;
+    line-height: 1.3;
+}
+
+.gem-legend h4 {
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-col);
+}
+
+.gem-legend-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+}
+
+.gem-legend-table th,
+.gem-legend-table td {
+    padding: 0.25rem 0.5rem;
+    text-align: left;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.gem-legend-table th {
+    font-weight: 600;
+    color: var(--text-col);
+}
+
+.gem-legend-table td {
+    white-space: nowrap;
+}
+
+.gem-legend-table a {
+    color: var(--link-col);
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.gem-legend-table a:hover {
+    color: var(--hover-col);
+}
+
+/* Light theme adjustments */
+[data-theme="light"] .gem-legend-table th,
+[data-theme="light"] .gem-legend-table td {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="light"] .gem-legend h4 {
+    color: #333;
+}
+
+[data-theme="light"] .gem-legend-table th {
+    color: #333;
+}
