@@ -114,24 +114,6 @@ cover-img: /assets/img/targets.webp
 <h2 id="off-night-targets">Off Night Targets</h2>
 <p class="raid-description">These targets can be tackled on off nights with smaller groups.</p>
 <div class="card-container">
-  <div class="card monk">
-    <ul>
-      <li>Phistso</li>
-      <li>Monk</li>
-      <li>Lake of Ill Omen</li>
-      <li>Xenevorash - Demon Fangs</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card druid">
-    <ul>
-      <li>Glacios (alt of Phistso)</li>
-      <li>Druid</li>
-      <li>Karnor's Castle</li>
-      <li>Venril Sathir - Gnarled Staff</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card enchanter">
     <ul>
       <li>Kimmurielle</li>
