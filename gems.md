@@ -50,7 +50,7 @@ Bnk25 [Pristine Emerald](https://www.pqdi.cc/item/25807) x6
     <div style="width: 32%;">
         <h4>Bard/Beastlord/Monk/Paladin/Ranger/Shadow Knight/Rogue/Warrior</h4>
         <table class="gem-legend-table">
-<tr><th>Slot</th><th>Gem</th></tr>
+<tr><th>Slot</th><th>Gems x3</th></tr>
 <tr><td>Chest</td><td><a href="https://www.pqdi.cc/item/25814">Flawless Diamond</a></td></tr>
 <tr><td>Legs</td><td><a href="https://www.pqdi.cc/item/25839">Flawed Sea Sapphire</a></td></tr>
 <tr><td>Arms</td><td><a href="https://www.pqdi.cc/item/25821">Flawed Emerald</a></td></tr>
@@ -63,7 +63,7 @@ Bnk25 [Pristine Emerald](https://www.pqdi.cc/item/25807) x6
     <div style="width: 32%;">
         <h4>Enchanter/Magician/Necromancer/Wizard</h4>
         <table class="gem-legend-table">
-<tr><th>Slot</th><th>Gem</th></tr>
+<tr><th>Slot</th><th>Gems x3</th></tr>
 <tr><td>Chest</td><td><a href="https://www.pqdi.cc/item/25807">Pristine Emerald</a></td></tr>
 <tr><td>Legs</td><td><a href="https://www.pqdi.cc/item/25816">Nephrite</a></td></tr>
 <tr><td>Arms</td><td><a href="https://www.pqdi.cc/item/25818">Flawed Topaz</a></td></tr>
@@ -76,7 +76,7 @@ Bnk25 [Pristine Emerald](https://www.pqdi.cc/item/25807) x6
     <div style="width: 32%;">
         <h4>Cleric/Druid/Shaman</h4>
         <table class="gem-legend-table">
-<tr><th>Slot</th><th>Gem</th></tr>
+<tr><th>Slot</th><th>Gems x3</th></tr>
 <tr><td>Chest</td><td><a href="https://www.pqdi.cc/item/25805">Black Marble</a></td></tr>
 <tr><td>Legs</td><td><a href="https://www.pqdi.cc/item/25827">Chipped Onyx Sapphire</a></td></tr>
 <tr><td>Arms</td><td><a href="https://www.pqdi.cc/item/25815">Jaundice Gem</a></td></tr>
