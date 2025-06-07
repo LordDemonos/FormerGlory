@@ -43,7 +43,7 @@ We value your input to help us grow and improve so please direct any feedback, c
 
 Thank you for joining us on this epic adventure to reclaim our Former Glory in Norrath! Happy Hunting!
 
-## Roster of Officers as of 2025-03-25
+## Roster of Officers as of 2025-06-01
 
 - **Talamild - Guild Leader**
 - **Xanax/Xanathema/Xanamaniac/Xanti - Co-Guild Leader**
