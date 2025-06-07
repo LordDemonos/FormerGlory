@@ -53,6 +53,8 @@ cover-img: /assets/img/gozzrem.webp
 
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/862" target="_blank">Frost Breath</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/13" target="_blank">Complete Healing</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1534" target="_blank">Yaulp IV</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1526" target="_blank">Annul Magic</a></div>
@@ -77,8 +79,7 @@ cover-img: /assets/img/gozzrem.webp
 <div class="ability-cell">Immune to fleeing</div>
 <div class="ability-cell">Immune to melee except magical</div>
 <div class="ability-cell">Resistant to Ranged Spells</div>
-<div class="ability-cell">Immune to</div>
-<div class="ability-cell">lull effects</div>
+<div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Leashed</div>
 <div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">Use Warrior Skills</div>

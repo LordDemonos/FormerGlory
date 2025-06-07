@@ -60,8 +60,7 @@ cover-img: /assets/img/vyldin_flamereaver.webp
 <div class="ability-cell">Enrage</div>
 <div class="ability-cell">Flurry</div>
 <div class="ability-cell">Double Attack</div>
-<div class="ability-cell">Magical</div>
-<div class="ability-cell">Attack</div>
+<div class="ability-cell">Magical Attack</div>
 <div class="ability-cell">Unmezzable</div>
 <div class="ability-cell">Uncharmable</div>
 <div class="ability-cell">Immune to fleeing</div>

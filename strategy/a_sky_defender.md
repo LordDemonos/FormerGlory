@@ -53,6 +53,8 @@ cover-img: /assets/img/a_sky_defender.webp
 
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1492" target="_blank">Thunder Blast</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/13" target="_blank">Complete Healing</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1534" target="_blank">Yaulp IV</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1526" target="_blank">Annul Magic</a></div>

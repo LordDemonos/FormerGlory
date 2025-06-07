@@ -68,7 +68,6 @@ cover-img: /assets/img/ajorek_the_crimson_fang.webp
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to fleeing</div>
 <div class="ability-cell">Immune to lull effects</div>
-<div class="ability-cell">Proximity</div>
-<div class="ability-cell">Aggro</div>
+<div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>

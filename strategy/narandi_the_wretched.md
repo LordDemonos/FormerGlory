@@ -52,6 +52,8 @@ cover-img: /assets/img/narandi_the_wretched.webp
 
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1340" target="_blank">TravelerBoots</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/346" target="_blank">Grim Aura</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/364" target="_blank">Banshee Aura</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/49" target="_blank">Nullify Magic</a></div>
@@ -61,6 +63,8 @@ cover-img: /assets/img/narandi_the_wretched.webp
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/3400" target="_blank">Festering Darkness</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/3403" target="_blank">Aura of Pain</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/3413" target="_blank">Touch of Innoruuk</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1588" target="_blank">Turgur's Insects</a></div>
 </div>
 

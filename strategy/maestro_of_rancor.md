@@ -81,8 +81,7 @@ cover-img: /assets/img/maestro_of_rancor.webp
 <div class="ability-cell">Immune to fleeing</div>
 <div class="ability-cell">Immune to melee except magical</div>
 <div class="ability-cell">Immune to lull effects</div>
-<div class="ability-cell">Proximity</div>
-<div class="ability-cell">Aggro</div>
+<div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
 

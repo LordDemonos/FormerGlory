@@ -65,8 +65,7 @@ cover-img: /assets/img/lord_koi`doken.webp
 <div class="ability-cell">Unstunable</div>
 <div class="ability-cell">Unsnarable</div>
 <div class="ability-cell">Unfearable</div>
-<div class="ability-cell">Immune</div>
-<div class="ability-cell">to fleeing</div>
+<div class="ability-cell">Immune to fleeing</div>
 <div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Leashed</div>

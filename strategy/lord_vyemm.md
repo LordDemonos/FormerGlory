@@ -68,8 +68,7 @@ cover-img: /assets/img/lord_vyemm.webp
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to fleeing</div>
 <div class="ability-cell">Resistant to Ranged Spells</div>
-<div class="ability-cell">Immune to</div>
-<div class="ability-cell">lull effects</div>
+<div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Leashed</div>
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">Always Calls for Help</div>

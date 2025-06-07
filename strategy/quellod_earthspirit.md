@@ -64,7 +64,6 @@ cover-img: /assets/img/quellod_earthspirit.webp
 <div class="ability-cell">Uncharmable</div>
 <div class="ability-cell">Immune to fleeing</div>
 <div class="ability-cell">Leashed</div>
-<div class="ability-cell">Proximity</div>
-<div class="ability-cell">Aggro</div>
+<div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>

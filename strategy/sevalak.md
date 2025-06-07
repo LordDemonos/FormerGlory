@@ -53,6 +53,8 @@ cover-img: /assets/img/sevalak.webp
 
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/835" target="_blank">Chaos Breath</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/2585" target="_blank">Valor of Marr</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1454" target="_blank">Flame of Light</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1743" target="_blank">Divine Favor</a></div>

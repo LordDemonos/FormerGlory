@@ -64,7 +64,7 @@ cover-img: /assets/img/lord_nagafen.webp
 <div class="ability-cell">Unstunable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to melee except magical</div>
-<div class="ability-cell">Ranged Spells</div>
+<div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Flee percentage</div>
 <div class="ability-cell">Leashed</div>
 </div>

@@ -54,6 +54,8 @@ cover-img: /assets/img/tunare.webp
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1745" target="_blank">Vengeance of the Glades</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1746" target="_blank">Power of the Forests</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/254" target="_blank">Firefist</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/278" target="_blank">Spirit of Wolf</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/143" target="_blank">Sunbeam</a></div>
@@ -88,8 +90,7 @@ cover-img: /assets/img/tunare.webp
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to fleeing</div>
 <div class="ability-cell">Immune to melee except magical</div>
-<div class="ability-cell">Immune</div>
-<div class="ability-cell">to lull effects</div>
+<div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">Use Warrior Skills</div>
 </div>

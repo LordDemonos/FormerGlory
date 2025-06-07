@@ -85,11 +85,10 @@ cover-img: /assets/img/trakanon.webp
 <div class="ability-cell">Unstunable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to melee except magical</div>
-<div class="ability-cell">Ranged Spells</div>
+<div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Immune to Taunt</div>
 <div class="ability-cell">Immune to lull effects</div>
-<div class="ability-cell">Proximity</div>
-<div class="ability-cell">Aggro</div>
+<div class="ability-cell">Proximity SAggro</div>
 <div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">Use Warrior Skills</div>
 </div>

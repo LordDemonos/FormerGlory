@@ -47,6 +47,9 @@ cover-img: /assets/img/general_v`ghera.webp
 </div>
 
 <div class="spell-grid">
+<div class="spell-cell"><a href="https://www.pqdi.cc/spell/995" target="_blank">Soul Devour</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/127" target="_blank">Invoke Fear</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/346" target="_blank">Grim Aura</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/364" target="_blank">Banshee Aura</a></div>
@@ -58,7 +61,6 @@ cover-img: /assets/img/general_v`ghera.webp
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/3403" target="_blank">Aura of Pain</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/443" target="_blank">Invoke Death</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/3413" target="_blank">Touch of Innoruuk</a></div>
-<div class="spell-cell"><a href="https://www.pqdi.cc/spell/995" target="_blank">Soul Devour</a></div>
 </div>
 
 <div class="ability-grid">

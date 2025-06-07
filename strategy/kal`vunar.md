@@ -59,8 +59,7 @@ cover-img: /assets/img/kal`vunar.webp
 <div class="ability-cell">Unmezzable</div>
 <div class="ability-cell">Uncharmable</div>
 <div class="ability-cell">Immune to fleeing</div>
-<div class="ability-cell">Immune to melee except</div>
-<div class="ability-cell">magical</div>
+<div class="ability-cell">Immune to melee except magical</div>
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>

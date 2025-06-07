@@ -54,6 +54,8 @@ cover-img: /assets/img/nexona.webp
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/838" target="_blank">Stream of Acid</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/841" target="_blank">Dragon Charm</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/346" target="_blank">Grim Aura</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/364" target="_blank">Banshee Aura</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/49" target="_blank">Nullify Magic</a></div>
@@ -77,8 +79,7 @@ cover-img: /assets/img/nexona.webp
 <div class="ability-cell">Ranged Spells</div>
 <div class="ability-cell">Immune to Taunt</div>
 <div class="ability-cell">Immune to lull effects</div>
-<div class="ability-cell">Always Calls</div>
-<div class="ability-cell">for Help</div>
+<div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
 

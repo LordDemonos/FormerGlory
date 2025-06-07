@@ -53,6 +53,8 @@ cover-img: /assets/img/lendiniara_the_keeper.webp
 
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1480" target="_blank">Silver Breath</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/13" target="_blank">Complete Healing</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1534" target="_blank">Yaulp IV</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1526" target="_blank">Annul Magic</a></div>
@@ -75,8 +77,7 @@ cover-img: /assets/img/lendiniara_the_keeper.webp
 <div class="ability-cell">Unstunable</div>
 <div class="ability-cell">Unsnarable</div>
 <div class="ability-cell">Unfearable</div>
-<div class="ability-cell">Immune</div>
-<div class="ability-cell">to fleeing</div>
+<div class="ability-cell">Immune to fleeing</div>
 <div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Leashed</div>

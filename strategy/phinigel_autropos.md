@@ -53,6 +53,9 @@ resize_images: true
 </div>
 
 <div class="spell-grid">
+<div class="spell-cell"><a href="https://www.pqdi.cc/spell/25" target="_blank">Pillage Enchantment</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/36" target="_blank">Gate</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/2554" target="_blank">Elnerick's Entombment of Ice</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/73" target="_blank">Gravity Flux</a></div>
@@ -68,7 +71,6 @@ resize_images: true
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1645" target="_blank">Pillar of Lightning</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1643" target="_blank">Draught of Jiva</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1638" target="_blank">Lure of Flame</a></div>
-<div class="spell-cell"><a href="https://www.pqdi.cc/spell/25" target="_blank">Pillage Enchantment</a></div>
 </div>
 
 <div class="ability-grid">

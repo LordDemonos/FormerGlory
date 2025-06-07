@@ -60,13 +60,11 @@ cover-img: /assets/img/a_lava_defender.webp
 <div class="ability-cell">Enrage</div>
 <div class="ability-cell">Flurry</div>
 <div class="ability-cell">Double Attack</div>
-<div class="ability-cell">Magical</div>
-<div class="ability-cell">Attack</div>
+<div class="ability-cell">Magical Attack</div>
 <div class="ability-cell">Unmezzable</div>
 <div class="ability-cell">Uncharmable</div>
 <div class="ability-cell">Immune to fleeing</div>
-<div class="ability-cell">Immune to melee</div>
-<div class="ability-cell">except magical</div>
+<div class="ability-cell">Immune to melee except magical</div>
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>

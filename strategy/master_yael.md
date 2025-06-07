@@ -53,6 +53,8 @@ cover-img: /assets/img/master_yael.webp
 
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/982" target="_blank">Cazic Touch</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/36" target="_blank">Gate</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/2554" target="_blank">Elnerick's Entombment of Ice</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/73" target="_blank">Gravity Flux</a></div>

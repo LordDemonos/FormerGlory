@@ -54,6 +54,8 @@ cover-img: /assets/img/gorenaire.webp
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/789" target="_blank">Dragon Roar</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/845" target="_blank">Freezing Breath</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/36" target="_blank">Gate</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/13" target="_blank">Complete Healing</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1518" target="_blank">Remedy</a></div>
@@ -76,11 +78,10 @@ cover-img: /assets/img/gorenaire.webp
 <div class="ability-cell">Unstunable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to melee except magical</div>
-<div class="ability-cell">Ranged Spells</div>
+<div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Flee percentage</div>
-<div class="ability-cell">Proximity</div>
-<div class="ability-cell">Aggro</div>
+<div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
 

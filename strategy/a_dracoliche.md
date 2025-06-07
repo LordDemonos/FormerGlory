@@ -51,6 +51,9 @@ cover-img: /assets/img/a_dracoliche.webp
 </div>
 
 <div class="spell-grid">
+<div class="spell-cell"><a href="https://www.pqdi.cc/spell/993" target="_blank">Deadly Lifetap</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/355" target="_blank">Engulfing Darkness</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/36" target="_blank">Gate</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1412" target="_blank">Chilling Embrace</a></div>
@@ -69,7 +72,6 @@ cover-img: /assets/img/a_dracoliche.webp
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1615" target="_blank">Cessation of Cor</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1616" target="_blank">Vexing Mordinia</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1617" target="_blank">Pyrocruor</a></div>
-<div class="spell-cell"><a href="https://www.pqdi.cc/spell/993" target="_blank">Deadly Lifetap</a></div>
 </div>
 
 <div class="ability-grid">
@@ -81,11 +83,9 @@ cover-img: /assets/img/a_dracoliche.webp
 <div class="ability-cell">Unsnarable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to fleeing</div>
-<div class="ability-cell">Immune to</div>
-<div class="ability-cell">melee except magical</div>
+<div class="ability-cell">Immune to melee except magical</div>
 <div class="ability-cell">Resistant to Ranged Spells</div>
-<div class="ability-cell">Immune to lull</div>
-<div class="ability-cell">effects</div>
+<div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Proximity Aggro</div>
 </div>
 

@@ -68,8 +68,7 @@ cover-img: /assets/img/lord_kreizenn.webp
 <div class="ability-cell">Unsnarable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to fleeing</div>
-<div class="ability-cell">Ranged</div>
-<div class="ability-cell">Spells</div>
+<div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Leashed</div>
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">Always Calls for Help</div>

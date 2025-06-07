@@ -54,6 +54,8 @@ cover-img: /assets/img/lord_yelinak.webp
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1949" target="_blank">Ice breath</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1950" target="_blank">Mind Cloud</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/905" target="_blank">AvatarKnockback</a></div>
 </div>
 
@@ -62,8 +64,7 @@ cover-img: /assets/img/lord_yelinak.webp
 <div class="ability-cell">Enrage</div>
 <div class="ability-cell">Rampage</div>
 <div class="ability-cell">Double Attack</div>
-<div class="ability-cell">Dual</div>
-<div class="ability-cell">Wield</div>
+<div class="ability-cell">Dual Wield</div>
 <div class="ability-cell">Magical Attack</div>
 <div class="ability-cell">Unslowable</div>
 <div class="ability-cell">Unmezzable</div>
@@ -72,7 +73,7 @@ cover-img: /assets/img/lord_yelinak.webp
 <div class="ability-cell">Unsnarable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to fleeing</div>
-<div class="ability-cell">Ranged Spells</div>
+<div class="ability-cell">Resistant to Ranged Spells</div>
 </div>
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Lord Yelinak&gt; [Unslowable, rampages, baneable] - [CH: 4s, 2x ramp] // Ice Breath (PBAOE, 300 rng, MR, -200 check, 120s CD): 300 dmg + 50 mana/tick drain (60s duration) // Mind Cloud (single target, MR, -200 check, 120s CD): 600 dmg knockback + move speed buff | **Everyone needs levitate to counteract Mind Cloud, especially tank. Bard DA, cleric DA, bard DA, cleric DA, bard DA to avoid Ice Breath**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

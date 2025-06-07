@@ -53,6 +53,8 @@ cover-img: /assets/img/jorlleag.webp
 
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/862" target="_blank">Frost Breath</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/267" target="_blank">Inner Fire</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1588" target="_blank">Turgur's Insects</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1592" target="_blank">Cripple</a></div>
@@ -84,8 +86,7 @@ cover-img: /assets/img/jorlleag.webp
 <div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Leashed</div>
 <div class="ability-cell">Proximity Aggro</div>
-<div class="ability-cell">Always Calls</div>
-<div class="ability-cell">for Help</div>
+<div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">Use Warrior Skills</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>

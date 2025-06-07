@@ -53,6 +53,8 @@ cover-img: /assets/img/ail_the_elder.webp
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1466" target="_blank">Cloud of Silence</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1480" target="_blank">Silver Breath</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/254" target="_blank">Firefist</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/278" target="_blank">Spirit of Wolf</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/143" target="_blank">Sunbeam</a></div>

@@ -52,6 +52,8 @@ cover-img: /assets/img/rumbleroot.webp
 
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1424" target="_blank">Swarm of Retribution</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/254" target="_blank">Firefist</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/278" target="_blank">Spirit of Wolf</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/143" target="_blank">Sunbeam</a></div>

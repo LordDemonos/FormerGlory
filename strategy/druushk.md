@@ -54,6 +54,8 @@ cover-img: /assets/img/druushk.webp
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/839" target="_blank">Lightning Breath</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/841" target="_blank">Dragon Charm</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/264" target="_blank">Stinging Swarm</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/278" target="_blank">Spirit of Wolf</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/2594" target="_blank">Nature's Precision</a></div>
@@ -84,8 +86,7 @@ cover-img: /assets/img/druushk.webp
 <div class="ability-cell">Ranged Spells</div>
 <div class="ability-cell">Immune to Taunt</div>
 <div class="ability-cell">Immune to lull effects</div>
-<div class="ability-cell">Proximity</div>
-<div class="ability-cell">Aggro</div>
+<div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">Use Warrior Skills</div>
 </div>

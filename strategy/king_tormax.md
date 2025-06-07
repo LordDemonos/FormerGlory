@@ -56,8 +56,7 @@ cover-img: /assets/img/king_tormax.gif
 <div class="ability-cell">Enrage</div>
 <div class="ability-cell">Rampage</div>
 <div class="ability-cell">Double Attack</div>
-<div class="ability-cell">Dual</div>
-<div class="ability-cell">Wield</div>
+<div class="ability-cell">Dual Wield</div>
 <div class="ability-cell">Magical Attack</div>
 <div class="ability-cell">Unslowable</div>
 <div class="ability-cell">Unmezzable</div>
@@ -66,8 +65,7 @@ cover-img: /assets/img/king_tormax.gif
 <div class="ability-cell">Unsnarable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to fleeing</div>
-<div class="ability-cell">Always Calls</div>
-<div class="ability-cell">for Help</div>
+<div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>
 

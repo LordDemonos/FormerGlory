@@ -67,13 +67,11 @@ cover-img: /assets/img/lady_mirenilla.webp
 <div class="ability-cell">Immune to fleeing</div>
 <div class="ability-cell">Immune to melee except magical</div>
 <div class="ability-cell">Resistant to Ranged Spells</div>
-<div class="ability-cell">Immune to</div>
-<div class="ability-cell">lull effects</div>
+<div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Leashed</div>
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">Always Calls for Help</div>
-<div class="ability-cell">Use</div>
-<div class="ability-cell">Warrior Skills</div>
+<div class="ability-cell">Use Warrior Skills</div>
 </div>
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Lady Mirenilla&gt; [Slowable, silences, baneable] - [CH Unslowed: 4s, Slowed: 8s] // Cloud of Fear (PBAOE, 300 rng, MR, -100 check): 150 HP/tick DoT (12s duration), silences | **Clerics must DA to avoid the first silence AOE while positioning**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

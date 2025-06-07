@@ -52,6 +52,8 @@ cover-img: /assets/img/cazic_thule.webp
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/808" target="_blank">Avatar Power</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1308" target="_blank">Avatar Snare</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/346" target="_blank">Grim Aura</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/364" target="_blank">Banshee Aura</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/49" target="_blank">Nullify Magic</a></div>
@@ -61,6 +63,8 @@ cover-img: /assets/img/cazic_thule.webp
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/3400" target="_blank">Festering Darkness</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/3403" target="_blank">Aura of Pain</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/3413" target="_blank">Touch of Innoruuk</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/956" target="_blank">Panic</a></div>
 </div>
 
@@ -77,8 +81,7 @@ cover-img: /assets/img/cazic_thule.webp
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to fleeing</div>
 <div class="ability-cell">Immune to melee except magical</div>
-<div class="ability-cell">Immune</div>
-<div class="ability-cell">to lull effects</div>
+<div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 

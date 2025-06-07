@@ -64,13 +64,11 @@ cover-img: /assets/img/ikatiar_the_venom.webp
 <div class="ability-cell">Unsnarable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to fleeing</div>
-<div class="ability-cell">Immune to melee except</div>
-<div class="ability-cell">magical</div>
+<div class="ability-cell">Immune to melee except magical</div>
 <div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Leashed</div>
 <div class="ability-cell">Proximity Aggro</div>
-<div class="ability-cell">Always</div>
-<div class="ability-cell">Calls for Help</div>
+<div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>
 

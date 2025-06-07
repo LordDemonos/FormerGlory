@@ -54,6 +54,8 @@ cover-img: /assets/img/phara_dar.webp
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/837" target="_blank">Stun Breath</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/841" target="_blank">Dragon Charm</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/13" target="_blank">Complete Healing</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1534" target="_blank">Yaulp IV</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1526" target="_blank">Annul Magic</a></div>
@@ -77,8 +79,7 @@ cover-img: /assets/img/phara_dar.webp
 <div class="ability-cell">Ranged Spells</div>
 <div class="ability-cell">Immune to Taunt</div>
 <div class="ability-cell">Immune to lull effects</div>
-<div class="ability-cell">Proximity</div>
-<div class="ability-cell">Aggro</div>
+<div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">Use Warrior Skills</div>
 </div>

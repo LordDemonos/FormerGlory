@@ -54,6 +54,8 @@ cover-img: /assets/img/severilous.webp
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/789" target="_blank">Dragon Roar</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/844" target="_blank">Ceticious Cloud</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/267" target="_blank">Inner Fire</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/278" target="_blank">Spirit of Wolf</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/36" target="_blank">Gate</a></div>
@@ -81,11 +83,10 @@ cover-img: /assets/img/severilous.webp
 <div class="ability-cell">Unstunable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to melee except magical</div>
-<div class="ability-cell">Ranged Spells</div>
+<div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Flee percentage</div>
-<div class="ability-cell">Proximity</div>
-<div class="ability-cell">Aggro</div>
+<div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
 

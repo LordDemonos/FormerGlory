@@ -53,6 +53,8 @@ cover-img: /assets/img/lady_nevederia.webp
 
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1478" target="_blank">Bellowing Winds</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/191" target="_blank">Feedback</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/73" target="_blank">Gravity Flux</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1697" target="_blank">Recant Magic</a></div>

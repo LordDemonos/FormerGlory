@@ -66,8 +66,7 @@ cover-img: /assets/img/talendor.webp
 <div class="ability-cell">Unstunable</div>
 <div class="ability-cell">Unsnarable</div>
 <div class="ability-cell">Unfearable</div>
-<div class="ability-cell">Immune</div>
-<div class="ability-cell">to melee except magical</div>
+<div class="ability-cell">Immune to melee except magical</div>
 <div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Flee percentage</div>
 <div class="ability-cell">Proximity Aggro</div>

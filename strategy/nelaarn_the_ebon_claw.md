@@ -63,8 +63,7 @@ cover-img: /assets/img/nelaarn_the_ebon_claw.webp
 <div class="ability-cell">Unstunable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to fleeing</div>
-<div class="ability-cell">Immune to melee except</div>
-<div class="ability-cell">magical</div>
+<div class="ability-cell">Immune to melee except magical</div>
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>

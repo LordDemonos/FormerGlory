@@ -65,8 +65,7 @@ cover-img: /assets/img/dozekar_the_cursed.webp
 <div class="ability-cell">Unmezzable</div>
 <div class="ability-cell">Uncharmable</div>
 <div class="ability-cell">Unstunable</div>
-<div class="ability-cell">Immune to</div>
-<div class="ability-cell">fleeing</div>
+<div class="ability-cell">Immune to fleeing</div>
 <div class="ability-cell">Immune to melee except magical</div>
 <div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Leashed</div>

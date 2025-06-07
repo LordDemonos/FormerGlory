@@ -61,8 +61,7 @@ cover-img: /assets/img/klandicar.webp
 <div class="ability-cell">Enrage</div>
 <div class="ability-cell">Rampage</div>
 <div class="ability-cell">Double Attack</div>
-<div class="ability-cell">Dual</div>
-<div class="ability-cell">Wield</div>
+<div class="ability-cell">Dual Wield</div>
 <div class="ability-cell">Magical Attack</div>
 <div class="ability-cell">Unmezzable</div>
 <div class="ability-cell">Uncharmable</div>
@@ -70,7 +69,7 @@ cover-img: /assets/img/klandicar.webp
 <div class="ability-cell">Unsnarable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to melee except magical</div>
-<div class="ability-cell">Ranged Spells</div>
+<div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Flee percentage</div>
 </div>

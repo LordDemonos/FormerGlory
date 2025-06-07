@@ -56,8 +56,7 @@ cover-img: /assets/img/the_avatar_of_war.webp
 <div class="ability-cell">Enrage</div>
 <div class="ability-cell">Flurry</div>
 <div class="ability-cell">Double Attack</div>
-<div class="ability-cell">Dual</div>
-<div class="ability-cell">Wield</div>
+<div class="ability-cell">Dual Wield</div>
 <div class="ability-cell">Magical Attack</div>
 <div class="ability-cell">Unslowable</div>
 <div class="ability-cell">Unmezzable</div>
@@ -66,12 +65,10 @@ cover-img: /assets/img/the_avatar_of_war.webp
 <div class="ability-cell">Unsnarable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to fleeing</div>
-<div class="ability-cell">Immune to</div>
-<div class="ability-cell">melee except magical</div>
+<div class="ability-cell">Immune to melee except magical</div>
 <div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Proximity Aggro</div>
-<div class="ability-cell">Always</div>
-<div class="ability-cell">Calls for Help</div>
+<div class="ability-cell">Always Calls for Help</div>
 </div>
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Avatar of War&gt; [Unslowable, hits hard, flurries] - [CH: 1s] // Melee fight | **AoW hits really hard, chain needs to be tight, ideal to have 14+ clerics. All classes patch heal, enchanters cast Rune V. Need several bumps. Need to be ready to swap tanks once defensive wears off.**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

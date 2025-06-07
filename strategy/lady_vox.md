@@ -70,7 +70,7 @@ cover-img: /assets/img/lady_vox.webp
 <div class="ability-cell">Unstunable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to melee except magical</div>
-<div class="ability-cell">Ranged Spells</div>
+<div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Flee percentage</div>
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">Use Warrior Skills</div>

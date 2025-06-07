@@ -55,6 +55,8 @@ cover-img: /assets/img/zlandicar.webp
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/897" target="_blank">Rotting Flesh</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/981" target="_blank">Dragon Roar</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1956" target="_blank">Putrefy Flesh</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1508" target="_blank">Asystole</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/2014" target="_blank">Incinerate Bones</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/3572" target="_blank">Torbas' Venom Blast</a></div>
@@ -72,6 +74,8 @@ cover-img: /assets/img/zlandicar.webp
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/3301" target="_blank">Force Shield</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/3309" target="_blank">Embracing Darkness</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/3303" target="_blank">Blood of Thule</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/837" target="_blank">Stun Breath</a></div>
 </div>
 
@@ -85,11 +89,9 @@ cover-img: /assets/img/zlandicar.webp
 <div class="ability-cell">Unstunable</div>
 <div class="ability-cell">Unsnarable</div>
 <div class="ability-cell">Unfearable</div>
-<div class="ability-cell">Immune</div>
-<div class="ability-cell">to melee except magical</div>
+<div class="ability-cell">Immune to melee except magical</div>
 <div class="ability-cell">Resistant to Ranged Spells</div>
-<div class="ability-cell">Immune to lull</div>
-<div class="ability-cell">effects</div>
+<div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Flee percentage</div>
 </div>
 

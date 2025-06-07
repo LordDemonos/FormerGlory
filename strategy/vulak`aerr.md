@@ -61,8 +61,7 @@ cover-img: /assets/img/vulak`aerr.webp
 <div class="ability-cell">Enrage</div>
 <div class="ability-cell">Flurry</div>
 <div class="ability-cell">Double Attack</div>
-<div class="ability-cell">Dual</div>
-<div class="ability-cell">Wield</div>
+<div class="ability-cell">Dual SWield</div>
 <div class="ability-cell">Magical Attack</div>
 <div class="ability-cell">Unmezzable</div>
 <div class="ability-cell">Uncharmable</div>
@@ -70,12 +69,10 @@ cover-img: /assets/img/vulak`aerr.webp
 <div class="ability-cell">Unsnarable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to fleeing</div>
-<div class="ability-cell">Ranged</div>
-<div class="ability-cell">Spells</div>
+<div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Proximity Aggro</div>
-<div class="ability-cell">Always Calls for</div>
-<div class="ability-cell">Help</div>
+<div class="ability-cell">Always Calls for Help</div>
 </div>
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Vulak Ring&gt; Wave 1: 2 + 3 with monk trigger. /map 700 -750 for trigger point. Wave 2: HP+MANA AT START. Flurry + 5hatch. Kiting flurry. Wave 3: MANA AT START. Miniboss. Wave 4: Splitters. Wave 5: Miniboss. DONT DIE. Wave 6: HP AT START. 1 splitter (WARDEN), possible 1 flurry, up to 4 other mobs. Wave 7: Miniboss. DONT DIE! Wave 8: Herald of Vulak. Wave 9: Vulak.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

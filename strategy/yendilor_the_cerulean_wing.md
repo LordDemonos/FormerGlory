@@ -68,8 +68,7 @@ cover-img: /assets/img/yendilor_the_cerulean_wing.webp
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to fleeing</div>
 <div class="ability-cell">Immune to melee except magical</div>
-<div class="ability-cell">Immune</div>
-<div class="ability-cell">to lull effects</div>
+<div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>

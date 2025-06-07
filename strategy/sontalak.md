@@ -56,6 +56,8 @@ cover-img: /assets/img/sontalak.webp
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/981" target="_blank">Dragon Roar</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1943" target="_blank">Molten Breath</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/2830" target="_blank">Annul Self</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1660" target="_blank">Char</a></div>
 </div>
 
@@ -64,8 +66,7 @@ cover-img: /assets/img/sontalak.webp
 <div class="ability-cell">Enrage</div>
 <div class="ability-cell">Flurry</div>
 <div class="ability-cell">Double Attack</div>
-<div class="ability-cell">Dual</div>
-<div class="ability-cell">Wield</div>
+<div class="ability-cell">Dual Wield</div>
 <div class="ability-cell">Magical Attack</div>
 <div class="ability-cell">Unmezzable</div>
 <div class="ability-cell">Uncharmable</div>
@@ -73,7 +74,7 @@ cover-img: /assets/img/sontalak.webp
 <div class="ability-cell">Unsnarable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to melee except magical</div>
-<div class="ability-cell">Ranged Spells</div>
+<div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Flee percentage</div>
 <div class="ability-cell">Proximity Aggro</div>
 </div>

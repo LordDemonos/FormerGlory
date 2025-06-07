@@ -54,6 +54,8 @@ cover-img: /assets/img/wuoshi.webp
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/789" target="_blank">Dragon Roar</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/844" target="_blank">Ceticious Cloud</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/254" target="_blank">Firefist</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/278" target="_blank">Spirit of Wolf</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/143" target="_blank">Sunbeam</a></div>

@@ -53,6 +53,8 @@ cover-img: /assets/img/beldion_icewind.webp
 
 <div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1492" target="_blank">Thunder Blast</a></div>
+</div>
+<div class="spell-grid">
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/13" target="_blank">Complete Healing</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1534" target="_blank">Yaulp IV</a></div>
 <div class="spell-cell"><a href="https://www.pqdi.cc/spell/1526" target="_blank">Annul Magic</a></div>
@@ -73,8 +75,7 @@ cover-img: /assets/img/beldion_icewind.webp
 <div class="ability-cell">Uncharmable</div>
 <div class="ability-cell">Unstunable</div>
 <div class="ability-cell">Immune to fleeing</div>
-<div class="ability-cell">Immune to melee except</div>
-<div class="ability-cell">magical</div>
+<div class="ability-cell">Immune to melee except magical</div>
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>
