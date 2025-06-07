@@ -201,8 +201,8 @@ cover-img: /assets/img/raids.webp
 
 // Main function
 function main() {
-    const inputFile = path.join(__dirname, '..', 'assets', 'data', 'raids.txt');
-    const offnightFile = path.join(__dirname, '..', 'assets', 'data', 'offnight.txt');
+    const inputFile = path.join(__dirname, '..', 'data', 'raids.txt');
+    const offnightFile = path.join(__dirname, '..', 'data', 'offnight.txt');
     let raids = [];
     let offnightRaids = [];
 
