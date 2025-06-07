@@ -7,7 +7,7 @@ description: Update on rules and changes we're making in June 2025
 ---
 ## Words
 
-Hey all, just wanted to give a quick update on some changes that came on June 1st we'd like to make everyone aware of.
+Hey all, just wanted to give a quick update on some changes that we'd like to make everyone aware of.
 
 - ST keys are still going off the Raid Attendance list with the exception of Yelinak and Zlandikar. Yeli and Zlandi keys will go to DKP for all who wish to bid. Wear it or turn it into a key, bid for an alt, go get it!
 

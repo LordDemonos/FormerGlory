@@ -109,20 +109,20 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card ranger">
+    <ul>
+      <li>Synthran</li>
+      <li>Ranger</li>
+      <li>Great Divide</li>
+      <li>Ring of Dain Frostreaver IV - Ring War</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="off-night-targets">Off Night Targets</h2>
 <p class="raid-description">These targets can be tackled on off nights with smaller groups.</p>
 <div class="card-container">
-  <div class="card enchanter">
-    <ul>
-      <li>Kimmurielle</li>
-      <li>Enchanter</li>
-      <li>Plane of Hate</li>
-      <li>a forsaken revenant - Essence of a Vampire</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card shaman">
     <ul>
       <li>Puggls (Main), Puggolas(ALT)</li>
