@@ -3,8 +3,8 @@ name: Generate Raid Schedule Markdown
 on:
   push:
     paths:
-      - 'assets/data/raids.txt'
-      - 'assets/data/offnight.txt'
+      - 'data/raids.txt'
+      - 'data/offnight.txt'
       - 'assets/js/raid-schedule-generator.js'
   workflow_dispatch:
 
