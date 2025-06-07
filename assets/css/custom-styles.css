@@ -1151,3 +1151,26 @@ body:not(.strategy-page):not(.spoilers-page) .view-toggle {
 [data-theme="light"] .gem-legend-table th {
     color: #333;
 }
+
+/* Mobile: Make Bootstrap dropdown menus drop down vertically */
+@media (max-width: 991.98px) { /* Bootstrap xl breakpoint */
+  .navbar-nav .dropdown-menu {
+    position: static !important;
+    float: none !important;
+    width: 100% !important;
+    margin: 0 !important;
+    background: #181818 !important; /* match your menu background */
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    left: 0 !important;
+    top: auto !important;
+    display: none; /* Hide by default */
+  }
+  .navbar-nav .dropdown.show .dropdown-menu {
+    display: block !important; 
+  }
+  .navbar-nav .dropdown-menu .dropdown-item {
+    padding-left: 2rem !important;
+    white-space: normal !important;
+  }
+}

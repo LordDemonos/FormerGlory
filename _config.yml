@@ -29,9 +29,10 @@ author: Xanax
 ###############################################
 
 navbar-links:
-  About FG: "aboutme"
-  DKP: "aboutdkp"
-  Requirements: "requirements"
+  Guild:
+    - About FG: "aboutme"
+    - DKP: "aboutdkp"
+    - Requirements: "requirements"
   Strategy:
     - Boss Guides: "strategy"
     - GINA Guide: "gina"
@@ -42,12 +43,6 @@ navbar-links:
     - Gems Bank: "gems"
     - Sky Bank: "sky"
 #    - Loot Rights: "loot"
-#  Resources:
-#    - Quarm.Guide: "https://quarm.guide/"
-#    - TunnelAuctions: "https://www.eqtunnelauctions.com/"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
-#    - Table Generator: "https://www.tablesgenerator.com"
-#  OpenDKP: "https://formerglory.opendkp.com/"
 
 ################
 # --- Logo --- #
