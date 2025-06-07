@@ -227,7 +227,7 @@ function main() {
     }
 
     const markdown = generateMarkdown(raids, offnightRaids);
-    const outputFile = path.join(__dirname, '..', 'raids.md');
+    const outputFile = path.join(__dirname, '..', '..', 'raids.md');
     fs.writeFileSync(outputFile, markdown);
     console.log(`Generated markdown file: ${outputFile}`);
 }
