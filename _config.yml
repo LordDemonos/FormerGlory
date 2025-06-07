@@ -33,6 +33,7 @@ navbar-links:
     - About FG: "aboutme"
     - DKP: "aboutdkp"
     - Requirements: "requirements"
+    - Raid Schedule: "raids"
   Strategy:
     - Boss Guides: "strategy"
     - GINA Guide: "gina"
