@@ -76,4 +76,4 @@ cover-img: /assets/img/cekenar.webp
 <div class="ability-cell">NO LOITERING</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Cekenar&gt; [Slowable, gates] - [CH Unslowed: 4s, Slowed: 8s] // Electric Blast (PBAOE, 200 rng, MR, -100 check, 12s CD): 275 dmg + 175 mana drain</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Cekenar&gt; [Slowable] - [CH Unslowed: 4s, Slowed: 8s] // Electric Blast (PBAOE, 200 rng, MR, -100 check, 12s CD): 275 dmg + 175 mana drain</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
