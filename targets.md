@@ -123,42 +123,6 @@ cover-img: /assets/img/targets.webp
 <h2 id="off-night-targets">Off Night Targets</h2>
 <p class="raid-description">These targets can be tackled on off nights with smaller groups.</p>
 <div class="card-container">
-  <div class="card shaman">
-    <ul>
-      <li>Puggls (Main), Puggolas(ALT)</li>
-      <li>Shaman</li>
-      <li>City of Mist</li>
-      <li>Lord Rak'ashiir - Iksar Scale</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card necromancer">
-    <ul>
-      <li>Zule</li>
-      <li>Necromancer</li>
-      <li>Plane of Sky</li>
-      <li>Black Silk Cape</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card necromancer">
-    <ul>
-      <li>Zule</li>
-      <li>Necromancer</li>
-      <li>Plane of Sky</li>
-      <li>Spiroc Feathers</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card ranger">
-    <ul>
-      <li>Dingbat</li>
-      <li>Ranger</li>
-      <li>Plane of Sky</li>
-      <li>an essence tamer - Swirling Sphere of Color</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card wizard">
     <ul>
       <li>Xerzis</li>

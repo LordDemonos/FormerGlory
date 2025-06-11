@@ -12,7 +12,7 @@ GINA (Gamanern's Intelligent Notification Assistant) is a powerful log monitorin
 
 ## System Requirements
 
-GINA requires [Microsoft .NET Framework 4.0](http://www.microsoft.com/en-us/download/details.aspx?id=17113) or higher to function properly. Windows XP users may need to manually download the framework, while newer operating systems typically have this installed by default. Some users report better compatibility with .NET Framework 4.5, particularly if installation issues occur[6](https://www.project1999.com/forums/showthread.php?t=291010).
+GINA requires [Microsoft .NET Framework 4.0](http://www.microsoft.com/en-us/download/details.aspx?id=17113) or higher to function properly. Windows XP users may need to manually download the framework, while newer operating systems typically have this installed by default. Some users report better compatibility with .NET Framework 4.5, particularly if installation issues occur.
 
 ## Direct Download Links
 
@@ -243,5 +243,3 @@ EverQuest's log files provide the raw material for creating and refining trigger
     
 
 This approach ensures triggers match actual log output rather than assumed text patterns, improving reliability and reducing false positives. Regular log file review also helps identify new opportunities for helpful triggers based on your specific gameplay patterns and needs.
-
-
