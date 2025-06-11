@@ -21,10 +21,12 @@ jobs:
           node-version: '20'
 
       - name: Run raid-schedule-generator
-        run: node assets/js/raid-schedule-generator.js
+        run: |
+          echo "📅 Generating raid schedule..."
+          node assets/js/raid-schedule-generator.js
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
           add: 'raids.md'
-          message: 'Auto-generate raids.md from raids.txt'
+          message: '🤖 Auto-generate raids.md from raids.txt'

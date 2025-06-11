@@ -20,4 +20,6 @@ jobs:
       - name: Process spreadsheet
         env:
           GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
-        run: python assets/py/update_epic_needs.py
+        run: |
+          echo "📊 Processing spreadsheet updates..."
+          python assets/py/update_epic_needs.py

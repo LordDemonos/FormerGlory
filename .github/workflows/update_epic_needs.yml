@@ -29,15 +29,15 @@ jobs:
           pip install -r requirements.txt
       - name: Debug File Contents
         run: |
-          echo "Checking Python script contents:"
+          echo "🔍 Checking Python script contents:"
           cat assets/py/update_epic_needs.py
-          echo "Current directory contents:"
+          echo "📁 Current directory contents:"
           ls -la
-          echo "Assets directory contents:"
+          echo "📂 Assets directory contents:"
           ls -la assets/py/
       - name: Debug Credentials
         run: |
-          echo "Checking if GOOGLE_CREDENTIALS is set:"
+          echo "🔐 Checking if GOOGLE_CREDENTIALS is set:"
           if [ -n "$GOOGLE_CREDENTIALS" ]; then echo "GOOGLE_CREDENTIALS is set"; else echo "GOOGLE_CREDENTIALS is not set"; fi
           echo "First few characters of credentials:"
           echo "$GOOGLE_CREDENTIALS" | head -c 50
@@ -51,10 +51,11 @@ jobs:
         env:
           GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
         run: |
+          echo "⚔️ Updating epic needs..."
           python assets/py/update_epic_needs.py
       - name: Commit and push if changed
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
           git add targets.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update epic needs" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Update epic needs" && git push)
