@@ -1174,3 +1174,47 @@ body:not(.strategy-page):not(.spoilers-page) .view-toggle {
     white-space: normal !important;
   }
 }
+
+/* Calendar Container Styles */
+.calendar-container {
+    background-color: #1e1e1e;
+    border-radius: 6px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    margin: 1rem 0;
+    padding: 1rem;
+    border: 1px solid #333;
+    transition: border-color 0.2s, background-color 0.2s;
+}
+
+.calendar-container iframe {
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.calendar-container:hover {
+    border-color: #FF7A5E;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Light theme calendar styles */
+[data-theme="light"] .calendar-container {
+    background-color: #e8e8e8;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd;
+}
+
+[data-theme="light"] .calendar-container:hover {
+    border-color: #0085A1;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Mobile responsiveness for calendar */
+@media (max-width: 768px) {
+    .calendar-container {
+        padding: 0.5rem;
+    }
+    
+    .calendar-container iframe {
+        height: 400px !important;
+    }
+}
