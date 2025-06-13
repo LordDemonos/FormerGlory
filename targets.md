@@ -168,5 +168,23 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri</li>
     </ul>
   </div>
+  <div class="card magician">
+    <ul>
+      <li>Gnomen, Onlyhands</li>
+      <li>Magician</li>
+      <li>Plane of Hate</li>
+      <li>Innoruuk - Staff of Elemental Mastery: Earth</li>
+      <li>Mon, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card magician">
+    <ul>
+      <li>Gnomen, Onlyhands</li>
+      <li>Magician</li>
+      <li>Plane of Sky</li>
+      <li>Crown of Elemental Mastery</li>
+      <li>Mon, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
