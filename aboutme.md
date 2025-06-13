@@ -39,7 +39,9 @@ If you aren't here to support your fellow guildie in a positive manner and minds
 
 Officer Meetings are held on the first Sunday of every month where feedback, in addition to other items, will be discussed.
 
-We value your input to help us grow and improve so please direct any feedback, criticism, ideas, and issues to an officer to be discussed at one of these meetings.
+We value your input to help us grow and improve! You can submit feedback in two ways:
+1. Directly to an officer to be discussed at our monthly meetings
+2. Anonymously through our [Feedback & Suggestions Form](https://forms.gle/biDuXfLERPivK6jp9)
 
 Thank you for joining us on this epic adventure to reclaim our Former Glory in Norrath! Happy Hunting!
 
