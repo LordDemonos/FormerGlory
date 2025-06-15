@@ -118,15 +118,6 @@ cover-img: /assets/img/targets.webp
     <ul>
       <li>Xerzis</li>
       <li>Wizard</li>
-      <li>Plane of Hate</li>
-      <li>an enraged golem - Green Oil</li>
-      <li>Sat</li>
-    </ul>
-  </div>
-  <div class="card wizard">
-    <ul>
-      <li>Xerzis</li>
-      <li>Wizard</li>
       <li>Plane of Fear</li>
       <li>an enraged golem - Green Oil</li>
       <li>Sat</li>
