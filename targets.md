@@ -28,15 +28,6 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri</li>
     </ul>
   </div>
-  <div class="card cleric">
-    <ul>
-      <li>Xanax</li>
-      <li>Cleric</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card monk">
     <ul>
       <li>Activist</li>
@@ -184,6 +175,15 @@ cover-img: /assets/img/targets.webp
       <li>Plane of Sky</li>
       <li>Crown of Elemental Mastery</li>
       <li>Mon, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card shaman">
+    <ul>
+      <li>doorway</li>
+      <li>Shaman</li>
+      <li>City of Mist</li>
+      <li>Lord Rak'ashiir - Iksar Scale</li>
+      <li>Mon, Wed, Fri</li>
     </ul>
   </div>
 </div>
