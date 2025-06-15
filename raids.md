@@ -27,14 +27,22 @@ scrolling="no">
 
 ### Week of 6/16 - 6/22 {#week-6-6-16---6-22}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-4v626251t">&lt;Next Scheduled Raid&gt;Monday, 6/16; 9pm ET: Klandi, Sont, Zlandi, ~~HoT~~, LTK, - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-4v626251t')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-rnu6fxko8">&lt;Next Scheduled Raid&gt;Monday, 6/16; 9pm ET: Klandi, Sont, Zlandi, ~~HoT~~, LTK, - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-rnu6fxko8')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-14u34gusi">&lt;Offnight Raid&gt;Tuesday 6/17 9:00 PM EST. Halls of Testing, Armor Farm and Minis. - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-14u34gusi')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-cil7lajei">&lt;Offnight Raid&gt;Tuesday 6/17 9:00 PM EST. Halls of Testing, Armor Farm and Minis. - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-cil7lajei')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-zxhsi4qjv">&lt;Next Scheduled Raid&gt;Wednesday, 6/18; 9pm ET: Lord Yelinak, King Tormax, Vindi, Statue, AOW - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-zxhsi4qjv')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-yhjavbyeg">&lt;Next Scheduled Raid&gt;Wednesday, 6/18; 9pm ET: Lord Yelinak, King Tormax, Vindi, Statue, AOW - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-yhjavbyeg')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-qmuusvnyq">&lt;Next Scheduled Raid&gt;Friday, 6/20; 9pm ET: Plane of Fear, Sleeper's Tomb - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-qmuusvnyq')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-v4hxs3ohh">&lt;Next Scheduled Raid&gt;Saturday, 6/21; 9pm ET: North TOV - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-v4hxs3ohh')">Copy to Clipboard</button></div>
 
 
 ### Week of 6/23 - 6/29 {#week-6-6-23---6-29}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-i8jgdjhaf">&lt;Offnight Raid&gt;Tuesday 6/24 9:00 PM EST. Halls of Testing, Armor Farm and Minis. - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-i8jgdjhaf')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-m9peh34l7">&lt;Next Scheduled Raid&gt;Monday, 6/23; 9pm ET: North TOV - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-m9peh34l7')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-tw6gstsw5">&lt;Offnight Raid&gt;Tuesday 6/24 9:00 PM EST. Halls of Testing, Armor Farm and Minis. - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-tw6gstsw5')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-s619y2igt">&lt;Next Scheduled Raid&gt;Wednesday, 6/25; 9pm ET: Lord Yelinak, King Tormax, Vindi, Statue, AOW - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-s619y2igt')">Copy to Clipboard</button></div>
 
