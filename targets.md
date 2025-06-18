@@ -168,5 +168,14 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri</li>
     </ul>
   </div>
+  <div class="card ranger">
+    <ul>
+      <li>Synthran (Synthor)</li>
+      <li>Ranger</li>
+      <li>Plane of Sky</li>
+      <li>Black Silk Cape</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
