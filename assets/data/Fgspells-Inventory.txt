@@ -46,7 +46,7 @@ General3-Slot4	Spell: Tumultuous Strength	30428	1	0
 General3-Slot5	Spell: Wind of Tashanian	19405	1	0
 General3-Slot6	Spell: Umbra	19393	1	0
 General3-Slot7	Spell: Largarn`s Lamentation	19388	1	0
-General3-Slot8	Spell: Greater Vocaration: Water	19372	1	0
+General3-Slot8	Spell: Spiritual Purity	7729	1	0
 General4	Backpack	17005	1	8
 General4-Slot1	Spell: Retribution of Al`Kabor	19332	1	0
 General4-Slot2	Spell: Velocity	19348	1	0
@@ -57,7 +57,7 @@ General4-Slot6	Spell: Forlorn Deeds	19395	1	0
 General4-Slot7	Spell: Thrall of Bones	19299	1	0
 General4-Slot8	Spell: Tears of Prexus	19339	1	0
 General5	Backpack	17005	1	8
-General5-Slot1	Spell: Theft of Thought	19374	1	0
+General5-Slot1	Spell: Divine Strength	30456	1	0
 General5-Slot2	Spell: Pillar of Frost	19318	1	0
 General5-Slot3	Spell: Scars of Sigil	19358	1	0
 General5-Slot4	Spell: Egress	19236	1	0
@@ -75,7 +75,7 @@ General6-Slot6	Crushed Topaz	25832	1	0
 General6-Slot7	Crushed Flame Opal	25837	1	0
 General6-Slot8	Spell: Malo	19291	1	0
 General7	Backpack	17005	1	8
-General7-Slot1	Spell: Nature Walkers Behest	30475	1	0
+General7-Slot1	Song: Composition of Ervaj	30452	1	0
 General7-Slot2	Spell: Flame of Light	30454	1	0
 General7-Slot3	Spell: Gift of Xev	19347	1	0
 General7-Slot4	Spell: Spirit of the Storm	7741	1	0
@@ -85,11 +85,11 @@ General7-Slot7	Spell: Defoliation	19296	1	0
 General7-Slot8	Spell: Improved Invisibility	30406	1	0
 General8	Backpack	17005	1	8
 General8-Slot1	Spell: Monster Summoning III	30404	1	0
-General8-Slot2	Empty	0	0	0
-General8-Slot3	Empty	0	0	0
-General8-Slot4	Empty	0	0	0
-General8-Slot5	Empty	0	0	0
-General8-Slot6	Empty	0	0	0
+General8-Slot2	Spell: Gift of Brilliance	30410	1	0
+General8-Slot3	Song: Composition of Ervaj	30452	1	0
+General8-Slot4	Song: Composition of Ervaj	30452	1	0
+General8-Slot5	Spell: Call of the Predator	30464	1	0
+General8-Slot6	Spell: Gift of Brilliance	30410	1	0
 General8-Slot7	Empty	0	0	0
 General8-Slot8	Empty	0	0	0
 General-Coin	Currency	0	997	0
@@ -115,7 +115,7 @@ Bank2-Slot8	Spell: Greater Vocaration: Water	19372	1	0
 Bank3	Backpack	17005	1	8
 Bank3-Slot1	Spell: Pillar of Lightning	19326	1	0
 Bank3-Slot2	Spell: Dictate	19406	1	0
-Bank3-Slot3	Spell: Improved Invis vs Undead	30411	1	0
+Bank3-Slot3	Empty	0	0	0
 Bank3-Slot4	Spell: Bane of Nife	19277	1	0
 Bank3-Slot5	Spell: Avatar	19292	1	0
 Bank3-Slot6	Spell: Conjure Corpse	19307	1	0
@@ -146,10 +146,10 @@ Bank6-Slot3	Spell: Pillar of Lightning	19326	1	0
 Bank6-Slot4	Spell: Defoliation	19296	1	0
 Bank6-Slot5	Spell: Bandoleer of Luclin	19356	1	0
 Bank6-Slot6	Spell: Disempower	15281	1	0
-Bank6-Slot7	Spell: Aegis of Ro	15863	1	0
+Bank6-Slot7	Empty	0	0	0
 Bank6-Slot8	Spell: Gift of Xev	19347	1	0
 Bank7	Backpack	17005	1	8
-Bank7-Slot1	Spell: Succor	19253	1	0
+Bank7-Slot1	Empty	0	0	0
 Bank7-Slot2	Spell: Umbra	19393	1	0
 Bank7-Slot3	Spell: Wind of Tashanian	19405	1	0
 Bank7-Slot4	Spell: Banishment	19262	1	0
@@ -171,13 +171,13 @@ Bank9-Slot1	Spell: Enlightenment	19396	1	0
 Bank9-Slot2	Spell: Atol`s Spectral Shackles	19315	1	0
 Bank9-Slot3	Spell: Word of Restoration	19221	1	0
 Bank9-Slot4	Spell: Lure of Ice	19422	1	0
-Bank9-Slot5	Spell: Wake of Tranquility	19215	1	0
+Bank9-Slot5	Empty	0	0	0
 Bank9-Slot6	Spell: Wind of Tashanian	19405	1	0
 Bank9-Slot7	Spell: Tears of Druzzil	19319	1	0
 Bank9-Slot8	Spell: Dementia	19384	1	0
 Bank10	Backpack	17005	1	8
 Bank10-Slot1	Spell: Bristlebane`s Bundle	19351	1	0
-Bank10-Slot2	Spell: Color Slant	19378	1	0
+Bank10-Slot2	Empty	0	0	0
 Bank10-Slot3	Spell: Theft of Thought	19374	1	0
 Bank10-Slot4	Spell: Monster Summoning III	30404	1	0
 Bank10-Slot5	Spell: Translocate: Group	19474	1	0
@@ -196,7 +196,7 @@ Bank11-Slot8	Spell: Manastorm	19370	1	0
 Bank12	Backpack	17005	1	8
 Bank12-Slot1	Spell: Quivering Veil of Xarn	19309	1	0
 Bank12-Slot2	Spell: Quivering Veil of Xarn	19309	1	0
-Bank12-Slot3	Spell: Mala	19418	1	0
+Bank12-Slot3	Empty	0	0	0
 Bank12-Slot4	Spell: Cobalt Scar Portal	30425	1	0
 Bank12-Slot5	Spell: Wave of Healing	30455	1	0
 Bank12-Slot6	Spell: Wrath of the Elements	30405	1	0
@@ -223,7 +223,7 @@ Bank14-Slot8	Spell: Tigir`s Insects	19285	1	0
 Bank15	Backpack	17005	1	8
 Bank15-Slot1	Spell: Evacuate	19336	1	0
 Bank15-Slot2	Spell: Evacuate	19336	1	0
-Bank15-Slot3	Spell: Call of the Hero	19360	1	0
+Bank15-Slot3	Empty	0	0	0
 Bank15-Slot4	Spell: Quiver of Marr	19354	1	0
 Bank15-Slot5	Song: Composition of Ervaj	30452	1	0
 Bank15-Slot6	Spell: Wind of Tashanian	19405	1	0
@@ -283,7 +283,7 @@ Bank22-Slot4	Empty	0	0	0
 Bank22-Slot5	Spell: Defoliation	19296	1	0
 Bank22-Slot6	Spell: Mala	19418	1	0
 Bank22-Slot7	Spell: Cobalt Scar Portal	30425	1	0
-Bank22-Slot8	Song: Occlusion of Sound	30451	1	0
+Bank22-Slot8	Empty	0	0	0
 Bank23	Backpack	17005	1	8
 Bank23-Slot1	Spell: Wave of Healing	30455	1	0
 Bank23-Slot2	Spell: Wind of Tashanian	19405	1	0
@@ -427,7 +427,7 @@ SharedBank8-Slot4	Spell: Quivering Veil of Xarn	19309	1	0
 SharedBank8-Slot5	Spell: Protection of the Glades	30442	1	0
 SharedBank8-Slot6	Spell: Flame of Light	30454	1	0
 SharedBank8-Slot7	Spell: Wrath of the Elements	30405	1	0
-SharedBank8-Slot8	Spell: Vocarate: Water	19362	1	0
+SharedBank8-Slot8	Empty	0	0	0
 SharedBank9	Hand Made Backpack	17969	1	10
 SharedBank9-Slot1	Spell: Summon Corpse	15003	1	0
 SharedBank9-Slot2	Spell: Retribution of Al`Kabor	19332	1	0
