@@ -1218,3 +1218,93 @@ body:not(.strategy-page):not(.spoilers-page) .view-toggle {
         height: 400px !important;
     }
 }
+
+/* Focus page specific styles */
+.focus-page {
+  font-size: 0.95rem; /* Slightly reduced base font size */
+}
+
+.focus-page table {
+  width: 100%;
+  margin-bottom: 1.5rem;
+  border-collapse: collapse;
+  display: table;
+  table-layout: fixed;
+}
+
+.focus-page table th,
+.focus-page table td {
+  padding: 0.75rem;
+  border: 1px solid var(--navbar-border-col);
+  text-align: left;
+  vertical-align: top; /* Added to align content to top */
+}
+
+/* Column widths */
+.focus-page table th:nth-child(1),
+.focus-page table td:nth-child(1) {
+  width: 40%; /* Name column */
+  white-space: normal; /* Allow wrapping but with hyphenation */
+  hyphens: auto;
+}
+
+.focus-page table th:nth-child(2),
+.focus-page table td:nth-child(2) {
+  width: 30%; /* Zone column */
+}
+
+.focus-page table th:nth-child(3),
+.focus-page table td:nth-child(3) {
+  width: 30%; /* Mob column */
+}
+
+.focus-page table th {
+  background-color: var(--navbar-col);
+  font-weight: 600;
+}
+
+.focus-page table tr:nth-child(even) {
+  background-color: var(--navbar-col);
+}
+
+.focus-page table tr:hover {
+  background-color: var(--hover-col);
+}
+
+/* Make tables responsive */
+@media (max-width: 768px) {
+  .focus-page table {
+    display: block; /* Switch to block on mobile */
+    overflow-x: auto; /* Enable horizontal scroll */
+  }
+  
+  .focus-page table th,
+  .focus-page table td {
+    padding: 0.5rem;
+    min-width: 140px; /* Slightly increased for better readability */
+    font-size: 0.95rem; /* Slightly reduced font size on mobile */
+  }
+
+  /* Adjust column widths for mobile */
+  .focus-page table th:nth-child(1),
+  .focus-page table td:nth-child(1) {
+    min-width: 180px; /* Wider for item names */
+  }
+  
+  .focus-page table td:first-child {
+    font-weight: 600;
+  }
+}
+
+/* Dark mode support */
+[data-theme="dark"] .focus-page table th {
+  background-color: var(--navbar-col-drk);
+}
+
+[data-theme="dark"] .focus-page table tr:nth-child(even) {
+  background-color: var(--navbar-col-drk);
+}
+
+[data-theme="dark"] .focus-page table tr:hover {
+  background-color: var(--hover-col-drk);
+}

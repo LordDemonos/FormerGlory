@@ -37,6 +37,7 @@ navbar-links:
   Strategy:
     - Boss Guides: "strategy"
     - GINA Guide: "gina"
+    - Spell Focus Items: "focus"
 #    - Quick Reference: "spoilers"
   Services:
     - Target Requests: "targets"
