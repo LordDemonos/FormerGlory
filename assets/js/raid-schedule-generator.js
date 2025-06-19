@@ -28,7 +28,13 @@ function parseOffnightDate(line) {
 // Function to check if a date is in the past
 function isDateInPast(date) {
     const today = new Date();
-    const raidDate = new Date(today.getFullYear(), date.month - 1, date.day);
+    const currentYear = today.getFullYear();
+    const raidDate = new Date(currentYear, date.month - 1, date.day);
+    
+    // If the raid date is in the past, it might be for next year
+    if (raidDate < today) {
+        raidDate.setFullYear(currentYear + 1);
+    }
     
     // Reset hours to compare just the dates
     today.setHours(0, 0, 0, 0);
@@ -39,12 +45,22 @@ function isDateInPast(date) {
 
 // Function to get week range for a date
 function getWeekRange(date) {
-    const startDate = new Date(2024, date.month - 1, date.day);
+    const currentYear = new Date().getFullYear();
+    const startDate = new Date(currentYear, date.month - 1, date.day);
+    
+    // If the date is in the past, it might be for next year
+    const today = new Date();
+    if (startDate < today) {
+        startDate.setFullYear(currentYear + 1);
+    }
+    
     const dayOfWeek = startDate.getDay();
     const diff = startDate.getDate() - dayOfWeek;
     
-    const weekStart = new Date(startDate.setDate(diff));
-    const weekEnd = new Date(startDate.setDate(diff + 6));
+    const weekStart = new Date(startDate);
+    weekStart.setDate(diff);
+    const weekEnd = new Date(weekStart);
+    weekEnd.setDate(diff + 6);
     
     return {
         start: weekStart,
@@ -73,7 +89,17 @@ function generateOffnightCopyBlock(raidText) {
 function getRaidDate(raid) {
     const date = parseDate(raid) || parseOffnightDate(raid);
     if (!date) return null;
-    return new Date(2024, date.month - 1, date.day);
+    
+    const currentYear = new Date().getFullYear();
+    const raidDate = new Date(currentYear, date.month - 1, date.day);
+    
+    // If the raid date is in the past, it might be for next year
+    const today = new Date();
+    if (raidDate < today) {
+        raidDate.setFullYear(currentYear + 1);
+    }
+    
+    return raidDate;
 }
 
 // Function to generate markdown content
