@@ -6,19 +6,21 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2025-06-18
+### Last Update: 2025-06-19
 
 Inv6 s7 [Crushed Flame Opal](https://www.pqdi.cc/item/25837)
 
 Inv6 s6 [Crushed Topaz](https://www.pqdi.cc/item/25832)
 
-Inv7 s1 [Song: Composition of Ervaj](https://www.pqdi.cc/item/30452) x8
+Bnk15 s5 [Song: Composition of Ervaj](https://www.pqdi.cc/item/30452) x5
 
 Bnk1 s6 [Song: Melody of Ervaj](https://www.pqdi.cc/item/30449) x2
 
+Bnk22 s8 [Song: Occlusion of Sound](https://www.pqdi.cc/item/30451)
+
 SBnk6 [Spell: Abscond](https://www.pqdi.cc/item/19320)
 
-Bnk10 s8 [Spell: Aegis of Ro](https://www.pqdi.cc/item/15863) x4
+Bnk6 s7 [Spell: Aegis of Ro](https://www.pqdi.cc/item/15863) x5
 
 Inv6 s2 [Spell: Aegolism](https://www.pqdi.cc/item/30447)
 
@@ -46,7 +48,9 @@ Bnk10 s1 [Spell: Bristlebane`s Bundle](https://www.pqdi.cc/item/19351) x3
 
 Bnk30 s6 [Spell: Call of Fire](https://www.pqdi.cc/item/30463) x2
 
-Inv8 s5 [Spell: Call of the Predator](https://www.pqdi.cc/item/30464) x2
+Bnk15 s3 [Spell: Call of the Hero](https://www.pqdi.cc/item/19360)
+
+SBnk7 [Spell: Call of the Predator](https://www.pqdi.cc/item/30464)
 
 Bnk28 s7 [Spell: Cannibalize III](https://www.pqdi.cc/item/19272)
 
@@ -60,7 +64,7 @@ Bnk10 s7 [Spell: Cobalt Scar Portal](https://www.pqdi.cc/item/30425) x5
 
 Bnk8 s2 [Spell: Color Skew](https://www.pqdi.cc/item/15178) x2
 
-Bnk29 s7 [Spell: Color Slant](https://www.pqdi.cc/item/19378) x2
+Bnk10 s2 [Spell: Color Slant](https://www.pqdi.cc/item/19378) x3
 
 Bnk3 s6 [Spell: Conjure Corpse](https://www.pqdi.cc/item/19307)
 
@@ -82,7 +86,7 @@ Bnk3 s2 [Spell: Dictate](https://www.pqdi.cc/item/19406) x4
 
 Bnk3 s8 [Spell: Disempower](https://www.pqdi.cc/item/15281) x2
 
-Inv5 s1 [Spell: Divine Strength](https://www.pqdi.cc/item/30456) x7
+Bnk12 s8 [Spell: Divine Strength](https://www.pqdi.cc/item/30456) x6
 
 Bnk13 s3 [Spell: Draught of Jiva](https://www.pqdi.cc/item/19328)
 
@@ -112,7 +116,7 @@ Inv4 s6 [Spell: Forlorn Deeds](https://www.pqdi.cc/item/19395) x2
 
 Inv1 s3 [Spell: Form of the Howler](https://www.pqdi.cc/item/19244) x6
 
-Inv6 s4 [Spell: Gift of Brilliance](https://www.pqdi.cc/item/30410) x4
+Inv6 s4 [Spell: Gift of Brilliance](https://www.pqdi.cc/item/30410) x2
 
 Bnk4 s7 [Spell: Gift of Insight](https://www.pqdi.cc/item/30409) x5
 
@@ -128,13 +132,13 @@ SBnk2 [Spell: Great Divide Portal](https://www.pqdi.cc/item/30423)
 
 SBnk3 [Spell: Greater Vocaration: Air](https://www.pqdi.cc/item/19371)
 
-Bnk2 s8 [Spell: Greater Vocaration: Water](https://www.pqdi.cc/item/19372) x3
+Inv3 s8 [Spell: Greater Vocaration: Water](https://www.pqdi.cc/item/19372) x4
 
 Bnk1 s8 [Spell: Heroic Bond](https://www.pqdi.cc/item/19224) x7
 
 Bnk17 s7 [Spell: Ice Spear of Solist](https://www.pqdi.cc/item/30426)
 
-Bnk5 s6 [Spell: Improved Invis vs Undead](https://www.pqdi.cc/item/30411) x3
+Bnk3 s3 [Spell: Improved Invis vs Undead](https://www.pqdi.cc/item/30411) x4
 
 Inv1 s1 [Spell: Improved Invisibility](https://www.pqdi.cc/item/30406) x6
 
@@ -152,7 +156,7 @@ Inv3 s7 [Spell: Largarn`s Lamentation](https://www.pqdi.cc/item/19388) x2
 
 Bnk9 s4 [Spell: Lure of Ice](https://www.pqdi.cc/item/19422)
 
-Bnk15 s8 [Spell: Mala](https://www.pqdi.cc/item/19418) x5
+Bnk12 s3 [Spell: Mala](https://www.pqdi.cc/item/19418) x6
 
 Inv6 s8 [Spell: Malo](https://www.pqdi.cc/item/19291)
 
@@ -167,6 +171,8 @@ Bnk1 s5 [Spell: Monster Summoning II](https://www.pqdi.cc/item/30402) x4
 Inv8 s1 [Spell: Monster Summoning III](https://www.pqdi.cc/item/30404) x6
 
 Inv7 s5 [Spell: Naltron's Mark](https://www.pqdi.cc/item/19435) x3
+
+Inv7 s1 [Spell: Nature Walkers Behest](https://www.pqdi.cc/item/30475)
 
 Bnk5 s3 [Spell: Omakin's Alacrity](https://www.pqdi.cc/item/7725)
 
@@ -210,13 +216,11 @@ Inv7 s4 [Spell: Spirit of the Storm](https://www.pqdi.cc/item/7741)
 
 Inv6 s1 [Spell: Spirit Quickening](https://www.pqdi.cc/item/30430)
 
-Inv3 s8 [Spell: Spiritual Purity](https://www.pqdi.cc/item/7729)
-
 Inv2 s1 [Spell: Splurt](https://www.pqdi.cc/item/19294)
 
 SBnk6 [Spell: Stun Command](https://www.pqdi.cc/item/30446)
 
-Bnk23 s6 [Spell: Succor](https://www.pqdi.cc/item/19253) x4
+Bnk7 s1 [Spell: Succor](https://www.pqdi.cc/item/19253) x5
 
 SBnk9 [Spell: Summon Corpse](https://www.pqdi.cc/item/15003)
 
@@ -234,7 +238,7 @@ Inv4 s8 [Spell: Tears of Prexus](https://www.pqdi.cc/item/19339) x3
 
 Bnk23 s3 [Spell: The Unspoken Word](https://www.pqdi.cc/item/19225) x2
 
-Bnk10 s3 [Spell: Theft of Thought](https://www.pqdi.cc/item/19374) x5
+Inv5 s1 [Spell: Theft of Thought](https://www.pqdi.cc/item/19374) x6
 
 Inv4 s7 [Spell: Thrall of Bones](https://www.pqdi.cc/item/19299) x4
 
@@ -270,9 +274,11 @@ Bnk18 s3 [Spell: Visions of Grandeur](https://www.pqdi.cc/item/19407) x3
 
 Bnk13 s2 [Spell: Vocarate: Fire](https://www.pqdi.cc/item/19355) x2
 
-Inv4 s3 [Spell: Vocarate: Water](https://www.pqdi.cc/item/19362) x3
+Inv4 s3 [Spell: Vocarate: Water](https://www.pqdi.cc/item/19362) x4
 
 Bnk18 s2 [Spell: Wake of Karana](https://www.pqdi.cc/item/19413)
+
+Bnk9 s5 [Spell: Wake of Tranquility](https://www.pqdi.cc/item/19215)
 
 Bnk12 s5 [Spell: Wave of Healing](https://www.pqdi.cc/item/30455) x6
 
