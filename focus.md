@@ -46,36 +46,12 @@ This page lists all spell focus items available in Project Quarm.
 
 # Focus Effect Calculation info
 
-In general, with the exception of extended range and spell haste, all
- focii apply random amounts from 1% to the max that is listed on the 
-focus and is applied after everything else is already applied 
-(skills/AA's/etc).  The complete heals that Clerics, Druids, and Shamans
- have are excluded from all focii except for extended range.
+In general, with the exception of extended range and spell haste, all focii apply random amounts from 1% to the max that is listed on the focus and is applied after everything else is already applied (skills/AA's/etc). The complete heals that Clerics, Druids, and Shamans have are excluded from all focii except for extended range.
 
-- Mana preservation -- focii effects are are random amount 
-from 1% to the max the focus is rated for.  It is also applied after the
- other savings are applied through specialization skills and the SCM AA.
-  Example:  a Wizard casts GSS with an unmodified mana cost of 
-540.  SCM3 and a maxxed evocation specialization skill at 200 saves a 
-total of 21% mana, bringing this to 426 mana.  This wizard also has an 
-item with the Wind of Mana effect which is a random 1-20% mana savings 
-on nukes afterwards.  This brings the cost of the spell if it were to 
-trigger at the full 20% savings down to 341 mana.
-- Spell haste -- spell haste is a fixed reduction value 
-applied.  Hybrids get a 3% cast time reduction per level over 50.  There
- are many sources of spell haste however and many items with the focii 
-have minimum cast times as a requirement.  The key to remember is that 
-there is a hard coded cap of 50% of the original cast time of the spell.
-  You will never be able to go over that.  This includes all forms of 
-spell haste that stack.  So keep that in mind when looking for spell 
-haste focii.  Also review this page in mind if an enchanter:  [AA Issues](https://wiki.takp.info/index.php?title=AA%27s_that_will_remain_broken/useless_or_act_differently_than_you_expect)
+- Mana preservation -- focii effects are are random amount from 1% to the max the focus is rated for. It is also applied after the other savings are applied through specialization skills and the SCM AA. Example: a Wizard casts GSS with an unmodified mana cost of 540. SCM3 and a maxxed evocation specialization skill at 200 saves a total of 21% mana, bringing this to 426 mana. This wizard also has an item with the Wind of Mana effect which is a random 1-20% mana savings on nukes afterwards. This brings the cost of the spell if it were to trigger at the full 20% savings down to 341 mana.
+- Spell haste -- spell haste is a fixed reduction value applied. Hybrids get a 3% cast time reduction per level over 50. There are many sources of spell haste however and many items with the focii have minimum cast times as a requirement. The key to remember is that there is a hard coded cap of 50% of the original cast time of the spell. You will never be able to go over that. This includes all forms of spell haste that stack. So keep that in mind when looking for spell haste focii. Also review this page in mind if an enchanter: [AA Issues](https://wiki.takp.info/index.php?title=AA%27s_that_will_remain_broken/useless_or_act_differently_than_you_expect)
 
-A note on focus level caps:  When reviewing this list, keep in
- mind that level limits are hard limits.  There is no degredation like 
-on live of spells above those levels.  A level 60 focus limit will have 
-no effect at all on PoP spells for example.  If there is no level limit 
-listed, it is assumed that the limit is the maximum level of this server
- (65).
+A note on focus level caps: When reviewing this list, keep in mind that level limits are hard limits. There is no degredation like on live of spells above those levels. A level 60 focus limit will have no effect at all on PoP spells for example. If there is no level limit listed, it is assumed that the limit is the maximum level of this server (65). 
 
 # All Spell Duration Focus Effects
 
