@@ -2,7 +2,7 @@
 layout: page
 title: Spell Focus Items
 cover-img: /assets/img/focus.webp
-subtitle: List of Spell Focus items converted from TAKP
+subtitle: List of spell focus items converted from TAKP
 custom-css-class: focus-page
 ---
 
