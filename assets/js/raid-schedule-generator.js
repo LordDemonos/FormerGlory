@@ -46,22 +46,17 @@ function isDateInPast(date) {
 // Function to get week range for a date
 function getWeekRange(date) {
     const currentYear = new Date().getFullYear();
-    const startDate = new Date(currentYear, date.month - 1, date.day);
-    
-    // If the date is in the past, it might be for next year
-    const today = new Date();
-    if (startDate < today) {
-        startDate.setFullYear(currentYear + 1);
-    }
-    
-    const dayOfWeek = startDate.getDay();
-    const diff = startDate.getDate() - dayOfWeek;
-    
-    const weekStart = new Date(startDate);
-    weekStart.setDate(diff);
+    const baseDate = new Date(currentYear, date.month - 1, date.day);
+
+    // Clone baseDate for weekStart
+    const weekStart = new Date(baseDate);
+    // Set weekStart to the previous Sunday (or the same day if it's Sunday)
+    weekStart.setDate(baseDate.getDate() - baseDate.getDay());
+
+    // Clone weekStart for weekEnd
     const weekEnd = new Date(weekStart);
-    weekEnd.setDate(diff + 6);
-    
+    weekEnd.setDate(weekStart.getDate() + 6);
+
     return {
         start: weekStart,
         end: weekEnd
