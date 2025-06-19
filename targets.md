@@ -177,5 +177,14 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card enchanter">
+    <ul>
+      <li>Solrena (Seirrsings)</li>
+      <li>Enchanter</li>
+      <li>Plane of Hate</li>
+      <li>a forsaken revenant - Essence of a Vampire</li>
+      <li>Mon, Wed, Fri</li>
+    </ul>
+  </div>
 </div>
 
