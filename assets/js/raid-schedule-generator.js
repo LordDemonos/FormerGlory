@@ -80,6 +80,17 @@ function generateOffnightCopyBlock(raidText) {
     return `<div class="copy-text-container"><pre class="copy-text-content" id="${id}">&lt;Offnight Raid&gt;${raidText} - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('${id}')">Copy to Clipboard</button></div>`;
 }
 
+// Function to generate copy-to-clipboard HTML for static groups
+function generateStaticGroupCopyBlock(raidText) {
+    const id = `copy-box-${Math.random().toString(36).substr(2, 9)}`;
+    return `<div class="copy-text-container"><pre class="copy-text-content" id="${id}">&lt;Static Group&gt;${raidText} - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('${id}')">Copy to Clipboard</button></div>`;
+}
+
+// Function to check if an entry is a static group
+function isStaticGroup(raidText) {
+    return raidText.toLowerCase().includes('hosted by');
+}
+
 // Function to get raid date for sorting
 function getRaidDate(raid) {
     const date = parseDate(raid) || parseOffnightDate(raid);
@@ -138,7 +149,8 @@ cover-img: /assets/img/raids.webp
         if (!organizedRaids[monthKey][weekKey]) {
             organizedRaids[monthKey][weekKey] = {
                 regular: [],
-                offnight: []
+                offnight: [],
+                static: []
             };
         }
         
@@ -167,11 +179,17 @@ cover-img: /assets/img/raids.webp
         if (!organizedRaids[monthKey][weekKey]) {
             organizedRaids[monthKey][weekKey] = {
                 regular: [],
-                offnight: []
+                offnight: [],
+                static: []
             };
         }
         
-        organizedRaids[monthKey][weekKey].offnight.push(raid);
+        // Check if this is a static group or offnight raid
+        if (isStaticGroup(raid)) {
+            organizedRaids[monthKey][weekKey].static.push(raid);
+        } else {
+            organizedRaids[monthKey][weekKey].offnight.push(raid);
+        }
     });
 
     console.log('Organized raids:', organizedRaids);
@@ -199,7 +217,8 @@ cover-img: /assets/img/raids.webp
             // Combine and sort all raids for this week
             const allRaids = [
                 ...organizedRaids[month][week].offnight.map(raid => ({ type: 'offnight', raid })),
-                ...organizedRaids[month][week].regular.map(raid => ({ type: 'regular', raid }))
+                ...organizedRaids[month][week].regular.map(raid => ({ type: 'regular', raid })),
+                ...organizedRaids[month][week].static.map(raid => ({ type: 'static', raid }))
             ].sort((a, b) => {
                 const dateA = getRaidDate(a.raid);
                 const dateB = getRaidDate(b.raid);
@@ -210,6 +229,8 @@ cover-img: /assets/img/raids.webp
             allRaids.forEach(({ type, raid }) => {
                 if (type === 'offnight') {
                     mainContent += generateOffnightCopyBlock(raid) + '\n\n';
+                } else if (type === 'static') {
+                    mainContent += generateStaticGroupCopyBlock(raid) + '\n\n';
                 } else {
                     mainContent += generateCopyBlock(raid) + '\n\n';
                 }
