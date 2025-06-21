@@ -1268,7 +1268,8 @@ body:not(.strategy-page):not(.spoilers-page) .view-toggle {
 }
 
 .focus-page table tr:hover {
-  background-color: var(--hover-col);
+  background-color: rgba(255, 255, 255, 0.05);
+  transition: background-color 0.2s ease;
 }
 
 /* Make tables responsive */
@@ -1306,5 +1307,10 @@ body:not(.strategy-page):not(.spoilers-page) .view-toggle {
 }
 
 [data-theme="dark"] .focus-page table tr:hover {
-  background-color: var(--hover-col-drk);
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+/* Light mode hover effect */
+[data-theme="light"] .focus-page table tr:hover {
+  background-color: rgba(0, 0, 0, 0.04);
 }
