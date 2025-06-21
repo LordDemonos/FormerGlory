@@ -68,6 +68,24 @@ function formatDate(date) {
     return `${date.getMonth() + 1}/${date.getDate()}`;
 }
 
+// Function to get week key that properly handles cross-month weeks
+function getWeekKey(date) {
+    const weekRange = getWeekRange(date);
+    const startMonth = weekRange.start.getMonth() + 1;
+    const endMonth = weekRange.end.getMonth() + 1;
+    
+    // If the week spans two months, use the month where the week starts
+    const displayMonth = startMonth;
+    const startDate = formatDate(weekRange.start);
+    const endDate = formatDate(weekRange.end);
+    
+    return {
+        monthKey: displayMonth,
+        weekKey: `${startDate} - ${endDate}`,
+        weekStart: weekRange.start
+    };
+}
+
 // Function to generate copy-to-clipboard HTML for regular raids
 function generateCopyBlock(raidText) {
     const id = `copy-box-${Math.random().toString(36).substr(2, 9)}`;
@@ -139,9 +157,9 @@ cover-img: /assets/img/raids.webp
             return;
         }
         
-        const weekRange = getWeekRange(date);
-        const monthKey = date.month;
-        const weekKey = `${formatDate(weekRange.start)} - ${formatDate(weekRange.end)}`;
+        const weekInfo = getWeekKey(date);
+        const monthKey = weekInfo.monthKey;
+        const weekKey = weekInfo.weekKey;
         
         if (!organizedRaids[monthKey]) {
             organizedRaids[monthKey] = {};
@@ -150,7 +168,8 @@ cover-img: /assets/img/raids.webp
             organizedRaids[monthKey][weekKey] = {
                 regular: [],
                 offnight: [],
-                static: []
+                static: [],
+                weekStart: weekInfo.weekStart
             };
         }
         
@@ -169,9 +188,9 @@ cover-img: /assets/img/raids.webp
             return;
         }
         
-        const weekRange = getWeekRange(date);
-        const monthKey = date.month;
-        const weekKey = `${formatDate(weekRange.start)} - ${formatDate(weekRange.end)}`;
+        const weekInfo = getWeekKey(date);
+        const monthKey = weekInfo.monthKey;
+        const weekKey = weekInfo.weekKey;
         
         if (!organizedRaids[monthKey]) {
             organizedRaids[monthKey] = {};
@@ -180,7 +199,8 @@ cover-img: /assets/img/raids.webp
             organizedRaids[monthKey][weekKey] = {
                 regular: [],
                 offnight: [],
-                static: []
+                static: [],
+                weekStart: weekInfo.weekStart
             };
         }
         
@@ -203,11 +223,11 @@ cover-img: /assets/img/raids.webp
         const monthName = new Date(2024, month - 1, 1).toLocaleString('default', { month: 'long' });
         mainContent += `\n## ${monthName}\n\n`;
         
+        // Sort weeks by their start date
         Object.keys(organizedRaids[month]).sort((a, b) => {
-            const [aStart] = a.split(' - ');
-            const [bStart] = b.split(' - ');
-            return new Date(2024, month - 1, parseInt(aStart.split('/')[1])) - 
-                   new Date(2024, month - 1, parseInt(bStart.split('/')[1]));
+            const weekA = organizedRaids[month][a];
+            const weekB = organizedRaids[month][b];
+            return weekA.weekStart - weekB.weekStart;
         }).forEach(week => {
             const anchor = `week-${month}-${week.replace(/[^0-9]/g, '-')}`;
             toc += `- [Week of ${week}](#${anchor})\n`;
