@@ -55,7 +55,3 @@ I never properly introduced the bot in a patch note, and today marks what I'd co
 ---
 
 *Want to see the ((awful)) code or run it yourself? [Check it out on GitHub!](https://github.com/LordDemonos/xanny-helper)*
-
----
-
-Let me know if you want a more technical or user-focused version!
