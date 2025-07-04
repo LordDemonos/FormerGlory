@@ -260,7 +260,6 @@ This page contains a comprehensive list of GM commands available in EverQuest. C
 - `#removelegacyitem` - Remove a legacy item from your target [itemid], or specify a [charid] [itemid]
 - `#resetboat` - Sets player's boat to 0 in their profile
 - `#save` - Force your player or player corpse target to be saved to the database
-- `#set` - Set command used to set various things
 - `#setgreed [greed]` - Sets a merchant greed value
 - `#skills` - List skill difficulty
 - `#starve` - Sets hunger and thirst to 0
@@ -268,6 +267,60 @@ This page contains a comprehensive list of GM commands available in EverQuest. C
 - `#viewplayerfaction [factionid]` - Shows current personal and modified faction with the given ID
 - `#wc [wear slot] [material]` - Sends an OP_WearChange for your target
 - `#zonespawn` - Not implemented
+
+## Set Commands
+
+The `#set` command is a powerful utility for modifying various character, server, and game properties.
+
+### Character Properties
+- `#set aa_exp [aa|group|raid] [Amount]` - Set AA experience points
+- `#set aa_points [aa|group|raid] [Amount]` - Set AA points
+- `#set animation [Animation ID]` - Set character animation
+- `#set anon [Character ID] [Anonymous Flag]` or `#set anon [Anonymous Flag]` - Set anonymous status
+- `#set bind_point` - Set bind point to current location
+- `#set class_permanent [Class ID]` - Permanently change class
+- `#set exp [aa|exp] [Amount]` - Set experience points
+- `#set faction [Faction ID]` - Set faction value
+- `#set gender [Gender ID]` - Set gender
+- `#set gender_permanent [Gender ID]` - Permanently change gender
+- `#set hp [Amount]` - Set hit points
+- `#set hp_full` - Restore full hit points
+- `#set invulnerable` - Make target invulnerable
+- `#set language [Language ID] [Language Level]` - Set language skill
+- `#set last_name [Last Name]` - Set character last name
+- `#set level [Level]` - Set character level
+- `#set mana [Amount]` - Set mana points
+- `#set mana_full` - Restore full mana
+- `#set name` - Set character name
+- `#set ooc_mute` - Mute OOC chat
+- `#set pvp [on|off]` - Toggle PVP status
+- `#set race [Race ID]` - Set race
+- `#set race_permanent [Race ID]` - Permanently change race
+- `#set skill [Skill ID] [Skill Level]` - Set specific skill level
+- `#set skill_all [Skill Level]` - Set all skills to specified level
+- `#set skill_all_max` - Set all skills to maximum level
+- `#set texture [Texture ID]` - Set character texture
+- `#set title [Title]` - Set character title
+- `#set title_suffix [Title Suffix]` - Set title suffix
+
+### Server & Game Settings
+- `#set date [Year] [Month] [Day] [Hour] [Minute]` - Set server date/time (Hour and Minute optional)
+- `#set flymode [Flymode ID]` - Set fly mode
+- `#set frozen [on|off]` - Freeze/unfreeze target
+- `#set gm [on|off]` - Toggle GM status
+- `#set gm_speed [on|off]` - Toggle GM speed
+- `#set gm_status [GM Status] [Account]` - Set GM status for account
+- `#set god_mode [on|off]` - Toggle god mode
+- `#set haste [Percentage]` - Set haste percentage
+- `#set hide_me [on|off]` - Toggle hide me status
+- `#set loginserver_info [Email] [Password]` - Set login server information
+- `#set motd` - Set message of the day
+- `#set password [Account Name] [Password]` - Set account password
+- `#set server_locked [on|off]` - Lock/unlock server
+- `#set time [Hour] [Minute]` - Set server time
+- `#set time_zone [Hour] [Minute]` - Set time zone
+- `#set weather [0|1|2|3]` - Set weather conditions
+- `#set zone [option]` - Set zone options
 
 ---
 
