@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2025-06-19
+### Last Update: 2025-07-10
 
 Inv6 s7 [Crushed Flame Opal](https://www.pqdi.cc/item/25837)
 
