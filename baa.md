@@ -2,7 +2,7 @@
 layout: page
 title: Broken Alternate Advancement Abilities
 cover-img: /assets/img/aa.webp
-subtitle: Current quirks and differences of AA abilities on TAKP
+subtitle: Current quirks and differences of AA abilities on Quarm
 custom-css-class: baa-page
 ---
 

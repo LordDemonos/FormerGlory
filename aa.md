@@ -2,7 +2,7 @@
 layout: page
 title: Alternate Advancement Abilities
 cover-img: /assets/img/aa.webp
-subtitle: Comprehensive guide to Alternate Advancement abilities on TAKP
+subtitle: Comprehensive guide to Alternate Advancement abilities on Quarm
 custom-css-class: aa-page
 ---
 
