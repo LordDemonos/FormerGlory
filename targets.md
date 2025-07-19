@@ -114,15 +114,6 @@ cover-img: /assets/img/targets.webp
 <h2 id="off-night-targets">Off Night Targets</h2>
 <p class="raid-description">These targets can be tackled on off nights with smaller groups.</p>
 <div class="card-container">
-  <div class="card ranger">
-    <ul>
-      <li>Synthran (Synthor)</li>
-      <li>Ranger</li>
-      <li>Plane of Sky</li>
-      <li>Black Silk Cape</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card enchanter">
     <ul>
       <li>Solrena (Seirrsings)</li>
