@@ -6,5 +6,5 @@ subtitle: List of Plane of Sky items in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2025-07-10
+### Last Update: 2025-07-20
 
