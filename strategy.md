@@ -20,7 +20,7 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="master_yael">Master Yael</a></li>
+      <li><a href="/strategy/master_yael">Master Yael</a></li>
       <li>Level 56 Elemental Wizard</li>
     </ul>
   </div>
@@ -29,7 +29,7 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="phinigel_autropos">Phinigel Autropos</a></li>
+      <li><a href="/strategy/phinigel_autropos">Phinigel Autropos</a></li>
       <li>Level 55 Kedge Wizard</li>
     </ul>
   </div>
@@ -38,7 +38,7 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="general_v`ghera">General V`ghera</a></li>
+      <li><a href="/strategy/general_v`ghera">General V`ghera</a></li>
       <li>Level 65 Dark Elf Shadow Knight</li>
     </ul>
   </div>
@@ -47,13 +47,13 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="king_tranix">King Tranix</a></li>
+      <li><a href="/strategy/king_tranix">King Tranix</a></li>
       <li>Level 52 Giant Shadow Knight</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="lord_nagafen">Lord Nagafen</a></li>
+      <li><a href="/strategy/lord_nagafen">Lord Nagafen</a></li>
       <li>Level 55 Dragon Warrior</li>
     </ul>
   </div>
@@ -62,7 +62,7 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="lady_vox">Lady Vox</a></li>
+      <li><a href="/strategy/lady_vox">Lady Vox</a></li>
       <li>Level 55 Dragon Cleric</li>
     </ul>
   </div>
@@ -74,7 +74,7 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="gorenaire">Gorenaire</a></li>
+      <li><a href="/strategy/gorenaire">Gorenaire</a></li>
       <li>Level 60 Dragon Cleric</li>
     </ul>
   </div>
@@ -83,7 +83,7 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="severilous">Severilous</a></li>
+      <li><a href="/strategy/severilous">Severilous</a></li>
       <li>Level 60 Dragon Shaman</li>
     </ul>
   </div>
@@ -92,7 +92,7 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="trakanon">Trakanon</a></li>
+      <li><a href="/strategy/trakanon">Trakanon</a></li>
       <li>Level 65 Trakanon Necromancer</li>
     </ul>
   </div>
@@ -101,7 +101,7 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="talendor">Talendor</a></li>
+      <li><a href="/strategy/talendor">Talendor</a></li>
       <li>Level 60 Dragon Warrior</li>
     </ul>
   </div>
@@ -110,7 +110,7 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="faydedar">Faydedar</a></li>
+      <li><a href="/strategy/faydedar">Faydedar</a></li>
       <li>Level 55 Dragon Warrior</li>
     </ul>
   </div>
@@ -119,37 +119,37 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="druushk">Druushk</a></li>
+      <li><a href="/strategy/druushk">Druushk</a></li>
       <li>Level 65 Dragon Ranger</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="hoshkar">Hoshkar</a></li>
+      <li><a href="/strategy/hoshkar">Hoshkar</a></li>
       <li>Level 65 Dragon Shaman</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="nexona">Nexona</a></li>
+      <li><a href="/strategy/nexona">Nexona</a></li>
       <li>Level 65 Dragon Shadow Knight</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="phara_dar">Phara Dar</a></li>
+      <li><a href="/strategy/phara_dar">Phara Dar</a></li>
       <li>Level 65 Dragon Cleric</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="silverwing">Silverwing</a></li>
+      <li><a href="/strategy/silverwing">Silverwing</a></li>
       <li>Level 65 Dragon Enchanter</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="xygoz">Xygoz</a></li>
+      <li><a href="/strategy/xygoz">Xygoz</a></li>
       <li>Level 65 Dragon Bard</li>
     </ul>
   </div>
@@ -161,7 +161,7 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="kelorek`dar">Kelorek`Dar</a></li>
+      <li><a href="/strategy/kelorek`dar">Kelorek`Dar</a></li>
       <li>Level 65 Dragon Warrior</li>
     </ul>
   </div>
@@ -170,7 +170,7 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="zlandicar">Zlandicar</a></li>
+      <li><a href="/strategy/zlandicar">Zlandicar</a></li>
       <li>Level 70 Dragon Necromancer</li>
     </ul>
   </div>
@@ -179,7 +179,7 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="narandi_the_wretched">Narandi the Wretched</a></li>
+      <li><a href="/strategy/narandi_the_wretched">Narandi the Wretched</a></li>
       <li>Level 65 Giant Shadow Knight</li>
     </ul>
   </div>
@@ -188,7 +188,7 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="dain_frostreaver_iv">Dain Frostreaver IV</a></li>
+      <li><a href="/strategy/dain_frostreaver_iv">Dain Frostreaver IV</a></li>
       <li>Level 70 Coldain Warrior</li>
     </ul>
   </div>
@@ -197,31 +197,31 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="derakor_the_vindicator">Derakor the Vindicator</a></li>
+      <li><a href="/strategy/derakor_the_vindicator">Derakor the Vindicator</a></li>
       <li>Level 70 Giant Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="keldor_dek`torek">Keldor Dek`Torek</a></li>
+      <li><a href="/strategy/keldor_dek`torek">Keldor Dek`Torek</a></li>
       <li>Level 65 Giant Wizard</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="king_tormax">King Tormax</a></li>
+      <li><a href="/strategy/king_tormax">King Tormax</a></li>
       <li>Level 70 Giant Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="the_avatar_of_war">The Avatar of War</a></li>
+      <li><a href="/strategy/the_avatar_of_war">The Avatar of War</a></li>
       <li>Level 70 Rallos Zek Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="the_statue_of_rallos_zek">The Statue of Rallos Zek</a></li>
+      <li><a href="/strategy/the_statue_of_rallos_zek">The Statue of Rallos Zek</a></li>
       <li>Level 59 Rallos Zek Warrior</li>
     </ul>
   </div>
@@ -230,13 +230,13 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="cazic_thule">Cazic Thule</a></li>
+      <li><a href="/strategy/cazic_thule">Cazic Thule</a></li>
       <li>Level 70 Cazic Thule Shadow Knight</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="a_dracoliche">a dracoliche</a></li>
+      <li><a href="/strategy/a_dracoliche">a dracoliche</a></li>
       <li>Level 58 Dragon Necromancer</li>
     </ul>
   </div>
@@ -245,67 +245,67 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="ail_the_elder">Ail the Elder</a></li>
+      <li><a href="/strategy/ail_the_elder">Ail the Elder</a></li>
       <li>Level 60 Treant Druid</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="fayl_everstrong">Fayl Everstrong</a></li>
+      <li><a href="/strategy/fayl_everstrong">Fayl Everstrong</a></li>
       <li>Level 60 Treant Druid</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="guardian_of_takish">Guardian of Takish</a></li>
+      <li><a href="/strategy/guardian_of_takish">Guardian of Takish</a></li>
       <li>Level 70 Enchanted Armor Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="guardian_of_tunare">Guardian of Tunare</a></li>
+      <li><a href="/strategy/guardian_of_tunare">Guardian of Tunare</a></li>
       <li>Level 60 Puma Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="prince_thirneg">Prince Thirneg</a></li>
+      <li><a href="/strategy/prince_thirneg">Prince Thirneg</a></li>
       <li>Level 65 Yakkar Ranger</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="rumbleroot">Rumbleroot</a></li>
+      <li><a href="/strategy/rumbleroot">Rumbleroot</a></li>
       <li>Level 60 Treant Druid</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="treah_greenroot">Treah Greenroot</a></li>
+      <li><a href="/strategy/treah_greenroot">Treah Greenroot</a></li>
       <li>Level 60 Treant Druid</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="tunare">Tunare</a></li>
+      <li><a href="/strategy/tunare">Tunare</a></li>
       <li>Level 70 Tunare Druid</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="tunarean_earthmelder">Tunarean Earthmelder</a></li>
+      <li><a href="/strategy/tunarean_earthmelder">Tunarean Earthmelder</a></li>
       <li>Level 60 Man-Eating Plant Druid</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="a_gleaming_sphere_of_light">a gleaming sphere of light</a></li>
+      <li><a href="/strategy/a_gleaming_sphere_of_light">a gleaming sphere of light</a></li>
       <li>Level 65 Will-O-Wisp Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="keeper_of_the_glades">keeper of the glades</a></li>
+      <li><a href="/strategy/keeper_of_the_glades">keeper of the glades</a></li>
       <li>Level 65 Puma Warrior</li>
     </ul>
   </div>
@@ -314,13 +314,13 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="innoruuk">Innoruuk</a></li>
+      <li><a href="/strategy/innoruuk">Innoruuk</a></li>
       <li>Level 70 Innoruuk Wizard</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="maestro_of_rancor">Maestro of Rancor</a></li>
+      <li><a href="/strategy/maestro_of_rancor">Maestro of Rancor</a></li>
       <li>Level 56 Vampire Wizard</li>
     </ul>
   </div>
@@ -329,7 +329,7 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="lord_yelinak">Lord Yelinak</a></li>
+      <li><a href="/strategy/lord_yelinak">Lord Yelinak</a></li>
       <li>Level 70 Dragon Warrior</li>
     </ul>
   </div>
@@ -338,43 +338,43 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="hraashna_the_warder">Hraashna the Warder</a></li>
+      <li><a href="/strategy/hraashna_the_warder">Hraashna the Warder</a></li>
       <li>Level 70 Dragon Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="master_of_the_guard">Master of the Guard</a></li>
+      <li><a href="/strategy/master_of_the_guard">Master of the Guard</a></li>
       <li>Level 69 Golem Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="nanzata_the_warder">Nanzata the Warder</a></li>
+      <li><a href="/strategy/nanzata_the_warder">Nanzata the Warder</a></li>
       <li>Level 70 Dragon Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="the_final_arbiter">The Final Arbiter</a></li>
+      <li><a href="/strategy/the_final_arbiter">The Final Arbiter</a></li>
       <li>Level 70 Golem Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="the_progenitor">The Progenitor</a></li>
+      <li><a href="/strategy/the_progenitor">The Progenitor</a></li>
       <li>Level 70 Golem Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="tukaarak_the_warder">Tukaarak the Warder</a></li>
+      <li><a href="/strategy/tukaarak_the_warder">Tukaarak the Warder</a></li>
       <li>Level 70 Dragon Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="ventani_the_warder">Ventani the Warder</a></li>
+      <li><a href="/strategy/ventani_the_warder">Ventani the Warder</a></li>
       <li>Level 70 Dragon Warrior</li>
     </ul>
   </div>
@@ -383,115 +383,115 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="aaryonar">Aaryonar</a></li>
+      <li><a href="/strategy/aaryonar">Aaryonar</a></li>
       <li>Level 66 Dragon Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="cekenar">Cekenar</a></li>
+      <li><a href="/strategy/cekenar">Cekenar</a></li>
       <li>Level 66 Dragon Monk</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="dagarn_the_destroyer">Dagarn the Destroyer</a></li>
+      <li><a href="/strategy/dagarn_the_destroyer">Dagarn the Destroyer</a></li>
       <li>Level 70 Wurm Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="dozekar_the_cursed">Dozekar the Cursed</a></li>
+      <li><a href="/strategy/dozekar_the_cursed">Dozekar the Cursed</a></li>
       <li>Level 66 Dragon Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="eashen_of_the_sky">Eashen of the Sky</a></li>
+      <li><a href="/strategy/eashen_of_the_sky">Eashen of the Sky</a></li>
       <li>Level 66 Drake Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="gozzrem">Gozzrem</a></li>
+      <li><a href="/strategy/gozzrem">Gozzrem</a></li>
       <li>Level 66 Dragon Cleric</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="ikatiar_the_venom">Ikatiar the Venom</a></li>
+      <li><a href="/strategy/ikatiar_the_venom">Ikatiar the Venom</a></li>
       <li>Level 66 Wyvern Rogue</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="jorlleag">Jorlleag</a></li>
+      <li><a href="/strategy/jorlleag">Jorlleag</a></li>
       <li>Level 66 Dragon Shaman</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="lady_mirenilla">Lady Mirenilla</a></li>
+      <li><a href="/strategy/lady_mirenilla">Lady Mirenilla</a></li>
       <li>Level 66 Dragon Shadow Knight</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="lady_nevederia">Lady Nevederia</a></li>
+      <li><a href="/strategy/lady_nevederia">Lady Nevederia</a></li>
       <li>Level 66 Dragon Enchanter</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="lendiniara_the_keeper">Lendiniara the Keeper</a></li>
+      <li><a href="/strategy/lendiniara_the_keeper">Lendiniara the Keeper</a></li>
       <li>Level 66 Dragon Cleric</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="lord_feshlak">Lord Feshlak</a></li>
+      <li><a href="/strategy/lord_feshlak">Lord Feshlak</a></li>
       <li>Level 66 Dragon Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="lord_koi`doken">Lord Koi`Doken</a></li>
+      <li><a href="/strategy/lord_koi`doken">Lord Koi`Doken</a></li>
       <li>Level 66 Dragon Rogue</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="lord_kreizenn">Lord Kreizenn</a></li>
+      <li><a href="/strategy/lord_kreizenn">Lord Kreizenn</a></li>
       <li>Level 66 Dragon Monk</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="lord_vyemm">Lord Vyemm</a></li>
+      <li><a href="/strategy/lord_vyemm">Lord Vyemm</a></li>
       <li>Level 66 Dragon Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="sevalak">Sevalak</a></li>
+      <li><a href="/strategy/sevalak">Sevalak</a></li>
       <li>Level 66 Dragon Paladin</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="telkorenar">Telkorenar</a></li>
+      <li><a href="/strategy/telkorenar">Telkorenar</a></li>
       <li>Level 66 Dragon Monk</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="vulak`aerr">Vulak`Aerr</a></li>
+      <li><a href="/strategy/vulak`aerr">Vulak`Aerr</a></li>
       <li>Level 70 Dragon Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="zlexak">Zlexak</a></li>
+      <li><a href="/strategy/zlexak">Zlexak</a></li>
       <li>Level 66 Dragon Rogue</li>
     </ul>
   </div>
@@ -500,91 +500,91 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="ajorek_the_crimson_fang">Ajorek the Crimson Fang</a></li>
+      <li><a href="/strategy/ajorek_the_crimson_fang">Ajorek the Crimson Fang</a></li>
       <li>Level 63 Drake Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="belijor_the_emerald_eye">Belijor the Emerald Eye</a></li>
+      <li><a href="/strategy/belijor_the_emerald_eye">Belijor the Emerald Eye</a></li>
       <li>Level 63 Drake Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="bryrym">Bryrym</a></li>
+      <li><a href="/strategy/bryrym">Bryrym</a></li>
       <li>Level 60 Drake Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="carx`vean">Carx`Vean</a></li>
+      <li><a href="/strategy/carx`vean">Carx`Vean</a></li>
       <li>Level 60 Drake Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="gra`vloren">Gra`Vloren</a></li>
+      <li><a href="/strategy/gra`vloren">Gra`Vloren</a></li>
       <li>Level 60 Drake Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="hsrek">Hsrek</a></li>
+      <li><a href="/strategy/hsrek">Hsrek</a></li>
       <li>Level 60 Drake Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="kal`vunar">Kal`Vunar</a></li>
+      <li><a href="/strategy/kal`vunar">Kal`Vunar</a></li>
       <li>Level 60 Drake Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="kedrak">Kedrak</a></li>
+      <li><a href="/strategy/kedrak">Kedrak</a></li>
       <li>Level 60 Drake Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="lurian">Lurian</a></li>
+      <li><a href="/strategy/lurian">Lurian</a></li>
       <li>Level 60 Drake Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="mazrien">Mazrien</a></li>
+      <li><a href="/strategy/mazrien">Mazrien</a></li>
       <li>Level 60 Drake Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="nelaarn_the_ebon_claw">Nelaarn the Ebon Claw</a></li>
+      <li><a href="/strategy/nelaarn_the_ebon_claw">Nelaarn the Ebon Claw</a></li>
       <li>Level 63 Drake Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="nir`tan">Nir`Tan</a></li>
+      <li><a href="/strategy/nir`tan">Nir`Tan</a></li>
       <li>Level 60 Drake Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="vukuz">Vukuz</a></li>
+      <li><a href="/strategy/vukuz">Vukuz</a></li>
       <li>Level 60 Drake Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="wel`wnas">Wel`Wnas</a></li>
+      <li><a href="/strategy/wel`wnas">Wel`Wnas</a></li>
       <li>Level 60 Drake Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="yendilor_the_cerulean_wing">Yendilor the Cerulean Wing</a></li>
+      <li><a href="/strategy/yendilor_the_cerulean_wing">Yendilor the Cerulean Wing</a></li>
       <li>Level 60 Drake Warrior</li>
     </ul>
   </div>
@@ -593,73 +593,73 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="a_lava_defender">A Lava Defender</a></li>
+      <li><a href="/strategy/a_lava_defender">A Lava Defender</a></li>
       <li>Level 65 Drake Monk</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="a_sky_defender">A Sky Defender</a></li>
+      <li><a href="/strategy/a_sky_defender">A Sky Defender</a></li>
       <li>Level 65 Drake Cleric</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="an_emerald_defender">An Emerald Defender</a></li>
+      <li><a href="/strategy/an_emerald_defender">An Emerald Defender</a></li>
       <li>Level 65 Drake Rogue</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="an_onyx_defender">An Onyx Defender</a></li>
+      <li><a href="/strategy/an_onyx_defender">An Onyx Defender</a></li>
       <li>Level 65 Drake Shadow Knight</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="beldion_icewind">Beldion Icewind</a></li>
+      <li><a href="/strategy/beldion_icewind">Beldion Icewind</a></li>
       <li>Level 65 Drake Cleric</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="cyndor_lightningfang">Cyndor Lightningfang</a></li>
+      <li><a href="/strategy/cyndor_lightningfang">Cyndor Lightningfang</a></li>
       <li>Level 65 Drake Cleric</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="kalkar_of_the_maelstrom">Kalkar of the Maelstrom</a></li>
+      <li><a href="/strategy/kalkar_of_the_maelstrom">Kalkar of the Maelstrom</a></li>
       <li>Level 65 Drake Shadow Knight</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="malteor_flamecaller">Malteor Flamecaller</a></li>
+      <li><a href="/strategy/malteor_flamecaller">Malteor Flamecaller</a></li>
       <li>Level 65 Drake Monk</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="quellod_earthspirit">Quellod Earthspirit</a></li>
+      <li><a href="/strategy/quellod_earthspirit">Quellod Earthspirit</a></li>
       <li>Level 65 Drake Rogue</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="vyldin_flamereaver">Vyldin Flamereaver</a></li>
+      <li><a href="/strategy/vyldin_flamereaver">Vyldin Flamereaver</a></li>
       <li>Level 65 Drake Monk</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="yrrindor_emerald_claw">Yrrindor Emerald Claw</a></li>
+      <li><a href="/strategy/yrrindor_emerald_claw">Yrrindor Emerald Claw</a></li>
       <li>Level 65 Drake Rogue</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="zyerek_onyxblood">Zyerek Onyxblood</a></li>
+      <li><a href="/strategy/zyerek_onyxblood">Zyerek Onyxblood</a></li>
       <li>Level 65 Drake Shadow Knight</li>
     </ul>
   </div>
@@ -668,7 +668,7 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="velketor_the_sorcerer">Velketor the Sorcerer</a></li>
+      <li><a href="/strategy/velketor_the_sorcerer">Velketor the Sorcerer</a></li>
       <li>Level 66 Giant Wizard</li>
     </ul>
   </div>
@@ -677,7 +677,7 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="wuoshi">Wuoshi</a></li>
+      <li><a href="/strategy/wuoshi">Wuoshi</a></li>
       <li>Level 64 Dragon Druid</li>
     </ul>
   </div>
@@ -686,13 +686,13 @@ cover-img: /assets/img/strategy.webp
 <div class="card-container">
   <div class="card dragon">
     <ul>
-      <li><a href="klandicar">Klandicar</a></li>
+      <li><a href="/strategy/klandicar">Klandicar</a></li>
       <li>Level 70 Dragon Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="sontalak">Sontalak</a></li>
+      <li><a href="/strategy/sontalak">Sontalak</a></li>
       <li>Level 70 Dragon Warrior</li>
     </ul>
   </div>
