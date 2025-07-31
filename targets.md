@@ -28,15 +28,6 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri</li>
     </ul>
   </div>
-  <div class="card monk">
-    <ul>
-      <li>Activist</li>
-      <li>Monk</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card bard">
     <ul>
       <li>Seirrsings</li>
