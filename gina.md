@@ -16,9 +16,9 @@ GINA requires [Microsoft .NET Framework 4.0](http://www.microsoft.com/en-us/down
 
 ## Direct Download Links
 
-**Primary Download:** [Download GINA](https://eq.gimasoft.com/gina/Download.aspx)
+**Direct Download:** [Download GINA ](https://github.com/LordDemonos/FormerGlory/blob/master/assets/data/gina.zip?raw=true)
 
-**Beta Version:** [Download GINA Beta](https://eq.gimasoft.com/gina/DownloadBeta.aspx)
+**Previous Primary Download (GINA's Website Shut Down):** [Download GINA](https://eq.gimasoft.com/gina/Download.aspx)
 
 ## Installation Steps
 
