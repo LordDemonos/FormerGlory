@@ -30,7 +30,7 @@ scrolling="no">
 
 ### Week of 7/27 - 8/2 {#week-7-7-27---8-2}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-3uj0xdxko">&lt;Offnight Raid&gt;Saturday 8/2 9:00 PM EST. Sleeper's Tomb + Minis. Offnight rules apply. - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-3uj0xdxko')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-hy6ibwzm4">&lt;Offnight Raid&gt;Saturday 8/2 9:00 PM EST. Sleeper's Tomb + Minis. Offnight rules apply. - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-hy6ibwzm4')">Copy to Clipboard</button></div>
 
 
 ## August
@@ -38,26 +38,26 @@ scrolling="no">
 
 ### Week of 8/3 - 8/9 {#week-8-8-3---8-9}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-hc2czf94u">&lt;Static Group&gt;Sunday 8/3 10:30 AM EST. We're Definitely Not Planning Something Mischievous. Hosted by Xanax/Xanathema/Xanamaniac/Xanti - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-hc2czf94u')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-e860apb43">&lt;Static Group&gt;Sunday 8/3 10:30 AM EST. We're Definitely Not Planning Something Mischievous. Hosted by Xanax/Xanathema/Xanamaniac/Xanti - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-e860apb43')">Copy to Clipboard</button></div>
 
 
 ### Week of 8/10 - 8/16 {#week-8-8-10---8-16}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-rrwf41o9v">&lt;Static Group&gt;Sunday 8/10 10:30 AM EST. We're Definitely Not Planning Something Mischievous. Hosted by Xanax/Xanathema/Xanamaniac/Xanti - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-rrwf41o9v')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-kw1h6v4t9">&lt;Static Group&gt;Sunday 8/10 10:30 AM EST. We're Definitely Not Planning Something Mischievous. Hosted by Xanax/Xanathema/Xanamaniac/Xanti - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-kw1h6v4t9')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-jlvf8iaku">&lt;Next Scheduled Raid&gt;Monday, 8/11; 9pm ET: Klandi, Zlandi, HOT Clear, - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-jlvf8iaku')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-5pshdoxud">&lt;Next Scheduled Raid&gt;Monday, 8/11; 9pm ET: Klandi, Zlandi, HOT Clear, - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-5pshdoxud')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-h1se8hy91">&lt;Next Scheduled Raid&gt;Wednesday, 8/13; 9pm ET: Yelinak, Vindi, KT, AOW                                                                                                                             •Friday, 8/15; 9pm ET: Klandi, Zlandi, HOT, ST - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-h1se8hy91')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-yihhu18mu">&lt;Next Scheduled Raid&gt;Wednesday, 8/13; 9pm ET: Yelinak, Vindi, KT, AOW                                                                                                                             •Friday, 8/15; 9pm ET: Klandi, Zlandi, HOT, ST - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-yihhu18mu')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-yyjjnmoan">&lt;Next Scheduled Raid&gt;Saturday, 8/16; 9pm ET: TBD - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-yyjjnmoan')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-obnfg9y5d">&lt;Next Scheduled Raid&gt;Saturday, 8/16; 9pm ET: Ring Wars - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-obnfg9y5d')">Copy to Clipboard</button></div>
 
 
 ### Week of 8/17 - 8/23 {#week-8-8-17---8-23}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-ocbnkym9r">&lt;Static Group&gt;Sunday 8/17 10:30 AM EST. We're Definitely Not Planning Something Mischievous. Hosted by Xanax/Xanathema/Xanamaniac/Xanti - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-ocbnkym9r')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-gvjg325c5">&lt;Static Group&gt;Sunday 8/17 10:30 AM EST. We're Definitely Not Planning Something Mischievous. Hosted by Xanax/Xanathema/Xanamaniac/Xanti - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-gvjg325c5')">Copy to Clipboard</button></div>
 
 
 ### Week of 8/24 - 8/30 {#week-8-8-24---8-30}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-my3yc9tvb">&lt;Static Group&gt;Sunday 8/24 10:30 AM EST. We're Definitely Not Planning Something Mischievous. Hosted by Xanax/Xanathema/Xanamaniac/Xanti - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-my3yc9tvb')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-elj84lz0c">&lt;Static Group&gt;Sunday 8/24 10:30 AM EST. We're Definitely Not Planning Something Mischievous. Hosted by Xanax/Xanathema/Xanamaniac/Xanti - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-elj84lz0c')">Copy to Clipboard</button></div>
 
