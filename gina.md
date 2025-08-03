@@ -35,7 +35,10 @@ GINA requires [Microsoft .NET Framework 4.0](http://www.microsoft.com/en-us/down
     - Choose "Run anyway" when prompted by Windows Defender
         
 4. **Complete installation** - Follow the setup wizard prompts to finish installation
-    
+
+## Installation Steps for Direct Download
+
+1. Download GINA.zip and extract the GINA folder to any location you want. Double click gina.exe to run.
 
 If you encounter installation issues on Windows 10/11, try running the installer from an administrator command prompt or temporarily disable Windows Defender during installation.
 
