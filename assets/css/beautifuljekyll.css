@@ -925,6 +925,32 @@ pre {
   border-right: 2px solid #444;
 }
 
+/* Dark mode code block styles */
+.dark-mode code {
+  color: #ff6b6b;
+  background-color: #2a2a2a;
+}
+
+.dark-mode pre {
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+  border: 1px solid #444;
+}
+
+.dark-mode .highlight > pre {
+  background-image: linear-gradient(
+    rgba(255,255,255,0.03), rgba(255,255,255,0.03) 1.5em, rgba(255,255,255,0.02) 1.5em, rgba(255,255,255,0.02) 3em);
+  background-color: #1a1a1a;
+  border: 1px solid #444;
+  border-left: 0.4375rem solid #666;
+  color: #e0e0e0;
+}
+
+.dark-mode .highlight pre.lineno {
+  color: rgba(255,255,255,0.3);
+  border-right: 2px solid #666;
+}
+
 /* Make line numbers unselectable: excludes line numbers from copy-paste user ops */
 .lineno {
   -webkit-user-select: none;
