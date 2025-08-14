@@ -6,8 +6,6 @@ title: EverQuest Bazaar Trader Setup Guide
 description: A guide to setting up a Bazaar trader
 keywords: 'bazaar, nexus, trader, auction, mule, platinum, buy, sell'
 ---
-# EverQuest Bazaar Trader Setup Guide
-
 This guide walks you through the steps to set up a trader in the Bazaar so you can sell items, including key tips on pricing and account limitations.
 
 ***
