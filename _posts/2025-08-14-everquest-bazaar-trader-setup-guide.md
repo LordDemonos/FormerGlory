@@ -37,6 +37,8 @@ This guide walks you through the steps to set up a trader in the Bazaar so you c
 5. Once all items are priced, click **Start Trader** in the bottom-right corner.  
 
    **Important:** This action immediately disconnects you from the server on that character. Your trader will remain online in offline mode, but you cannot log into that account without kicking the trader off.
+   
+![bazaar]({{site.baseurl}}/assets/img/bazaar.png)
 
 ***
 
@@ -65,4 +67,3 @@ This guide walks you through the steps to set up a trader in the Bazaar so you c
   ```
   /baz
   ```
-![bazaar]({{site.baseurl}}/assets/img/bazaar.png)
