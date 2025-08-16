@@ -114,5 +114,23 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card warrior">
+    <ul>
+      <li>Banienn</li>
+      <li>Warrior</li>
+      <li>Plane of Hate</li>
+      <li>Maestro of Rancor - Hand of the Maestro</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card warrior">
+    <ul>
+      <li>Banienn</li>
+      <li>Warrior</li>
+      <li>Plane of Sky</li>
+      <li>The Spiroc Lord - Spiroc Wingblade</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
