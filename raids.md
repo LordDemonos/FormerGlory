@@ -27,14 +27,14 @@ scrolling="no">
 
 ### Week of 8/17 - 8/23 {#week-8-8-17---8-23}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-eyjf7kqrt">&lt;Offnight Raid&gt;Sunday 8/17 8pm EST. Juggs Farm + Trak for his tooths ( - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-eyjf7kqrt')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-jjzl3d1zw">&lt;Offnight Raid&gt;Sunday 8/17 8pm EST. Juggs Farm + Trak for his tooths ( - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-jjzl3d1zw')">Copy to Clipboard</button></div>
 
 
 ### Week of 8/24 - 8/30 {#week-8-8-24---8-30}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-ynsysseg6">&lt;Next Scheduled Raid&gt;Monday, 8/25, 9pm ET: Fear, Tunare - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-ynsysseg6')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-avsf68gqu">&lt;Next Scheduled Raid&gt;Monday, 8/25, 9pm ET: Tunare, Fear - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-avsf68gqu')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-uvgipg6kc">&lt;Next Scheduled Raid&gt;Wednesday, 8/27, 9pm ET: Yelinak, Kael                                                                                                                                               •Friday, 8/29, 9pm ET: Klandi, Zlandi, Sontalak, HOT Clear, - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-uvgipg6kc')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-5zjrgj4c6">&lt;Next Scheduled Raid&gt;Wednesday, 8/27, 9pm ET: Yelinak, Kael                                                                                                                                               •Friday, 8/29, 9pm ET: Klandi, Zlandi, Sontalak, HOT Clear, - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-5zjrgj4c6')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-zfgrjuxl6">&lt;Next Scheduled Raid&gt;Saturday, 8/30, 9pm ET: ring war and sleepers tomb - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-zfgrjuxl6')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-lqmt71qms">&lt;Next Scheduled Raid&gt;Saturday, 8/30, 9pm ET: ring war and sleepers tomb - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-lqmt71qms')">Copy to Clipboard</button></div>
 
