@@ -8,8 +8,6 @@ subtitle: List of Spells in the guild bank
 
 ### Last Update: 2025-08-26
 
-Inv2 [Large Box](https://www.pqdi.cc/item/17007) x2
-
 Bnk9 s6 [Song: Composition of Ervaj](https://www.pqdi.cc/item/30452) x5
 
 Inv8 s3 [Song: Elemental Chorus](https://www.pqdi.cc/item/7707)
