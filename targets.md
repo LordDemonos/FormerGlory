@@ -105,5 +105,14 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card enchanter">
+    <ul>
+      <li>Renter</li>
+      <li>Enchanter</li>
+      <li>Plane of Fear</li>
+      <li>Wraith of a Shissar - Head of the Serpent</li>
+      <li>Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
