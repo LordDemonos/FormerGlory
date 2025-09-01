@@ -27,7 +27,7 @@ scrolling="no">
 
 ### Week of 8/17 - 8/23 {#week-8-8-17---8-23}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-uokva9p85">&lt;Offnight Raid&gt;Sunday 8/17 8pm EST. Juggs Farm + Trak for his tooths ( - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-uokva9p85')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-l50s49yda">&lt;Offnight Raid&gt;Sunday 8/17 8pm EST. Juggs Farm + Trak for his tooths ( - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-l50s49yda')">Copy to Clipboard</button></div>
 
 
 ## September
@@ -35,9 +35,9 @@ scrolling="no">
 
 ### Week of 9/14 - 9/20 {#week-9-9-14---9-20}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-1lfbgl9qs">&lt;Next Scheduled Raid&gt;Monday, 9/15, 9pm ET: Tunare + Fear - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-1lfbgl9qs')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-4iea227m9">&lt;Next Scheduled Raid&gt;Monday, 9/15, 9pm ET: Tunare + Fear - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-4iea227m9')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-0w9uqrgg4">&lt;Next Scheduled Raid&gt;Wednesday, 9/17, 9pm ET: North TOV                                                                                                                                            •Friday, 9/19, 9pm ET: NTOV Wrap up, Yelinak - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-0w9uqrgg4')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-owv66hg9j">&lt;Next Scheduled Raid&gt;Wednesday, 9/17, 9pm ET: North TOV                                                                                                                                            •Friday, 9/19, 9pm ET: NTOV Wrap up, Yelinak (more tbd) - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-owv66hg9j')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-z0crvzgpm">&lt;Next Scheduled Raid&gt;Saturday, 9/20, 9pm ET: Ring War + Dain + Sleepers - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-z0crvzgpm')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-dl0v7j2wj">&lt;Next Scheduled Raid&gt;Saturday, 9/20, 9pm ET: Ring War + Dain + Sleepers - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-dl0v7j2wj')">Copy to Clipboard</button></div>
 
