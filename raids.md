@@ -27,7 +27,7 @@ scrolling="no">
 
 ### Week of 8/17 - 8/23 {#week-8-8-17---8-23}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-cn95p1gdv">&lt;Offnight Raid&gt;Sunday 8/17 8pm EST. Juggs Farm + Trak for his tooths ( - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-cn95p1gdv')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-2idlljbah">&lt;Offnight Raid&gt;Sunday 8/17 8pm EST. Juggs Farm + Trak for his tooths ( - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-2idlljbah')">Copy to Clipboard</button></div>
 
 
 ## September
@@ -35,9 +35,9 @@ scrolling="no">
 
 ### Week of 9/7 - 9/13 {#week-9-9-7---9-13}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-tydswlqwq">&lt;Next Scheduled Raid&gt;Monday, 9/8, 9pm ET: Tunare + Fear - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-tydswlqwq')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-m3yktg9rd">&lt;Next Scheduled Raid&gt;Monday, 9/8, 9pm ET: Tunare + Fear - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-m3yktg9rd')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-jehhlm97r">&lt;Next Scheduled Raid&gt;Wednesday, 9/10, 9pm ET: Kael + Ring War                                                                                                                                            •Friday, 9/12, 9pm ET: Klandi, Zlandi, HOT, - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-jehhlm97r')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-8z3j7zedh">&lt;Next Scheduled Raid&gt;Wednesday, 9/10, 9pm ET: Kael + Ring War                                                                                                                                            •Friday, 9/12, 9pm ET: Klandi, Zlandi, HOT,  Ring War - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-8z3j7zedh')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-kq4s077uz">&lt;Next Scheduled Raid&gt;Saturday, 9/13, 9pm ET: Ring War + Dain + Sleepers - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-kq4s077uz')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-n3zf5152f">&lt;Next Scheduled Raid&gt;Saturday, 9/13, 9pm ET: Ring War + Dain + Sleepers - Join us at formerglory.lol</pre><button class="copy-button" onclick="copyText('copy-box-n3zf5152f')">Copy to Clipboard</button></div>
 
