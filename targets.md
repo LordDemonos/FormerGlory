@@ -105,5 +105,14 @@ cover-img: /assets/img/targets.webp
       <li>Fri, Sat</li>
     </ul>
   </div>
+  <div class="card druid">
+    <ul>
+      <li>Kaily</li>
+      <li>Druid</li>
+      <li>Karnor's Castle</li>
+      <li>Venril Sathir - Pulsing Green Stone</li>
+      <li>Fri</li>
+    </ul>
+  </div>
 </div>
 
