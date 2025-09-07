@@ -132,5 +132,14 @@ cover-img: /assets/img/targets.webp
       <li>Fri, Sat</li>
     </ul>
   </div>
+  <div class="card warrior">
+    <ul>
+      <li>Rokgrim</li>
+      <li>Warrior</li>
+      <li>Chardok</li>
+      <li>Queen Velazul Di`zok - Ancient Blade</li>
+      <li>Mon, Wed, Sat</li>
+    </ul>
+  </div>
 </div>
 
