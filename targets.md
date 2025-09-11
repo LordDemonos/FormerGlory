@@ -37,15 +37,6 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
-  <div class="card ranger">
-    <ul>
-      <li>Velde</li>
-      <li>Ranger</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card shadow-knight">
     <ul>
       <li>Dubu</li>
