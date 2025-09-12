@@ -19,15 +19,6 @@ cover-img: /assets/img/targets.webp
 <h2 id="raid-nights">Raid Nights</h2>
 <p class="raid-description">Our main raid nights are focused on the Dain Ring War in Great Divide.</p>
 <div class="card-container">
-  <div class="card shadow-knight">
-    <ul>
-      <li>Klobbor</li>
-      <li>Shadow Knight</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card rogue">
     <ul>
       <li>Stabwound</li>
@@ -69,24 +60,6 @@ cover-img: /assets/img/targets.webp
 <h2 id="off-night-targets">Off Night Targets</h2>
 <p class="raid-description">These targets can be tackled on off nights with smaller groups.</p>
 <div class="card-container">
-  <div class="card warrior">
-    <ul>
-      <li>Banienn</li>
-      <li>Warrior</li>
-      <li>Plane of Hate</li>
-      <li>Maestro of Rancor - Hand of the Maestro</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card warrior">
-    <ul>
-      <li>Banienn</li>
-      <li>Warrior</li>
-      <li>Plane of Sky</li>
-      <li>The Spiroc Lord - Spiroc Wingblade</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card rogue">
     <ul>
       <li>Senkrog (main Incogg)</li>
