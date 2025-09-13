@@ -39,15 +39,6 @@ cover-img: /assets/img/targets.webp
   </div>
   <div class="card ranger">
     <ul>
-      <li>Synthran</li>
-      <li>Ranger</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card ranger">
-    <ul>
       <li>Elisys</li>
       <li>Ranger</li>
       <li>Great Divide</li>
