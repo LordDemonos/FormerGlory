@@ -54,7 +54,6 @@ Thank you for joining us on this epic adventure to reclaim our Former Glory in N
 - Dihat
 - Elcleriko/Polgera/Elwario/Wichy
 - Healzar
-- Kildrey/Shiela
 - Logikill/Docktah
 - Quis / Charr / Activist
 - Vamcill / Vamistill
