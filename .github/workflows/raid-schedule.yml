@@ -7,6 +7,15 @@ on:
       - 'assets/data/offnight.txt'
       - 'assets/js/raid-schedule-generator.js'
   workflow_dispatch:
+    inputs:
+      force_regenerate:
+        description: 'Force regenerate raids.md even if no changes detected'
+        required: false
+        default: 'false'
+        type: boolean
+  schedule:
+    # Run every Monday at 9 AM UTC (4 AM EST, 1 AM PST) to ensure weekly updates
+    - cron: '0 9 * * 1'
 
 jobs:
   build:
@@ -23,10 +32,44 @@ jobs:
       - name: Run raid-schedule-generator
         run: |
           echo "📅 Generating raid schedule..."
+          echo "📁 Checking if raids.txt exists..."
+          if [ -f "assets/data/raids.txt" ]; then
+            echo "✅ raids.txt found"
+            echo "📊 File size: $(wc -l < assets/data/raids.txt) lines"
+          else
+            echo "❌ raids.txt not found!"
+            exit 1
+          fi
+          
+          echo "🔧 Running raid schedule generator..."
           node assets/js/raid-schedule-generator.js
+          
+          echo "📄 Checking if raids.md was generated..."
+          if [ -f "raids.md" ]; then
+            echo "✅ raids.md generated successfully"
+            echo "📊 Generated file size: $(wc -l < raids.md) lines"
+          else
+            echo "❌ raids.md was not generated!"
+            exit 1
+          fi
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet raids.md; then
+            echo "No changes detected in raids.md"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected in raids.md"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit and push changes
+        if: steps.changes.outputs.has_changes == 'true' || github.event.inputs.force_regenerate == 'true'
         uses: EndBug/add-and-commit@v9
         with:
           add: 'raids.md'
-          message: '🤖 Auto-generate raids.md from raids.txt'
+          message: |
+            🤖 Auto-generate raids.md from raids.txt
+            Triggered by: ${{ github.event_name }}
+            ${{ github.event.inputs.force_regenerate == 'true' && 'Force regenerate: true' || '' }}

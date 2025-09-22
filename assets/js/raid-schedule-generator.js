@@ -286,8 +286,21 @@ function main() {
         const content = fs.readFileSync(inputFile, 'utf8');
         raids = content.split('\n')
             .map(line => line.trim())
-            .filter(line => line.startsWith('•'))
-            .map(line => line.substring(1).trim());
+            .filter(line => {
+                // Skip empty lines and comments
+                if (line.length === 0 || line.startsWith('#') || line.startsWith('//')) {
+                    return false;
+                }
+                // Accept lines that start with bullet points, dashes, or are plain text with dates
+                return line.startsWith('•') || line.startsWith('-') || line.match(/\d{1,2}\/\d{1,2}/);
+            })
+            .map(line => {
+                // Remove bullet points or dashes if present
+                if (line.startsWith('•') || line.startsWith('-')) {
+                    return line.substring(1).trim();
+                }
+                return line;
+            });
     } catch (error) {
         console.error('Error reading raids.txt:', error.message);
         process.exit(1);
