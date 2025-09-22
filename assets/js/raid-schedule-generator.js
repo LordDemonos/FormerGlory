@@ -115,12 +115,16 @@ function getRaidDate(raid) {
     if (!date) return null;
     
     const currentYear = new Date().getFullYear();
-    const raidDate = new Date(currentYear, date.month - 1, date.day);
-    
-    // If the raid date is in the past, it might be for next year
     const today = new Date();
-    if (raidDate < today) {
-        raidDate.setFullYear(currentYear + 1);
+    
+    // For September-November dates, assume they're for the current year
+    // unless they're clearly in the past (more than 6 months ago)
+    let raidDate = new Date(currentYear, date.month - 1, date.day);
+    
+    // If the raid date is more than 6 months in the past, it's probably for next year
+    const sixMonthsAgo = new Date(today.getFullYear(), today.getMonth() - 6, today.getDate());
+    if (raidDate < sixMonthsAgo) {
+        raidDate = new Date(currentYear + 1, date.month - 1, date.day);
     }
     
     return raidDate;
