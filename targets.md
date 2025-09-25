@@ -87,5 +87,14 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Sat</li>
     </ul>
   </div>
+  <div class="card druid">
+    <ul>
+      <li>Donox</li>
+      <li>Druid</li>
+      <li>Karnor's Castle</li>
+      <li>Venril Sathir - Pulsing Green Stone</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
