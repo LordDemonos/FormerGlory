@@ -51,15 +51,6 @@ cover-img: /assets/img/targets.webp
 <h2 id="off-night-targets">Off Night Targets</h2>
 <p class="raid-description">These targets can be tackled on off nights with smaller groups.</p>
 <div class="card-container">
-  <div class="card enchanter">
-    <ul>
-      <li>Renter</li>
-      <li>Enchanter</li>
-      <li>Plane of Fear</li>
-      <li>Wraith of a Shissar - Head of the Serpent</li>
-      <li>Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card druid">
     <ul>
       <li>Kaily</li>
