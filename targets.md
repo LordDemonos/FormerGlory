@@ -55,15 +55,6 @@ cover-img: /assets/img/targets.webp
     <ul>
       <li>Kaily</li>
       <li>Druid</li>
-      <li>Karnor's Castle</li>
-      <li>Venril Sathir - Pulsing Green Stone</li>
-      <li>Fri</li>
-    </ul>
-  </div>
-  <div class="card druid">
-    <ul>
-      <li>Kaily</li>
-      <li>Druid</li>
       <li>Timorous Deep</li>
       <li>Pod of Seawater</li>
       <li>Fri, Sat</li>
