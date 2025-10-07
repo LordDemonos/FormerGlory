@@ -69,5 +69,14 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card bard">
+    <ul>
+      <li>Museful</li>
+      <li>Bard</li>
+      <li>Sebilis</li>
+      <li>Trakanon - Undead Dragongut Strings</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
