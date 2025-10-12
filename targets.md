@@ -37,54 +37,36 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card shadow-knight">
+    <ul>
+      <li>Chronic</li>
+      <li>Shadow Knight</li>
+      <li>Great Divide</li>
+      <li>Ring of Dain Frostreaver IV - Ring War</li>
+      <li>Mon, Wed</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="off-night-targets">Off Night Targets</h2>
 <p class="raid-description">These targets can be tackled on off nights with smaller groups.</p>
 <div class="card-container">
-  <div class="card rogue">
-    <ul>
-      <li>Senkrog (main Incogg)</li>
-      <li>Rogue</li>
-      <li>Kithicor Forest</li>
-      <li>General V'ghera - General's Pouch</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card enchanter">
-    <ul>
-      <li>Renter</li>
-      <li>Enchanter</li>
-      <li>Plane of Fear</li>
-      <li>Wraith of a Shissar - Head of the Serpent</li>
-      <li>Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card druid">
     <ul>
-      <li>Kaily</li>
+      <li>Donox</li>
       <li>Druid</li>
       <li>Karnor's Castle</li>
       <li>Venril Sathir - Pulsing Green Stone</li>
-      <li>Fri</li>
+      <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
-  <div class="card druid">
+  <div class="card bard">
     <ul>
-      <li>Kaily</li>
-      <li>Druid</li>
-      <li>Timorous Deep</li>
-      <li>Pod of Seawater</li>
-      <li>Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card warrior">
-    <ul>
-      <li>Rokgrim</li>
-      <li>Warrior</li>
-      <li>Chardok</li>
-      <li>Queen Velazul Di`zok - Ancient Blade</li>
-      <li>Mon, Wed, Sat</li>
+      <li>Museful</li>
+      <li>Bard</li>
+      <li>Sebilis</li>
+      <li>Trakanon - Undead Dragongut Strings</li>
+      <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
 </div>
