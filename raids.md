@@ -8,108 +8,77 @@ cover-img: /assets/img/raids.webp
 
 ## Table of Contents
 
-- [Week of 9/28 - 10/4](#week-9-9-28---10-4)
-- [Week of 10/5 - 10/11](#week-10-10-5---10-11)
-- [Week of 10/12 - 10/18](#week-10-10-12---10-18)
-- [Week of 10/19 - 10/25](#week-10-10-19---10-25)
-- [Week of 10/26 - 11/1](#week-10-10-26---11-1)
-- [Week of 11/2 - 11/8](#week-11-11-2---11-8)
-- [Week of 11/9 - 11/15](#week-11-11-9---11-15)
-- [Week of 11/16 - 11/22](#week-11-11-16---11-22)
-
-## September
-
-
-### Week of 9/28 - 10/4 {#week-9-9-28---10-4}
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-dok4f8f7i">&lt;Next Scheduled Raid&gt;Monday, 9/29, 9pm ET: Tunare + Yelinak + Plane of Fear + HoT - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-dok4f8f7i')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-t5vcyww9u">&lt;Next Scheduled Raid&gt;Wednesday, 10/1, 9pm ET: North TOV - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-t5vcyww9u')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-e7jw3y1nn">&lt;Next Scheduled Raid&gt;Friday, 10/3, 9pm ET: Vulak + Dozekar + Klandi & Zlandi + Sleeper's Tomb - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-e7jw3y1nn')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-23tq5y53o">&lt;Next Scheduled Raid&gt;Saturday, 10/4, 9pm ET: Ring of Fire - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-23tq5y53o')">Copy to Clipboard</button></div>
-
-
-## October
-
-
-### Week of 10/5 - 10/11 {#week-10-10-5---10-11}
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-49585clts">&lt;Next Scheduled Raid&gt;Monday, 10/6, 9pm ET: Tunare + Yelinak + KT + Plane of Fear + HoT - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-49585clts')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-yr2eathnr">&lt;Next Scheduled Raid&gt;Wednesday, 10/8, 9pm ET: North TOV - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-yr2eathnr')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-yrjg8hjia">&lt;Next Scheduled Raid&gt;Friday, 10/10, 9pm ET: Dozekar + Vulak + Klandi & Zlandi + AoW - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-yrjg8hjia')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-864xldpso">&lt;Next Scheduled Raid&gt;Saturday, 10/11, 9pm ET: West TOV + Ring War + Dain - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-864xldpso')">Copy to Clipboard</button></div>
-
-
-### Week of 10/12 - 10/18 {#week-10-10-12---10-18}
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-tkmj0noek">&lt;Next Scheduled Raid&gt;Monday, 10/13, 9pm ET: Tunare + Yelinak + KT + Plane of Fear + HoT - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-tkmj0noek')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-r3tmf3wbn">&lt;Next Scheduled Raid&gt;Wednesday, 10/15, 9pm ET: North TOV - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-r3tmf3wbn')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-qrqhgdhe4">&lt;Next Scheduled Raid&gt;Friday, 10/17, 9pm ET: Dozekar + Vulak + AoW + Sleeper's Tomb - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-qrqhgdhe4')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-1awyvdu6b">&lt;Next Scheduled Raid&gt;Saturday, 10/18, 9pm ET: Ring of Fire - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-1awyvdu6b')">Copy to Clipboard</button></div>
-
-
-### Week of 10/19 - 10/25 {#week-10-10-19---10-25}
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-1shmt9x8t">&lt;Next Scheduled Raid&gt;Monday, 10/20, 9pm ET: Tunare + Yelinak + KT + Plane of Fear + HoT - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-1shmt9x8t')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-eo2ikwabi">&lt;Next Scheduled Raid&gt;Wednesday, 10/22, 9pm ET: North TOV - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-eo2ikwabi')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-7h5ohze5r">&lt;Next Scheduled Raid&gt;Friday, 10/24, 9pm ET: Dozekar + Vulak + AoW + Sleeper's Tomb - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-7h5ohze5r')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-bghs5w0nc">&lt;Next Scheduled Raid&gt;Saturday, 10/25, 9pm ET: West TOV + Ring War + Dain - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-bghs5w0nc')">Copy to Clipboard</button></div>
-
-
-### Week of 10/26 - 11/1 {#week-10-10-26---11-1}
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-9clg8p23x">&lt;Next Scheduled Raid&gt;Monday, 10/27, 9pm ET: Tunare + Yelinak + KT + Plane of Fear  + HoT - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-9clg8p23x')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-4qoapx4k6">&lt;Next Scheduled Raid&gt;Wednesday, 10/29, 9pm ET: North TOV - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-4qoapx4k6')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-hxdl6swtj">&lt;Next Scheduled Raid&gt;Friday, 10/31, 9pm ET: Dozekar + Vulak + AoW + Sleeper's Tomb - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-hxdl6swtj')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-eaht3ivo7">&lt;Next Scheduled Raid&gt;Saturday, 11/1, 9pm ET: West TOV + Ring War + Dain - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-eaht3ivo7')">Copy to Clipboard</button></div>
-
+- [Week of 11/23 - 11/29](#week-11-11-23---11-29)
+- [Week of 11/30 - 12/6](#week-11-11-30---12-6)
+- [Week of 12/7 - 12/13](#week-12-12-7---12-13)
+- [Week of 12/14 - 12/20](#week-12-12-14---12-20)
+- [Week of 12/21 - 12/27](#week-12-12-21---12-27)
+- [Week of 12/28 - 1/3](#week-12-12-28---1-3)
 
 ## November
 
 
-### Week of 11/2 - 11/8 {#week-11-11-2---11-8}
+### Week of 11/23 - 11/29 {#week-11-11-23---11-29}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-2ynr4bjfs">&lt;Next Scheduled Raid&gt;Monday, 11/3, 9pm ET: Tunare + Yelinak + KT + Plane of Fear + HoT - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-2ynr4bjfs')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-fgayysb8r">&lt;Next Scheduled Raid&gt;Monday, 11/24, 9pm ET: Tunare + Yelinak + KT + Plane of Fear + HoT - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-fgayysb8r')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-rtdagz5ea">&lt;Next Scheduled Raid&gt;Wednesday, 11/5, 9pm ET: North TOV - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-rtdagz5ea')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-ayprc7meh">&lt;Next Scheduled Raid&gt;Wednesday, 11/26, 9pm ET: North TOV - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-ayprc7meh')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-020spvptl">&lt;Next Scheduled Raid&gt;Friday, 11/7, 9pm ET: Dozekar + Vulak + AoW + Sleeper's Tomb - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-020spvptl')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-xf02tmt2i">&lt;Next Scheduled Raid&gt;Friday, 11/28, 9pm ET: Dozekar + Vulak + AoW + Sleeper's Tomb - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-xf02tmt2i')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-yyddg0xng">&lt;Next Scheduled Raid&gt;Saturday, 11/8, 9pm ET: West TOV + Ring War + Dain - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-yyddg0xng')">Copy to Clipboard</button></div>
-
-
-### Week of 11/9 - 11/15 {#week-11-11-9---11-15}
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-tqw7la918">&lt;Next Scheduled Raid&gt;Monday, 11/10, 9pm ET: Tunare + Yelinak + KT + Plane of Fear + HoT - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-tqw7la918')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-rh6ehob77">&lt;Next Scheduled Raid&gt;Wednesday, 11/12, 9pm ET: North TOV - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-rh6ehob77')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-gertfe8l9">&lt;Next Scheduled Raid&gt;Friday, 11/14, 9pm ET: Dozekar + Vulak + AoW + Sleeper's Tomb - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-gertfe8l9')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-jiwqpkrvf">&lt;Next Scheduled Raid&gt;Saturday, 11/15, 9pm ET: West TOV + Ring War + Dain - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-jiwqpkrvf')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-4ituify4e">&lt;Next Scheduled Raid&gt;Saturday, 11/29, 9pm ET: West TOV + Ring War + Dain - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-4ituify4e')">Copy to Clipboard</button></div>
 
 
-### Week of 11/16 - 11/22 {#week-11-11-16---11-22}
+### Week of 11/30 - 12/6 {#week-11-11-30---12-6}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-s8ixizirj">&lt;Next Scheduled Raid&gt;Monday, 11/17, 9pm ET: Tunare + Yelinak + KT + Plane of Fear + HoT - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-s8ixizirj')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-p4fc4hfcf">&lt;Next Scheduled Raid&gt;Monday, 12/1, 9pm ET: Tunare + Yelinak + KT + Plane of Fear + HoT - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-p4fc4hfcf')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-mmjvmq94d">&lt;Next Scheduled Raid&gt;Wednesday, 11/19, 9pm ET: North TOV - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-mmjvmq94d')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-fq1uestbj">&lt;Next Scheduled Raid&gt;Wednesday, 12/3, 9pm ET: North TOV - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-fq1uestbj')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-w7572b93w">&lt;Next Scheduled Raid&gt;Friday, 11/21, 9pm ET: Dozekar + Vulak + AoW + Sleeper's Tomb - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-w7572b93w')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-80tdck398">&lt;Next Scheduled Raid&gt;Friday, 12/5, 9pm ET: Dozekar + Vulak + AoW + Sleeper's Tomb - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-80tdck398')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-ahmilhzbp">&lt;Next Scheduled Raid&gt;Saturday, 11/22, 9pm ET: West TOV + Ring War + Dain - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-ahmilhzbp')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-swg1rqmwj">&lt;Next Scheduled Raid&gt;Saturday, 12/6, 9pm ET: West TOV + Ring War + Dain - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-swg1rqmwj')">Copy to Clipboard</button></div>
+
+
+## December
+
+
+### Week of 12/7 - 12/13 {#week-12-12-7---12-13}
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-3ob4zizgz">&lt;Next Scheduled Raid&gt;Monday, 12/8, 9pm ET: Tunare + Yelinak + KT + Plane of Fear + HoT - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-3ob4zizgz')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-qm0cmst0d">&lt;Next Scheduled Raid&gt;Wednesday, 12/10, 9pm ET: North TOV - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-qm0cmst0d')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-00f2qqh3p">&lt;Next Scheduled Raid&gt;Friday, 12/12, 9pm ET: Dozekar + Vulak + AoW + Sleeper's Tomb - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-00f2qqh3p')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-2s39ubrim">&lt;Next Scheduled Raid&gt;Saturday, 12/13, 9pm ET: West TOV + Ring War + Dain - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-2s39ubrim')">Copy to Clipboard</button></div>
+
+
+### Week of 12/14 - 12/20 {#week-12-12-14---12-20}
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-viri3v2y8">&lt;Next Scheduled Raid&gt;Monday, 12/15, 9pm ET: Tunare + Yelinak + KT + Plane of Fear + HoT - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-viri3v2y8')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-1tyzmrci8">&lt;Next Scheduled Raid&gt;Wednesday, 12/17, 9pm ET: North TOV - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-1tyzmrci8')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-uxvk81tnm">&lt;Next Scheduled Raid&gt;Friday, 12/19, 9pm ET: Dozekar + Vulak + AoW + Sleeper's Tomb - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-uxvk81tnm')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-09858zbmw">&lt;Next Scheduled Raid&gt;Saturday, 12/20, 9pm ET: West TOV + Ring War + Dain - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-09858zbmw')">Copy to Clipboard</button></div>
+
+
+### Week of 12/21 - 12/27 {#week-12-12-21---12-27}
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-ljnuv1666">&lt;Next Scheduled Raid&gt;Monday, 12/22, 9pm ET: Tunare + Yelinak + KT + Plane of Fear + HoT - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-ljnuv1666')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-1b23i09iq">&lt;Next Scheduled Raid&gt;Wednesday, 12/24, 9pm ET: North TOV - Holiday - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-1b23i09iq')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-almasmivr">&lt;Next Scheduled Raid&gt;Friday, 12/26, 9pm ET: Dozekar + Vulak + AoW + Sleeper's Tomb - Holiday - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-almasmivr')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-zcod93j1e">&lt;Next Scheduled Raid&gt;Saturday, 12/27, 9pm ET: West TOV + Ring War + Dain - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-zcod93j1e')">Copy to Clipboard</button></div>
+
+
+### Week of 12/28 - 1/3 {#week-12-12-28---1-3}
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-514a9fwg0">&lt;Next Scheduled Raid&gt;Monday, 12/29, 9pm ET: Tunare + Yelinak + KT + Plane of Fear + HoT - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-514a9fwg0')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-6fxaswtkg">&lt;Next Scheduled Raid&gt;Wednesday, 12/31, 9pm ET: Holiday - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-6fxaswtkg')">Copy to Clipboard</button></div>
 
