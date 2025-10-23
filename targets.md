@@ -87,5 +87,14 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card wizard">
+    <ul>
+      <li>Chronic (Effun Alt Wiz)</li>
+      <li>Wizard</li>
+      <li>Plane of Fear</li>
+      <li>an enraged golem - Green Oil</li>
+      <li>Mon</li>
+    </ul>
+  </div>
 </div>
 
