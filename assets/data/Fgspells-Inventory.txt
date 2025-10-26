@@ -20,24 +20,100 @@ Legs	Empty	0	0	0
 Feet	Empty	0	0	0
 Waist	Empty	0	0	0
 Ammo	Empty	0	0	0
+General5-Slot6	Spell: Blessed Armor of the Risen	7609	1	0
+General5-Slot10	Spell: Disinfecting Aura	7626	1	0
+Bank5-Slot2	Spell: Beguiling Visage	7667	1	0
+Bank6-Slot1	Spell: Remove Curse	19542	1	0
+Bank6-Slot2	Song: Chorus of Replenishment	7709	1	0
+Bank6-Slot3	Spell: Death Peace	30460	1	0
+Bank6-Slot5	Spell: Wave of Healing	30455	1	0
+Bank6-Slot9	Spell: Sedulous Subversion	19410	1	0
+Bank8-Slot4	Spell: Glamorous Visage	7669	1	0
+Bank9-Slot1	Spell: Torrent of Hate	7677	1	0
+Bank9-Slot2	Spell: Spirit of Khurenz	7727	1	0
+Bank9-Slot3	Spell: Mental Corruption	7676	1	0
+Bank9-Slot4	Spell: Terror of Terris	24542	1	0
+Bank9-Slot6	Song: Purifying Chorus	7708	1	0
+Bank9-Slot7	Spell: Death Peace	30460	1	0
+Bank11-Slot1	Song: Composition of Ervaj	30452	1	0
+Bank11-Slot5	Spell: Torrent of Hate	7677	1	0
+Bank11-Slot7	Song: Elemental Chorus	7707	1	0
+Bank12-Slot1	Spell: Torrent of Pain	7678	1	0
+Bank12-Slot4	Spell: Terror of Terris	24542	1	0
+Bank12-Slot6	Song: Battlecry of the Vah Shir	7706	1	0
+BBank14-Slot4	Spell: Arch Lich	30416	1	0
+Bank14-Slot5	Spell: Spirit of Khati Sha	7731	1	0
+Bank14-Slot6	Spell: Regrowth of Dar Khura	7628	1	0
+Bank14-Slot7	Spell: Disinfecting Aura	7626	1	0
+Bank14-Slot8	Spell: Words of Tranquility	7687	1	0
+BBank16-Slot1	Spell: Voice of Terris	24546	1	0
+Bank16-Slot2	Spell: Terror of Terris	24542	1	0
+Bank16-Slot3	Spell: Mind Wrack	7649	1	0
+Bank16-Slot4	Spell: Wind of Tashanian	19405	1	0
+Bank16-Slot5	Spell: Monster Summoning II	30402	1	0
+Bank16-Slot6	Spell: Shroud of Death	30459	1	0
+Bank16-Slot7	Spell: Mass Mystical Transvergan	7638	1	0
+Bank16-Slot8	Spell: Dictate	19406	1	0
+Bank18-Slot8	Spell: Horrifying Visage	7668	1	0
+Bank20-Slot4	Song: Elemental Chorus	7707	1	0
+Bank20-Slot6	Spell: Tricksters Augmentation	7666	1	0
+Bank20-Slot8	Spell: Wrath of the Elements	30405	1	0
+Bank21-Slot9	Spell: Words of Tranquility	7687	1	0
+Bank22-Slot3	Spell: Terror of Terris	24542	1	0
+Bank23-Slot2	Song: Elemental Chorus	7707	1	0
+Bank23-Slot3	Spell: Manastorm	19370	1	0
+Bank23-Slot5	Spell: Mass Mystical Transvergan	7638	1	0
+Bank23-Slot6	Spell: Judgement	7608	1	0
+Bank23-Slot7	Spell: Blast of Poison	30429	1	0
+Bank23-Slot10	Spell: Form of the Great Bear	30431	1	0
+Bank24-Slot7	Song: Battlecry of the Vah Shir	7706	1	0
+Bank25-Slot1	Spell: Blast of Poison	30429	1	0
+Bank25-Slot2	Small Brick of Yttrium Ore	22901	1	0
+Bank25-Slot3	Spell: Jolting Blades	7697	1	0
+Bank25-Slot4	Spell: Eagle Eye	7699	1	0
+Bank25-Slot5	Song: Battlecry of the Vah Shir	7706	1	0
+Bank25-Slot6	Spell: Eagle Eye	7699	1	0
+Bank25-Slot7	Spell: Tricksters Augmentation	7666	1	0
+Bank25-Slot8	Spell: Cannibalize IV	19473	1	0
+Bank25-Slot10	Spell: Phantasmal Protection	7639	1	0
+Bank27-Slot2	Spell: Stun Command	30446	1	0
+Bank27-Slot3	Spell: Jolting Blades	7697	1	0
+Bank27-Slot4	Song: Elemental Chorus	7707	1	0
+Bank27-Slot5	Song: Battlecry of the Vah Shir	7706	1	0
+Bank27-Slot7	Spell: Breath of Tunare	7688	1	0
+Bank29-Slot2	Spell: Mark of Retribution	7607	1	0
+Bank29-Slot3	Spell: Circle of Seasons	7619	1	0
+Bank29-Slot5	Spell: Torrent of Pain	7678	1	0
+Bank29-Slot6	Spell: Decession	7658	1	0
+Bank29-Slot7	Spell: Ro's Smoldering Disjunction	7618	1	0
+Bank29-Slot8	Spell: Focus of Spirit	30432	1	0
+Bank29-Slot10	Spell: Mass Mystical Transvergan	7638	1	0
+SharedBank4-Slot6	Spell: Aid of Khurenz	7722	1	0
+SharedBank4-Slot7	Spell: Healing  Wave of Prexus	7689	1	0
+SharedBank5-Slot8	Spell: Plague of insects	7627	1	0
+SharedBank6-Slot7	Song: Battlecry of the Vah Shir	7706	1	0
+SharedBank6-Slot8	Spell: Familiar	7657	1	0
+SharedBank8-Slot5	Song: Chorus of Replenishment	7709	1	0
+SharedBank8-Slot6	Song: Composition of Ervaj	30452	1	0
+SharedBank8-Slot7	Spell: Familiar	7657	1	0
 General1	Backpack	17005	1	8
-General1-Slot1	Song: Melody of Ervaj	30449	1	0
-General1-Slot2	Spell: Wave of Healing	30455	1	0
-General1-Slot3	Spell: Protection of the Glades	30442	1	0
-General1-Slot4	Spell: Gift of Pure Thought	19401	1	0
-General1-Slot5	Spell: Asphyxiate	19402	1	0
-General1-Slot6	Spell: Wind of Tashanian	19405	1	0
-General1-Slot7	Spell: Dictate	19406	1	0
-General1-Slot8	Spell: Dictate	19406	1	0
+General1-Slot1	Empty	0	0	0
+General1-Slot2	Empty	0	0	0
+General1-Slot3	Empty	0	0	0
+General1-Slot4	Empty	0	0	0
+General1-Slot5	Empty	0	0	0
+General1-Slot6	Empty	0	0	0
+General1-Slot7	Empty	0	0	0
+General1-Slot8	Empty	0	0	0
 General2	Large Box	17007	1	8
-General2-Slot1	Spell: Mala	19418	1	0
-General2-Slot2	Spell: Greater Vocaration: Water	19372	1	0
-General2-Slot3	Spell: Greater Vocaration: Water	19372	1	0
-General2-Slot4	Spell: Visions of Grandeur	19407	1	0
-General2-Slot5	Spell: Cannibalize IV	19473	1	0
-General2-Slot6	Spell: Call of the Predator	30464	1	0
-General2-Slot7	Spell: Death Peace	30460	1	0
-General2-Slot8	Spell: Call of the Predator	30464	1	0
+General2-Slot1	Empty	0	0	0
+General2-Slot2	Empty	0	0	0
+General2-Slot3	Empty	0	0	0
+General2-Slot4	Empty	0	0	0
+General2-Slot5	Empty	0	0	0
+General2-Slot6	Empty	0	0	0
+General2-Slot7	Empty	0	0	0
+General2-Slot8	Empty	0	0	0
 General3	Backpack	17005	1	8
 General3-Slot1	Spell: Call of Fire	30463	1	0
 General3-Slot2	Spell: Blessed Armor of the Risen	7609	1	0
@@ -45,8 +121,8 @@ General3-Slot3	Spell: Dictate	19406	1	0
 General3-Slot4	Spell: Cannibalize IV	19473	1	0
 General3-Slot5	Spell: Corporeal Empathy	30413	1	0
 General3-Slot6	Spell: Focus of Spirit	30432	1	0
-General3-Slot7	Spell: Bonds of Tunare	19419	1	0
-General3-Slot8	Spell: Glamour of Tunare	19240	1	0
+General3-Slot7	Spell: Visions of Grandeur	19407	1	0
+General3-Slot8	Spell: Greater Vocaration: Water	19372	1	0
 General4	Large Box	17007	1	8
 General4-Slot1	Spell: Asphyxiate	19402	1	0
 General4-Slot2	Spell: Gift of Pure Thought	19401	1	0
@@ -92,7 +168,7 @@ General8-Slot5	Spell: Protection of the Glades	30442	1	0
 General8-Slot6	Spell: Arch Lich	30416	1	0
 General8-Slot7	Empty	0	0	0
 General8-Slot8	Empty	0	0	0
-General-Coin	Currency	0	837	0
+General-Coin	Currency	0	838	0
 Held	Empty	0	0	0
 Bank1	Backpack	17005	1	8
 Bank1-Slot1	Spell: Shroud of Pain	30458	1	0
@@ -106,16 +182,16 @@ Bank1-Slot8	Spell: Heroic Bond	19224	1	0
 Bank2	Backpack	17005	1	8
 Bank2-Slot1	Spell: Reoccurring Amnesia	15194	1	0
 Bank2-Slot2	Spell: Dementia	19384	1	0
-Bank2-Slot3	Spell: Evacuate	19336	1	0
+Bank2-Slot3	Empty	0	0	0
 Bank2-Slot4	Spell: Mesmerization	16217	1	0
 Bank2-Slot5	Spell: Extinguish Fatigue	15417	1	0
 Bank2-Slot6	Spell: Shiftless Deeds	15186	1	0
 Bank2-Slot7	Spell: Gravity Flux	15073	1	0
 Bank2-Slot8	Empty	0	0	0
 Bank3	Backpack	17005	1	8
-Bank3-Slot1	Empty	0	0	0
+Bank3-Slot1	Spell: Call of the Predator	30464	1	0
 Bank3-Slot2	Spell: Dictate	19406	1	0
-Bank3-Slot3	Spell: Spirit of Scale	19238	1	0
+Bank3-Slot3	Spell: Dictate	19406	1	0
 Bank3-Slot4	Spell: Bane of Nife	19277	1	0
 Bank3-Slot5	Spell: Avatar	19292	1	0
 Bank3-Slot6	Spell: Conjure Corpse	19307	1	0
@@ -151,8 +227,8 @@ Bank6-Slot8	Spell: Gift of Xev	19347	1	0
 Bank7	Backpack	17005	1	8
 Bank7-Slot1	Spell: Scars of Sigil	19358	1	0
 Bank7-Slot2	Spell: Umbra	19393	1	0
-Bank7-Slot3	Empty	0	0	0
-Bank7-Slot4	Spell: Banishment	19262	1	0
+Bank7-Slot3	Song: Melody of Ervaj	30449	1	0
+Bank7-Slot4	Spell: Wave of Healing	30455	1	0
 Bank7-Slot5	Spell: Dictate	19406	1	0
 Bank7-Slot6	Spell: Trepidation	19220	1	0
 Bank7-Slot7	Spell: Talisman of the Brute	19281	1	0
@@ -194,9 +270,9 @@ Bank11-Slot6	Spell: Upheaval	19233	1	0
 Bank11-Slot7	Spell: Umbra	19393	1	0
 Bank11-Slot8	Spell: Manastorm	19370	1	0
 Bank12	Backpack	17005	1	8
-Bank12-Slot1	Spell: Quivering Veil of Xarn	19309	1	0
+Bank12-Slot1	Empty	0	0	0
 Bank12-Slot2	Spell: Quivering Veil of Xarn	19309	1	0
-Bank12-Slot3	Spell: Form of the Howler	19244	1	0
+Bank12-Slot3	Empty	0	0	0
 Bank12-Slot4	Spell: Cobalt Scar Portal	30425	1	0
 Bank12-Slot5	Spell: Wave of Healing	30455	1	0
 Bank12-Slot6	Spell: Wrath of the Elements	30405	1	0
@@ -206,13 +282,13 @@ Bank13	Backpack	17005	1	8
 Bank13-Slot1	Spell: Cripple	19269	1	0
 Bank13-Slot2	Spell: Vocarate: Fire	19355	1	0
 Bank13-Slot3	Spell: Draught of Jiva	19328	1	0
-Bank13-Slot4	Spell: Protection of the Glades	30442	1	0
+Bank13-Slot4	Spell: Dictate	19406	1	0
 Bank13-Slot5	Spell: Pillar of Lightning	19326	1	0
 Bank13-Slot6	Spell: Torpor	19293	1	0
 Bank13-Slot7	Spell: Upheaval	19205	1	0
 Bank13-Slot8	Spell: Bristlebane`s Bundle	19351	1	0
 Bank14	Backpack	17005	1	8
-Bank14-Slot1	Spell: Form of the Howler	19244	1	0
+Bank14-Slot1	Spell: Call of the Predator	30464	1	0
 Bank14-Slot2	Spell: Servant of Bones	19305	1	0
 Bank14-Slot3	Spell: Talisman of the Rhino	19284	1	0
 Bank14-Slot4	Spell: Reckoning	19212	1	0
@@ -248,8 +324,8 @@ Bank17-Slot6	Spell: Markar`s Discord	19331	1	0
 Bank17-Slot7	Spell: Arch Lich	30416	1	0
 Bank17-Slot8	Spell: Jyll`s Wave of Heat	19340	1	0
 Bank18	Backpack	17005	1	8
-Bank18-Slot1	Spell: Wind of Tashanian	19405	1	0
-Bank18-Slot2	Spell: Wake of Karana	19413	1	0
+Bank18-Slot1	Spell: Gift of Pure Thought	19401	1	0
+Bank18-Slot2	Spell: Wind of Tashanian	19405	1	0
 Bank18-Slot3	Spell: Visions of Grandeur	19407	1	0
 Bank18-Slot4	Spell: Gift of Pure Thought	19401	1	0
 Bank18-Slot5	Spell: Gift of Pure Thought	19401	1	0
@@ -261,11 +337,11 @@ Bank20	Backpack	17005	1	8
 Bank20-Slot1	Spell: Theft of Thought	19374	1	0
 Bank20-Slot2	Spell: Gift of Pure Thought	19401	1	0
 Bank20-Slot3	Spell: Talisman of Jasinth	19264	1	0
-Bank20-Slot4	Spell: Nature Walkers Behest	30475	1	0
+Bank20-Slot4	Spell: Mala	19418	1	0
 Bank20-Slot5	Spell: Cripple	19269	1	0
 Bank20-Slot6	Spell: Inferno of Al`Kabor	19322	1	0
 Bank20-Slot7	Spell: Reckoning	19212	1	0
-Bank20-Slot8	Spell: Form of the Howler	19244	1	0
+Bank20-Slot8	Spell: Greater Vocaration: Water	19372	1	0
 Bank21	Backpack	17005	1	8
 Bank21-Slot1	Spell: Blast of Poison	30429	1	0
 Bank21-Slot2	Spell: Flame of Light	30454	1	0
@@ -290,14 +366,14 @@ Bank23-Slot2	Spell: Malo	19291	1	0
 Bank23-Slot3	Spell: The Unspoken Word	19225	1	0
 Bank23-Slot4	Spell: Asphyxiate	19402	1	0
 Bank23-Slot5	Song: Composition of Ervaj	30452	1	0
-Bank23-Slot6	Spell: Succor	19253	1	0
+Bank23-Slot6	Empty	0	0	0
 Bank23-Slot7	Spell: Forlorn Deeds	19395	1	0
 Bank23-Slot8	Spell: Color Skew	15178	1	0
 Bank24	Backpack	17005	1	8
 Bank24-Slot1	Spell: Upheaval	19233	1	0
 Bank24-Slot2	Spell: Talisman of Jasinth	19264	1	0
 Bank24-Slot3	Spell: Talisman of Jasinth	19264	1	0
-Bank24-Slot4	Spell: Upheaval	19205	1	0
+Bank24-Slot4	Spell: Asphyxiate	19402	1	0
 Bank24-Slot5	Spell: Tumultuous Strength	30428	1	0
 Bank24-Slot6	Spell: Wave of Healing	30455	1	0
 Bank24-Slot7	Spell: Wave of Healing	30455	1	0
@@ -307,7 +383,7 @@ Bank25-Slot1	Spell: Summon: Muzzle of Mardu	19363	1	0
 Bank25-Slot2	Spell: Divine Strength	30456	1	0
 Bank25-Slot3	Spell: Circle of Force	15463	1	0
 Bank25-Slot4	Spell: Reckoning	19212	1	0
-Bank25-Slot5	Spell: Form of the Howler	19244	1	0
+Bank25-Slot5	Spell: Death Peace	30460	1	0
 Bank25-Slot6	Spell: Wave of Healing	30455	1	0
 Bank25-Slot7	Song: Composition of Ervaj	30452	1	0
 Bank25-Slot8	Spell: Call of Fire	30463	1	0
@@ -322,9 +398,9 @@ Bank26-Slot7	Spell: Trucidation	19425	1	0
 Bank26-Slot8	Spell: Infusion	19424	1	0
 Bank27	Backpack	17005	1	8
 Bank27-Slot1	Spell: Heroic Bond	19224	1	0
-Bank27-Slot2	Spell: Succor	19253	1	0
+Bank27-Slot2	Spell: Wind of Tashanian	19405	1	0
 Bank27-Slot3	Spell: Defoliation	19296	1	0
-Bank27-Slot4	Spell: Servant of Bones	19305	1	0
+Bank27-Slot4	Empty	0	0	0
 Bank27-Slot5	Spell: Torpor	19293	1	0
 Bank27-Slot6	Spell: Summon: Muzzle of Mardu	19363	1	0
 Bank27-Slot7	Spell: Retribution of Al`Kabor	19332	1	0
@@ -362,7 +438,7 @@ SharedBank1-Slot2	Spell: Protection of the Glades	30442	1	0
 SharedBank1-Slot3	Spell: Heroic Bond	19224	1	0
 SharedBank1-Slot4	Spell: Color Slant	19378	1	0
 SharedBank1-Slot5	Spell: Thrall of Bones	19299	1	0
-SharedBank1-Slot6	Spell: Succor	19253	1	0
+SharedBank1-Slot6	Empty	0	0	0
 SharedBank1-Slot7	Spell: Gift of Brilliance	30410	1	0
 SharedBank1-Slot8	Empty	0	0	0
 SharedBank2	Backpack	17005	1	8
@@ -378,7 +454,7 @@ SharedBank3	Backpack	17005	1	8
 SharedBank3-Slot1	Spell: Tears of Prexus	19339	1	0
 SharedBank3-Slot2	Spell: Torpor	19293	1	0
 SharedBank3-Slot3	Spell: Greater Vocaration: Air	19371	1	0
-SharedBank3-Slot4	Empty	0	0	0
+SharedBank3-Slot4	Spell: Vengeance of Al`Kabor	19342	1	0
 SharedBank3-Slot5	Spell: Thrall of Bones	19299	1	0
 SharedBank3-Slot6	Spell: Heroic Bond	19224	1	0
 SharedBank3-Slot7	Spell: Breath of Karana	19250	1	0
@@ -390,28 +466,28 @@ SharedBank4-Slot3	Spell: Rage of Zomm	19417	1	0
 SharedBank4-Slot4	Spell: Atol`s Spectral Shackles	19315	1	0
 SharedBank4-Slot5	Spell: Largarn`s Lamentation	19388	1	0
 SharedBank4-Slot6	Spell: Spirit Quickening	30430	1	0
-SharedBank4-Slot7	Spell: Form of the Howler	19244	1	0
+SharedBank4-Slot7	Spell: Cannibalize IV	19473	1	0
 SharedBank4-Slot8	Spell: Theft of Thought	19374	1	0
 SharedBank5	Backpack	17005	1	8
 SharedBank5-Slot1	Spell: Markar`s Discord	19331	1	0
 SharedBank5-Slot2	Spell: Exile Undead	19214	1	0
-SharedBank5-Slot3	Empty	0	0	0
+SharedBank5-Slot3	Blue Diamond	22503	19	0
 SharedBank5-Slot4	Spell: Vocarate: Water	19362	1	0
-SharedBank5-Slot5	Spell: Vengeance of Al`Kabor	19342	1	0
+SharedBank5-Slot5	Diamond	10037	14	0
 SharedBank5-Slot6	Spell: Infusion	19424	1	0
 SharedBank5-Slot7	Spell: The Unspoken Word	19225	1	0
 SharedBank5-Slot8	Spell: Talisman of Jasinth	19264	1	0
 SharedBank6	Backpack	17005	1	8
 SharedBank6-Slot1	Spell: Greater Vocaration: Water	19372	1	0
 SharedBank6-Slot2	Spell: Tears of Druzzil	19319	1	0
-SharedBank6-Slot3	Spell: Form of the Howler	19244	1	0
+SharedBank6-Slot3	Empty	0	0	0
 SharedBank6-Slot4	Spell: Pillar of Lightning	19326	1	0
 SharedBank6-Slot5	Spell: Death Peace	30460	1	0
 SharedBank6-Slot6	Spell: Aegolism	30447	1	0
 SharedBank6-Slot7	Spell: Abscond	19320	1	0
 SharedBank6-Slot8	Spell: Stun Command	30446	1	0
 SharedBank7	Backpack	17005	1	8
-SharedBank7-Slot1	Song: Melody of Ervaj	30449	1	0
+SharedBank7-Slot1	Empty	0	0	0
 SharedBank7-Slot2	Spell: Exile Undead	19214	1	0
 SharedBank7-Slot3	Spell: Wrath of the Elements	30405	1	0
 SharedBank7-Slot4	Spell: Call of the Predator	30464	1	0
@@ -424,7 +500,7 @@ SharedBank8-Slot1	Spell: Call of Fire	30463	1	0
 SharedBank8-Slot2	Spell: Pouch of Quellious	19361	1	0
 SharedBank8-Slot3	Spell: Death Peace	30460	1	0
 SharedBank8-Slot4	Spell: Quivering Veil of Xarn	19309	1	0
-SharedBank8-Slot5	Spell: Flaming Sword of Xuzl	19344	1	0
+SharedBank8-Slot5	Empty	0	0	0
 SharedBank8-Slot6	Spell: Disintegrate	19415	1	0
 SharedBank8-Slot7	Spell: Gift of Brilliance	30410	1	0
 SharedBank8-Slot8	Spell: Gift of Brilliance	30410	1	0
@@ -435,7 +511,7 @@ SharedBank9-Slot3	Spell: Quivering Veil of Xarn	19309	1	0
 SharedBank9-Slot4	Spell: Monster Summoning III	30404	1	0
 SharedBank9-Slot5	Spell: Death Peace	30460	1	0
 SharedBank9-Slot6	Spell: Turning of the Unnatural	30443	1	0
-SharedBank9-Slot7	Empty	0	0	0
+SharedBank9-Slot7	Jacinth	10053	3	0
 SharedBank9-Slot8	Spell: Gift of Insight	30409	1	0
 SharedBank9-Slot9	Spell: Torment of Argli	19391	1	0
 SharedBank9-Slot10	Spell: Gift of Xev	19347	1	0
@@ -447,7 +523,7 @@ SharedBank10-Slot4	Spell: Gift of Insight	30409	1	0
 SharedBank10-Slot5	Spell: Naltron's Mark	19435	1	0
 SharedBank10-Slot6	Spell: Heroic Bond	19224	1	0
 SharedBank10-Slot7	Spell: Gift of Pure Thought	19401	1	0
-SharedBank10-Slot8	Empty	0	0	0
+SharedBank10-Slot8	Black Sapphire	10036	17	0
 SharedBank11	Empty	0	0	0
 SharedBank12	Empty	0	0	0
 SharedBank13	Empty	0	0	0
@@ -468,4 +544,4 @@ SharedBank27	Empty	0	0	0
 SharedBank28	Empty	0	0	0
 SharedBank29	Empty	0	0	0
 SharedBank30	Empty	0	0	0
-Bank-Coin	Currency	0	0	0
+Bank-Coin	Currency	0	5000000	0
