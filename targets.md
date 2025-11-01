@@ -96,5 +96,14 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card wizard">
+    <ul>
+      <li>Wwyzzerdd (Bannjio)</li>
+      <li>Wizard</li>
+      <li>Karnor's Castle</li>
+      <li>Venril Sathir - Gnarled Staff</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
