@@ -46,6 +46,15 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card bard">
+    <ul>
+      <li>Moliere</li>
+      <li>Bard</li>
+      <li>Great Divide</li>
+      <li>Ring of Dain Frostreaver IV - Ring War</li>
+      <li>Sat</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="off-night-targets">Off Night Targets</h2>
