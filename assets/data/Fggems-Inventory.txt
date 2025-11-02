@@ -31,11 +31,11 @@ General1-Slot7	Empty	0	0	0
 General1-Slot8	Empty	0	0	0
 General1-Slot9	Empty	0	0	0
 General1-Slot10	Empty	0	0	0
-General2	Empty	0	0	0
-General3	Empty	0	0	0
-General4	Empty	0	0	0
-General5	Empty	0	0	0
-General6	Empty	0	0	0
+General2	Crushed Flame Emerald	25838	1	0
+General3	Crushed Flame Opal	25837	1	0
+General4	Crushed Coral	25831	1	0
+General5	Crushed Topaz	25832	2	0
+General6	Crushed Onyx Sapphire	25841	1	0
 General7	Empty	0	0	0
 General8	Empty	0	0	0
 General-Coin	Currency	0	1000	0
@@ -51,135 +51,22 @@ Bank8	Empty	0	0	0
 Bank9	Empty	0	0	0
 Bank10	Empty	0	0	0
 Bank11	Empty	0	0	0
-Bank12	Crushed Flame Emerald	25838	1	0
-Bank13	Flawless Diamond	25814	2	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
 Bank14	Crushed Sea Sapphire	25839	1	0
 Bank15	Jaundice Gem	25815	3	0
 Bank16	Black Marble	25805	1	0
-Bank17	Crushed Onyx Sapphire	25841	2	0
+Bank17	Empty	0	0	0
 Bank18	Empty	0	0	0
-Bank19	Crushed Topaz	25832	2	0
-Bank20	Crushed Flame Opal	25837	2	0
-Bank21	Black Marble	25805	1	0
-Bank22	Crushed Lava Ruby	25840	4	0
-Bank23	Flawed Topaz	25818	6	0
+Bank19	Crushed Topaz	25832	1	0
+Bank20	Crushed Flame Opal	25837	3	0
+Bank21	Empty	0	0	0
+Bank22	Crushed Lava Ruby	25840	3	0
+Bank23	Flawed Topaz	25818	4	0
 Bank24	Flawed Flame Opal	25823	1	0
-Bank25	Pristine Emerald	25807	6	0
+Bank25	Pristine Emerald	25807	7	0
 Bank26	Crushed Emerald	25835	1	0
-Bank27	Nephrite	25816	4	0
-Bank28	Flawed Emerald	25821	2	0
+Bank27	Nephrite	25816	1	0
+Bank28	Empty	0	0	0
 Bank29	Chipped Onyx Sapphire	25827	7	0
 Bank30	Crushed Jaundice Gem	25829	2	0
-SharedBank1	Backpack	17005	1	8
-SharedBank1-Slot1	Empty	0	0	0
-SharedBank1-Slot2	Empty	0	0	0
-SharedBank1-Slot3	Empty	0	0	0
-SharedBank1-Slot4	Empty	0	0	0
-SharedBank1-Slot5	Empty	0	0	0
-SharedBank1-Slot6	Empty	0	0	0
-SharedBank1-Slot7	Empty	0	0	0
-SharedBank1-Slot8	Empty	0	0	0
-SharedBank2	Backpack	17005	1	8
-SharedBank2-Slot1	Spell: Heroic Bond	19224	1	0
-SharedBank2-Slot2	Empty	0	0	0
-SharedBank2-Slot3	Spell: Thrall of Bones	19299	1	0
-SharedBank2-Slot4	Empty	0	0	0
-SharedBank2-Slot5	Spell: Enlightenment	19396	1	0
-SharedBank2-Slot6	Spell: Breath of Karana	19250	1	0
-SharedBank2-Slot7	Spell: The Unspoken Word	19225	1	0
-SharedBank2-Slot8	Empty	0	0	0
-SharedBank3	Backpack	17005	1	8
-SharedBank3-Slot1	Spell: Tears of Prexus	19339	1	0
-SharedBank3-Slot2	Spell: Torpor	19293	1	0
-SharedBank3-Slot3	Empty	0	0	0
-SharedBank3-Slot4	Empty	0	0	0
-SharedBank3-Slot5	Spell: Greater Vocaration: Air	19371	1	0
-SharedBank3-Slot6	Empty	0	0	0
-SharedBank3-Slot7	Spell: Flaming Sword of Xuzl	19344	1	0
-SharedBank3-Slot8	Spell: Flaming Sword of Xuzl	19344	1	0
-SharedBank4	Backpack	17005	1	8
-SharedBank4-Slot1	Spell: Invert Gravity	19341	1	0
-SharedBank4-Slot2	Spell: Torpor	19293	1	0
-SharedBank4-Slot3	Spell: Rage of Zomm	19417	1	0
-SharedBank4-Slot4	Spell: Spirit of Oak	19258	1	0
-SharedBank4-Slot5	Spell: Largarn`s Lamentation	19388	1	0
-SharedBank4-Slot6	Spell: Enlightenment	19396	1	0
-SharedBank4-Slot7	Spell: Trucidation	19425	1	0
-SharedBank4-Slot8	Spell: Winds of Gelid	19343	1	0
-SharedBank5	Backpack	17005	1	8
-SharedBank5-Slot1	Spell: Markar`s Discord	19331	1	0
-SharedBank5-Slot2	Spell: Wind of Tashanian	19405	1	0
-SharedBank5-Slot3	Spell: Succor	19253	1	0
-SharedBank5-Slot4	Empty	0	0	0
-SharedBank5-Slot5	Spell: Vengeance of Al`Kabor	19342	1	0
-SharedBank5-Slot6	Spell: Infusion	19424	1	0
-SharedBank5-Slot7	Empty	0	0	0
-SharedBank5-Slot8	Empty	0	0	0
-SharedBank6	Backpack	17005	1	8
-SharedBank6-Slot1	Spell: Greater Vocaration: Water	19372	1	0
-SharedBank6-Slot2	Empty	0	0	0
-SharedBank6-Slot3	Empty	0	0	0
-SharedBank6-Slot4	Empty	0	0	0
-SharedBank6-Slot5	Empty	0	0	0
-SharedBank6-Slot6	Spell: Divine Strength	30456	1	0
-SharedBank6-Slot7	Empty	0	0	0
-SharedBank6-Slot8	Spell: Stun Command	30446	1	0
-SharedBank7	Backpack	17005	1	8
-SharedBank7-Slot1	Song: Melody of Ervaj	30449	1	0
-SharedBank7-Slot2	Spell: Exile Undead	19214	1	0
-SharedBank7-Slot3	Spell: Flame of Light	30454	1	0
-SharedBank7-Slot4	Spell: Call of the Predator	30464	1	0
-SharedBank7-Slot5	Spell: Monster Summoning II	30402	1	0
-SharedBank7-Slot6	Spell: Gift of Insight	30409	1	0
-SharedBank7-Slot7	Spell: Call of the Predator	30464	1	0
-SharedBank7-Slot8	Spell: Augment	19416	1	0
-SharedBank8	Backpack	17005	1	8
-SharedBank8-Slot1	Spell: Call of Fire	30463	1	0
-SharedBank8-Slot2	Empty	0	0	0
-SharedBank8-Slot3	Spell: Death Peace	30460	1	0
-SharedBank8-Slot4	Spell: Legacy of Thorn	19259	1	0
-SharedBank8-Slot5	Spell: Protection of the Glades	30442	1	0
-SharedBank8-Slot6	Spell: Flame of Light	30454	1	0
-SharedBank8-Slot7	Spell: Wrath of the Elements	30405	1	0
-SharedBank8-Slot8	Empty	0	0	0
-SharedBank9	Hand Made Backpack	17969	1	10
-SharedBank9-Slot1	Spell: Summon Corpse	15003	1	0
-SharedBank9-Slot2	Spell: Retribution of Al`Kabor	19332	1	0
-SharedBank9-Slot3	Spell: Tears of Prexus	19339	1	0
-SharedBank9-Slot4	Spell: Monster Summoning III	30404	1	0
-SharedBank9-Slot5	Spell: Death Peace	30460	1	0
-SharedBank9-Slot6	Empty	0	0	0
-SharedBank9-Slot7	Spell: Improved Invisibility	30406	1	0
-SharedBank9-Slot8	Spell: Gift of Insight	30409	1	0
-SharedBank9-Slot9	Empty	0	0	0
-SharedBank9-Slot10	Spell: Banishment	19262	1	0
-SharedBank10	Backpack	17005	1	8
-SharedBank10-Slot1	Empty	0	0	0
-SharedBank10-Slot2	Spell: Torment of Argli	19391	1	0
-SharedBank10-Slot3	Spell: Improved Invis vs Undead	30411	1	0
-SharedBank10-Slot4	Spell: Gift of Insight	30409	1	0
-SharedBank10-Slot5	Spell: Talisman of the Brute	19281	1	0
-SharedBank10-Slot6	Spell: Heroic Bond	19224	1	0
-SharedBank10-Slot7	Spell: Gift of Pure Thought	19401	1	0
-SharedBank10-Slot8	Spell: Wind of Tashanian	19405	1	0
-SharedBank11	Empty	0	0	0
-SharedBank12	Empty	0	0	0
-SharedBank13	Empty	0	0	0
-SharedBank14	Empty	0	0	0
-SharedBank15	Empty	0	0	0
-SharedBank16	Empty	0	0	0
-SharedBank17	Empty	0	0	0
-SharedBank18	Empty	0	0	0
-SharedBank19	Empty	0	0	0
-SharedBank20	Empty	0	0	0
-SharedBank21	Empty	0	0	0
-SharedBank22	Empty	0	0	0
-SharedBank23	Empty	0	0	0
-SharedBank24	Empty	0	0	0
-SharedBank25	Empty	0	0	0
-SharedBank26	Empty	0	0	0
-SharedBank27	Empty	0	0	0
-SharedBank28	Empty	0	0	0
-SharedBank29	Empty	0	0	0
-SharedBank30	Empty	0	0	0
-Bank-Coin	Currency	0	0	0
