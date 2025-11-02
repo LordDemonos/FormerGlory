@@ -6,7 +6,7 @@ subtitle: List of Plane of Sky items in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2025-10-26
+### Last Update: 2025-11-02
 
 Inv7 s7 [Acidic Venom](https://www.pqdi.cc/item/20736) x8
 

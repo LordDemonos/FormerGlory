@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2025-10-26
+### Last Update: 2025-11-02
 
 SBnk10 [Black Sapphire](https://www.pqdi.cc/item/10036)
 
