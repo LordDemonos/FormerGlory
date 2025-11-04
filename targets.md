@@ -105,5 +105,14 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
+  <div class="card cleric">
+    <ul>
+      <li>Santier</li>
+      <li>Cleric</li>
+      <li>Burning Woods</li>
+      <li>Ixiblat Fer - Sceptre of Ixiblat Fer</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
