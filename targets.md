@@ -46,20 +46,29 @@ cover-img: /assets/img/targets.webp
       <li>Sat</li>
     </ul>
   </div>
+  <div class="card monk">
+    <ul>
+      <li>Ragokom</li>
+      <li>Monk</li>
+      <li>Great Divide</li>
+      <li>Ring of Dain Frostreaver IV - Ring War</li>
+      <li>Sat</li>
+    </ul>
+  </div>
+  <div class="card bard">
+    <ul>
+      <li>Chord</li>
+      <li>Bard</li>
+      <li>Great Divide</li>
+      <li>Ring of Dain Frostreaver IV - Ring War</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="off-night-targets">Off Night Targets</h2>
 <p class="raid-description">These targets can be tackled on off nights with smaller groups.</p>
 <div class="card-container">
-  <div class="card bard">
-    <ul>
-      <li>Museful</li>
-      <li>Bard</li>
-      <li>Sebilis</li>
-      <li>Trakanon - Undead Dragongut Strings</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card rogue">
     <ul>
       <li>Hellia</li>
@@ -111,6 +120,33 @@ cover-img: /assets/img/targets.webp
       <li>Cleric</li>
       <li>Burning Woods</li>
       <li>Ixiblat Fer - Sceptre of Ixiblat Fer</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card cleric">
+    <ul>
+      <li>Santier</li>
+      <li>Cleric</li>
+      <li>Chardok</li>
+      <li>Overking Bathezid - A Singed Scroll</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card cleric">
+    <ul>
+      <li>Santier</li>
+      <li>Cleric</li>
+      <li>Burning Woods</li>
+      <li>Ixiblat Fer - Sceptre of Ixiblat Fer</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card cleric">
+    <ul>
+      <li>Santier</li>
+      <li>Cleric</li>
+      <li>Chardok</li>
+      <li>Overking Bathezid - A Singed Scroll</li>
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
