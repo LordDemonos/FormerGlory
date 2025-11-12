@@ -89,15 +89,6 @@ cover-img: /assets/img/targets.webp
 <div class="card-container">
   <div class="card rogue">
     <ul>
-      <li>Hellia</li>
-      <li>Rogue</li>
-      <li>Kithicor Forest</li>
-      <li>General V'ghera - General's Pouch</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card rogue">
-    <ul>
       <li>Batto</li>
       <li>Rogue</li>
       <li>Kithicor Forest</li>
