@@ -6,7 +6,7 @@ subtitle: List of Gems in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2025-11-02
+### Last Update: 2025-11-12
 
 Bnk16 [Black Marble](https://www.pqdi.cc/item/25805) x1
 
