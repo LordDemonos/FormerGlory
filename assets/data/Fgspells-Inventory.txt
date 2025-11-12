@@ -20,82 +20,6 @@ Legs	Empty	0	0	0
 Feet	Empty	0	0	0
 Waist	Empty	0	0	0
 Ammo	Empty	0	0	0
-General5-Slot6	Spell: Blessed Armor of the Risen	7609	1	0
-General5-Slot10	Spell: Disinfecting Aura	7626	1	0
-Bank5-Slot2	Spell: Beguiling Visage	7667	1	0
-Bank6-Slot1	Spell: Remove Curse	19542	1	0
-Bank6-Slot2	Song: Chorus of Replenishment	7709	1	0
-Bank6-Slot3	Spell: Death Peace	30460	1	0
-Bank6-Slot5	Spell: Wave of Healing	30455	1	0
-Bank6-Slot9	Spell: Sedulous Subversion	19410	1	0
-Bank8-Slot4	Spell: Glamorous Visage	7669	1	0
-Bank9-Slot1	Spell: Torrent of Hate	7677	1	0
-Bank9-Slot2	Spell: Spirit of Khurenz	7727	1	0
-Bank9-Slot3	Spell: Mental Corruption	7676	1	0
-Bank9-Slot4	Spell: Terror of Terris	24542	1	0
-Bank9-Slot6	Song: Purifying Chorus	7708	1	0
-Bank9-Slot7	Spell: Death Peace	30460	1	0
-Bank11-Slot1	Song: Composition of Ervaj	30452	1	0
-Bank11-Slot5	Spell: Torrent of Hate	7677	1	0
-Bank11-Slot7	Song: Elemental Chorus	7707	1	0
-Bank12-Slot1	Spell: Torrent of Pain	7678	1	0
-Bank12-Slot4	Spell: Terror of Terris	24542	1	0
-Bank12-Slot6	Song: Battlecry of the Vah Shir	7706	1	0
-BBank14-Slot4	Spell: Arch Lich	30416	1	0
-Bank14-Slot5	Spell: Spirit of Khati Sha	7731	1	0
-Bank14-Slot6	Spell: Regrowth of Dar Khura	7628	1	0
-Bank14-Slot7	Spell: Disinfecting Aura	7626	1	0
-Bank14-Slot8	Spell: Words of Tranquility	7687	1	0
-BBank16-Slot1	Spell: Voice of Terris	24546	1	0
-Bank16-Slot2	Spell: Terror of Terris	24542	1	0
-Bank16-Slot3	Spell: Mind Wrack	7649	1	0
-Bank16-Slot4	Spell: Wind of Tashanian	19405	1	0
-Bank16-Slot5	Spell: Monster Summoning II	30402	1	0
-Bank16-Slot6	Spell: Shroud of Death	30459	1	0
-Bank16-Slot7	Spell: Mass Mystical Transvergan	7638	1	0
-Bank16-Slot8	Spell: Dictate	19406	1	0
-Bank18-Slot8	Spell: Horrifying Visage	7668	1	0
-Bank20-Slot4	Song: Elemental Chorus	7707	1	0
-Bank20-Slot6	Spell: Tricksters Augmentation	7666	1	0
-Bank20-Slot8	Spell: Wrath of the Elements	30405	1	0
-Bank21-Slot9	Spell: Words of Tranquility	7687	1	0
-Bank22-Slot3	Spell: Terror of Terris	24542	1	0
-Bank23-Slot2	Song: Elemental Chorus	7707	1	0
-Bank23-Slot3	Spell: Manastorm	19370	1	0
-Bank23-Slot5	Spell: Mass Mystical Transvergan	7638	1	0
-Bank23-Slot6	Spell: Judgement	7608	1	0
-Bank23-Slot7	Spell: Blast of Poison	30429	1	0
-Bank23-Slot10	Spell: Form of the Great Bear	30431	1	0
-Bank24-Slot7	Song: Battlecry of the Vah Shir	7706	1	0
-Bank25-Slot1	Spell: Blast of Poison	30429	1	0
-Bank25-Slot2	Small Brick of Yttrium Ore	22901	1	0
-Bank25-Slot3	Spell: Jolting Blades	7697	1	0
-Bank25-Slot4	Spell: Eagle Eye	7699	1	0
-Bank25-Slot5	Song: Battlecry of the Vah Shir	7706	1	0
-Bank25-Slot6	Spell: Eagle Eye	7699	1	0
-Bank25-Slot7	Spell: Tricksters Augmentation	7666	1	0
-Bank25-Slot8	Spell: Cannibalize IV	19473	1	0
-Bank25-Slot10	Spell: Phantasmal Protection	7639	1	0
-Bank27-Slot2	Spell: Stun Command	30446	1	0
-Bank27-Slot3	Spell: Jolting Blades	7697	1	0
-Bank27-Slot4	Song: Elemental Chorus	7707	1	0
-Bank27-Slot5	Song: Battlecry of the Vah Shir	7706	1	0
-Bank27-Slot7	Spell: Breath of Tunare	7688	1	0
-Bank29-Slot2	Spell: Mark of Retribution	7607	1	0
-Bank29-Slot3	Spell: Circle of Seasons	7619	1	0
-Bank29-Slot5	Spell: Torrent of Pain	7678	1	0
-Bank29-Slot6	Spell: Decession	7658	1	0
-Bank29-Slot7	Spell: Ro's Smoldering Disjunction	7618	1	0
-Bank29-Slot8	Spell: Focus of Spirit	30432	1	0
-Bank29-Slot10	Spell: Mass Mystical Transvergan	7638	1	0
-SharedBank4-Slot6	Spell: Aid of Khurenz	7722	1	0
-SharedBank4-Slot7	Spell: Healing  Wave of Prexus	7689	1	0
-SharedBank5-Slot8	Spell: Plague of insects	7627	1	0
-SharedBank6-Slot7	Song: Battlecry of the Vah Shir	7706	1	0
-SharedBank6-Slot8	Spell: Familiar	7657	1	0
-SharedBank8-Slot5	Song: Chorus of Replenishment	7709	1	0
-SharedBank8-Slot6	Song: Composition of Ervaj	30452	1	0
-SharedBank8-Slot7	Spell: Familiar	7657	1	0
 General1	Backpack	17005	1	8
 General1-Slot1	Empty	0	0	0
 General1-Slot2	Empty	0	0	0
@@ -120,7 +44,7 @@ General3-Slot2	Spell: Blessed Armor of the Risen	7609	1	0
 General3-Slot3	Spell: Dictate	19406	1	0
 General3-Slot4	Spell: Cannibalize IV	19473	1	0
 General3-Slot5	Spell: Corporeal Empathy	30413	1	0
-General3-Slot6	Spell: Focus of Spirit	30432	1	0
+General3-Slot6	Empty	0	0	0
 General3-Slot7	Spell: Visions of Grandeur	19407	1	0
 General3-Slot8	Spell: Greater Vocaration: Water	19372	1	0
 General4	Large Box	17007	1	8
@@ -130,7 +54,7 @@ General4-Slot3	Spell: Improved Invis vs Undead	30411	1	0
 General4-Slot4	Spell: Monster Summoning III	30404	1	0
 General4-Slot5	Spell: Improved Invis vs Undead	30411	1	0
 General4-Slot6	Spell: Wrath of the Elements	30405	1	0
-General4-Slot7	Spell: Form of the Great Bear	30431	1	0
+General4-Slot7	Empty	0	0	0
 General4-Slot8	Spell: Shroud of Death	30459	1	0
 General5	Backpack	17005	1	8
 General5-Slot1	Spell: Protection of the Glades	30442	1	0
@@ -158,7 +82,7 @@ General7-Slot4	Spell: Remove Curse	19542	1	0
 General7-Slot5	Spell: Aegolism	30447	1	0
 General7-Slot6	Spell: Gift of Brilliance	30410	1	0
 General7-Slot7	Spell: Aegolism	30447	1	0
-General7-Slot8	Spell: Augmentation of Death	30414	1	0
+General7-Slot8	Empty	0	0	0
 General8	Backpack	17005	1	8
 General8-Slot1	Spell: Gift of Brilliance	30410	1	0
 General8-Slot2	Spell: Cannibalize IV	19473	1	0
@@ -168,7 +92,7 @@ General8-Slot5	Spell: Protection of the Glades	30442	1	0
 General8-Slot6	Spell: Arch Lich	30416	1	0
 General8-Slot7	Empty	0	0	0
 General8-Slot8	Empty	0	0	0
-General-Coin	Currency	0	838	0
+General-Coin	Currency	0	5000838	0
 Held	Empty	0	0	0
 Bank1	Backpack	17005	1	8
 Bank1-Slot1	Spell: Shroud of Pain	30458	1	0
@@ -214,7 +138,7 @@ Bank5-Slot4	Spell: Scars of Sigil	19358	1	0
 Bank5-Slot5	Spell: Splurt	19294	1	0
 Bank5-Slot6	Empty	0	0	0
 Bank5-Slot7	Spell: Enlightenment	19396	1	0
-Bank5-Slot8	Spell: Reckoning	19212	1	0
+Bank5-Slot8	Empty	0	0	0
 Bank6	Backpack	17005	1	8
 Bank6-Slot1	Spell: Shroud of Pain	30458	1	0
 Bank6-Slot2	Spell: Shroud of Death	30459	1	0
@@ -362,7 +286,7 @@ Bank22-Slot7	Spell: Remove Curse	19542	1	0
 Bank22-Slot8	Spell: Manastorm	19370	1	0
 Bank23	Backpack	17005	1	8
 Bank23-Slot1	Spell: Wave of Healing	30455	1	0
-Bank23-Slot2	Spell: Malo	19291	1	0
+Bank23-Slot2	Empty	0	0	0
 Bank23-Slot3	Spell: The Unspoken Word	19225	1	0
 Bank23-Slot4	Spell: Asphyxiate	19402	1	0
 Bank23-Slot5	Song: Composition of Ervaj	30452	1	0
@@ -465,7 +389,7 @@ SharedBank4-Slot2	Spell: Torpor	19293	1	0
 SharedBank4-Slot3	Spell: Rage of Zomm	19417	1	0
 SharedBank4-Slot4	Spell: Atol`s Spectral Shackles	19315	1	0
 SharedBank4-Slot5	Spell: Largarn`s Lamentation	19388	1	0
-SharedBank4-Slot6	Spell: Spirit Quickening	30430	1	0
+SharedBank4-Slot6	Empty	0	0	0
 SharedBank4-Slot7	Spell: Cannibalize IV	19473	1	0
 SharedBank4-Slot8	Spell: Theft of Thought	19374	1	0
 SharedBank5	Backpack	17005	1	8
@@ -544,4 +468,4 @@ SharedBank27	Empty	0	0	0
 SharedBank28	Empty	0	0	0
 SharedBank29	Empty	0	0	0
 SharedBank30	Empty	0	0	0
-Bank-Coin	Currency	0	5000000	0
+Bank-Coin	Currency	0	0	0
