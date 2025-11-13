@@ -19,15 +19,6 @@ cover-img: /assets/img/targets.webp
 <h2 id="raid-nights">Raid Nights</h2>
 <p class="raid-description">Our main raid nights are focused on the Dain Ring War in Great Divide.</p>
 <div class="card-container">
-  <div class="card ranger">
-    <ul>
-      <li>Aerwen</li>
-      <li>Ranger</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card bard">
     <ul>
       <li>Moliere</li>
