@@ -21,26 +21,26 @@ Feet	Empty	0	0	0
 Waist	Empty	0	0	0
 Ammo	Empty	0	0	0
 General1	Trader's Satchel	17899	1	10
-General1-Slot1	Empty	0	0	0
-General1-Slot2	Empty	0	0	0
-General1-Slot3	Empty	0	0	0
-General1-Slot4	Empty	0	0	0
-General1-Slot5	Empty	0	0	0
-General1-Slot6	Empty	0	0	0
-General1-Slot7	Empty	0	0	0
-General1-Slot8	Empty	0	0	0
-General1-Slot9	Empty	0	0	0
-General1-Slot10	Empty	0	0	0
+General1-Slot1	Spell: Foliage Shield	7616	1	0
+General1-Slot2	Spell: Falcon Eye	7696	1	0
+General1-Slot3	Spell: Spirit of Eagle	7617	1	0
+General1-Slot4	Spell: Wrath of the Elements	30405	1	0
+General1-Slot5	Spell: Terror of Terris	24542	1	0
+General1-Slot6	Spell: Mental Corruption	7676	1	0
+General1-Slot7	Spell: Mental Corruption	7676	1	0
+General1-Slot8	Spell: Regrowth of Dar Khura	7628	1	0
+General1-Slot9	Song: Chorus of Replenishment	7709	1	0
+General1-Slot10	Song: Purifying Chorus	7708	1	0
 General2	Trader's Satchel	17899	1	10
-General2-Slot1	Empty	0	0	0
-General2-Slot2	Empty	0	0	0
-General2-Slot3	Empty	0	0	0
-General2-Slot4	Empty	0	0	0
-General2-Slot5	Empty	0	0	0
-General2-Slot6	Empty	0	0	0
-General2-Slot7	Empty	0	0	0
-General2-Slot8	Empty	0	0	0
-General2-Slot9	Empty	0	0	0
+General2-Slot1	Spell: Torrent of Hate	7677	1	0
+General2-Slot2	Song: Battlecry of the Vah Shir	7706	1	0
+General2-Slot3	Spell: Mark of Retribution	7607	1	0
+General2-Slot4	Spell: Glamorous Visage	7669	1	0
+General2-Slot5	Spell: Mark of Retribution	7607	1	0
+General2-Slot6	Spell: Sedulous Subversion	19410	1	0
+General2-Slot7	Spell: Decession	7658	1	0
+General2-Slot8	Spell: Plague of insects	7627	1	0
+General2-Slot9	Spell: Spirit of Eagle	7617	1	0
 General2-Slot10	Empty	0	0	0
 General3	Backpack	17005	1	8
 General3-Slot1	Spell: Upheaval	19233	1	0
