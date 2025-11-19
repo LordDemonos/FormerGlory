@@ -159,5 +159,23 @@ cover-img: /assets/img/targets.webp
       <li>Mon, Wed, Sat</li>
     </ul>
   </div>
+  <div class="card wizard">
+    <ul>
+      <li>Astranolus (Main: Grion)</li>
+      <li>Wizard</li>
+      <li>Plane of Fear</li>
+      <li>an enraged golem - Green Oil</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card wizard">
+    <ul>
+      <li>Astranolus (Main: Grion)</li>
+      <li>Wizard</li>
+      <li>Karnor's Castle</li>
+      <li>Venril Sathir - Gnarled Staff</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
