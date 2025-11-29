@@ -73,6 +73,24 @@ cover-img: /assets/img/targets.webp
       <li>Sat</li>
     </ul>
   </div>
+  <div class="card warrior">
+    <ul>
+      <li>Banienn</li>
+      <li>Warrior</li>
+      <li>Great Divide</li>
+      <li>Ring of Dain Frostreaver IV - Ring War</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
+  <div class="card rogue">
+    <ul>
+      <li>Hellia</li>
+      <li>Rogue</li>
+      <li>Great Divide</li>
+      <li>Ring of Dain Frostreaver IV - Ring War</li>
+      <li>Mon, Wed, Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
 <h2 id="off-night-targets">Off Night Targets</h2>
