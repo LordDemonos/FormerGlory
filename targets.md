@@ -28,28 +28,10 @@ cover-img: /assets/img/targets.webp
       <li>Sat</li>
     </ul>
   </div>
-  <div class="card bard">
-    <ul>
-      <li>Chord</li>
-      <li>Bard</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card shadow-knight">
     <ul>
       <li>Alikari</li>
       <li>Shadow Knight</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card shaman">
-    <ul>
-      <li>Nobon</li>
-      <li>Shaman</li>
       <li>Great Divide</li>
       <li>Ring of Dain Frostreaver IV - Ring War</li>
       <li>Mon, Wed, Fri, Sat</li>
