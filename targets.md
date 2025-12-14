@@ -30,15 +30,6 @@ cover-img: /assets/img/targets.webp
   </div>
   <div class="card shadow-knight">
     <ul>
-      <li>Alikari</li>
-      <li>Shadow Knight</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card shadow-knight">
-    <ul>
       <li>Galtrayis</li>
       <li>Shadow Knight</li>
       <li>Great Divide</li>
@@ -53,15 +44,6 @@ cover-img: /assets/img/targets.webp
       <li>Great Divide</li>
       <li>Ring of Dain Frostreaver IV - Ring War</li>
       <li>Sat</li>
-    </ul>
-  </div>
-  <div class="card warrior">
-    <ul>
-      <li>Banienn</li>
-      <li>Warrior</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
   <div class="card rogue">
