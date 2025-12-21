@@ -28,15 +28,6 @@ cover-img: /assets/img/targets.webp
       <li>Sat</li>
     </ul>
   </div>
-  <div class="card shadow-knight">
-    <ul>
-      <li>Galtrayis</li>
-      <li>Shadow Knight</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
   <div class="card rogue">
     <ul>
       <li>Wreckdem</li>
