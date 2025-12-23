@@ -41,4 +41,4 @@ Bosses must be killed in order to avoid Warders that will Death Touch and/or boo
 
 12 & 13. **[Kaas Thox Xi Aten Ha Ra](/strategy/kaas_thox_xi_aten_ha_ra)** - North and South Blobs. Hits 2500+, casts Fling (AE PC, Gravity Flux Effect, Unresistable), slowable, approximately 2.5 million HP, backstabs (at least for 3000+, possibly more). Careful when pulling and during knockbacks!
 
-**[Aten Ha Ra](/strategy/aten_ha_ra)** - Final boss. Hits 1500+, slowable, rampages, casts Fling (AE PC, Gravity Flux Effect, Unresistable), Silence of the Shadows (Targeted AE, Silence, Unresistable), and Word of Command (PBAE, 3 sec stun/ 250 DD, -100 Magic Based), approximately 2.5 million HP.
+14. **[Aten Ha Ra](/strategy/aten_ha_ra)** - Final boss. Hits 1500+, slowable, rampages, casts Fling (AE PC, Gravity Flux Effect, Unresistable), Silence of the Shadows (Targeted AE, Silence, Unresistable), and Word of Command (PBAE, 3 sec stun/ 250 DD, -100 Magic Based), approximately 2.5 million HP.
