@@ -86,9 +86,17 @@ Once you have located your character, click the `Claim` button on the right. Thi
 
 During your spare time, I also recommend finding your character in this list and clicking the `Select` button. This will allow you to fill out your character profile. This will help people better identify your in and out of the game. You can also see statistics about your character, the items you paid DKP for, raid attendance, etc. 
 
+### Administration Instructions for Linking Characters
+
+1. Under **Characters**, find the person's original character by searching for it. Once you see it in the list, click **Edit**. 
+
+2. Scroll down to the bottom and select the **Linked Characters** tab. You'll see two sections, left shows **Linked Characters** and the right shows **Available Characters**. Find the new character under **Available Characters** and **Link**. 
+
+3. Now is a good time to go back to **Characters** and locate the new character, select **Edit** again, and change their Rank to a **Raider Alt**. 
+
 ### Claiming Multiple Characters and Linking them Together
 
-Over time you may have multiple characters that have attended raids. You can claim them all the same way you claimed your first character. You may have already noticed the `Linked Characters` tab in your character profile. To my knowledge this feature does not work, or requires a manual approval from Talamild before characters can be tied together. Either way, you can message him on Discord and he will link them together on the back end. 
+Over time you may have multiple characters that have attended raids. You can claim them all the same way you claimed your first character. You may have already noticed the `Linked Characters` tab in your character profile. This action needs to be completed by an Administrator of OpenDKP. Feel free to reach out to Talamild, Xanax, Dihat, or Vamcill for assistance with this and cite this guide for instructions. Do not ask Cukazi. 
 
 ![linked]({{site.baseurl}}/assets/img/linked.jpg)
 

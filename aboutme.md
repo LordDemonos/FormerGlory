@@ -56,6 +56,7 @@ Thank you for joining us on this epic adventure to reclaim our Former Glory in N
 - Healzar
 - Logikill/Docktah
 - Quis / Charr / Activist
+- Synthran/Synthor
 - Vamcill / Vamistill
 - Velde
 - Waulker

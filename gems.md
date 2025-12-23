@@ -6,41 +6,39 @@ subtitle: List of Gems in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2025-08-26
+### Last Update: 2025-12-04
 
-Bnk16 [Black Marble](https://www.pqdi.cc/item/25805) x2
+Bnk16 [Black Marble](https://www.pqdi.cc/item/25805) x1
 
 Bnk29 [Chipped Onyx Sapphire](https://www.pqdi.cc/item/25827) x7
 
+Inv4 [Crushed Coral](https://www.pqdi.cc/item/25831) x1
+
 Bnk26 [Crushed Emerald](https://www.pqdi.cc/item/25835) x1
 
-Bnk12 [Crushed Flame Emerald](https://www.pqdi.cc/item/25838) x1
+Inv2 [Crushed Flame Emerald](https://www.pqdi.cc/item/25838) x1
 
-Bnk20 [Crushed Flame Opal](https://www.pqdi.cc/item/25837) x2
+Inv3 [Crushed Flame Opal](https://www.pqdi.cc/item/25837) x4
 
 Bnk30 [Crushed Jaundice Gem](https://www.pqdi.cc/item/25829) x2
 
-Bnk22 [Crushed Lava Ruby](https://www.pqdi.cc/item/25840) x4
+Bnk22 [Crushed Lava Ruby](https://www.pqdi.cc/item/25840) x3
 
-Bnk17 [Crushed Onyx Sapphire](https://www.pqdi.cc/item/25841) x2
+Inv6 [Crushed Onyx Sapphire](https://www.pqdi.cc/item/25841) x1
 
 Bnk14 [Crushed Sea Sapphire](https://www.pqdi.cc/item/25839) x1
 
-Bnk19 [Crushed Topaz](https://www.pqdi.cc/item/25832) x2
-
-Bnk28 [Flawed Emerald](https://www.pqdi.cc/item/25821) x2
+Inv5 [Crushed Topaz](https://www.pqdi.cc/item/25832) x3
 
 Bnk24 [Flawed Flame Opal](https://www.pqdi.cc/item/25823) x1
 
-Bnk23 [Flawed Topaz](https://www.pqdi.cc/item/25818) x6
-
-Bnk13 [Flawless Diamond](https://www.pqdi.cc/item/25814) x2
+Bnk23 [Flawed Topaz](https://www.pqdi.cc/item/25818) x4
 
 Bnk15 [Jaundice Gem](https://www.pqdi.cc/item/25815) x3
 
-Bnk27 [Nephrite](https://www.pqdi.cc/item/25816) x4
+Bnk27 [Nephrite](https://www.pqdi.cc/item/25816) x1
 
-Bnk25 [Pristine Emerald](https://www.pqdi.cc/item/25807) x6
+Bnk25 [Pristine Emerald](https://www.pqdi.cc/item/25807) x7
 
 
 ### Gem Legend

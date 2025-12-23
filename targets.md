@@ -19,31 +19,40 @@ cover-img: /assets/img/targets.webp
 <h2 id="raid-nights">Raid Nights</h2>
 <p class="raid-description">Our main raid nights are focused on the Dain Ring War in Great Divide.</p>
 <div class="card-container">
+  <div class="card monk">
+    <ul>
+      <li>Ragokom</li>
+      <li>Monk</li>
+      <li>Great Divide</li>
+      <li>Ring of Dain Frostreaver IV - Ring War</li>
+      <li>Sat</li>
+    </ul>
+  </div>
   <div class="card rogue">
     <ul>
-      <li>Stabwound</li>
+      <li>Wreckdem</li>
+      <li>Rogue</li>
+      <li>Great Divide</li>
+      <li>Ring of Dain Frostreaver IV - Ring War</li>
+      <li>Sat</li>
+    </ul>
+  </div>
+  <div class="card rogue">
+    <ul>
+      <li>Hellia</li>
       <li>Rogue</li>
       <li>Great Divide</li>
       <li>Ring of Dain Frostreaver IV - Ring War</li>
       <li>Mon, Wed, Fri, Sat</li>
     </ul>
   </div>
-  <div class="card ranger">
+  <div class="card rogue">
     <ul>
-      <li>Elisys</li>
-      <li>Ranger</li>
+      <li>Saeliva</li>
+      <li>Rogue</li>
       <li>Great Divide</li>
       <li>Ring of Dain Frostreaver IV - Ring War</li>
       <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card shadow-knight">
-    <ul>
-      <li>Chronic</li>
-      <li>Shadow Knight</li>
-      <li>Great Divide</li>
-      <li>Ring of Dain Frostreaver IV - Ring War</li>
-      <li>Mon, Wed</li>
     </ul>
   </div>
 </div>
@@ -51,23 +60,5 @@ cover-img: /assets/img/targets.webp
 <h2 id="off-night-targets">Off Night Targets</h2>
 <p class="raid-description">These targets can be tackled on off nights with smaller groups.</p>
 <div class="card-container">
-  <div class="card druid">
-    <ul>
-      <li>Donox</li>
-      <li>Druid</li>
-      <li>Karnor's Castle</li>
-      <li>Venril Sathir - Pulsing Green Stone</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
-  <div class="card bard">
-    <ul>
-      <li>Museful</li>
-      <li>Bard</li>
-      <li>Sebilis</li>
-      <li>Trakanon - Undead Dragongut Strings</li>
-      <li>Mon, Wed, Fri, Sat</li>
-    </ul>
-  </div>
 </div>
 
