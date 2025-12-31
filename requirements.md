@@ -4,6 +4,11 @@ title: Raid Requirements
 cover-img: /assets/img/hate.webp
 subtitle: A list of raid requirements
 ---
+# Raid Restrictions
+
+During the beginning of an expansion we need our best at raids so we can learn encounters. We ask that all members attend raids on the Raid Main only. The obvious exception is if a raid alt can fill a role the raid is missing and needs. 
+
+Later in an expansion when raids are easier and on farm, you may ask an officer if you can bring an alt. 
 
 ## Raiding Level Requirements
 
@@ -42,5 +47,3 @@ If an officer schedules these for an offnight raid, they become off limits for o
 Go nuts, kill these whenever you want, officers please record the target kill time after kill under #target-tracking. Please post in #instance-target-requests if you need a quest item off any of targets.
 
 - all Classic, Kunark, and Velious targets not listed above
-
-
