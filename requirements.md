@@ -6,13 +6,13 @@ subtitle: A list of raid requirements
 ---
 # Raid Restrictions
 
-During the beginning of an expansion we need our best at raids so we can learn encounters. We ask that all members attend raids on the Raid Main only. The obvious exception is if a raid alt can fill a role the raid is missing and needs. 
+During the beginning of the expansion, we need to bring our best to raids so we can learn encounters. We ask that all members attend raids on the Raid Main only. The obvious exception is if a Raid Alt can fill a role the raid is missing and needs.
 
-Later in an expansion when raids are easier and on farm, you may ask an officer if you can bring an alt. 
+Later in the expansion when raids are easier and on farm, you may ask an officer if you can bring an alt. 
 
 ## Raiding Level Requirements
 
-- **All Raids**
+- **All Raid Mains**
 	- Level 60 + Run Speed 3
 
 ## Raiding Gear Requirements
@@ -35,13 +35,13 @@ Former Glory kills these in regular rotation – Off limits
   - Luclin Raid mobs
 
 ### Offnight Raid Targets
-If an officer schedules these for an offnight raid, they become off limits for others to kill. Please respect the guild's scheduled offnight raids.
+If an officer schedules an offnight raid, those raid targets become off limits for others to kill. Please respect the guild’s scheduled offnight raids. These targets will typically be:
 
 - Veeshan’s Peak – All Dragons 
 - Trakanon - 2 days 18 hours
 - Sleeper's Tomb - 6 Days 18 Hours
 - Dozekar - 2 days 18 hours
-- King Tormax - 2 days 18 hours
+- King Tormax - 6 days 18 hours
 
 ### FFA Targets
 Go nuts, kill these whenever you want, officers please record the target kill time after kill under #target-tracking. Please post in #instance-target-requests if you need a quest item off any of targets.
