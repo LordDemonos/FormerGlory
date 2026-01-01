@@ -37,7 +37,7 @@ Former Glory kills these in regular rotation – Off limits
 ### Offnight Raid Targets
 If an officer schedules an offnight raid, those raid targets become off limits for others to kill. Please respect the guild’s scheduled offnight raids. These targets will typically be:
 
-- Veeshan’s Peak – All Dragons 
+- Veeshan’s Peak – 6 days and 18 hours 
 - Trakanon - 2 days 18 hours
 - Sleeper's Tomb - 6 Days 18 Hours
 - Dozekar - 2 days 18 hours
