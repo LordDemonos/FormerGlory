@@ -29,10 +29,8 @@ Later in the expansion when raids are easier and on farm, you may ask an officer
   
 ## Target Availability
 
-### Major Raid Targets
-Former Glory kills these in regular rotation – Off limits
-
-  - Luclin Raid mobs
+### Current Era Raid Targets
+Any Luclin target can be killed so long as it does not interfere with a scheduled raid night. All loot MUST be bid on with DKP.
 
 ### Offnight Raid Targets
 If an officer schedules an offnight raid, those raid targets become off limits for others to kill. Please respect the guild’s scheduled offnight raids. These targets will typically be:
