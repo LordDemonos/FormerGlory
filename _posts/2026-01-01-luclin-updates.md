@@ -76,3 +76,7 @@ https://formerglory.lol has been updated with boss guides for all Luclin encount
 # Recruitment Post
 
 We'll be making a new recruitment post on the official discord channel. Other guilds remake theirs every week and they aren't supposed to. Instead we're classy and get far more engagement due to all the comments and replies we make. I'd like people to take pictures in our first two weeks of everything we kill so we can make a nice new recruitment post when the time comes. Thanks in advance!
+
+# Server Cap Situation
+
+Many have asked what we'll be doing if a player is unable to log in on raid nights due to the server being full. We will not be awarding DKP if you cannot log in to raid. 
