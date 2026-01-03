@@ -89,19 +89,19 @@ function getWeekKey(date) {
 // Function to generate copy-to-clipboard HTML for regular raids
 function generateCopyBlock(raidText) {
     const id = `copy-box-${Math.random().toString(36).substr(2, 9)}`;
-    return `<div class="copy-text-container"><pre class="copy-text-content" id="${id}">&lt;Next Scheduled Raid&gt;${raidText} - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('${id}')">Copy to Clipboard</button></div>`;
+    return `<div class="copy-text-container"><pre class="copy-text-content" id="${id}">&lt;Next Scheduled Raid&gt;${raidText} - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('${id}')">Copy to Clipboard</button></div>`;
 }
 
 // Function to generate copy-to-clipboard HTML for offnight raids
 function generateOffnightCopyBlock(raidText) {
     const id = `copy-box-${Math.random().toString(36).substr(2, 9)}`;
-    return `<div class="copy-text-container"><pre class="copy-text-content" id="${id}">&lt;Offnight Raid&gt;${raidText} - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('${id}')">Copy to Clipboard</button></div>`;
+    return `<div class="copy-text-container"><pre class="copy-text-content" id="${id}">&lt;Offnight Raid&gt;${raidText} - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('${id}')">Copy to Clipboard</button></div>`;
 }
 
 // Function to generate copy-to-clipboard HTML for static groups
 function generateStaticGroupCopyBlock(raidText) {
     const id = `copy-box-${Math.random().toString(36).substr(2, 9)}`;
-    return `<div class="copy-text-container"><pre class="copy-text-content" id="${id}">&lt;Static Group&gt;${raidText} - Lv55+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('${id}')">Copy to Clipboard</button></div>`;
+    return `<div class="copy-text-container"><pre class="copy-text-content" id="${id}">&lt;Static Group&gt;${raidText} - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('${id}')">Copy to Clipboard</button></div>`;
 }
 
 // Function to check if an entry is a static group
