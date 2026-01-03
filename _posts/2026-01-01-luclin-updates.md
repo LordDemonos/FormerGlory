@@ -14,6 +14,11 @@ Later in the expansion when raids are easier and on farm, you may ask an officer
 
 Raid Mains and Raid Alts are required to be Level 60 + Run Speed 3 starting January 1st. No characters will be grandfathered in.
 
+# Loot Rules for Luclin (Clarification)
+- Raid Mains and Raid Alts are required to be Level 60 + Run Speed 3 starting January 1st. No characters will be grandfathered in.
+- This means if you want to bid as a Raid Main or a Raid Alt, the character you're bidding for must be Lv60+Run3. 
+- Characters sub Lv60 must bid as Non-Raiding Alt. You are still allowed to bid though!
+
 # Raiding Gear Expectations
 
 Hopefully we're all aware and prepared by now, but if you plan on raiding and earning DKP you'll need your Ring of the Shissar and Shadowed Scepter Frame ready for the Key to Vex Thal. Melee will need Shissar Bane and Seru Bane weapons. Other common expectations are listed below.
@@ -79,4 +84,4 @@ We'll be making a new recruitment post on the official discord channel. Other gu
 
 # Server Cap Situation
 
-Many have asked what we'll be doing if a player is unable to log in on raid nights due to the server being full. We will not be awarding DKP if you cannot log in to raid. 
+Many have asked what we'll be doing if a player is unable to log in on raid nights due to the server being full. We will not be awarding DKP if you cannot log in to raid.
