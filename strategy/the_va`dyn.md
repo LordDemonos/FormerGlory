@@ -65,3 +65,5 @@ cover-img: /assets/img/The-VaDyn.jpg
 <div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Always Calls for Help</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;The Va`Dyn&gt; - (75/150/50) lv63 - NUKES: Magic + Fire Tears. DEBUFFED = All 3 Tears</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

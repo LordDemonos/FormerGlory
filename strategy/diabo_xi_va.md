@@ -86,6 +86,8 @@ cover-img: /assets/img/Diabo-Xi-Va.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Diabo Xi Va&gt; - (185/90/90) lv66 - NUKES: Cold + Fire Tears OR Cold Tears + Ancient</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 Va Xakra mobs that drop North Tower Key spawn in rooms behind him. He is up the spiral staircase at the Red Circle on the map.
 
 ![Diablo-Xi-Va-Map](/assets/img/Diablo-Xi-Va-Map.jpg)

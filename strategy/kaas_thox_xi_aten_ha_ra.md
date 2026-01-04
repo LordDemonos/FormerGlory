@@ -69,4 +69,6 @@ cover-img: /assets/img/Kaas-Thox-Xi-Aten-Ha-Ra-1.jpg
 <div class="ability-cell">Immune to lull effects</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Kaas Thox Xi Aten Ha Ra&gt; - (110/100/100) lv66 - NUKES: Cold + Fire Tears OR Lure of Ice. DEBUFFED = Use Tears</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 ![Blob-Maps](/assets/img/Blob-Maps.jpg)

@@ -66,4 +66,6 @@ cover-img: /assets/img/Thall-Va-Kelun.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Thall Va Kelun&gt; - (110/120/95) lv66 - NUKES: Fire Tears + Lure of Ice. DEBUFFED = Use Tears</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 ![Thall-Va-Kelun-Map](/assets/img/Thall-Va-Kelun-Map.jpg)

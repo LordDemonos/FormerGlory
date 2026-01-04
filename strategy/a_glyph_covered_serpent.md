@@ -71,4 +71,6 @@ cover-img: /assets/img/a-glyph-covered-serp.jpg
 <div class="ability-cell">Corpse Camper</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;a glyph covered serpent&gt; - (185/100/65) lv63 - NUKES: Fire Tears + Ancient/IceSpear. DEBUFFED = Cold/Fire Tears + SS/Garrisons</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 Tank a glyph covered serpent with your back against a wall and healers out of line-of-sight. He casts a knockback on the tank and a PBAE Feigh Death. Kill him to spawn Vyzh`dra the Exiled.

@@ -68,3 +68,5 @@ cover-img: /assets/img/shei3.jpg
 <div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Proximity Aggro</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Shei Vinitras&gt; - (180/165/60) lv63 - NUKES: Fire Tears + SS/Garrisons</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

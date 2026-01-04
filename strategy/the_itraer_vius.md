@@ -71,3 +71,5 @@ cover-img: /assets/img/iv1.jpg
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">Always Calls for Help</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;The Itraer Vius&gt; - (60/100/150) lv63 - NUKES: Magic + Cold Tears. DEBUFFED = Fire Tears + SS/Garrisons</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

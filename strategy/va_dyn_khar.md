@@ -63,6 +63,8 @@ cover-img: /assets/img/Va-Dyn-Khar.jpg
 <div class="ability-cell">Immune to lull effects</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Va Dyn Kha&gt; - (26/26/26) lv66 - NUKES: All 3 Tears</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 This boss drops Palace Key. The key to the front door of the Fortress.
 
 ![Va-Dyn-Khar-Map.png](/assets/img/Va-Dyn-Khar-Map.png)

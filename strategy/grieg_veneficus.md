@@ -71,4 +71,6 @@ cover-img: /assets/img/Grieg-Veneficus2.jpg
 <div class="ability-cell">Immune to lull effects</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Grieg Veneficus&gt; - (145/100/120) lv65 - NUKES: Cold Tears + Ancient/IceSpear. DEBUFFED = Add Other Rains</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 After opening the locked door to Greg Veneficus, you’ll see a portal ahead that ports you up to his room. Grieg Veneficus has a lot of trash mobs “a shadow master” in his room. Some of the mobs are invisible. You must clear the entire room in order to aggro him. For raid setup, find a spot where healers can hide behind a wall and casters/range can be at max range. This is to avoid his PBAE knockback. Tank him in a corner. This is one of the easier Luclin bosses.

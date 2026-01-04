@@ -66,3 +66,5 @@ cover-img: /assets/img/insanity-crawler.jpg
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to lull effects</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;The Insanity Crawler&gt; - (175/350/165) lv63 - NUKES: Lure of Flame. DEBUFFED = Fire Tears + SS/Garrisons</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

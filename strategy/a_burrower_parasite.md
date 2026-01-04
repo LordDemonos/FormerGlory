@@ -66,6 +66,8 @@ cover-img: /assets/img/the-burrower-beast2.jpg
 <div class="ability-cell">Immune to lull effects</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;A burrower parasite&gt; - (330/180/170) lv63 - NUKES: Lure of Ice</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 This event has 8 waves of mobs. Wave 8 is the final boss.
 
  a rock burrower type mobs in the first 3 waves are all slowable, but nothing else in the event is.

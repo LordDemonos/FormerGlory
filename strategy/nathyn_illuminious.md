@@ -65,4 +65,6 @@ cover-img: /assets/img/Nathyn-Illuminious.jpg
 <div class="ability-cell">Immune to melee except magical</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Nathyn Illuminious&gt; - (50/50/50) lv64 - NUKES: All 3 Tears</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 ![Katta Castellum Map](/assets/img/Katta-Map.jpg)

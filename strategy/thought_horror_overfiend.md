@@ -70,4 +70,6 @@ cover-img: /assets/img/Thought-Horror-Overfiend.jpg
 <div class="ability-cell">Immune to melee except magical</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Thought Horror Overfiend&gt; - (155/60/100) lv63 - NUKES: Cold Tears + Ancient/IceSpear</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 Thought Horror Overfiend spawns in the back of the zone. He is permarooted so it’s easy to pull the trash out of his room. He should be tanked with a Warrior because he does a single target mana drain which can make difficult for Knights if the fight lasts a long time. His strongest ability is Feeblemind, a PBAE that essentially increases your fizzle rate. It can be curse cured. Keep him slowed.

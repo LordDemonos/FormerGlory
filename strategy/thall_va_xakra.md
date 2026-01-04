@@ -71,6 +71,8 @@ cover-img: /assets/img/Thall-Va-Xakra.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Thall Va Xakra&gt; - (125/170/170) lv66 - NUKES: Lure of Ice. DEBUFFED = Fire Tears + SS/Garrisons</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 There are two of these mobs. See map Red Circles for the locations. North Wing Key drops from Va Xakra mobs near these bosses.
 
 ![Va-Xakra-Map.png](/assets/img/Va-Xakra-Map.png)

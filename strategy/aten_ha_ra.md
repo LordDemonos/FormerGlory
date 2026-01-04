@@ -73,4 +73,6 @@ cover-img: /assets/img/Aten-Ha-Ra.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Aten Ha Ra&gt; - (162/195/175) lv66 - NUKES: Lure of Ice. DEBUFFED = Fire Tears + SS/Garrisons</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 ![Aten-Ha-Ra-Map](/assets/img/Aten-Ha-Ra-Map.jpg)

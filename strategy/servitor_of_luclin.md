@@ -61,3 +61,5 @@ cover-img: /assets/img/Servitor-of-Luclin.jpg
 <div class="ability-cell">Immune to melee except magical</div>
 <div class="ability-cell">Immune to lull effects</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Servitor of Luclin&gt; - (45/180/40) lv65 - NUKES: Magic + Fire Tears</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

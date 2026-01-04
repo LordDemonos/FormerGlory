@@ -73,6 +73,8 @@ cover-img: /assets/img/Lord-Inquisitor-Seru.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Lord Inquisitor Seru&gt; - (1000/100/100) lv66 - NUKES: Cold + Fire Tears. DEBUFFED = Add Ancient/IceSpear</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 Lord Inquisitor Seru has two pre-requirements that your raid must meet before you consider attempting him.
 
 1) You need at least 1 person with the Arx Key. This key allows a player to port their group up to the temple where he resides. It can be used from any zone in the game that allows porting. A guide can be found [HERE](https://www.eqprogression.com/arx-key-2/). The more keys your raid has the faster everyone can port up.

@@ -83,6 +83,8 @@ cover-img: /assets/img/high-priest.jpg
 <div class="ability-cell">NO LOITERING</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;High Priest of Ssraeshza&gt; - (100/125/150) lv66 - NUKES: Magic Tears + Lure of Ice. DEBUFFED = Use Rains</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 Both High Priest of Ssraeshza and Xerkizh the Creator are on the 3rd floor side that requires the Zherozsh Key to get to. There are a couple of traps in the halls between the two bosses so disarm them or be ready to deal with some DoT’s if they are triggered.
 
 ![ssra-floor-3](/assets/img/ssra-floor-3.jpg)

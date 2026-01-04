@@ -71,4 +71,6 @@ cover-img: /assets/img/Kaas-Thox-Xi-Ans-Dyek.jpg
 <div class="ability-cell">Immune to lull effects</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Kaas Thox Xi Ans Dyek&gt; - (120/60/190) lv66 - NUKES: Cold Tears + Ancient/IceSpear. DEBUFFED = Add Fire Tears</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 ![Kaas-Thox-Xi-Ans-Dyek-Map.jpg](/assets/img/Kaas-Thox-Xi-Ans-Dyek-Map.jpg)

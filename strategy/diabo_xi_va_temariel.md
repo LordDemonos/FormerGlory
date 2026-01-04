@@ -85,4 +85,6 @@ cover-img: /assets/img/Diabo-Xi-Va-Temariel-1.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Diabo Xi Va Temariel&gt; - (125/80/80) lv66 - NUKES: Cold + Fire Tears OR Cold Tears + Ancient</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 ![Diabo-Xi-Va-Temariel-Map](Diabo-Xi-Va-Temariel-Map.jpg)

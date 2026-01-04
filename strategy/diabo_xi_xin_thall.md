@@ -77,6 +77,8 @@ cover-img: /assets/img/Diabo-Xi-Xin-Thall.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Diabo Xi Xin Thall&gt; - (110/165/125) lv66 - NUKES: Lure of Ice. DEBUFFED = Fire Tears + SS/Garrisons</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 He is up the spiral staircase at the Red Circle on the map.
 
 ![Diabo-Xi-Xin-Thall-Map](/assets/img/Diabo-Xi-Xin-Thall-Map.jpg)

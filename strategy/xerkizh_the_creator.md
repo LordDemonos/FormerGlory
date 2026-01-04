@@ -87,4 +87,6 @@ cover-img: /assets/img/creator.jpg
 <div class="ability-cell">NO LOITERING</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Xerkizh The Creator&gt; - (165/60/60) lv66 - NUKES: Cold + Fire Tears. DEBUFFED = Add Magic Rain</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 Xerkizh the Creator is pretty straight forward. He is perma-rooted and can be slowed. Pre-debuff him before engaging. He rampages so make sure rampage tank gets aggro first. His main ability is a PBAE debuff that does -75% healing. Make sure to keep this cured (Decurse).

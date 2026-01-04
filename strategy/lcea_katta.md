@@ -63,4 +63,7 @@ cover-img: /assets/img/Lcea-Katta.jpg
 <div class="ability-cell">Immune to melee except magical</div>
 <div class="ability-cell">Always Calls for Help</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Lcea Katta&gt; - (150/60/55) lv65 - NUKES: Cold + Fire Tears. DEBUFFED = Add Magic Rain</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 ![Katta Castellum Map](/assets/img/Katta-Map.jpg)
