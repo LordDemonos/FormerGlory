@@ -14,7 +14,7 @@ cover-img: /assets/img/Lord-Inquisitor-Seru.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain: 3sec, 6sec slowed</strong> </div>
 </div>
 
 <div class="stats-grid">

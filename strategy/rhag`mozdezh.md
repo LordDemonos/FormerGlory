@@ -14,7 +14,7 @@ cover-img: /assets/img/rhag-2.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> Rhag Cycle</div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain: Remedy Spam</strong> </div>
 </div>
 
 <div class="stats-grid">
