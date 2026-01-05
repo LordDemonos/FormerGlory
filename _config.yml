@@ -36,6 +36,7 @@ navbar-links:
     - Raid Schedule: "raids"
   Strategy:
     - Boss Guides: "strategy"
+    - EQLogParser Guide: "eqlp"
     - GINA Guide: "gina"
     - Spell Focus Items: "focus"
     - Alternate Advancement: "aa"
