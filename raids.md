@@ -8,26 +8,30 @@ cover-img: /assets/img/raids.webp
 
 ## Table of Contents
 
-- [Week of 12/20 - 12/26](#week-12-12-20---12-26)
-- [Week of 12/27 - 1/2](#week-12-12-27---1-2)
+- [Week of 1/4 - 1/10](#week-1-1-4---1-10)
+- [Week of 1/11 - 1/17](#week-1-1-11---1-17)
 
-## December
-
-
-### Week of 12/20 - 12/26 {#week-12-12-20---12-26}
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-zl8iej0b7">&lt;Next Scheduled Raid&gt;Monday, 12/22, 9pm ET: Tunare + Yelinak + King Tormax + Plane of Fear + Halls of Testing - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-zl8iej0b7')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-219pnncuv">&lt;Next Scheduled Raid&gt;Wednesday, 12/24, 9pm ET: Holiday - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-219pnncuv')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-300mvejdp">&lt;Next Scheduled Raid&gt;Friday, 12/26, 9pm ET: North Temple of Veeshan + Vulak - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-300mvejdp')">Copy to Clipboard</button></div>
+## January
 
 
-### Week of 12/27 - 1/2 {#week-12-12-27---1-2}
+### Week of 1/4 - 1/10 {#week-1-1-4---1-10}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-82fb5e3qd">&lt;Next Scheduled Raid&gt;Saturday, 12/27, 9pm ET: Ring War + Ring War + Halls of Testing + Dozekar - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-82fb5e3qd')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-wy2xd2frq">&lt;Next Scheduled Raid&gt;Monday, 1/5, 9pm ET: Ssraeshza Temple - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-wy2xd2frq')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-ah3jhu3ns">&lt;Next Scheduled Raid&gt;Monday, 12/29, 9pm ET: Tunare + Yelinak + King Tormax + Plane of Fear + Sleeper's Tomb - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-ah3jhu3ns')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-aney70xb7">&lt;Next Scheduled Raid&gt;Wednesday, 1/7, 9pm ET: Vex Thal if you're keyed, Key pieces if you aren't - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-aney70xb7')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-usqn7hxo1">&lt;Next Scheduled Raid&gt;Wednesday, 12/31, 9pm ET: Holiday - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-usqn7hxo1')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-o6paqlev5">&lt;Next Scheduled Raid&gt;Friday, 1/9, 9pm ET: Ssraeshza Temple - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-o6paqlev5')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-8mw6tcztl">&lt;Next Scheduled Raid&gt;Saturday, 1/10, 9pm ET: Seru + Burrower - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-8mw6tcztl')">Copy to Clipboard</button></div>
+
+
+### Week of 1/11 - 1/17 {#week-1-1-11---1-17}
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-7if2ludwg">&lt;Next Scheduled Raid&gt;Monday, 1/12, 9pm ET: - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-7if2ludwg')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-z0oxdm5n8">&lt;Next Scheduled Raid&gt;Wednesday, 1/14, 9pm ET: - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-z0oxdm5n8')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-f101q6i0x">&lt;Next Scheduled Raid&gt;Friday, 1/16 9pm ET: - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-f101q6i0x')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-kasz8ohcw">&lt;Next Scheduled Raid&gt;Saturday, 1/17, 9pm ET: - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-kasz8ohcw')">Copy to Clipboard</button></div>
 
