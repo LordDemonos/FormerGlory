@@ -237,7 +237,7 @@ Bank14-Slot6	Spell: Chill Bones	19302	1	0
 Bank14-Slot7	Song: Composition of Ervaj	30452	1	0
 Bank14-Slot8	Song: Composition of Ervaj	30452	1	0
 Bank15	Backpack	17005	1	8
-Bank15-Slot1	Song: Warsong of the Vah Shir	7710	1	0
+Bank15-Slot1	Empty	0	0	0
 Bank15-Slot2	Spell: Ro`s Fiery Sundering	30437	1	0
 Bank15-Slot3	Spell: Reckoning	19212	1	0
 Bank15-Slot4	Spell: Quiver of Marr	19354	1	0
