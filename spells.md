@@ -20,7 +20,7 @@ Bnk5 s1 [Song: Melody of Ervaj](https://www.pqdi.cc/item/30449)
 
 Inv3 s10 [Song: Purifying Chorus](https://www.pqdi.cc/item/7708)
 
-Bnk12 s6 [Song: Warsong of the Vah Shir](https://www.pqdi.cc/item/7710) x2
+Bnk12 s6 [Song: Warsong of the Vah Shir](https://www.pqdi.cc/item/7710)
 
 SBnk6 [Spell: Abscond](https://www.pqdi.cc/item/19320)
 
