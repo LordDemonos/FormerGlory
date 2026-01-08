@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2025-12-04
+### Last Update: 2026-01-08
 
 Inv2 s2 [Song: Battlecry of the Vah Shir](https://www.pqdi.cc/item/7706)
 
@@ -19,6 +19,8 @@ Bnk2 s2 [Song: Elemental Chorus](https://www.pqdi.cc/item/7707)
 Bnk5 s1 [Song: Melody of Ervaj](https://www.pqdi.cc/item/30449)
 
 Inv3 s10 [Song: Purifying Chorus](https://www.pqdi.cc/item/7708)
+
+Bnk12 s6 [Song: Warsong of the Vah Shir](https://www.pqdi.cc/item/7710) x2
 
 SBnk6 [Spell: Abscond](https://www.pqdi.cc/item/19320)
 
@@ -46,11 +48,13 @@ Bnk3 s7 [Spell: Blessed Armor of the Risen](https://www.pqdi.cc/item/7609)
 
 SBnk3 [Spell: Breath of Karana](https://www.pqdi.cc/item/19250)
 
+Bnk24 s7 [Spell: Brell's Mountainous Barrier](https://www.pqdi.cc/item/7690)
+
 Bnk9 s3 [Spell: Bristlebane`s Bundle](https://www.pqdi.cc/item/19351) x3
 
 Bnk8 s1 [Spell: Call of Fire](https://www.pqdi.cc/item/30463) x4
 
-Bnk10 s7 [Spell: Call of the Predator](https://www.pqdi.cc/item/30464) x3
+Bnk10 s8 [Spell: Call of the Predator](https://www.pqdi.cc/item/30464) x4
 
 Bnk28 s7 [Spell: Cannibalize III](https://www.pqdi.cc/item/19272)
 
@@ -69,6 +73,8 @@ Bnk13 s6 [Spell: Convergence](https://www.pqdi.cc/item/19423)
 Bnk3 s3 [Spell: Corporeal Empathy](https://www.pqdi.cc/item/30413) x2
 
 Bnk8 s5 [Spell: Cripple](https://www.pqdi.cc/item/19269) x2
+
+Bnk5 s8 [Spell: Crippling Claudication](https://www.pqdi.cc/item/7648)
 
 Bnk5 s7 [Spell: Death Pact](https://www.pqdi.cc/item/19203) x2
 
@@ -94,9 +100,13 @@ Bnk17 s2 [Spell: Dyzil`s Deafening Decoy](https://www.pqdi.cc/item/19364)
 
 SBnk2 [Spell: Egress](https://www.pqdi.cc/item/19236)
 
+Inv2 s6 [Spell: Elemental Maelstrom](https://www.pqdi.cc/item/30403)
+
 Bnk22 s2 [Spell: Enforced Reverence](https://www.pqdi.cc/item/19222)
 
 Bnk4 s5 [Spell: Enlightenment](https://www.pqdi.cc/item/19396) x4
+
+Bnk27 s4 [Spell: Enticement of Flame](https://www.pqdi.cc/item/30421)
 
 Bnk13 s7 [Spell: Epitaph of Life](https://www.pqdi.cc/item/7606)
 
@@ -110,11 +120,11 @@ Inv3 s2 [Spell: Falcon Eye](https://www.pqdi.cc/item/7696) x2
 
 Bnk20 s1 [Spell: Flame of Light](https://www.pqdi.cc/item/30454) x2
 
-Bnk16 s5 [Spell: Focus of Spirit](https://www.pqdi.cc/item/30432) x4
+Bnk12 s7 [Spell: Focus of Spirit](https://www.pqdi.cc/item/30432) x5
 
 Inv3 s1 [Spell: Foliage Shield](https://www.pqdi.cc/item/7616)
 
-Bnk2 s6 [Spell: Gift of Brilliance](https://www.pqdi.cc/item/30410) x5
+Bnk2 s6 [Spell: Gift of Brilliance](https://www.pqdi.cc/item/30410) x6
 
 Bnk5 s3 [Spell: Gift of Insight](https://www.pqdi.cc/item/30409) x5
 
@@ -132,13 +142,15 @@ SBnk3 [Spell: Greater Vocaration: Air](https://www.pqdi.cc/item/19371)
 
 Bnk20 s3 [Spell: Greater Vocaration: Water](https://www.pqdi.cc/item/19372) x3
 
+Bnk19 s2 [Spell: Healing  Wave of Prexus](https://www.pqdi.cc/item/7689)
+
 Bnk14 s1 [Spell: Heroic Bond](https://www.pqdi.cc/item/19224) x6
 
 Bnk21 s5 [Spell: Ice Spear of Solist](https://www.pqdi.cc/item/30426) x2
 
-Bnk21 s7 [Spell: Improved Invis vs Undead](https://www.pqdi.cc/item/30411) x3
+Bnk21 s7 [Spell: Improved Invis vs Undead](https://www.pqdi.cc/item/30411) x4
 
-Bnk16 s3 [Spell: Improved Invisibility](https://www.pqdi.cc/item/30406) x2
+Bnk16 s3 [Spell: Improved Invisibility](https://www.pqdi.cc/item/30406) x3
 
 Bnk11 s5 [Spell: Inferno of Al`Kabor](https://www.pqdi.cc/item/19322)
 
@@ -150,23 +162,35 @@ Bnk17 s8 [Spell: Jyll`s Wave of Heat](https://www.pqdi.cc/item/19340)
 
 SBnk2 [Spell: Largarn`s Lamentation](https://www.pqdi.cc/item/19388) x2
 
+Bnk19 s1 [Spell: Maelstrom of Electricity](https://www.pqdi.cc/item/19497)
+
 Bnk18 s7 [Spell: Mala](https://www.pqdi.cc/item/19418) x3
 
 Bnk6 s1 [Spell: Manastorm](https://www.pqdi.cc/item/19370) x3
 
-Inv2 s3 [Spell: Mark of Retribution](https://www.pqdi.cc/item/7607) x2
+Inv2 s3 [Spell: Mark of Retribution](https://www.pqdi.cc/item/7607) x3
 
 Bnk17 s6 [Spell: Markar`s Discord](https://www.pqdi.cc/item/19331) x2
+
+Bnk22 s1 [Spell: Mask of the Stalker](https://www.pqdi.cc/item/19529)
 
 Inv3 s6 [Spell: Mental Corruption](https://www.pqdi.cc/item/7676) x2
 
 Bnk4 s3 [Spell: Mesmerization](https://www.pqdi.cc/item/16217) x2
 
+Bnk8 s8 [Spell: Mind Wrack](https://www.pqdi.cc/item/7649)
+
 Bnk8 s6 [Spell: Monster Summoning II](https://www.pqdi.cc/item/30402) x2
 
 Bnk21 s3 [Spell: Monster Summoning III](https://www.pqdi.cc/item/30404) x4
 
+Bnk28 s1 [Spell: Moonfire](https://www.pqdi.cc/item/19519)
+
 Bnk2 s4 [Spell: Naltron's Mark](https://www.pqdi.cc/item/19435) x3
+
+Bnk22 s4 [Spell: Nature's Recovery](https://www.pqdi.cc/item/7620)
+
+Bnk17 s3 [Spell: Phantasmal Protection](https://www.pqdi.cc/item/7639)
 
 Bnk4 s7 [Spell: Pillage Enchantment](https://www.pqdi.cc/item/15025) x2
 
@@ -178,7 +202,7 @@ Inv2 s8 [Spell: Plague of insects](https://www.pqdi.cc/item/7627)
 
 SBnk8 [Spell: Pouch of Quellious](https://www.pqdi.cc/item/19361)
 
-Bnk16 s7 [Spell: Protection of the Glades](https://www.pqdi.cc/item/30442) x2
+Bnk16 s7 [Spell: Protection of the Glades](https://www.pqdi.cc/item/30442) x3
 
 Bnk15 s4 [Spell: Quiver of Marr](https://www.pqdi.cc/item/19354)
 
@@ -208,13 +232,27 @@ Bnk10 s3 [Spell: Shroud of Death](https://www.pqdi.cc/item/30459) x3
 
 Bnk3 s2 [Spell: Shroud of Pain](https://www.pqdi.cc/item/30458) x2
 
+Bnk19 s7 [Spell: Spell Shield](https://www.pqdi.cc/item/7659)
+
 Inv2 s9 [Spell: Spirit of Eagle](https://www.pqdi.cc/item/7617) x2
+
+Bnk20 s6 [Spell: Spirit of Khati Sha](https://www.pqdi.cc/item/7731)
+
+Bnk19 s4 [Spell: Spirit of Khurenz](https://www.pqdi.cc/item/7727)
+
+Bnk28 s4 [Spell: Spirit of Scale](https://www.pqdi.cc/item/19238)
+
+Inv2 s10 [Spell: Spiritual Purity](https://www.pqdi.cc/item/7729)
 
 Bnk5 s5 [Spell: Splurt](https://www.pqdi.cc/item/19294)
 
 SBnk6 [Spell: Stun Command](https://www.pqdi.cc/item/30446)
 
-Bnk25 s1 [Spell: Summon: Muzzle of Mardu](https://www.pqdi.cc/item/19363) x4
+Bnk19 s5 [Spell: Summon Phantom Plate](https://www.pqdi.cc/item/7634)
+
+Bnk19 s3 [Spell: Summon: Muzzle of Mardu](https://www.pqdi.cc/item/19363) x5
+
+Bnk19 s6 [Spell: Talisman of Epuration](https://www.pqdi.cc/item/7629)
 
 Bnk17 s7 [Spell: Talisman of Jasinth](https://www.pqdi.cc/item/19264) x4
 
@@ -224,7 +262,7 @@ Bnk14 s3 [Spell: Talisman of the Rhino](https://www.pqdi.cc/item/19284)
 
 Bnk20 s5 [Spell: Tears of Druzzil](https://www.pqdi.cc/item/19319) x2
 
-Inv3 s5 [Spell: Terror of Terris](https://www.pqdi.cc/item/24542)
+Inv3 s5 [Spell: Terror of Terris](https://www.pqdi.cc/item/24542) x2
 
 Bnk23 s3 [Spell: The Unspoken Word](https://www.pqdi.cc/item/19225) x2
 
@@ -236,9 +274,11 @@ Bnk15 s5 [Spell: Tigir`s Insects](https://www.pqdi.cc/item/19285)
 
 SBnk9 [Spell: Torment of Argli](https://www.pqdi.cc/item/19391) x2
 
-Bnk9 s5 [Spell: Torpor](https://www.pqdi.cc/item/19293) x7
+Bnk9 s6 [Spell: Torpor](https://www.pqdi.cc/item/19293) x6
 
 Inv2 s1 [Spell: Torrent of Hate](https://www.pqdi.cc/item/7677)
+
+Bnk9 s5 [Spell: Torrent of Pain](https://www.pqdi.cc/item/7678)
 
 Bnk4 s1 [Spell: Trepidation](https://www.pqdi.cc/item/19220) x3
 
@@ -258,7 +298,7 @@ Bnk11 s3 [Spell: Velocity](https://www.pqdi.cc/item/19348)
 
 SBnk3 [Spell: Vengeance of Al`Kabor](https://www.pqdi.cc/item/19342)
 
-Bnk18 s3 [Spell: Visions of Grandeur](https://www.pqdi.cc/item/19407) x2
+Bnk18 s3 [Spell: Visions of Grandeur](https://www.pqdi.cc/item/19407) x3
 
 Bnk2 s8 [Spell: Vocarate: Fire](https://www.pqdi.cc/item/19355) x2
 
@@ -266,11 +306,13 @@ Bnk11 s8 [Spell: Vocarate: Water](https://www.pqdi.cc/item/19362) x3
 
 Bnk3 s1 [Spell: Wave of Healing](https://www.pqdi.cc/item/30455) x7
 
-Bnk15 s6 [Spell: Wind of Tashanian](https://www.pqdi.cc/item/19405) x3
+Bnk15 s6 [Spell: Wind of Tashanian](https://www.pqdi.cc/item/19405) x5
+
+Bnk26 s8 [Spell: Word of Redemption](https://www.pqdi.cc/item/19229)
 
 Bnk13 s8 [Spell: Word of Restoration](https://www.pqdi.cc/item/19221)
 
-Inv3 s4 [Spell: Wrath of the Elements](https://www.pqdi.cc/item/30405) x5
+Inv3 s4 [Spell: Wrath of the Elements](https://www.pqdi.cc/item/30405) x6
 
 Bnk15 s7 [Spell: Yaulp IV](https://www.pqdi.cc/item/19209) x2
 
