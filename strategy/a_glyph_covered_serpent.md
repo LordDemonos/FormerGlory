@@ -14,7 +14,7 @@ cover-img: /assets/img/a-glyph-covered-serp.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> Cursed Cycle</div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain: 2sec, 4+ slowed</strong> </div>
 </div>
 
 <div class="stats-grid">
