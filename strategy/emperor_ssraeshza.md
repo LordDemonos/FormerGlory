@@ -14,7 +14,7 @@ cover-img: /assets/img/Emperor-Ssraeshza2.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 Days</div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain: 2 sec, min 6 healers, Rune and Remedy spam on tankbuster</strong> </div>
 </div>
 
 <div class="stats-grid">
