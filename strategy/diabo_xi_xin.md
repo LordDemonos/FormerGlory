@@ -14,7 +14,7 @@ cover-img: /assets/img/Diabo-Xi-Xin.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> </div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain: 3sec, 6sec slowed</strong> </div>
 </div>
 
 <div class="stats-grid">
