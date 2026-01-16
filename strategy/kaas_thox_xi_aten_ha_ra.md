@@ -14,7 +14,7 @@ cover-img: /assets/img/Kaas-Thox-Xi-Aten-Ha-Ra-1.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> </div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem"><strong>Chain: 2sec, 4sec slowed</strong> </div>
 </div>
 
 <div class="stats-grid">
@@ -69,6 +69,6 @@ cover-img: /assets/img/Kaas-Thox-Xi-Aten-Ha-Ra-1.jpg
 <div class="ability-cell">Immune to lull effects</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Kaas Thox Xi Aten Ha Ra&gt; - (110/100/100) lv66 - NUKES: Cold + Fire Tears OR Lure of Ice. DEBUFFED = Use Tears</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Kaas Thox Xi Aten Ha Ra&gt; - Chain: 2sec, 4sec slowed, Hits 1650, casts Fling (AE PC, Gravity Flux Effect, Unresistable), slowable, 1.9M HP, backstabs (at least for 3000+, possibly more). Careful when pulling and during knockbacks!</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 ![Blob-Maps](/assets/img/Blob-Maps.jpg)
