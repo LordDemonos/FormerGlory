@@ -876,19 +876,25 @@ cover-img: /assets/img/strategy.webp
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="aten_ha_ra">Aten Ha Ra</a></li>
-      <li>Level 66 Akheva Warrior</li>
+      <li><a href="va_dyn_khar">Va Dyn Khar</a></li>
+      <li>Level 66 Stonegrabber Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="thall_va_xakra">Thall Va Xakra</a></li>
+      <li>Level 60 Shade Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="kaas_thox_xi_ans_dyek">Kaas Thox Xi Ans Dyek</a></li>
+      <li>Level 66 Goo Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
       <li><a href="diabo_xi_va">Diabo Xi Va</a></li>
-      <li>Level 66 Akheva Wizard</li>
-    </ul>
-  </div>
-  <div class="card dragon">
-    <ul>
-      <li><a href="diabo_xi_va_temariel">Diabo Xi Va Temariel</a></li>
       <li>Level 66 Akheva Wizard</li>
     </ul>
   </div>
@@ -906,26 +912,14 @@ cover-img: /assets/img/strategy.webp
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="kaas_thox_xi_ans_dyek">Kaas Thox Xi Ans Dyek</a></li>
-      <li>Level 66 Goo Warrior</li>
-    </ul>
-  </div>
-  <div class="card dragon">
-    <ul>
-      <li><a href="kaas_thox_xi_aten_ha_ra">Kaas Thox Xi Aten Ha Ra</a></li>
-      <li>Level 66 Goo Rogue</li>
-    </ul>
-  </div>
-  <div class="card dragon">
-    <ul>
       <li><a href="thall_va_kelun">Thall Va Kelun</a></li>
       <li>Level 66 Akheva Rogue</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="thall_va_xakra">Thall Va Xakra</a></li>
-      <li>Level 60 Shade Warrior</li>
+      <li><a href="diabo_xi_va_temariel">Diabo Xi Va Temariel</a></li>
+      <li>Level 66 Akheva Wizard</li>
     </ul>
   </div>
   <div class="card dragon">
@@ -936,13 +930,19 @@ cover-img: /assets/img/strategy.webp
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="va_dyn_khar">Va Dyn Khar</a></li>
-      <li>Level 66 Stonegrabber Warrior</li>
+      <li><a href="va_xi_aten_ha_ra">Va Xi Aten Ha Ra</a></li>
+      <li>Level 66 Akheva Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="va_xi_aten_ha_ra">Va Xi Aten Ha Ra</a></li>
+      <li><a href="kaas_thox_xi_aten_ha_ra">Kaas Thox Xi Aten Ha Ra</a></li>
+      <li>Level 66 Goo Rogue</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="aten_ha_ra">Aten Ha Ra</a></li>
       <li>Level 66 Akheva Warrior</li>
     </ul>
   </div>
