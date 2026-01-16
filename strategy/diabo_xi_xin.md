@@ -67,7 +67,7 @@ cover-img: /assets/img/Diabo-Xi-Xin.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Diabo Xi Xin&gt; - (165/75/75) lv66 - NUKES: Cold + Fire Tears OR Cold Tears + Ancient</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Diabo Xi Xin&gt; - CH Chain: 3sec, 6sec slowed, Hits 1200, slowable, rampages, approximately 1.1M HP.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 Va Xakra mobs that drop North Tower Key spawn in rooms behind him. He is up the spiral staircase at the Red Circle on the map.
 
