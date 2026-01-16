@@ -14,7 +14,7 @@ cover-img: /assets/img/Va-Xi-Aten-Ha-Ra.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> </div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem"><strong>Chain: 2sec, 4sec slowed</strong> </div>
 </div>
 
 <div class="stats-grid">
@@ -70,6 +70,6 @@ cover-img: /assets/img/Va-Xi-Aten-Ha-Ra.jpg
 <div class="ability-cell">Immune to lull effects</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Va Xi Aten Ha Ra&gt; - (150/140/125) lv66 - NUKES: Lure of Ice. DEBUFFED = Fire Tears + SS/Garrisons</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Va Xi Aten Ha Ra&gt; - Chain: 2sec, 4sec slowed, Hits 1254, slowable, casts Fling (AE PC, Gravity Flux Effect, Unresistable), 1.6M HP.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 ![Va-Xi-Aten-Ha-Ra-Map](/assets/img/Va-Xi-Aten-Ha-Ra-Map.jpg)
