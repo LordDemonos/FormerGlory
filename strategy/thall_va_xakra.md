@@ -14,7 +14,7 @@ cover-img: /assets/img/Thall-Va-Xakra.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> </div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain: 6sec</strong> </div>
 </div>
 
 <div class="stats-grid">
@@ -71,7 +71,7 @@ cover-img: /assets/img/Thall-Va-Xakra.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Thall Va Xakra&gt; - (125/170/170) lv66 - NUKES: Lure of Ice. DEBUFFED = Fire Tears + SS/Garrisons</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Thall Va Xakra&gt; - CH Chain: 6sec, Hits 950, rampages, casts Silence of the Shadows (Targeted AE, Silence, Unresistable) and Word of Command (PBAE, 3 sec stun/ 250 DD, -100 Magic Based), slowable, 900K HP.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 There are two of these mobs. See map Red Circles for the locations. North Wing Key drops from Va Xakra mobs near these bosses.
 
