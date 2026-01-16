@@ -8,8 +8,6 @@ subtitle: List of Spells in the guild bank
 
 ### Last Update: 2026-01-16
 
-Location [Name](https://www.pqdi.cc/item/ID) x3
-
 Inv1 s2 [Song: Battlecry of the Vah Shir](https://www.pqdi.cc/item/7706) x3
 
 Bnk2 s4 [Song: Chorus of Replenishment](https://www.pqdi.cc/item/7709)
