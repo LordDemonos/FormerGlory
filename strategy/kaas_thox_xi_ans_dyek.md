@@ -71,6 +71,6 @@ cover-img: /assets/img/Kaas-Thox-Xi-Ans-Dyek.jpg
 <div class="ability-cell">Immune to lull effects</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Kaas Thox Xi Ans Dyek&gt; - (120/60/190) lv66 - NUKES: Cold Tears + Ancient/IceSpear. DEBUFFED = Add Fire Tears</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Kaas Thox Xi Ans Dyek&gt; - CH Chain: 2sec, Hits 650, permarooted, immune to slow, flurries, casts Fling (AE PC, Gravity Flux Effect, Unresistable), 1.2M HP.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 ![Kaas-Thox-Xi-Ans-Dyek-Map.jpg](/assets/img/Kaas-Thox-Xi-Ans-Dyek-Map.jpg)
