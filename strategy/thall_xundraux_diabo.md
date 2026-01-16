@@ -14,7 +14,7 @@ cover-img: /assets/img/Thall-Xundraux-Diabo.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> </div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain: 3 sec</strong> </div>
 </div>
 
 <div class="stats-grid">
@@ -67,6 +67,6 @@ cover-img: /assets/img/Thall-Xundraux-Diabo.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Thall Xundraux Diabo&gt; - (185/190/155) lv66 - NUKES: Lure of Ice. DEBUFFED = Fire Tears + SS/Garrisons</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Thall Xundraux Diabo&gt; - CH Chain: 3 sec, Hits 654, flurries, cannot be slowed, 1.4M HP, casts Fling (Single Target, Gravity Flux Effect, Unresistable).</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 ![Thall-Xundraux-Diabo-Map](/assets/img/Thall-Xundraux-Diabo-Map.jpg)
