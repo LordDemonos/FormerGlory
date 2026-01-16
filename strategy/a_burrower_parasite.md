@@ -14,7 +14,7 @@ cover-img: /assets/img/the-burrower-beast2.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days, 18 hours and 3 minutes</div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain: 4 sec</strong> </div>
 </div>
 
 <div class="stats-grid">

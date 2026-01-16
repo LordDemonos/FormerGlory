@@ -14,7 +14,7 @@ cover-img: /assets/img/arch-lich.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> Rhag Cycle</div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain: 4 sec</strong> </div>
 </div>
 
 <div class="stats-grid">
