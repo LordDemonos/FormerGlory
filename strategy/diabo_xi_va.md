@@ -14,7 +14,7 @@ cover-img: /assets/img/Diabo-Xi-Va.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> </div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain: 4 sec</strong> </div>
 </div>
 
 <div class="stats-grid">
@@ -86,7 +86,7 @@ cover-img: /assets/img/Diabo-Xi-Va.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Diabo Xi Va&gt; - (185/90/90) lv66 - NUKES: Cold + Fire Tears OR Cold Tears + Ancient</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Diabo Xi Va&gt; - CH Chain: 4 sec, Hits 654, immune to slow, casts Invert Gravity (Targeted AE, Knock Up + 250 DD, Magic Based) and various Damage/Root Wizard spells, approximately 1M HP.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 Va Xakra mobs that drop North Tower Key spawn in rooms behind him. He is up the spiral staircase at the Red Circle on the map.
 
