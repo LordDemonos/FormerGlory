@@ -12,13 +12,11 @@ Inv1 s2 [Song: Battlecry of the Vah Shir](https://www.pqdi.cc/item/7706) x6
 
 Bnk2 s4 [Song: Chorus of Replenishment](https://www.pqdi.cc/item/7709) x2
 
-Bnk14 s7 [Song: Composition of Ervaj](https://www.pqdi.cc/item/30452) x4
+Bnk14 s7 [Song: Composition of Ervaj](https://www.pqdi.cc/item/30452) x3
 
-Inv2 s5 [Song: Elemental Chorus](https://www.pqdi.cc/item/7707) x6
+Inv2 s5 [Song: Elemental Chorus](https://www.pqdi.cc/item/7707) x5
 
 SBnk5 [Song: Melody of Ervaj](https://www.pqdi.cc/item/30449)
-
-Inv2 s7 [Song: Occlusion of Sound](https://www.pqdi.cc/item/30451)
 
 Bnk2 s5 [Song: Purifying Chorus](https://www.pqdi.cc/item/7708)
 
@@ -50,8 +48,6 @@ Inv7 s5 [Spell: Blast of Poison](https://www.pqdi.cc/item/30429) x4
 
 Inv4 s2 [Spell: Blessed Armor of the Risen](https://www.pqdi.cc/item/7609) x2
 
-Bnk2 s4 [Spell: Breath of Karana](https://www.pqdi.cc/item/19250)
-
 Bnk2 s7 [Spell: Breath of Tunare](https://www.pqdi.cc/item/7688)
 
 Inv6 s1 [Spell: Brell's Mountainous Barrier](https://www.pqdi.cc/item/7690) x4
@@ -68,7 +64,7 @@ Bnk21 s1 [Spell: Cannibalize IV](https://www.pqdi.cc/item/19473) x2
 
 Bnk14 s5 [Spell: Chill Bones](https://www.pqdi.cc/item/19302) x3
 
-Bnk2 s1 [Spell: Circle of Seasons](https://www.pqdi.cc/item/7619) x3
+SBnk9 [Spell: Circle of Seasons](https://www.pqdi.cc/item/7619) x2
 
 Inv2 s4 [Spell: Cloak of the Akheva](https://www.pqdi.cc/item/7680) x2
 
@@ -216,7 +212,7 @@ SBnk3 [Spell: Monster Summoning II](https://www.pqdi.cc/item/30402) x3
 
 Bnk21 s3 [Spell: Monster Summoning III](https://www.pqdi.cc/item/30404) x4
 
-Bnk1 s1 [Spell: Moonfire](https://www.pqdi.cc/item/19519) x3
+SBnk1 [Spell: Moonfire](https://www.pqdi.cc/item/19519) x2
 
 Bnk26 s6 [Spell: Naltron's Mark](https://www.pqdi.cc/item/19435) x2
 
@@ -253,8 +249,6 @@ SBnk7 [Spell: Reoccurring Amnesia](https://www.pqdi.cc/item/15194)
 Bnk27 s7 [Spell: Retribution of Al`Kabor](https://www.pqdi.cc/item/19332) x2
 
 Inv2 s5 [Spell: Ro's Smoldering Disjunction](https://www.pqdi.cc/item/7618)
-
-Bnk15 s2 [Spell: Ro`s Fiery Sundering](https://www.pqdi.cc/item/30437)
 
 SBnk6 [Spell: Scars of Sigil](https://www.pqdi.cc/item/19358) x2
 
