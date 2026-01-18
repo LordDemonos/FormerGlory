@@ -4,8 +4,8 @@ Head	Empty	0	0	0
 Face	Empty	0	0	0
 Ear	Empty	0	0	0
 Neck	Empty	0	0	0
-Shoulders	Empty	0	0	0
-Arms	Empty	0	0	0
+Shoulders	Empty	0	0	
+
 Back	Empty	0	0	0
 Wrist	Empty	0	0	0
 Wrist	Empty	0	0	0
@@ -39,7 +39,7 @@ General2-Slot3	Spell: Wind of Tashanian	19405	1	0
 General2-Slot4	Spell: Wrath of the Elements	30405	1	0
 General2-Slot5	Song: Elemental Chorus	7707	1	0
 General2-Slot6	Empty	0	0	0
-General2-Slot7	Song: Occlusion of Sound	30451	1	0
+0
 General2-Slot8	Spell: Spirit of Khurenz	7727	1	0
 General3	Backpack	17005	1	8
 General3-Slot1	Spell: Arch Lich	30416	1	0
@@ -102,7 +102,7 @@ General8-Slot10	Empty	0	0	0
 General-Coin	Currency	0	535194	0
 Held	Empty	0	0	0
 Bank1	Large Box	17007	1	8
-Bank1-Slot1	Spell: Moonfire	19519	1	0
+
 Bank1-Slot2	Spell: Torrent of Hate	7677	1	0
 Bank1-Slot3	Spell: Mass Mystical Transvergan	7638	1	0
 Bank1-Slot4	Spell: Terror of Terris	24542	1	0
@@ -111,7 +111,6 @@ Bank1-Slot6	Song: Battlecry of the Vah Shir	7706	1	0
 Bank1-Slot7	Spell: Terror of Terris	24542	1	0
 Bank1-Slot8	Spell: Remove Curse	19542	1	0
 Bank2	Backpack	17005	1	8
-Bank2-Slot1	Spell: Circle of Seasons	7619	1	0
 Bank2-Slot2	Spell: Stun Command	30446	1	0
 Bank2-Slot3	Empty	0	0	0
 Bank2-Slot4	Song: Chorus of Replenishment	7709	1	0
@@ -241,7 +240,7 @@ Bank14-Slot7	Song: Composition of Ervaj	30452	1	0
 Bank14-Slot8	Song: Composition of Ervaj	30452	1	0
 Bank15	Backpack	17005	1	8
 Bank15-Slot1	Empty	0	0	0
-Bank15-Slot2	Spell: Ro`s Fiery Sundering	30437	1	0
+
 Bank15-Slot3	Spell: Reckoning	19212	1	0
 Bank15-Slot4	Spell: Quiver of Marr	19354	1	0
 Bank15-Slot5	Spell: Tigir`s Insects	19285	1	0
@@ -510,7 +509,7 @@ General4-Slot4	Spell: Firetree's Familiar Augment	7656	1	0
 General4-Slot5	Spell: Aegis of Ro	15863	1	0
 General4-Slot6	Spell: Terror of Terris	24542	1	0
 General4-Slot7	Spell: Spirit of Omakin	7723	1	0
-General4-Slot8	Song: Elemental Chorus	7707	1	0
+
 General5	Trader's Satchel	17899	1	10
 General5-Slot1	Empty	0	0	0
 General5-Slot2	Empty	0	0	0
@@ -562,7 +561,7 @@ Bank2	Trader's Satchel	17899	1	10
 Bank2-Slot1	Spell: Greater Vocaration: Air	19371	1	0
 Bank2-Slot2	Spell: Torpor	19293	1	0
 Bank2-Slot3	Spell: Thrall of Bones	19299	1	0
-Bank2-Slot4	Spell: Breath of Karana	19250	1	0
+
 Bank2-Slot5	Spell: Enlightenment	19396	1	0
 Bank2-Slot6	Spell: Heroic Bond	19224	1	0
 Bank2-Slot7	Spell: Vengeance of Al`Kabor	19342	1	0
@@ -695,7 +694,7 @@ Bank15	Empty	0	0	0
 Bank16	Backpack	17005	1	8
 Bank16-Slot1	Spell: Familiar	7657	1	0
 Bank16-Slot2	Song: Battlecry of the Vah Shir	7706	1	0
-Bank16-Slot3	Song: Composition of Ervaj	30452	1	0
+
 Bank16-Slot4	Song: Chorus of Replenishment	7709	1	0
 Bank16-Slot5	Spell: Chill Bones	19302	1	0
 Bank16-Slot6	Spell: Familiar	7657	1	0
