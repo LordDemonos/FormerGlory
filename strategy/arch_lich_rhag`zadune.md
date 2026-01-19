@@ -74,7 +74,7 @@ cover-img: /assets/img/arch-lich.jpg
 <div class="ability-cell">NO LOITERING</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Arch Lich Rhag`Zadune&gt; - (160/60/60) lv63 - NUKES: Cold + Fire Tears. DEBUFFED = Add Magic Rain</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Arch Lich Rhag'Zadune (Rhag 3)&gt; - CH Chain: 4sec, Hits for 774, Immune to Slow, Rampages, Undead, Casts: Annual Self (Self Dispel), Casts: Deathly Chants (PBAE, Lowers Mana Pool by 1500, -120 HP/Tick DoT, Unresistable, 9 Curse Counter), Casts: Death Shackles (Single Target, -300 DD / 8 second stun, pushback, -50 endurance, Unresistable), 825k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 Arch Lich Rhag`Zadune is the final boss of the spawn cycle. He spawns on the 3rd floor that requires Zazuzh Key to get to. He has a PBAE DoT that lowers your max mana pool by 1500. He also procs a knockback on the tank. Have healers stand out of line-of-sight under his ledge. It is not a very difficult fight but he has a lot of HP.
 
