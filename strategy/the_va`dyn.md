@@ -14,7 +14,7 @@ cover-img: /assets/img/The-VaDyn.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days, 18 hours and 3 minutes</div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain: Remedy</strong> </div>
 </div>
 
 <div class="stats-grid">
@@ -66,4 +66,4 @@ cover-img: /assets/img/The-VaDyn.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;The Va`Dyn&gt; - (75/150/50) lv63 - NUKES: Magic + Fire Tears. DEBUFFED = All 3 Tears</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;The Va`Dyn&gt; - CH CHain: Remedy, Hits for 525, Flurries, Slowable, Enrages, 250k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
