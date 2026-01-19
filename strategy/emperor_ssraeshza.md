@@ -68,8 +68,7 @@ cover-img: /assets/img/Emperor-Ssraeshza2.jpg
 <div class="ability-cell">NO LOITERING</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Emperor Ssraeshza&gt; - CH Chain: 2 sec, min 6 healers, Rune and Remedy spam on tankbuster, Immune to Melee (USE SHISSAR BANE), Casts: 
-Rage of Ssraeshza: -90% Slow + -4000HP + +95% Hate + -400AC (36 Curse Counters), Casts: Siminutive Stature: SpinStun + +95% Hate, 1.25M HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Emperor Ssraeshza&gt; - CH Chain: 2 sec, min 6 healers, Rune and Remedy spam on tankbuster, Immune to Melee (USE SHISSAR BANE), Casts:  Rage of Ssraeshza: -90% Slow + -4000HP + +95% Hate + -400AC (36 Curse Counters), Casts: Siminutive Stature: SpinStun + +95% Hate, 1.25M HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 Before fighting Emperor Ssraeshza, your raid will need to complete two tasks:
 
