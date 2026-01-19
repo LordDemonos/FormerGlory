@@ -14,7 +14,7 @@ cover-img: /assets/img/Servitor-of-Luclin.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days, 18 hours and 3 minutes</div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain: Remedy</strong> </div>
 </div>
 
 <div class="stats-grid">
@@ -62,4 +62,4 @@ cover-img: /assets/img/Servitor-of-Luclin.jpg
 <div class="ability-cell">Immune to lull effects</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Servitor of Luclin&gt; - (45/180/40) lv65 - NUKES: Magic + Fire Tears</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Servitor of Luclin&gt; - CH Chain: Remedy, Hits for 365, Flurries, Enrages, Slowable, 120k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
