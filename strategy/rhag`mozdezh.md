@@ -69,6 +69,6 @@ cover-img: /assets/img/rhag-2.jpg
 <div class="ability-cell">NO LOITERING</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Rhag`Mozdezh&gt; - (60/60/60) lv63 - NUKES: Cold Tears + Ancient/IceSpear. DEBUFFED = Add Other Rains</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Rhag'Mozdezh (Rhag 2)&gt; - CH Chain: Remedy, Hits for 574, Immune to Slow, Rampages, Undead, Casts: Breath of Rhag’Mozdezh (PBAE, -275 HP/Tick DoT and -100 Endurance Drain, -150 Disease Based, 9 counter Disease Cure)</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 ![ssra-floor-2](/assets/img/ssra-floor-2.jpg)
