@@ -67,6 +67,6 @@ cover-img: /assets/img/rhag-1.jpg
 <div class="ability-cell">NO LOITERING</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Rhag`Zhezum&gt; - (60/60/60) lv63 - NUKES: Cold Tears + Ancient/IceSpear. DEBUFFED = Add Other Rains</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Rhag'Zhezum (Rhag 1)&gt; - CH Chain: Remedy, Hits for 310, Immune to Slow, Flurries, Undead, Casts: Rhag’Zhezum’s Deathly Embrace (Single Target, 0.5 second stun, -100 endurance/tick, -300 Cold Resist), 200k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 ![ssra-main-floor](/assets/img/ssra-main-floor.jpg)
