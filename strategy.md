@@ -792,20 +792,20 @@ cover-img: /assets/img/strategy.webp
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="arch_lich_rhag`zadune">Arch Lich Rhag`Zadune</a></li>
-      <li>Level 63 Shissar Warrior</li>
-    </ul>
-  </div>
-  <div class="card dragon">
-    <ul>
-      <li><a href="emperor_ssraeshza">Emperor Ssraeshza</a></li>
-      <li>Level 66 Shissar Warrior</li>
-    </ul>
-  </div>
-  <div class="card dragon">
-    <ul>
       <li><a href="high_priest_of_ssraeshza">High Priest of Ssraeshza</a></li>
       <li>Level 66 Shissar Cleric</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="xerkizh_the_creator">Xerkizh The Creator</a></li>
+      <li>Level 66 Shissar Shaman</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="rhag`zhezum">Rhag`Zhezum</a></li>
+      <li>Level 63 Shissar Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
@@ -816,7 +816,19 @@ cover-img: /assets/img/strategy.webp
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="rhag`zhezum">Rhag`Zhezum</a></li>
+      <li><a href="arch_lich_rhag`zadune">Arch Lich Rhag`Zadune</a></li>
+      <li>Level 63 Shissar Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="a_glyph_covered_serpent">a glyph covered serpent</a></li>
+      <li>Level 63 Shissar Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="vyzh`dra_the_exiled">Vyzh`dra the Exiled</a></li>
       <li>Level 63 Shissar Warrior</li>
     </ul>
   </div>
@@ -828,20 +840,8 @@ cover-img: /assets/img/strategy.webp
   </div>
   <div class="card dragon">
     <ul>
-      <li><a href="vyzh`dra_the_exiled">Vyzh`dra the Exiled</a></li>
-      <li>Level 63 Shissar Warrior</li>
-    </ul>
-  </div>
-  <div class="card dragon">
-    <ul>
-      <li><a href="xerkizh_the_creator">Xerkizh The Creator</a></li>
-      <li>Level 66 Shissar Shaman</li>
-    </ul>
-  </div>
-  <div class="card dragon">
-    <ul>
-      <li><a href="a_glyph_covered_serpent">a glyph covered serpent</a></li>
-      <li>Level 63 Shissar Warrior</li>
+      <li><a href="emperor_ssraeshza">Emperor Ssraeshza</a></li>
+      <li>Level 66 Shissar Warrior</li>
     </ul>
   </div>
 </div>
