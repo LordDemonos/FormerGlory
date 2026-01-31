@@ -14,7 +14,7 @@ cover-img: /assets/img/Diabo-Xi-Va-Temariel-1.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> </div>
-<div class="info-lockoutitem"><strong>Chain: 2sec, 4sec slowed</strong> </div>
+<div class="info-lockoutitem"><strong>Chain: 2sec, 3sec slowed</strong> </div>
 </div>
 
 <div class="stats-grid">
@@ -85,6 +85,6 @@ cover-img: /assets/img/Diabo-Xi-Va-Temariel-1.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Diabo Xi Va Temariel&gt; - Chain: 2sec, 4sec slowed, Hits 1400, 1.7M HP, slowable, casts Black Winds (Targeted AE, 1500 DD, -100 Magic Based) and a lot of wizard spells.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Diabo Xi Va Temariel&gt; - Chain: 2sec, 3sec slowed, Hits 1400, 1.7M HP, slowable, casts Black Winds (Targeted AE, 1500 DD, -100 Magic Based) and a lot of wizard spells.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
-![Diabo-Xi-Va-Temariel-Map](Diabo-Xi-Va-Temariel-Map.jpg)
+![Diabo-Xi-Va-Temariel-Map](/assets/img/Diabo-Xi-Va-Temariel-Map.jpg)
