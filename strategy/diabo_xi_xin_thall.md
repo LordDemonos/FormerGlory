@@ -14,7 +14,7 @@ cover-img: /assets/img/Diabo-Xi-Xin-Thall.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> </div>
-<div class="info-lockoutitem"><strong>CH Chain: 4 sec</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain: 3 sec</strong> </div>
 </div>
 
 <div class="stats-grid">
@@ -77,7 +77,7 @@ cover-img: /assets/img/Diabo-Xi-Xin-Thall.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Diabo Xi Xin Thall&gt; - CH Chain: 4 sec, Hits 750, rampages, immune to slow, casts Silence of the Shadows (Targeted AE, Silence, Unresistable) and Complete Heal. 1.5M HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Diabo Xi Xin Thall&gt; - CH Chain: 3 sec, Hits 750, rampages, immune to slow, casts Silence of the Shadows (Targeted AE, Silence, Unresistable) and Complete Heal. 1.5M HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 He is up the spiral staircase at the Red Circle on the map.
 
