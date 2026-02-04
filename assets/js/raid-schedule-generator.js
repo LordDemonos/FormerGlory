@@ -26,20 +26,29 @@ function parseOffnightDate(line) {
 }
 
 // Function to check if a date is in the past
+// Handles year boundaries correctly (e.g., if today is Jan 1 and date is Dec 25, assume it's Dec 25 of previous year)
 function isDateInPast(date) {
     const today = new Date();
     const currentYear = today.getFullYear();
-    const raidDate = new Date(currentYear, date.month - 1, date.day);
     
-    // If the raid date is in the past, it might be for next year
-    if (raidDate < today) {
-        raidDate.setFullYear(currentYear + 1);
+    // Try current year first
+    let raidDate = new Date(currentYear, date.month - 1, date.day);
+    
+    // If the date is more than 6 months in the past, it's probably for next year
+    // (e.g., if today is Jan 1 and date is Dec 25, Dec 25 is less than 6 months ago, so use current year)
+    // (e.g., if today is Dec 25 and date is Jan 1, Jan 1 is more than 6 months ago, so use next year)
+    const sixMonthsAgo = new Date(today.getFullYear(), today.getMonth() - 6, today.getDate());
+    
+    if (raidDate < sixMonthsAgo) {
+        // Date is more than 6 months in the past, assume it's for next year
+        raidDate = new Date(currentYear + 1, date.month - 1, date.day);
     }
     
-    // Reset hours to compare just the dates
+    // Reset hours to compare just the dates (ignore time)
     today.setHours(0, 0, 0, 0);
     raidDate.setHours(0, 0, 0, 0);
     
+    // Return true if the raid date is before today
     return raidDate < today;
 }
 
@@ -132,6 +141,10 @@ function getRaidDate(raid) {
 
 // Function to generate markdown content
 function generateMarkdown(raids, offnightRaids) {
+    const today = new Date();
+    const todayStr = today.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+    console.log(`\n📅 Today's date: ${todayStr}`);
+    console.log(`🔄 Filtering out any raids before today (handles year boundaries automatically)`);
     console.log('Processing raids:', raids);
     console.log('Processing offnight raids:', offnightRaids);
 
@@ -148,19 +161,26 @@ cover-img: /assets/img/raids.webp
 
     // Group raids by month and week
     const organizedRaids = {};
+    let includedRegular = 0;
+    let skippedRegular = 0;
+    let includedOffnight = 0;
+    let skippedOffnight = 0;
     
     // Process regular raids
     raids.forEach(raid => {
         const date = parseDate(raid);
         if (!date) {
-            console.log('Skipping invalid date for raid:', raid);
+            console.log(`⚠️  Skipping invalid date for raid: "${raid}"`);
+            skippedRegular++;
             return;
         }
         if (isDateInPast(date)) {
-            console.log('Skipping past date for raid:', raid);
+            console.log(`⚠️  Skipping past date for raid: "${raid}"`);
+            skippedRegular++;
             return;
         }
         
+        includedRegular++;
         const weekInfo = getWeekKey(date);
         const monthKey = weekInfo.monthKey;
         const weekKey = weekInfo.weekKey;
@@ -184,14 +204,17 @@ cover-img: /assets/img/raids.webp
     offnightRaids.forEach(raid => {
         const date = parseOffnightDate(raid);
         if (!date) {
-            console.log('Skipping invalid date for offnight raid:', raid);
+            console.log(`⚠️  Skipping invalid date for offnight raid: "${raid}"`);
+            skippedOffnight++;
             return;
         }
         if (isDateInPast(date)) {
-            console.log('Skipping past date for offnight raid:', raid);
+            console.log(`⚠️  Skipping past date for offnight raid: "${raid}"`);
+            skippedOffnight++;
             return;
         }
         
+        includedOffnight++;
         const weekInfo = getWeekKey(date);
         const monthKey = weekInfo.monthKey;
         const weekKey = weekInfo.weekKey;
@@ -216,18 +239,43 @@ cover-img: /assets/img/raids.webp
         }
     });
 
-    console.log('Organized raids:', organizedRaids);
+    console.log('\n📊 Processing Summary:');
+    console.log(`   Regular raids: ${includedRegular} included, ${skippedRegular} skipped`);
+    console.log(`   Offnight raids: ${includedOffnight} included, ${skippedOffnight} skipped`);
+    console.log(`   Total included: ${includedRegular + includedOffnight}`);
+    console.log(`   Total skipped: ${skippedRegular + skippedOffnight}`);
+    console.log(`\n📅 Dates will be sorted chronologically regardless of input order`);
+    console.log(`🗑️  Past dates (before ${todayStr}) are automatically filtered out`);
+    
+    if (skippedRegular + skippedOffnight > 0) {
+        console.log('\n💡 Tip: Skipped raids are usually due to:');
+        console.log(`   - Dates in the past (before ${todayStr})`);
+        console.log('   - Invalid date format (must be MM/DD)');
+    }
 
     // Generate TOC
     let toc = '## Table of Contents\n\n';
 
     // Generate content
     let mainContent = '';
-    Object.keys(organizedRaids).sort((a, b) => a - b).forEach(month => {
+    
+    // Sort months chronologically by their earliest week's start date
+    // This ensures proper ordering regardless of input order in raids.txt
+    // and correctly handles year boundaries (e.g., December -> January of next year)
+    const sortedMonths = Object.keys(organizedRaids).sort((a, b) => {
+        // Get the earliest week start date for each month
+        const weeksA = Object.values(organizedRaids[a]);
+        const weeksB = Object.values(organizedRaids[b]);
+        const earliestA = Math.min(...weeksA.map(w => w.weekStart.getTime()));
+        const earliestB = Math.min(...weeksB.map(w => w.weekStart.getTime()));
+        return earliestA - earliestB;
+    });
+    
+    sortedMonths.forEach(month => {
         const monthName = new Date(2024, month - 1, 1).toLocaleString('default', { month: 'long' });
         mainContent += `\n## ${monthName}\n\n`;
         
-        // Sort weeks by their start date
+        // Sort weeks by their start date (chronologically)
         Object.keys(organizedRaids[month]).sort((a, b) => {
             const weekA = organizedRaids[month][a];
             const weekB = organizedRaids[month][b];
@@ -285,28 +333,42 @@ function main() {
     const offnightFile = path.join(__dirname, '..', 'data', 'offnight.txt');
     let raids = [];
     let offnightRaids = [];
+    let skippedLines = [];
 
     try {
         const content = fs.readFileSync(inputFile, 'utf8');
-        raids = content.split('\n')
-            .map(line => line.trim())
-            .filter(line => {
+        const allLines = content.split('\n');
+        console.log(`📖 Read ${allLines.length} lines from raids.txt`);
+        
+        raids = allLines
+            .map((line, index) => ({ line: line.trim(), originalIndex: index + 1 }))
+            .filter(({ line, originalIndex }) => {
                 // Skip empty lines and comments
                 if (line.length === 0 || line.startsWith('#') || line.startsWith('//')) {
                     return false;
                 }
                 // Accept lines that start with bullet points, dashes, or are plain text with dates
-                return line.startsWith('•') || line.startsWith('-') || line.match(/\d{1,2}\/\d{1,2}/);
+                const hasDate = line.startsWith('•') || line.startsWith('-') || line.match(/\d{1,2}\/\d{1,2}/);
+                if (!hasDate) {
+                    skippedLines.push(`Line ${originalIndex}: No date found - "${line}"`);
+                }
+                return hasDate;
             })
-            .map(line => {
+            .map(({ line }) => {
                 // Remove bullet points or dashes if present
                 if (line.startsWith('•') || line.startsWith('-')) {
                     return line.substring(1).trim();
                 }
                 return line;
             });
+        
+        console.log(`✅ Parsed ${raids.length} valid raid entries from raids.txt`);
+        if (skippedLines.length > 0) {
+            console.log(`⚠️  Skipped ${skippedLines.length} lines without dates:`);
+            skippedLines.forEach(msg => console.log(`   ${msg}`));
+        }
     } catch (error) {
-        console.error('Error reading raids.txt:', error.message);
+        console.error('❌ Error reading raids.txt:', error.message);
         process.exit(1);
     }
 
@@ -315,14 +377,16 @@ function main() {
         offnightRaids = offnightContent.split('\n')
             .map(line => line.trim())
             .filter(line => line.length > 0);
+        console.log(`✅ Parsed ${offnightRaids.length} offnight raid entries`);
     } catch (error) {
-        // It's ok if offnight.txt doesn't exist
+        console.log('ℹ️  offnight.txt not found or empty (this is OK)');
     }
 
     const markdown = generateMarkdown(raids, offnightRaids);
     const outputFile = path.join(__dirname, '..', '..', 'raids.md');
     fs.writeFileSync(outputFile, markdown);
-    console.log(`Generated markdown file: ${outputFile}`);
+    console.log(`✅ Generated markdown file: ${outputFile}`);
+    console.log(`📊 Generated ${markdown.split('\n').length} lines of markdown`);
 }
 
 main(); 

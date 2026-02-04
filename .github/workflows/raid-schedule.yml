@@ -14,8 +14,9 @@ on:
         default: 'false'
         type: boolean
   schedule:
-    # Run every Monday at 9 AM UTC (4 AM EST, 1 AM PST) to ensure weekly updates
-    - cron: '0 9 * * 1'
+    # Run every Sunday at 9 AM UTC (4 AM EST, 1 AM PST) to remove past week's raids
+    # Sunday = 0 in cron (0-6, where 0 is Sunday)
+    - cron: '0 9 * * 0'
 
 jobs:
   build:
@@ -59,11 +60,34 @@ jobs:
       - name: Check for changes
         id: changes
         run: |
-          if git diff --quiet raids.md; then
-            echo "No changes detected in raids.md"
+          echo "🔍 Checking for changes in raids.md..."
+          if [ ! -f "raids.md" ]; then
+            echo "❌ raids.md file not found!"
+            exit 1
+          fi
+          
+          echo "📊 File info:"
+          ls -lh raids.md
+          echo "📝 First 10 lines of generated file:"
+          head -n 10 raids.md
+          
+          git add raids.md
+          if git diff --cached --quiet raids.md; then
+            echo ""
+            echo "❌ No changes detected in raids.md"
+            echo "📊 This might happen if:"
+            echo "   - All raids in raids.txt are in the past (filtered out)"
+            echo "   - Raids have invalid date formats (skipped)"
+            echo "   - The generated output is functionally identical"
+            echo ""
+            echo "💡 Check the logs above to see which raids were included vs skipped"
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
-            echo "Changes detected in raids.md"
+            echo ""
+            echo "✅ Changes detected in raids.md"
+            echo "📊 Change summary:"
+            git diff --cached --stat raids.md
+            echo ""
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
 
