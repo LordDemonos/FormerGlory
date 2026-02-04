@@ -101,4 +101,4 @@ jobs:
             Triggered by: ${{ github.event_name }}
             ${{ github.event.inputs.force_regenerate == 'true' && 'Force regenerate: true' || '' }}
           pull: rebase
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
