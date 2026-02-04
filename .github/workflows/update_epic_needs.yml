@@ -4,25 +4,18 @@ on:
   schedule:
     - cron: '0 9,21 * * *'  # Runs at 9 AM UTC (5 AM EST) and 9 PM UTC (5 PM EST) daily
   workflow_dispatch:
-      inputs:
-        logLevel:
-          description: 'Log level'
-          required: true
-          default: 'warning'
-        environment:
-          description: 'Environment to run tests against'
-          type: environment
-          required: true
 
 jobs:
   update-epic-needs:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v4
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.11'
+          cache: 'pip'
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -53,9 +46,22 @@ jobs:
         run: |
           echo "⚔️ Updating epic needs..."
           python assets/py/update_epic_needs.py
-      - name: Commit and push if changed
+      - name: Check for changes
+        id: git-check
         run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
           git add targets.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Update epic needs" && git push)
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected"
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push if changed
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "🤖 Update epic needs [skip ci]"
+          git push
