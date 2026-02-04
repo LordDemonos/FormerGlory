@@ -9,6 +9,7 @@ on:
   push:
     paths:
       - 'assets/data/Fgspells-Inventory.txt'
+      - 'assets/data/Fgspellsdump-Inventory.txt'
       - 'assets/data/Fsbank-Inventory.txt'
       - 'assets/data/Fggems-Inventory.txt'
       - 'assets/py/process_inventory.py'
@@ -16,6 +17,9 @@ on:
 jobs:
   process-inventory:
     runs-on: ubuntu-latest
+    concurrency:
+      group: process-inventory
+      cancel-in-progress: true  # Cancel previous run if a new file arrives
     
     steps:
       - name: Checkout repository
