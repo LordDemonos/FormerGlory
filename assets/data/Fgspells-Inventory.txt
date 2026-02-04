@@ -65,10 +65,10 @@ General5-Slot3	Spell: Spirit of Eagle	7617	1	0
 General5-Slot4	Spell: Wrath of the Elements	30405	1	0
 General5-Slot5	Spell: Mental Corruption	7676	1	0
 General5-Slot6	Spell: Mental Corruption	7676	1	0
-General5-Slot7	Spell: Regrowth of Dar Khura	7628	1	0
+General5-Slot7	Spell: Thunder of Karana	7686	1	0
 General5-Slot8	Spell: Cloak of the Akheva	7680	1	0
 General5-Slot9	Spell: Maelstrom of Electricity	19497	1	0
-General5-Slot10	Empty	0	0	0
+General5-Slot10	Spell: Maelstrom of Electricity	19497	1	0
 General6	Backpack	17005	1	8
 General6-Slot1	Spell: Brell's Mountainous Barrier	7690	1	0
 General6-Slot2	Spell: Nature's Recovery	7620	1	0
@@ -79,17 +79,17 @@ General6-Slot6	Spell: Upheaval	19233	1	0
 General6-Slot7	Spell: Upheaval	19233	1	0
 General6-Slot8	Spell: Judgement	7608	1	0
 General7	Backpack	17005	1	8
-General7-Slot1	Spell: Form of the Great Bear	30431	1	0
+General7-Slot1	Empty	0	0	0
 General7-Slot2	Spell: Maelstrom of Electricity	19497	1	0
 General7-Slot3	Spell: Disinfecting Aura	7626	1	0
-General7-Slot4	Spell: Thunder of Karana	7686	1	0
+General7-Slot4	Empty	0	0	0
 General7-Slot5	Spell: Blast of Poison	30429	1	0
-General7-Slot6	Spell: Spell Shield	7659	1	0
+General7-Slot6	Empty	0	0	0
 General7-Slot7	Spell: Words of Tranquility	7687	1	0
-General7-Slot8	Spell: Plague of insects	7627	1	0
+General7-Slot8	Empty	0	0	0
 General8	Hand Made Backpack	17969	1	10
-General8-Slot1	Spell: Greater Familiar	7660	1	0
-General8-Slot2	Spell: Maelstrom of Electricity	19497	1	0
+General8-Slot1	Empty	0	0	0
+General8-Slot2	Empty	0	0	0
 General8-Slot3	Empty	0	0	0
 General8-Slot4	Empty	0	0	0
 General8-Slot5	Empty	0	0	0
@@ -223,7 +223,7 @@ Bank12-Slot8	Spell: Servant of Bones	19305	1	0
 Bank13	Backpack	17005	1	8
 Bank13-Slot1	Spell: Cripple	19269	1	0
 Bank13-Slot2	Empty	0	0	0
-Bank13-Slot3	Spell: Draught of Jiva	19328	1	0
+Bank13-Slot3	Empty	0	0	0
 Bank13-Slot4	Spell: Atol`s Spectral Shackles	19315	1	0
 Bank13-Slot5	Spell: Pillar of Lightning	19326	1	0
 Bank13-Slot6	Spell: Convergence	19423	1	0
@@ -250,7 +250,7 @@ Bank15-Slot8	Spell: Reckoning	19212	1	0
 Bank16	Backpack	17005	1	8
 Bank16-Slot1	Spell: Gift of Xev	19347	1	0
 Bank16-Slot2	Spell: Gift of Xev	19347	1	0
-Bank16-Slot3	Spell: Improved Invisibility	30406	1	0
+Bank16-Slot3	Empty	0	0	0
 Bank16-Slot4	Spell: Improved Invisibility	30406	1	0
 Bank16-Slot5	Spell: Focus of Spirit	30432	1	0
 Bank16-Slot6	Spell: Focus of Spirit	30432	1	0
@@ -280,7 +280,7 @@ Bank19-Slot2	Spell: Healing  Wave of Prexus	7689	1	0
 Bank19-Slot3	Spell: Summon: Muzzle of Mardu	19363	1	0
 Bank19-Slot4	Spell: Spirit of Khurenz	7727	1	0
 Bank19-Slot5	Spell: Summon Phantom Plate	7634	1	0
-Bank19-Slot6	Spell: Talisman of Epuration	7629	1	0
+Bank19-Slot6	Empty	0	0	0
 Bank19-Slot7	Spell: Spell Shield	7659	1	0
 Bank19-Slot8	Spell: Improved Invisibility	30406	1	0
 Bank19-Slot9	Empty	0	0	0
@@ -299,7 +299,7 @@ Bank21-Slot1	Spell: Cannibalize IV	19473	1	0
 Bank21-Slot2	Spell: Cannibalize IV	19473	1	0
 Bank21-Slot3	Spell: Monster Summoning III	30404	1	0
 Bank21-Slot4	Spell: Monster Summoning III	30404	1	0
-Bank21-Slot5	Spell: Ice Spear of Solist	30426	1	0
+Bank21-Slot5	Empty	0	0	0
 Bank21-Slot6	Spell: Ice Spear of Solist	30426	1	0
 Bank21-Slot7	Spell: Improved Invis vs Undead	30411	1	0
 Bank21-Slot8	Empty	0	0	0
@@ -355,14 +355,14 @@ Bank27-Slot3	Spell: Defoliation	19296	1	0
 Bank27-Slot4	Spell: Enticement of Flame	30421	1	0
 Bank27-Slot5	Spell: Torpor	19293	1	0
 Bank27-Slot6	Spell: Summon: Muzzle of Mardu	19363	1	0
-Bank27-Slot7	Spell: Retribution of Al`Kabor	19332	1	0
+Bank27-Slot7	Empty	0	0	0
 Bank27-Slot8	Spell: Wind of Tashanian	19405	1	0
 Bank28	Backpack	17005	1	8
 Bank28-Slot1	Empty	0	0	0
 Bank28-Slot2	Spell: Bristlebane`s Bundle	19351	1	0
 Bank28-Slot3	Spell: Shroud of Death	30459	1	0
 Bank28-Slot4	Spell: Spirit of Scale	19238	1	0
-Bank28-Slot5	Spell: Eye of Tallon	19411	1	0
+Bank28-Slot5	Empty	0	0	0
 Bank28-Slot6	Spell: Gift of Brilliance	30410	1	0
 Bank28-Slot7	Spell: Cannibalize III	19272	1	0
 Bank28-Slot8	Spell: Aegis of Ro	15863	1	0
@@ -457,7 +457,7 @@ SharedBank8-Slot6	Empty	0	0	0
 SharedBank8-Slot7	Spell: Blessed Armor of the Risen	7609	1	0
 SharedBank8-Slot8	Spell: Thrall of Bones	19299	1	0
 SharedBank9	Backpack	17005	1	8
-SharedBank9-Slot1	Spell: Tears of Prexus	19339	1	0
+SharedBank9-Slot1	Empty	0	0	0
 SharedBank9-Slot2	Empty	0	0	0
 SharedBank9-Slot3	Spell: Circle of Seasons	7619	1	0
 SharedBank9-Slot4	Spell: Mass Mystical Transvergan	7638	1	0
