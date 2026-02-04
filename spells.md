@@ -90,11 +90,7 @@ FGS SBnk6 [Spell: Disempower](https://www.pqdi.cc/item/15281) x4
 
 FGS Inv2 s1 [Spell: Disinfecting Aura](https://www.pqdi.cc/item/7626) x4
 
-SPD Bnk9 s1 [Spell: Disintegrate](https://www.pqdi.cc/item/19415)
-
 FGS Bnk25 s2 [Spell: Divine Strength](https://www.pqdi.cc/item/30456) x2
-
-FGS Bnk13 s3 [Spell: Draught of Jiva](https://www.pqdi.cc/item/19328)
 
 FGS Bnk17 s2 [Spell: Dyzil`s Deafening Decoy](https://www.pqdi.cc/item/19364)
 
@@ -114,8 +110,6 @@ FGS Bnk22 s3 [Spell: Exile Undead](https://www.pqdi.cc/item/19214) x3
 
 FGS SBnk7 [Spell: Extinguish Fatigue](https://www.pqdi.cc/item/15417) x2
 
-FGS Bnk28 s5 [Spell: Eye of Tallon](https://www.pqdi.cc/item/19411)
-
 FGS Inv5 s2 [Spell: Falcon Eye](https://www.pqdi.cc/item/7696) x5
 
 FGS Inv4 s1 [Spell: Familiar](https://www.pqdi.cc/item/7657) x3
@@ -125,8 +119,6 @@ FGS Bnk20 s2 [Spell: Flame of Light](https://www.pqdi.cc/item/30454)
 FGS Bnk12 s7 [Spell: Focus of Spirit](https://www.pqdi.cc/item/30432) x6
 
 FGS Inv5 s1 [Spell: Foliage Shield](https://www.pqdi.cc/item/7616) x3
-
-FGS Inv7 s1 [Spell: Form of the Great Bear](https://www.pqdi.cc/item/30431)
 
 SPD Bnk19 s1 [Spell: Form of the Howler](https://www.pqdi.cc/item/19244)
 
@@ -144,7 +136,7 @@ FGS Inv4 s5 [Spell: Glamour of Tunare](https://www.pqdi.cc/item/19240) x7
 
 FGS SBnk7 [Spell: Gravity Flux](https://www.pqdi.cc/item/15073) x2
 
-FGS Inv8 s1 [Spell: Greater Familiar](https://www.pqdi.cc/item/7660) x2
+SPD Inv1 s2 [Spell: Greater Familiar](https://www.pqdi.cc/item/7660)
 
 SPD Bnk2 s1 [Spell: Greater Vocaration: Air](https://www.pqdi.cc/item/19371)
 
@@ -160,11 +152,11 @@ FGS Bnk14 s2 [Spell: Heroic Bond](https://www.pqdi.cc/item/19224) x5
 
 FGS Inv3 s2 [Spell: Horrifying Visage](https://www.pqdi.cc/item/7668)
 
-FGS Bnk21 s5 [Spell: Ice Spear of Solist](https://www.pqdi.cc/item/30426) x2
+FGS Bnk21 s6 [Spell: Ice Spear of Solist](https://www.pqdi.cc/item/30426)
 
 FGS Bnk21 s7 [Spell: Improved Invis vs Undead](https://www.pqdi.cc/item/30411) x3
 
-FGS Inv1 s1 [Spell: Improved Invisibility](https://www.pqdi.cc/item/30406) x4
+FGS Inv1 s1 [Spell: Improved Invisibility](https://www.pqdi.cc/item/30406) x3
 
 SPD Bnk19 s3 [Spell: Inferno of Al`Kabor](https://www.pqdi.cc/item/19322)
 
@@ -220,7 +212,7 @@ FGS Bnk12 s5 [Spell: Pillar of Frost](https://www.pqdi.cc/item/19318)
 
 FGS Bnk13 s5 [Spell: Pillar of Lightning](https://www.pqdi.cc/item/19326) x2
 
-FGS Inv7 s8 [Spell: Plague of insects](https://www.pqdi.cc/item/7627) x3
+FGS Bnk1 s1 [Spell: Plague of insects](https://www.pqdi.cc/item/7627) x2
 
 SPD Bnk9 s2 [Spell: Pouch of Quellious](https://www.pqdi.cc/item/19361)
 
@@ -234,13 +226,11 @@ SPD Bnk3 s6 [Spell: Rage of Zomm](https://www.pqdi.cc/item/19417)
 
 FGS Bnk14 s4 [Spell: Reckoning](https://www.pqdi.cc/item/19212) x7
 
-FGS Inv5 s7 [Spell: Regrowth of Dar Khura](https://www.pqdi.cc/item/7628)
-
 FGS Bnk1 s8 [Spell: Remove Curse](https://www.pqdi.cc/item/19542) x5
 
 FGS SBnk7 [Spell: Reoccurring Amnesia](https://www.pqdi.cc/item/15194) x2
 
-FGS Bnk27 s7 [Spell: Retribution of Al`Kabor](https://www.pqdi.cc/item/19332) x2
+SPD Bnk7 s4 [Spell: Retribution of Al`Kabor](https://www.pqdi.cc/item/19332)
 
 SPD Inv2 s5 [Spell: Ro's Smoldering Disjunction](https://www.pqdi.cc/item/7618)
 
@@ -254,7 +244,7 @@ FGS Bnk10 s4 [Spell: Shroud of Death](https://www.pqdi.cc/item/30459) x3
 
 FGS SBnk8 [Spell: Shroud of Pain](https://www.pqdi.cc/item/30458) x2
 
-FGS Inv7 s6 [Spell: Spell Shield](https://www.pqdi.cc/item/7659) x2
+FGS Bnk19 s7 [Spell: Spell Shield](https://www.pqdi.cc/item/7659)
 
 FGS Inv1 s9 [Spell: Spirit of Eagle](https://www.pqdi.cc/item/7617) x2
 
@@ -282,15 +272,11 @@ FGS Bnk19 s5 [Spell: Summon Phantom Plate](https://www.pqdi.cc/item/7634)
 
 FGS Bnk19 s3 [Spell: Summon: Muzzle of Mardu](https://www.pqdi.cc/item/19363) x5
 
-FGS Bnk19 s6 [Spell: Talisman of Epuration](https://www.pqdi.cc/item/7629)
-
 FGS Bnk17 s7 [Spell: Talisman of Jasinth](https://www.pqdi.cc/item/19264) x4
 
 FGS SBnk3 [Spell: Talisman of the Brute](https://www.pqdi.cc/item/19281) x2
 
 FGS Bnk14 s3 [Spell: Talisman of the Rhino](https://www.pqdi.cc/item/19284)
-
-FGS SBnk9 [Spell: Tears of Prexus](https://www.pqdi.cc/item/19339) x2
 
 FGS Bnk1 s4 [Spell: Terror of Terris](https://www.pqdi.cc/item/24542) x7
 
@@ -300,7 +286,7 @@ FGS Bnk18 s5 [Spell: Theft of Thought](https://www.pqdi.cc/item/19374) x3
 
 FGS Bnk26 s4 [Spell: Thrall of Bones](https://www.pqdi.cc/item/19299) x5
 
-FGS Inv7 s4 [Spell: Thunder of Karana](https://www.pqdi.cc/item/7686)
+FGS Inv5 s7 [Spell: Thunder of Karana](https://www.pqdi.cc/item/7686)
 
 FGS Inv6 s5 [Spell: Tigir`s Insects](https://www.pqdi.cc/item/19285) x2
 
@@ -333,8 +319,6 @@ FGS Inv6 s6 [Spell: Upheaval](https://www.pqdi.cc/item/19233) x6
 FGS Inv4 s4 [Spell: Veil of Elements](https://www.pqdi.cc/item/7637)
 
 FGS Bnk11 s3 [Spell: Velocity](https://www.pqdi.cc/item/19348)
-
-SPD Bnk2 s7 [Spell: Vengeance of Al`Kabor](https://www.pqdi.cc/item/19342)
 
 FGS Bnk18 s3 [Spell: Visions of Grandeur](https://www.pqdi.cc/item/19407) x3
 
