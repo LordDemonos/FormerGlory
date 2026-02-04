@@ -116,7 +116,7 @@ def process_text_data(text_data, is_spell_inventory, file_name, character_prefix
     lines = text_data.strip().split('\n')
     item_counter = Counter()
     first_locations = {}  # (item_name, item_id) -> location string
-    excluded_items = ['Empty', 'Backpack', 'Elemental Grimoire', 'Large Box', "Deluxe Toolbox", "Ivandyr's Hoop", 'A Worn Candle', 'Hand Made Backpack', 'Currency', 'Bread Cakes*', 'Skin of Milk', 'Large Sewing Kit']
+    excluded_items = ['Empty', 'Backpack', 'Elemental Grimoire', 'Large Box', "Deluxe Toolbox", "Ivandyr's Hoop", 'A Worn Candle', 'Hand Made Backpack', 'Currency', 'Bread Cakes*', 'Skin of Milk', 'Large Sewing Kit', 'Club*', "Trader's Satchel"]
     excluded_ids = ['0', '17005', '17880']
     
     def parse_location(loc):
