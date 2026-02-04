@@ -14,7 +14,7 @@ cover-img: /assets/img/Thall-Va-Kelun.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> </div>
-<div class="info-lockoutitem"><strong>Chain: 3sec, 6sec slowed</strong> </div>
+<div class="info-lockoutitem"><strong>Chain: 2sec, 4sec slowed</strong> </div>
 </div>
 
 <div class="stats-grid">
@@ -66,6 +66,6 @@ cover-img: /assets/img/Thall-Va-Kelun.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Thall Va Kelun&gt; - Chain: 3sec, 6sec slowed, Hits 1000, rampages, slowable, approximately 1.8M HP, casts Greater Shadow Poison (Single Target, 50% snare/-25% Haste, -100 Poison Based, 5 counter).</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Thall Va Kelun&gt; - Chain: 2sec, 4sec slowed, Hits 1000, rampages, slowable, approximately 1.8M HP, casts Greater Shadow Poison (Single Target, 50% snare/-25% Haste, -100 Poison Based, 5 counter).</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 ![Thall-Va-Kelun-Map](/assets/img/Thall-Va-Kelun-Map.jpg)

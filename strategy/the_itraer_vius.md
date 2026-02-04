@@ -14,7 +14,7 @@ cover-img: /assets/img/iv1.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days, 18 hours and 3 minutes</div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain: 4 sec</strong> </div>
 </div>
 
 <div class="stats-grid">
@@ -72,4 +72,4 @@ cover-img: /assets/img/iv1.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;The Itraer Vius&gt; - (60/100/150) lv63 - NUKES: Magic + Cold Tears. DEBUFFED = Fire Tears + SS/Garrisons</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;The Itraer Vius&gt; - CH Chain: 4sec, Hits for 600, Rampages, Immune to Slow, Casts Blind, Casts: Touch of the Mistress: 500HP + 100HP/tick+ -100STR (9 Curse counter), 600k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

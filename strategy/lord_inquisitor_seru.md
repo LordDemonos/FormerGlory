@@ -14,7 +14,7 @@ cover-img: /assets/img/Lord-Inquisitor-Seru.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
-<div class="info-lockoutitem"><strong>CH Chain: 3sec, 6sec slowed</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain: 2sec, 4sec slowed</strong> </div>
 </div>
 
 <div class="stats-grid">
@@ -73,7 +73,7 @@ cover-img: /assets/img/Lord-Inquisitor-Seru.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Lord Inquisitor Seru&gt; - (1000/100/100) lv66 - NUKES: Cold + Fire Tears. DEBUFFED = Add Ancient/IceSpear</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Lord Inquisitor Seru&gt; - CH Chain: 2sec, 4sec slowed, Hits for 771, Flurries, DW, Enrages, Slowable, Casts: Torturing Winds 300HP/tick (9 Curse counters), Casts: Stunning Strike: 200HP/tick + 20s Stun, 1M HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 Lord Inquisitor Seru has two pre-requirements that your raid must meet before you consider attempting him.
 

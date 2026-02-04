@@ -14,7 +14,7 @@ cover-img: /assets/img/Aten-Ha-Ra.jpg
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> </div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem"><strong>CH Chain: 3sec, 4sec slowed</strong> </div>
 </div>
 
 <div class="stats-grid">
@@ -73,6 +73,6 @@ cover-img: /assets/img/Aten-Ha-Ra.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Aten Ha Ra&gt; - Chain: 3sec, 6sec slowed, Hits 1054, slowable, rampages, casts Fling (AE PC, Gravity Flux Effect, Unresistable), Silence of the Shadows (Targeted AE, Silence, Unresistable), and Word of Command (PBAE, 3 sec stun/ 250 DD, -100 Magic Based), 1.9M HP.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Aten Ha Ra&gt; - Chain: 3sec, 4sec slowed, Hits 1054, slowable, rampages, casts Fling (AE PC, Gravity Flux Effect, Unresistable), Silence of the Shadows (Targeted AE, Silence, Unresistable), and Word of Command (PBAE, 3 sec stun/ 250 DD, -100 Magic Based), 1.9M HP.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 ![Aten-Ha-Ra-Map](/assets/img/Aten-Ha-Ra-Map.jpg)

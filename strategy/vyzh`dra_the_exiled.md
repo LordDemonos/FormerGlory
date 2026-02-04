@@ -72,6 +72,6 @@ cover-img: /assets/img/exiled.jpg
 <div class="ability-cell">Corpse Camper</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Vyzh'dra the Exiled&gt; - CH Chain: 2sec, Hits for 624, Immune to Slow, Flurries, Enrages, Casts: AoE Fear (Disease), Casts: Touch of Vinitras (-20k HP), Casts: Abysmal Banishment: -700hp/tick + Blind, 450k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Vyzh'dra the Exiled&gt; - CH Chain: 2sec, Hits for 624, Immune to Slow, Flurries, Enrages, Casts: AoE Fear (Fire), Casts: Touch of Vinitras (-20k HP), Casts: Abysmal Banishment: -700hp/tick + Blind, 450k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 Vyzh'dra the Exiled  spawns after a glyph covered serpent dies. He casts a 20k unresistable DD every 2 minutes. This is effectively a Death Touch until later in the game. It can be absorbed with DA for the initial pull. He also has a large PBAE fear, but this can be resisted easily. Keep healers out of line-of-sight. Kill him to spawn Vyzh`dra the Cursed.
