@@ -29,7 +29,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -94,14 +93,27 @@ jobs:
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: Commit and push changes
+      - name: Configure git and push changes
         if: steps.changes.outputs.has_changes == 'true' || github.event.inputs.force_regenerate == 'true'
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: 'raids.md'
-          message: |
-            🤖 Auto-generate raids.md from raids.txt
-            Triggered by: ${{ github.event_name }}
-            ${{ github.event.inputs.force_regenerate == 'true' && 'Force regenerate: true' || '' }}
-          pull: rebase
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Set remote URL with token for authentication
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+          
+          # Pull latest changes with rebase (this may unstage, so we'll re-add)
+          git pull --rebase origin ${{ github.ref_name }} || echo "No rebase needed or branch is up to date"
+          
+          # Ensure the file is staged (in case rebase unstaged it)
+          git add raids.md
+          
+          # Commit the staged file
+          git commit -m "🤖 Auto-generate raids.md from raids.txt
+          Triggered by: ${{ github.event_name }}
+          ${{ github.event.inputs.force_regenerate == 'true' && 'Force regenerate: true' || '' }}"
+          
+          # Push changes
+          git push origin ${{ github.ref_name }}
