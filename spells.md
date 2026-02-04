@@ -8,8 +8,6 @@ subtitle: List of Spells in the guild bank
 
 ### Last Update: 2026-02-04
 
-SPD Primary [Club*](https://www.pqdi.cc/item/9999)
-
 FGS Bnk1 s6 [Song: Battlecry of the Vah Shir](https://www.pqdi.cc/item/7706) x6
 
 SPD Bnk16 s4 [Song: Chorus of Replenishment](https://www.pqdi.cc/item/7709)
@@ -363,6 +361,4 @@ FGS Inv2 s4 [Spell: Wrath of the Elements](https://www.pqdi.cc/item/30405) x8
 SPD Bnk2 s8 [Spell: Yaulp IV](https://www.pqdi.cc/item/19209)
 
 FGS Inv1 s8 [Spell: Zevfeer's Theft of Vitae](https://www.pqdi.cc/item/7650) x2
-
-FGS Inv1 [Trader's Satchel](https://www.pqdi.cc/item/17899) x25
 
