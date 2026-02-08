@@ -70,3 +70,5 @@ cover-img: /assets/img/shei3.jpg
 </div>
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Shei Vinitras&gt; - CH Chain: Remedy spam, Hits for 700, DEATH WILL SPAWN ADDS, Touch of Vinitras: -20K HP, Chromatic Disruption: -120 All Resists, 650k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
+Make sure to have an exit strategy. Give the person kiting the adds a TL to bind and skip killing them after the boss dies.
