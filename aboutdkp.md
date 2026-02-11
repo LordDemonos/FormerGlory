@@ -68,3 +68,7 @@ If you don't see your character in the list, message an officer directly with yo
 - Multiple max bids: /random roll between max bidders
 - Generally, you cannot win the same item twice (some exceptions apply)
 - Certain items may be claimed by the guild for first drops (e.g., Puppet strings)
+
+## Talisman of Vah Kerrath
+
+Aten Neck maximum bid will be raised to 3000 DKP, EVERY OTHER WEEK. This means every other week will still be a max bid of 1000 DKP, and alternate between 3k and 1k each week. This gives people who have been here a long time the opportunity to spend their dkp and get their neck sooner instead of it being completely random, while allowing new players to have a fair shake at it as well. I believe this will allow us to uphold our casual guild principles while also rewarding those who have contributed their entire EQ careers to Former Glory.
