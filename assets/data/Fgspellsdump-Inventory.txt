@@ -267,7 +267,7 @@ Bank18-Slot8	Spell: Egress	19236	1	0
 Bank19	Backpack	17005	1	8
 Bank19-Slot1	Spell: Form of the Howler	19244	1	0
 Bank19-Slot2	Spell: Voice of Terris	24546	1	0
-Bank19-Slot3	Spell: Inferno of Al`Kabor	19322	1	0
+Bank19-Slot3	Empty	0	0	0
 Bank19-Slot4	Spell: Foliage Shield	7616	1	0
 Bank19-Slot5	Spell: Glamour of Tunare	19240	1	0
 Bank19-Slot6	Spell: Blast of Poison	30429	1	0
