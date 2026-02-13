@@ -21,16 +21,16 @@ Feet	Empty	0	0	0
 Waist	Empty	0	0	0
 Ammo	Empty	0	0	0
 General1	Trader's Satchel	17899	1	10
-General1-Slot1	Spell: Improved Invisibility	30406	1	0
-General1-Slot2	Spell: Spirit Quickening	30430	1	0
+General1-Slot1	Empty	0	0	0
+General1-Slot2	Empty	0	0	0
 General1-Slot3	Empty	0	0	0
-General1-Slot4	Spell: Nature's Recovery	7620	1	0
-General1-Slot5	Spell: Spirit of Snow	19531	1	0
-General1-Slot6	Spell: Hammer of Souls	15995	1	0
-General1-Slot7	Spell: Warder's Protection	7700	1	0
-General1-Slot8	Spell: Zevfeer's Theft of Vitae	7650	1	0
-General1-Slot9	Spell: Spirit of Eagle	7617	1	0
-General1-Slot10	Spell: Spiritual Purity	7729	1	0
+General1-Slot4	Empty	0	0	0
+General1-Slot5	Empty	0	0	0
+General1-Slot6	Empty	0	0	0
+General1-Slot7	Empty	0	0	0
+General1-Slot8	Empty	0	0	0
+General1-Slot9	Spell: Warder's Protection	7700	1	0
+General1-Slot10	Spell: Spirit of Snow	19531	1	0
 General2	Large Box	17007	1	8
 General2-Slot1	Spell: Disinfecting Aura	7626	1	0
 General2-Slot2	Spell: Warder's Protection	7700	1	0
@@ -79,12 +79,12 @@ General6-Slot6	Spell: Upheaval	19233	1	0
 General6-Slot7	Spell: Upheaval	19233	1	0
 General6-Slot8	Spell: Judgement	7608	1	0
 General7	Backpack	17005	1	8
-General7-Slot1	Empty	0	0	0
+General7-Slot1	Spell: Warder's Protection	7700	1	0
 General7-Slot2	Spell: Maelstrom of Electricity	19497	1	0
 General7-Slot3	Spell: Disinfecting Aura	7626	1	0
-General7-Slot4	Empty	0	0	0
+General7-Slot4	Spell: Shock of Fiery Blades	7640	1	0
 General7-Slot5	Spell: Blast of Poison	30429	1	0
-General7-Slot6	Empty	0	0	0
+General7-Slot6	Spell: Death Peace	30460	1	0
 General7-Slot7	Spell: Words of Tranquility	7687	1	0
 General7-Slot8	Empty	0	0	0
 General8	Hand Made Backpack	17969	1	10
@@ -155,9 +155,9 @@ Bank6	Backpack	17005	1	8
 Bank6-Slot1	Spell: Manastorm	19370	1	0
 Bank6-Slot2	Spell: Manastorm	19370	1	0
 Bank6-Slot3	Spell: Dementia	19384	1	0
-Bank6-Slot4	Spell: Dementia	19384	1	0
+Bank6-Slot4	Empty	0	0	0
 Bank6-Slot5	Spell: Umbra	19393	1	0
-Bank6-Slot6	Spell: Umbra	19393	1	0
+Bank6-Slot6	Empty	0	0	0
 Bank6-Slot7	Spell: Wrath of the Elements	30405	1	0
 Bank6-Slot8	Spell: Wrath of the Elements	30405	1	0
 Bank7	Trader's Satchel	17899	1	10
@@ -195,7 +195,7 @@ Bank9-Slot9	Empty	0	0	0
 Bank9-Slot10	Empty	0	0	0
 Bank10	Large Box	17007	1	8
 Bank10-Slot1	Spell: Asphyxiate	19402	1	0
-Bank10-Slot2	Spell: Asphyxiate	19402	1	0
+Bank10-Slot2	Empty	0	0	0
 Bank10-Slot3	Empty	0	0	0
 Bank10-Slot4	Spell: Shroud of Death	30459	1	0
 Bank10-Slot5	Spell: Glamour of Tunare	19240	1	0
@@ -206,25 +206,25 @@ Bank11	Backpack	17005	1	8
 Bank11-Slot1	Spell: Aegis of Ro	15863	1	0
 Bank11-Slot2	Spell: Enlightenment	19396	1	0
 Bank11-Slot3	Spell: Velocity	19348	1	0
-Bank11-Slot4	Spell: Color Slant	19378	1	0
-Bank11-Slot5	Empty	0	0	0
+Bank11-Slot4	Spell: Nature's Recovery	7620	1	0
+Bank11-Slot5	Spell: Spirit of Snow	19531	1	0
 Bank11-Slot6	Spell: Falcon Eye	7696	1	0
 Bank11-Slot7	Spell: Call of the Predator	30464	1	0
-Bank11-Slot8	Empty	0	0	0
+Bank11-Slot8	Spell: Hammer of Souls	15995	1	0
 Bank12	Backpack	17005	1	8
 Bank12-Slot1	Spell: Gift of Brilliance	30410	1	0
 Bank12-Slot2	Spell: Gift of Brilliance	30410	1	0
 Bank12-Slot3	Spell: Bane of Nife	19277	1	0
 Bank12-Slot4	Spell: Bane of Nife	19277	1	0
-Bank12-Slot5	Spell: Pillar of Frost	19318	1	0
+Bank12-Slot5	Spell: Spirit Quickening	30430	1	0
 Bank12-Slot6	Empty	0	0	0
 Bank12-Slot7	Spell: Focus of Spirit	30432	1	0
 Bank12-Slot8	Spell: Servant of Bones	19305	1	0
 Bank13	Backpack	17005	1	8
-Bank13-Slot1	Spell: Cripple	19269	1	0
+Bank13-Slot1	Empty	0	0	0
 Bank13-Slot2	Empty	0	0	0
 Bank13-Slot3	Empty	0	0	0
-Bank13-Slot4	Spell: Atol`s Spectral Shackles	19315	1	0
+Bank13-Slot4	Spell: Improved Invisibility	30406	1	0
 Bank13-Slot5	Spell: Pillar of Lightning	19326	1	0
 Bank13-Slot6	Spell: Convergence	19423	1	0
 Bank13-Slot7	Spell: Koadic's Endless Intellect	7670	1	0
@@ -267,11 +267,11 @@ Bank17-Slot7	Spell: Talisman of Jasinth	19264	1	0
 Bank17-Slot8	Spell: Jyll`s Wave of Heat	19340	1	0
 Bank18	Backpack	17005	1	8
 Bank18-Slot1	Spell: Gift of Pure Thought	19401	1	0
-Bank18-Slot2	Spell: Gift of Pure Thought	19401	1	0
+Bank18-Slot2	Spell: Warder's Protection	7700	1	0
 Bank18-Slot3	Spell: Visions of Grandeur	19407	1	0
-Bank18-Slot4	Spell: Visions of Grandeur	19407	1	0
+Bank18-Slot4	Spell: Zevfeer's Theft of Vitae	7650	1	0
 Bank18-Slot5	Spell: Theft of Thought	19374	1	0
-Bank18-Slot6	Spell: Theft of Thought	19374	1	0
+Bank18-Slot6	Spell: Spirit of Eagle	7617	1	0
 Bank18-Slot7	Spell: Mala	19418	1	0
 Bank18-Slot8	Spell: Mala	19418	1	0
 Bank19	Trader's Satchel	17899	1	10
@@ -343,7 +343,7 @@ Bank26	Backpack	17005	1	8
 Bank26-Slot1	Spell: Torpor	19293	1	0
 Bank26-Slot2	Spell: Corporeal Empathy	30413	1	0
 Bank26-Slot3	Spell: Remove Curse	19542	1	0
-Bank26-Slot4	Spell: Thrall of Bones	19299	1	0
+Bank26-Slot4	Empty	0	0	0
 Bank26-Slot5	Spell: Blast of Poison	30429	1	0
 Bank26-Slot6	Empty	0	0	0
 Bank26-Slot7	Spell: Trucidation	19425	1	0
@@ -428,7 +428,7 @@ SharedBank5-Slot4	Empty	0	0	0
 SharedBank5-Slot5	Spell: Splurt	19294	1	0
 SharedBank5-Slot6	Spell: Wave of Healing	30455	1	0
 SharedBank5-Slot7	Empty	0	0	0
-SharedBank5-Slot8	Spell: Crippling Claudication	7648	1	0
+SharedBank5-Slot8	Empty	0	0	0
 SharedBank6	Backpack	17005	1	8
 SharedBank6-Slot1	Spell: Disempower	15281	1	0
 SharedBank6-Slot2	Spell: Disempower	15281	1	0
@@ -473,7 +473,7 @@ SharedBank10-Slot4	Spell: Mesmerization	16217	1	0
 SharedBank10-Slot5	Spell: Enlightenment	19396	1	0
 SharedBank10-Slot6	Spell: Enlightenment	19396	1	0
 SharedBank10-Slot7	Spell: Pillage Enchantment	15025	1	0
-SharedBank10-Slot8	Spell: Pillage Enchantment	15025	1	0
+SharedBank10-Slot8	Empty	0	0	0
 SharedBank11	Empty	0	0	0
 SharedBank12	Empty	0	0	0
 SharedBank13	Empty	0	0	0
