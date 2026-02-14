@@ -104,16 +104,19 @@ jobs:
           # Set remote URL with token for authentication
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
           
-          # Pull latest changes with rebase (this may unstage, so we'll re-add)
-          git pull --rebase origin ${{ github.ref_name }} || echo "No rebase needed or branch is up to date"
-          
-          # Ensure the file is staged (in case rebase unstaged it)
+          # Ensure the file is staged (it should already be from previous step)
           git add raids.md
           
-          # Commit the staged file
+          # Commit the staged file first (before pulling)
           git commit -m "🤖 Auto-generate raids.md from raids.txt
           Triggered by: ${{ github.event_name }}
           ${{ github.event.inputs.force_regenerate == 'true' && 'Force regenerate: true' || '' }}"
+          
+          # Fetch latest changes
+          git fetch origin ${{ github.ref_name }}
+          
+          # Rebase our commit on top of the remote branch
+          git rebase origin/${{ github.ref_name }}
           
           # Push changes
           git push origin ${{ github.ref_name }}
