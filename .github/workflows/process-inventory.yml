@@ -13,10 +13,16 @@ on:
       - 'assets/data/Fsbank-Inventory.txt'
       - 'assets/data/Fggems-Inventory.txt'
       - 'assets/py/process_inventory.py'
+  
+  # Allow manual triggering
+  workflow_dispatch:
 
 jobs:
   process-inventory:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: read
     concurrency:
       group: process-inventory
       cancel-in-progress: true  # Cancel previous run if a new file arrives
@@ -59,8 +65,26 @@ jobs:
       
       - name: Commit and push if changes
         if: steps.git-check.outputs.changes == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          
+          # Set remote URL with token for authentication
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+          
+          # Ensure all changes are staged
+          git add .
+          
+          # Commit the staged files
           git commit -m "🤖 Update inventory files [skip ci]"
-          git push 
+          
+          # Fetch latest changes
+          git fetch origin ${{ github.ref_name }}
+          
+          # Rebase our commit on top of the remote branch
+          git rebase origin/${{ github.ref_name }}
+          
+          # Push changes
+          git push origin ${{ github.ref_name }} 
