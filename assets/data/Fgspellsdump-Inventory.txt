@@ -112,13 +112,13 @@ Bank2-Slot5	Spell: Enlightenment	19396	1	0
 Bank2-Slot6	Spell: Heroic Bond	19224	1	0
 Bank2-Slot7	Empty	0	0	0
 Bank2-Slot8	Spell: Yaulp IV	19209	1	0
-Bank2-Slot9	Spell: Largarn`s Lamentation	19388	1	0
+Bank2-Slot9	Empty	0	0	0
 Bank2-Slot10	Spell: Egress	19236	1	0
 Bank3	Trader's Satchel	17899	1	10
 Bank3-Slot1	Spell: Markar`s Discord	19331	1	0
 Bank3-Slot2	Spell: Exile Undead	19214	1	0
 Bank3-Slot3	Spell: Vocarate: Water	19362	1	0
-Bank3-Slot4	Spell: Infusion	19424	1	0
+Bank3-Slot4	Empty	0	0	0
 Bank3-Slot5	Spell: Talisman of Jasinth	19264	1	0
 Bank3-Slot6	Spell: Rage of Zomm	19417	1	0
 Bank3-Slot7	Spell: Upheaval	19205	1	0
@@ -167,7 +167,7 @@ Bank7-Slot5	Spell: Monster Summoning III	30404	1	0
 Bank7-Slot6	Spell: Death Peace	30460	1	0
 Bank7-Slot7	Spell: Turning of the Unnatural	30443	1	0
 Bank7-Slot8	Spell: Tumultuous Strength	30428	1	0
-Bank7-Slot9	Spell: Torment of Argli	19391	1	0
+Bank7-Slot9	Empty	0	0	0
 Bank7-Slot10	Spell: Gift of Insight	30409	1	0
 Bank8	Trader's Satchel	17899	1	10
 Bank8-Slot1	Empty	0	0	0
@@ -285,7 +285,7 @@ Bank28	Empty	0	0	0
 Bank29	Empty	0	0	0
 Bank30	Empty	0	0	0
 SharedBank1	Backpack	17005	1	8
-SharedBank1-Slot1	Spell: Moonfire	19519	1	0
+SharedBank1-Slot1	Empty	0	0	0
 SharedBank1-Slot2	Empty	0	0	0
 SharedBank1-Slot3	Empty	0	0	0
 SharedBank1-Slot4	Empty	0	0	0
@@ -294,14 +294,14 @@ SharedBank1-Slot6	Empty	0	0	0
 SharedBank1-Slot7	Empty	0	0	0
 SharedBank1-Slot8	Empty	0	0	0
 SharedBank2	Backpack	17005	1	8
-SharedBank2-Slot1	Empty	0	0	0
-SharedBank2-Slot2	Empty	0	0	0
-SharedBank2-Slot3	Empty	0	0	0
-SharedBank2-Slot4	Empty	0	0	0
-SharedBank2-Slot5	Empty	0	0	0
-SharedBank2-Slot6	Empty	0	0	0
-SharedBank2-Slot7	Empty	0	0	0
-SharedBank2-Slot8	Empty	0	0	0
+SharedBank2-Slot1	Spell: Reoccurring Amnesia	15194	1	0
+SharedBank2-Slot2	Song: Elemental Chorus	7707	1	0
+SharedBank2-Slot3	Spell: Quivering Veil of Xarn	19309	1	0
+SharedBank2-Slot4	Spell: Glamorous Visage	7669	1	0
+SharedBank2-Slot5	Spell: Extinguish Fatigue	15417	1	0
+SharedBank2-Slot6	Spell: Gift of Brilliance	30410	1	0
+SharedBank2-Slot7	Spell: Gravity Flux	15073	1	0
+SharedBank2-Slot8	Spell: Vocarate: Fire	19355	1	0
 SharedBank3	Backpack	17005	1	8
 SharedBank3-Slot1	Spell: Call of Fire	30463	1	0
 SharedBank3-Slot2	Spell: Color Skew	15178	1	0
@@ -324,11 +324,11 @@ SharedBank5	Backpack	17005	1	8
 SharedBank5-Slot1	Song: Battlecry of the Vah Shir	7706	1	0
 SharedBank5-Slot2	Spell: Reckoning	19212	1	0
 SharedBank5-Slot3	Spell: Gift of Insight	30409	1	0
-SharedBank5-Slot4	Empty	0	0	0
+SharedBank5-Slot4	Spell: Moonfire	19519	1	0
 SharedBank5-Slot5	Spell: Splurt	19294	1	0
 SharedBank5-Slot6	Spell: Wave of Healing	30455	1	0
-SharedBank5-Slot7	Empty	0	0	0
-SharedBank5-Slot8	Spell: Crippling Claudication	7648	1	0
+SharedBank5-Slot7	Spell: Greater Familiar	7660	1	0
+SharedBank5-Slot8	Spell: Warder's Protection	7700	1	0
 SharedBank6	Backpack	17005	1	8
 SharedBank6-Slot1	Spell: Disempower	15281	1	0
 SharedBank6-Slot2	Spell: Disempower	15281	1	0
@@ -338,27 +338,19 @@ SharedBank6-Slot5	Spell: Scars of Sigil	19358	1	0
 SharedBank6-Slot6	Spell: Scars of Sigil	19358	1	0
 SharedBank6-Slot7	Spell: Shiftless Deeds	15186	1	0
 SharedBank6-Slot8	Spell: Shiftless Deeds	15186	1	0
-SharedBank7	Backpack	17005	1	8
-SharedBank7-Slot1	Spell: Reoccurring Amnesia	15194	1	0
-SharedBank7-Slot2	Song: Elemental Chorus	7707	1	0
-SharedBank7-Slot3	Spell: Quivering Veil of Xarn	19309	1	0
-SharedBank7-Slot4	Empty	0	0	0
-SharedBank7-Slot5	Spell: Extinguish Fatigue	15417	1	0
-SharedBank7-Slot6	Spell: Gift of Brilliance	30410	1	0
-SharedBank7-Slot7	Spell: Gravity Flux	15073	1	0
-SharedBank7-Slot8	Spell: Vocarate: Fire	19355	1	0
+SharedBank7	Empty	0	0	0
 SharedBank8	Backpack	17005	1	8
 SharedBank8-Slot1	Spell: Wave of Healing	30455	1	0
 SharedBank8-Slot2	Spell: Shroud of Pain	30458	1	0
 SharedBank8-Slot3	Spell: Corporeal Empathy	30413	1	0
 SharedBank8-Slot4	Spell: Blast of Poison	30429	1	0
 SharedBank8-Slot5	Spell: Avatar	19292	1	0
-SharedBank8-Slot6	Empty	0	0	0
+SharedBank8-Slot6	Spell: Spirit of Khurenz	7727	1	0
 SharedBank8-Slot7	Spell: Blessed Armor of the Risen	7609	1	0
 SharedBank8-Slot8	Spell: Thrall of Bones	19299	1	0
 SharedBank9	Backpack	17005	1	8
-SharedBank9-Slot1	Empty	0	0	0
-SharedBank9-Slot2	Empty	0	0	0
+SharedBank9-Slot1	Spell: Mark of Retribution	7607	1	0
+SharedBank9-Slot2	Spell: Koadic's Endless Intellect	7670	1	0
 SharedBank9-Slot3	Spell: Circle of Seasons	7619	1	0
 SharedBank9-Slot4	Spell: Mass Mystical Transvergan	7638	1	0
 SharedBank9-Slot5	Spell: Hammer of Divinity	15997	1	0
@@ -373,7 +365,7 @@ SharedBank10-Slot4	Spell: Mesmerization	16217	1	0
 SharedBank10-Slot5	Spell: Enlightenment	19396	1	0
 SharedBank10-Slot6	Spell: Enlightenment	19396	1	0
 SharedBank10-Slot7	Spell: Pillage Enchantment	15025	1	0
-SharedBank10-Slot8	Spell: Pillage Enchantment	15025	1	0
+SharedBank10-Slot8	Spell: Wind of Tashanian	19405	1	0
 SharedBank11	Empty	0	0	0
 SharedBank12	Empty	0	0	0
 SharedBank13	Empty	0	0	0
