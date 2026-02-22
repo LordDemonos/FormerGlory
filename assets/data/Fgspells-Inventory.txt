@@ -20,35 +20,35 @@ Legs	Empty	0	0	0
 Feet	Empty	0	0	0
 Waist	Empty	0	0	0
 Ammo	Empty	0	0	0
-General1	Trader's Satchel	17899	1	10
-General1-Slot1	Spell: Brell's Mountainous Barrier	7690	1	0
-General1-Slot2	Spell: Mark of Retribution	7607	1	0
-General1-Slot3	Spell: Maelstrom of Electricity	19497	1	0
-General1-Slot4	Spell: Plague of insects	7627	1	0
-General1-Slot5	Spell: Spirit of Snow	19531	1	0
-General1-Slot6	Spell: Zevfeer's Theft of Vitae	7650	1	0
-General1-Slot7	Spell: Hammer of Souls	15995	1	0
-General1-Slot8	Spell: Brell's Mountainous Barrier	7690	1	0
-General1-Slot9	Spell: Moonfire	19519	1	0
-General1-Slot10	Spell: Brell's Mountainous Barrier	7690	1	0
+General1	Backpack	17005	1	8
+General1-Slot1	Empty	0	0	0
+General1-Slot2	Empty	0	0	0
+General1-Slot3	Empty	0	0	0
+General1-Slot4	Empty	0	0	0
+General1-Slot5	Empty	0	0	0
+General1-Slot6	Empty	0	0	0
+General1-Slot7	Empty	0	0	0
+General1-Slot8	Empty	0	0	0
 General2	Backpack	17005	1	8
 General2-Slot1	Spell: Zevfeer's Theft of Vitae	7650	1	0
 General2-Slot2	Spell: Moonfire	19519	1	0
-General2-Slot3	Spell: Maelstrom of Electricity	19497	1	0
+General2-Slot3	Empty	0	0	0
 General2-Slot4	Spell: Hammer of Souls	15995	1	0
 General2-Slot5	Spell: Greater Familiar	7660	1	0
 General2-Slot6	Spell: Moonfire	19519	1	0
 General2-Slot7	Spell: Moonfire	19519	1	0
 General2-Slot8	Spell: Brell's Mountainous Barrier	7690	1	0
-General3	Backpack	17005	1	8
-General3-Slot1	Empty	0	0	0
-General3-Slot2	Empty	0	0	0
-General3-Slot3	Empty	0	0	0
-General3-Slot4	Empty	0	0	0
-General3-Slot5	Empty	0	0	0
-General3-Slot6	Empty	0	0	0
-General3-Slot7	Empty	0	0	0
-General3-Slot8	Empty	0	0	0
+General3	Trader's Satchel	17899	1	10
+General3-Slot1	Spell: Brell's Mountainous Barrier	7690	1	0
+General3-Slot2	Spell: Mark of Retribution	7607	1	0
+General3-Slot3	Spell: Maelstrom of Electricity	19497	1	0
+General3-Slot4	Spell: Plague of insects	7627	1	0
+General3-Slot5	Spell: Spirit of Snow	19531	1	0
+General3-Slot6	Spell: Zevfeer's Theft of Vitae	7650	1	0
+General3-Slot7	Spell: Hammer of Souls	15995	1	0
+General3-Slot8	Spell: Brell's Mountainous Barrier	7690	1	0
+General3-Slot9	Empty	0	0	0
+General3-Slot10	Spell: Brell's Mountainous Barrier	7690	1	0
 General4	Trader's Satchel	17899	1	10
 General4-Slot1	Spell: Greater Familiar	7660	1	0
 General4-Slot2	Spell: Arch Lich	30416	1	0
@@ -66,8 +66,8 @@ General5-Slot2	Spell: Khura's Focusing	7630	1	0
 General5-Slot3	Song: Warsong of the Vah Shir	7710	1	0
 General5-Slot4	Spell: Blessing of Aegolism	7610	1	0
 General5-Slot5	Spell: Hammer of Souls	15995	1	0
-General5-Slot6	Spell: Shock of Fiery Blades	7640	1	0
-General5-Slot7	Spell: Nature's Recovery	7620	1	0
+General5-Slot6	Empty	0	0	0
+General5-Slot7	Empty	0	0	0
 General5-Slot8	Spell: Warder's Protection	7700	1	0
 General5-Slot9	Spell: Blessing of Aegolism	7610	1	0
 General5-Slot10	Spell: Nature's Recovery	7620	1	0
@@ -109,7 +109,7 @@ Held	Empty	0	0	0
 Bank1	Large Box	17007	1	8
 Bank1-Slot1	Spell: Plague of insects	7627	1	0
 Bank1-Slot2	Spell: Torrent of Hate	7677	1	0
-Bank1-Slot3	Spell: Mass Mystical Transvergan	7638	1	0
+Bank1-Slot3	Empty	0	0	0
 Bank1-Slot4	Spell: Terror of Terris	24542	1	0
 Bank1-Slot5	Spell: Dictate	19406	1	0
 Bank1-Slot6	Song: Battlecry of the Vah Shir	7706	1	0
@@ -125,9 +125,9 @@ Bank2-Slot6	Song: Elemental Chorus	7707	1	0
 Bank2-Slot7	Spell: Breath of Tunare	7688	1	0
 Bank2-Slot8	Spell: Jolting Blades	7697	1	0
 Bank3	Trader's Satchel	17899	1	10
-Bank3-Slot1	Spell: Foliage Shield	7616	1	0
+Bank3-Slot1	Empty	0	0	0
 Bank3-Slot2	Spell: Falcon Eye	7696	1	0
-Bank3-Slot3	Spell: Spirit of Eagle	7617	1	0
+Bank3-Slot3	Empty	0	0	0
 Bank3-Slot4	Spell: Wrath of the Elements	30405	1	0
 Bank3-Slot5	Spell: Mental Corruption	7676	1	0
 Bank3-Slot6	Spell: Mental Corruption	7676	1	0
@@ -152,7 +152,7 @@ Bank5-Slot4	Spell: Veil of Elements	7637	1	0
 Bank5-Slot5	Spell: Glamour of Tunare	19240	1	0
 Bank5-Slot6	Spell: Glamour of Tunare	19240	1	0
 Bank5-Slot7	Spell: Glamour of Tunare	19240	1	0
-Bank5-Slot8	Spell: Glamour of Tunare	19240	1	0
+Bank5-Slot8	Empty	0	0	0
 Bank6	Backpack	17005	1	8
 Bank6-Slot1	Spell: Manastorm	19370	1	0
 Bank6-Slot2	Spell: Manastorm	19370	1	0
@@ -255,7 +255,7 @@ Bank16-Slot4	Spell: Improved Invisibility	30406	1	0
 Bank16-Slot5	Spell: Focus of Spirit	30432	1	0
 Bank16-Slot6	Spell: Focus of Spirit	30432	1	0
 Bank16-Slot7	Spell: Mark of Retribution	7607	1	0
-Bank16-Slot8	Spell: Protection of the Glades	30442	1	0
+Bank16-Slot8	Empty	0	0	0
 Bank17	Backpack	17005	1	8
 Bank17-Slot1	Spell: Remove Curse	19542	1	0
 Bank17-Slot2	Spell: Dyzil`s Deafening Decoy	19364	1	0
@@ -304,7 +304,7 @@ Bank21-Slot6	Spell: Ice Spear of Solist	30426	1	0
 Bank21-Slot7	Spell: Improved Invis vs Undead	30411	1	0
 Bank21-Slot8	Empty	0	0	0
 Bank22	Backpack	17005	1	8
-Bank22-Slot1	Spell: Mask of the Stalker	19529	1	0
+Bank22-Slot1	Empty	0	0	0
 Bank22-Slot2	Spell: Enforced Reverence	19222	1	0
 Bank22-Slot3	Spell: Exile Undead	19214	1	0
 Bank22-Slot4	Spell: Nature's Recovery	7620	1	0
@@ -361,7 +361,7 @@ Bank28	Backpack	17005	1	8
 Bank28-Slot1	Empty	0	0	0
 Bank28-Slot2	Spell: Bristlebane`s Bundle	19351	1	0
 Bank28-Slot3	Spell: Shroud of Death	30459	1	0
-Bank28-Slot4	Spell: Spirit of Scale	19238	1	0
+Bank28-Slot4	Empty	0	0	0
 Bank28-Slot5	Empty	0	0	0
 Bank28-Slot6	Spell: Gift of Brilliance	30410	1	0
 Bank28-Slot7	Spell: Cannibalize III	19272	1	0
@@ -413,7 +413,7 @@ SharedBank3-Slot7	Spell: Talisman of the Brute	19281	1	0
 SharedBank3-Slot8	Spell: Mind Wrack	7649	1	0
 SharedBank4	Backpack	17005	1	8
 SharedBank4-Slot1	Spell: Upheaval	19233	1	0
-SharedBank4-Slot2	Spell: Upheaval	19205	1	0
+SharedBank4-Slot2	Empty	0	0	0
 SharedBank4-Slot3	Spell: Bristlebane`s Bundle	19351	1	0
 SharedBank4-Slot4	Spell: Bristlebane`s Bundle	19351	1	0
 SharedBank4-Slot5	Spell: Torrent of Pain	7678	1	0
