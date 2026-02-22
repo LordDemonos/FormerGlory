@@ -34,7 +34,7 @@ General2-Slot1	Spell: Falcon Eye	7696	1	0
 General2-Slot2	Spell: Moonfire	19519	1	0
 General2-Slot3	Spell: Brell's Mountainous Barrier	7690	1	0
 General2-Slot4	Spell: Cloak of the Akheva	7680	1	0
-General2-Slot5	Spell: Ro's Smoldering Disjunction	7618	1	0
+General2-Slot5	Empty	0	0	0
 General2-Slot6	Spell: Cloak of the Akheva	7680	1	0
 General2-Slot7	Empty	0	0	0
 General2-Slot8	Empty	0	0	0
@@ -113,7 +113,7 @@ Bank2-Slot6	Spell: Heroic Bond	19224	1	0
 Bank2-Slot7	Empty	0	0	0
 Bank2-Slot8	Spell: Yaulp IV	19209	1	0
 Bank2-Slot9	Empty	0	0	0
-Bank2-Slot10	Spell: Egress	19236	1	0
+Bank2-Slot10	Empty	0	0	0
 Bank3	Trader's Satchel	17899	1	10
 Bank3-Slot1	Spell: Markar`s Discord	19331	1	0
 Bank3-Slot2	Spell: Exile Undead	19214	1	0
@@ -313,7 +313,7 @@ SharedBank3-Slot7	Spell: Talisman of the Brute	19281	1	0
 SharedBank3-Slot8	Spell: Mind Wrack	7649	1	0
 SharedBank4	Backpack	17005	1	8
 SharedBank4-Slot1	Spell: Upheaval	19233	1	0
-SharedBank4-Slot2	Spell: Upheaval	19205	1	0
+SharedBank4-Slot2	Empty	0	0	0
 SharedBank4-Slot3	Spell: Bristlebane`s Bundle	19351	1	0
 SharedBank4-Slot4	Spell: Bristlebane`s Bundle	19351	1	0
 SharedBank4-Slot5	Spell: Torrent of Pain	7678	1	0
