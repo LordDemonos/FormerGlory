@@ -69,6 +69,6 @@ cover-img: /assets/img/Diabo-Xi-Xin.jpg
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Diabo Xi Xin&gt; - CH Chain: 2sec, 3sec slowed, Hits 1200, slowable, rampages, approximately 1.1M HP.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
-Va Xakra mobs that drop North Tower Key spawn in rooms behind him. He is up the spiral staircase at the Red Circle on the map.
+Va Xakra mobs that drop North Tower Key spawn in rooms behind him. He is up the spiral staircase at the Red Circle on the map. He AOEs so tank him in a corner.
 
 ![Diablo-Xi-Xin-Map](/assets/img/Diablo-Xi-Xin-Map.jpg)
