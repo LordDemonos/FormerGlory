@@ -43,7 +43,7 @@ General3-Slot1	Spell: Brell's Mountainous Barrier	7690	1	0
 General3-Slot2	Spell: Mark of Retribution	7607	1	0
 General3-Slot3	Spell: Maelstrom of Electricity	19497	1	0
 General3-Slot4	Spell: Plague of insects	7627	1	0
-General3-Slot5	Spell: Spirit of Snow	19531	1	0
+General3-Slot5	Empty	0	0	0
 General3-Slot6	Spell: Zevfeer's Theft of Vitae	7650	1	0
 General3-Slot7	Spell: Hammer of Souls	15995	1	0
 General3-Slot8	Spell: Brell's Mountainous Barrier	7690	1	0
@@ -63,14 +63,14 @@ General4-Slot10	Spell: Warder's Protection	7700	1	0
 General5	Trader's Satchel	17899	1	10
 General5-Slot1	Spell: Cloak of the Akheva	7680	1	0
 General5-Slot2	Spell: Khura's Focusing	7630	1	0
-General5-Slot3	Song: Warsong of the Vah Shir	7710	1	0
+General5-Slot3	Empty	0	0	0
 General5-Slot4	Spell: Blessing of Aegolism	7610	1	0
 General5-Slot5	Spell: Hammer of Souls	15995	1	0
 General5-Slot6	Empty	0	0	0
 General5-Slot7	Empty	0	0	0
 General5-Slot8	Spell: Warder's Protection	7700	1	0
 General5-Slot9	Spell: Blessing of Aegolism	7610	1	0
-General5-Slot10	Spell: Nature's Recovery	7620	1	0
+General5-Slot10	Empty	0	0	0
 General6	Trader's Satchel	17899	1	10
 General6-Slot1	Spell: Regrowth of Dar Khura	7628	1	0
 General6-Slot2	Empty	0	0	0
@@ -150,7 +150,7 @@ Bank5-Slot2	Spell: Blessed Armor of the Risen	7609	1	0
 Bank5-Slot3	Spell: Disinfecting Aura	7626	1	0
 Bank5-Slot4	Spell: Veil of Elements	7637	1	0
 Bank5-Slot5	Spell: Glamour of Tunare	19240	1	0
-Bank5-Slot6	Spell: Glamour of Tunare	19240	1	0
+Bank5-Slot6	Empty	0	0	0
 Bank5-Slot7	Spell: Glamour of Tunare	19240	1	0
 Bank5-Slot8	Empty	0	0	0
 Bank6	Backpack	17005	1	8
@@ -340,7 +340,7 @@ Bank25-Slot6	Spell: Wave of Healing	30455	1	0
 Bank25-Slot7	Song: Composition of Ervaj	30452	1	0
 Bank25-Slot8	Spell: Call of Fire	30463	1	0
 Bank26	Backpack	17005	1	8
-Bank26-Slot1	Spell: Torpor	19293	1	0
+Bank26-Slot1	Empty	0	0	0
 Bank26-Slot2	Spell: Corporeal Empathy	30413	1	0
 Bank26-Slot3	Spell: Remove Curse	19542	1	0
 Bank26-Slot4	Empty	0	0	0
@@ -444,7 +444,7 @@ SharedBank8-Slot1	Spell: Wave of Healing	30455	1	0
 SharedBank8-Slot2	Spell: Shroud of Pain	30458	1	0
 SharedBank8-Slot3	Spell: Corporeal Empathy	30413	1	0
 SharedBank8-Slot4	Spell: Blast of Poison	30429	1	0
-SharedBank8-Slot5	Spell: Avatar	19292	1	0
+SharedBank8-Slot5	Empty	0	0	0
 SharedBank8-Slot6	Spell: Spirit of Khurenz	7727	1	0
 SharedBank8-Slot7	Spell: Blessed Armor of the Risen	7609	1	0
 SharedBank8-Slot8	Spell: Thrall of Bones	19299	1	0
