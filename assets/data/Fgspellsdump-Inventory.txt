@@ -344,7 +344,7 @@ SharedBank8-Slot1	Spell: Wave of Healing	30455	1	0
 SharedBank8-Slot2	Spell: Shroud of Pain	30458	1	0
 SharedBank8-Slot3	Spell: Corporeal Empathy	30413	1	0
 SharedBank8-Slot4	Spell: Blast of Poison	30429	1	0
-SharedBank8-Slot5	Spell: Avatar	19292	1	0
+SharedBank8-Slot5	Empty	0	0	0
 SharedBank8-Slot6	Spell: Spirit of Khurenz	7727	1	0
 SharedBank8-Slot7	Spell: Blessed Armor of the Risen	7609	1	0
 SharedBank8-Slot8	Spell: Thrall of Bones	19299	1	0
