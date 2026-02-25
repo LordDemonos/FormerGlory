@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-02-22
+### Last Update: 2026-02-25
 
 FGS Inv8 [Bearskin Potion Bag](https://www.pqdi.cc/item/17811)
 
@@ -18,7 +18,7 @@ FGS Bnk14 s8 [Song: Composition of Ervaj](https://www.pqdi.cc/item/30452) x3
 
 FGS Bnk2 s6 [Song: Elemental Chorus](https://www.pqdi.cc/item/7707) x6
 
-FGS Inv5 s3 [Song: Warsong of the Vah Shir](https://www.pqdi.cc/item/7710) x2
+FGS Inv6 s6 [Song: Warsong of the Vah Shir](https://www.pqdi.cc/item/7710)
 
 FGS Bnk11 s1 [Spell: Aegis of Ro](https://www.pqdi.cc/item/15863) x3
 
@@ -33,8 +33,6 @@ FGS Bnk10 s1 [Spell: Asphyxiate](https://www.pqdi.cc/item/19402) x2
 SPD Bnk6 s3 [Spell: Atol`s Spectral Shackles](https://www.pqdi.cc/item/19315)
 
 SPD Bnk5 s1 [Spell: Augment](https://www.pqdi.cc/item/19416) x2
-
-FGS SBnk8 [Spell: Avatar](https://www.pqdi.cc/item/19292) x2
 
 FGS SBnk4 [Spell: Bandoleer of Luclin](https://www.pqdi.cc/item/19356) x4
 
@@ -138,7 +136,7 @@ FGS Bnk16 s1 [Spell: Gift of Xev](https://www.pqdi.cc/item/19347) x3
 
 FGS SBnk2 [Spell: Glamorous Visage](https://www.pqdi.cc/item/7669) x2
 
-FGS Bnk5 s5 [Spell: Glamour of Tunare](https://www.pqdi.cc/item/19240) x6
+FGS Bnk5 s5 [Spell: Glamour of Tunare](https://www.pqdi.cc/item/19240) x5
 
 FGS SBnk2 [Spell: Gravity Flux](https://www.pqdi.cc/item/15073) x2
 
@@ -206,7 +204,7 @@ FGS Inv2 s2 [Spell: Moonfire](https://www.pqdi.cc/item/19519) x7
 
 SPD Bnk5 s6 [Spell: Naltron's Mark](https://www.pqdi.cc/item/19435)
 
-FGS Inv5 s10 [Spell: Nature's Recovery](https://www.pqdi.cc/item/7620) x5
+FGS Inv7 s6 [Spell: Nature's Recovery](https://www.pqdi.cc/item/7620) x4
 
 FGS Bnk17 s3 [Spell: Phantasmal Protection](https://www.pqdi.cc/item/7639) x2
 
@@ -258,7 +256,7 @@ FGS Bnk19 s4 [Spell: Spirit of Khurenz](https://www.pqdi.cc/item/7727) x3
 
 SPD Inv4 s7 [Spell: Spirit of Omakin](https://www.pqdi.cc/item/7723)
 
-FGS Inv3 s5 [Spell: Spirit of Snow](https://www.pqdi.cc/item/19531) x4
+FGS Inv6 s10 [Spell: Spirit of Snow](https://www.pqdi.cc/item/19531) x3
 
 FGS Bnk12 s5 [Spell: Spirit Quickening](https://www.pqdi.cc/item/30430)
 
@@ -290,7 +288,7 @@ FGS Bnk3 s7 [Spell: Thunder of Karana](https://www.pqdi.cc/item/7686)
 
 FGS Bnk7 s5 [Spell: Tigir`s Insects](https://www.pqdi.cc/item/19285) x2
 
-FGS Bnk26 s1 [Spell: Torpor](https://www.pqdi.cc/item/19293) x7
+FGS Bnk27 s5 [Spell: Torpor](https://www.pqdi.cc/item/19293) x6
 
 FGS Bnk1 s2 [Spell: Torrent of Hate](https://www.pqdi.cc/item/7677)
 
