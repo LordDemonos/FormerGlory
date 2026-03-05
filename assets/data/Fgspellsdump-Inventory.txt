@@ -21,7 +21,7 @@ Feet	Empty	0	0	0
 Waist	Empty	0	0	0
 Ammo	Empty	0	0	0
 General1	Backpack	17005	1	8
-General1-Slot1	Spell: Mask of the Stalker	19529	1	0
+General1-Slot1	Empty	0	0	0
 General1-Slot2	Spell: Greater Familiar	7660	1	0
 General1-Slot3	Spell: Zevfeer's Theft of Vitae	7650	1	0
 General1-Slot4	Spell: Healing  Wave of Prexus	7689	1	0
