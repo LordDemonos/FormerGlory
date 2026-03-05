@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-02-25
+### Last Update: 2026-03-05
 
 FGS Inv8 [Bearskin Potion Bag](https://www.pqdi.cc/item/17811)
 
@@ -185,8 +185,6 @@ FGS Bnk6 s1 [Spell: Manastorm](https://www.pqdi.cc/item/19370) x3
 FGS Inv3 s2 [Spell: Mark of Retribution](https://www.pqdi.cc/item/7607) x6
 
 FGS Bnk17 s6 [Spell: Markar`s Discord](https://www.pqdi.cc/item/19331) x2
-
-SPD Inv1 s1 [Spell: Mask of the Stalker](https://www.pqdi.cc/item/19529)
 
 FGS Bnk7 s4 [Spell: Mass Mystical Transvergan](https://www.pqdi.cc/item/7638) x4
 
