@@ -64,6 +64,6 @@ cover-img: /assets/img/Lcea-Katta.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Lcea Katta&gt; - Ch Chain: 4 Sec, Hits for 835, Flurries, Enrages, SLowable, 400k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Lcea Katta&gt; - Ch Chain: 4 Sec, Hits for 835, Flurries, Enrages, Slowable, 400k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 ![Katta Castellum Map](/assets/img/Katta-Map.jpg)
