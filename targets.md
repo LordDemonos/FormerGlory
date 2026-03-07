@@ -42,5 +42,14 @@ cover-img: /assets/img/targets.webp
 <h2 id="off-night-targets">Off Night Targets</h2>
 <p class="raid-description">These targets can be tackled on off nights with smaller groups.</p>
 <div class="card-container">
+  <div class="card magician">
+    <ul>
+      <li>Mofa</li>
+      <li>Magician</li>
+      <li>Plane of Hate</li>
+      <li>Innoruuk - Staff of Elemental Mastery: Earth</li>
+      <li>Fri, Sat</li>
+    </ul>
+  </div>
 </div>
 
