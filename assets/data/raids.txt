@@ -1,10 +1,5 @@
-- Monday, 2/23, 9pm ET: Vex Thal
-- Wednesday, 2/25, 9pm ET: Vex Thal + Aten Ha Ra + Emperor Ssraeshza + Cursed Cycle
-- Friday, 2/27, 9pm ET: Vex Thal
-- Saturday, 2/28, 9pm ET: Sanctus Seru + Lord Inquisitor Seru + The Itraer Vius + Shei Vinitras + Cursed Cycle
-
 - Monday, 3/2, 9pm ET: Vex Thal
-- Wednesday, 3/4, 9pm ET: Kaas Thox Xi Aten Ha Ra (South Blob) + Aten Ha Ra + Emperor Ssraeshza + Ssraeshza Temple
+- Wednesday, 3/4, 9pm ET: Kaas Thox Xi Aten Ha Ra (South Blob) + Aten Ha Ra + Emperor Ssraeshza + Rhag Cycle + Cursed Cycle
 - Friday, 3/6, 9pm ET: Lcea Katta + a Burrower Parasite + Thought Horror Overfiend + Xerkizh The Creator + High Priest of Ssraeshza
 - Saturday, 3/7, 9pm ET: Sanctus Seru + Lord Inquisitor Seru + Rhag Cycle + Cursed Cycle
 
@@ -16,7 +11,7 @@
 - Monday, 3/16, 9pm ET: Vex Thal
 - Wednesday, 3/18, 9pm ET: Emperor Ssraeshza + Ssraeshza Temple
 - Friday, 3/20, 9pm ET: Vex Thal
-- Saturday, 3/21, 9pm ET: Sanctus Seru + Lord Inquisitor Seru + The Itraer Vius + Shei Vinitras + Lcea Katta
+- Saturday, 3/21, 9pm ET: Sanctus Seru + Lord Inquisitor Seru + Shei Vinitras + Lcea Katta +Cursed Cycle
 
 - Monday, 3/23, 9pm ET: Vex Thal
 - Wednesday, 3/25, 9pm ET: Emperor Ssraeshza + Ssraeshza Temple
@@ -24,8 +19,8 @@
 - Saturday, 3/28, 9pm ET: Sanctus Seru + Lord Inquisitor Seru + Rhag Cycle + Cursed Cycle
 
 - Monday, 3/30, 9pm ET: Vex Thal
-- Wednesday, 4/1, 9pm ET: Emperor Ssraeshza + Ssraeshza Temple -
-Friday, 4/3, 9pm ET: Vex Thal
+- Wednesday, 4/1, 9pm ET: Emperor Ssraeshza + Ssraeshza Temple
+- Friday, 4/3, 9pm ET: Vex Thal
 - Saturday, 4/4, 9pm ET: Sanctus Seru + Lord Inquisitor Seru + a Burrower Parasite + Thought Horror Overfiend + Cursed Cycle
 
 - Monday, 4/6, 9pm ET: Vex Thal
@@ -41,7 +36,7 @@ Friday, 4/3, 9pm ET: Vex Thal
 - Monday, 4/20, 9pm ET: Vex Thal
 - Wednesday, 4/22, 9pm ET: Emperor Ssraeshza + Ssraeshza Temple
 - Friday, 4/24, 9pm ET: Vex Thal
-- Saturday, 4/25, 9pm ET: Sanctus Seru + Lord Inquisitor Seru + The Itraer Vius + Shei Vinitras + Lcea Katta
+- Saturday, 4/25, 9pm ET: Sanctus Seru + Lord Inquisitor Seru + Shei Vinitras + Lcea Katta + Cursed Cycle
 
 - Monday, 4/27, 9pm ET: Vex Thal
 - Wednesday, 4/29, 9pm ET: Emperor Ssraeshza + Ssraeshza Temple
@@ -56,7 +51,7 @@ Friday, 4/3, 9pm ET: Vex Thal
 - Monday, 5/11, 9pm ET: Vex Thal
 - Wednesday, 5/13, 9pm ET: Emperor Ssraeshza + Ssraeshza Temple
 - Friday, 5/15, 9pm ET: Vex Thal
-- Saturday, 5/16, 9pm ET: Sanctus Seru + Lord Inquisitor Seru + The Itraer Vius + Shei Vinitras + Lcea Katta
+- Saturday, 5/16, 9pm ET: Sanctus Seru + Lord Inquisitor Seru + Shei Vinitras + Lcea Katta + Cursed Cycle
 
 - Monday, 5/18, 9pm ET: Vex Thal
 - Wednesday, 5/20, 9pm ET: Emperor Ssraeshza + Ssraeshza Temple
