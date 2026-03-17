@@ -71,7 +71,7 @@ cover-img: /assets/img/Thall-Va-Xakra.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Thall Va Xakra&gt; - CH Chain: 6sec, Hits 950, rampages, casts Silence of the Shadows (Targeted AE, Silence, Unresistable) and Word of Command (PBAE, 3 sec stun/ 250 DD, -100 Magic Based), slowable, 900K HP. TANK AGAINST WALL</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Thall Va Xakra&gt; - CH Chain: 6sec, Hits 950, rampages, casts Silence of the Shadows (Targeted AE, Silence, Unresistable) and Word of Command (PBAE, 3 sec stun/ 250 DD, -100 Magic Based), slowable, 900K HP. THALLS AGAINST THE WALL</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 There are two of these mobs. See map Red Circles for the locations. North Wing Key drops from Va Xakra mobs near these bosses. Tank it against a wall.
 
