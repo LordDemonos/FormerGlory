@@ -42,7 +42,7 @@ General3	Backpack	17005	1	8
 General3-Slot1	Spell: Upheaval	19233	1	0
 General3-Slot2	Spell: Plague of insects	7627	1	0
 General3-Slot3	Spell: Trucidation	19425	1	0
-General3-Slot4	Spell: Foliage Shield	7616	1	0
+General3-Slot4	Empty	0	0	0
 General3-Slot5	Song: Elemental Chorus	7707	1	0
 General3-Slot6	Spell: Tricksters Augmentation	7666	1	0
 General3-Slot7	Spell: Circle of Seasons	7619	1	0
@@ -263,7 +263,7 @@ Bank18-Slot4	Song: Battlecry of the Vah Shir	7706	1	0
 Bank18-Slot5	Empty	0	0	0
 Bank18-Slot6	Spell: Tricksters Augmentation	7666	1	0
 Bank18-Slot7	Spell: Phantasmal Protection	7639	1	0
-Bank18-Slot8	Spell: Egress	19236	1	0
+Bank18-Slot8	Empty	0	0	0
 Bank19	Backpack	17005	1	8
 Bank19-Slot1	Spell: Form of the Howler	19244	1	0
 Bank19-Slot2	Spell: Voice of Terris	24546	1	0
@@ -351,7 +351,7 @@ SharedBank8-Slot8	Spell: Thrall of Bones	19299	1	0
 SharedBank9	Backpack	17005	1	8
 SharedBank9-Slot1	Spell: Mark of Retribution	7607	1	0
 SharedBank9-Slot2	Spell: Koadic's Endless Intellect	7670	1	0
-SharedBank9-Slot3	Spell: Circle of Seasons	7619	1	0
+SharedBank9-Slot3	Empty	0	0	0
 SharedBank9-Slot4	Spell: Mass Mystical Transvergan	7638	1	0
 SharedBank9-Slot5	Spell: Hammer of Divinity	15997	1	0
 SharedBank9-Slot6	Spell: Terror of Terris	24542	1	0
