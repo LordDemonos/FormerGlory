@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-03-05
+### Last Update: 2026-03-31
 
 FGS Inv8 [Bearskin Potion Bag](https://www.pqdi.cc/item/17811)
 
@@ -64,7 +64,7 @@ FGS Bnk21 s1 [Spell: Cannibalize IV](https://www.pqdi.cc/item/19473) x2
 
 FGS Bnk14 s5 [Spell: Chill Bones](https://www.pqdi.cc/item/19302) x3
 
-FGS SBnk9 [Spell: Circle of Seasons](https://www.pqdi.cc/item/7619) x3
+FGS SBnk9 [Spell: Circle of Seasons](https://www.pqdi.cc/item/7619) x2
 
 FGS Inv5 s1 [Spell: Cloak of the Akheva](https://www.pqdi.cc/item/7680) x7
 
@@ -100,8 +100,6 @@ FGS Bnk17 s2 [Spell: Dyzil`s Deafening Decoy](https://www.pqdi.cc/item/19364)
 
 SPD Bnk18 s2 [Spell: Eagle Eye](https://www.pqdi.cc/item/7699) x2
 
-SPD Bnk18 s8 [Spell: Egress](https://www.pqdi.cc/item/19236)
-
 FGS Bnk15 s1 [Spell: Elemental Maelstrom](https://www.pqdi.cc/item/30403)
 
 FGS Bnk22 s2 [Spell: Enforced Reverence](https://www.pqdi.cc/item/19222)
@@ -122,7 +120,7 @@ FGS Bnk20 s2 [Spell: Flame of Light](https://www.pqdi.cc/item/30454)
 
 FGS Bnk12 s7 [Spell: Focus of Spirit](https://www.pqdi.cc/item/30432) x6
 
-SPD Inv3 s4 [Spell: Foliage Shield](https://www.pqdi.cc/item/7616) x2
+SPD Bnk19 s4 [Spell: Foliage Shield](https://www.pqdi.cc/item/7616)
 
 SPD Bnk19 s1 [Spell: Form of the Howler](https://www.pqdi.cc/item/19244)
 
