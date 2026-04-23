@@ -89,7 +89,7 @@ General7-Slot7	Empty	0	0	0
 General7-Slot8	Empty	0	0	0
 General7-Slot9	Empty	0	0	0
 General7-Slot10	Empty	0	0	0
-General8	Empty	0	0	0
+General8	Spell: Eagle Eye	7699	1	0
 General-Coin	Currency	0	4972	0
 Held	Empty	0	0	0
 Bank1	Trader's Satchel	17899	1	10
@@ -257,7 +257,7 @@ Bank17-Slot7	Spell: Transons Elemental Infusion	7636	1	0
 Bank17-Slot8	Spell: Mind Wrack	7649	1	0
 Bank18	Backpack	17005	1	8
 Bank18-Slot1	Empty	0	0	0
-Bank18-Slot2	Spell: Eagle Eye	7699	1	0
+Bank18-Slot2	Empty	0	0	0
 Bank18-Slot3	Empty	0	0	0
 Bank18-Slot4	Song: Battlecry of the Vah Shir	7706	1	0
 Bank18-Slot5	Empty	0	0	0
@@ -347,7 +347,7 @@ SharedBank8-Slot4	Spell: Blast of Poison	30429	1	0
 SharedBank8-Slot5	Empty	0	0	0
 SharedBank8-Slot6	Spell: Spirit of Khurenz	7727	1	0
 SharedBank8-Slot7	Spell: Blessed Armor of the Risen	7609	1	0
-SharedBank8-Slot8	Spell: Thrall of Bones	19299	1	0
+SharedBank8-Slot8	Empty	0	0	0
 SharedBank9	Backpack	17005	1	8
 SharedBank9-Slot1	Spell: Mark of Retribution	7607	1	0
 SharedBank9-Slot2	Spell: Koadic's Endless Intellect	7670	1	0
