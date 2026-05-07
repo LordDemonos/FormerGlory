@@ -21,10 +21,10 @@ Feet	Empty	0	0	0
 Waist	Empty	0	0	0
 Ammo	Empty	0	0	0
 General1	Backpack	17005	1	8
-General1-Slot1	Spell: Convergence	19423	1	0
-General1-Slot2	Spell: Thrall of Bones	19299	1	0
-General1-Slot3	Spell: Death Peace	30460	1	0
-General1-Slot4	Spell: Zevfeer's Theft of Vitae	7650	1	0
+General1-Slot1	Empty	0	0	0
+General1-Slot2	Empty	0	0	0
+General1-Slot3	Empty	0	0	0
+General1-Slot4	Empty	0	0	0
 General1-Slot5	Empty	0	0	0
 General1-Slot6	Empty	0	0	0
 General1-Slot7	Empty	0	0	0
@@ -130,7 +130,7 @@ Bank3-Slot2	Spell: Falcon Eye	7696	1	0
 Bank3-Slot3	Empty	0	0	0
 Bank3-Slot4	Spell: Wrath of the Elements	30405	1	0
 Bank3-Slot5	Spell: Mental Corruption	7676	1	0
-Bank3-Slot6	Spell: Mental Corruption	7676	1	0
+Bank3-Slot6	Empty	0	0	0
 Bank3-Slot7	Spell: Thunder of Karana	7686	1	0
 Bank3-Slot8	Spell: Cloak of the Akheva	7680	1	0
 Bank3-Slot9	Spell: Maelstrom of Electricity	19497	1	0
@@ -335,7 +335,7 @@ Bank25-Slot1	Spell: Summon: Muzzle of Mardu	19363	1	0
 Bank25-Slot2	Spell: Divine Strength	30456	1	0
 Bank25-Slot3	Spell: Asphyxiate	19402	1	0
 Bank25-Slot4	Spell: Reckoning	19212	1	0
-Bank25-Slot5	Spell: Death Peace	30460	1	0
+Bank25-Slot5	Empty	0	0	0
 Bank25-Slot6	Spell: Wave of Healing	30455	1	0
 Bank25-Slot7	Song: Composition of Ervaj	30452	1	0
 Bank25-Slot8	Spell: Call of Fire	30463	1	0
@@ -360,7 +360,7 @@ Bank27-Slot8	Spell: Wind of Tashanian	19405	1	0
 Bank28	Backpack	17005	1	8
 Bank28-Slot1	Empty	0	0	0
 Bank28-Slot2	Spell: Bristlebane`s Bundle	19351	1	0
-Bank28-Slot3	Spell: Shroud of Death	30459	1	0
+Bank28-Slot3	Empty	0	0	0
 Bank28-Slot4	Empty	0	0	0
 Bank28-Slot5	Empty	0	0	0
 Bank28-Slot6	Spell: Gift of Brilliance	30410	1	0
@@ -406,7 +406,7 @@ SharedBank3	Backpack	17005	1	8
 SharedBank3-Slot1	Spell: Call of Fire	30463	1	0
 SharedBank3-Slot2	Spell: Color Skew	15178	1	0
 SharedBank3-Slot3	Spell: Insipid Weakness	15180	1	0
-SharedBank3-Slot4	Spell: Terror of Terris	24542	1	0
+SharedBank3-Slot4	Empty	0	0	0
 SharedBank3-Slot5	Spell: Cripple	19269	1	0
 SharedBank3-Slot6	Spell: Monster Summoning II	30402	1	0
 SharedBank3-Slot7	Spell: Talisman of the Brute	19281	1	0
@@ -416,7 +416,7 @@ SharedBank4-Slot1	Spell: Upheaval	19233	1	0
 SharedBank4-Slot2	Empty	0	0	0
 SharedBank4-Slot3	Spell: Bristlebane`s Bundle	19351	1	0
 SharedBank4-Slot4	Spell: Bristlebane`s Bundle	19351	1	0
-SharedBank4-Slot5	Spell: Torrent of Pain	7678	1	0
+SharedBank4-Slot5	Empty	0	0	0
 SharedBank4-Slot6	Spell: Torpor	19293	1	0
 SharedBank4-Slot7	Spell: Bandoleer of Luclin	19356	1	0
 SharedBank4-Slot8	Spell: Bandoleer of Luclin	19356	1	0
@@ -441,7 +441,7 @@ SharedBank6-Slot8	Spell: Shiftless Deeds	15186	1	0
 SharedBank7	Empty	0	0	0
 SharedBank8	Backpack	17005	1	8
 SharedBank8-Slot1	Spell: Wave of Healing	30455	1	0
-SharedBank8-Slot2	Spell: Shroud of Pain	30458	1	0
+SharedBank8-Slot2	Empty	0	0	0
 SharedBank8-Slot3	Spell: Corporeal Empathy	30413	1	0
 SharedBank8-Slot4	Spell: Blast of Poison	30429	1	0
 SharedBank8-Slot5	Empty	0	0	0
