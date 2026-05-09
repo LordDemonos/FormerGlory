@@ -8,54 +8,55 @@ cover-img: /assets/img/raids.webp
 
 ## Table of Contents
 
-- [Week of 5/3 - 5/9](#week-5-5-3---5-9)
-- [Week of 5/10 - 5/16](#week-5-5-10---5-16)
-- [Week of 5/17 - 5/23](#week-5-5-17---5-23)
-- [Week of 5/24 - 5/30](#week-5-5-24---5-30)
+- [Week of 5/31 - 6/6](#week-5-5-31---6-6)
+- [Week of 6/7 - 6/13](#week-6-6-7---6-13)
+- [Week of 6/14 - 6/20](#week-6-6-14---6-20)
+- [Week of 6/21 - 6/27](#week-6-6-21---6-27)
+- [Week of 6/28 - 7/4](#week-6-6-28---7-4)
 
 ## May
 
 
-### Week of 5/3 - 5/9 {#week-5-5-3---5-9}
+### Week of 5/31 - 6/6 {#week-5-5-31---6-6}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-lfhcqjcx5">&lt;Next Scheduled Raid&gt;Monday, 5/4, 9pm ET: Vex Thal - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-lfhcqjcx5')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-fzuwv3wha">&lt;Next Scheduled Raid&gt;Monday, 6/1, 9pm ET: Vex Thal - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-fzuwv3wha')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-w99aqsh14">&lt;Next Scheduled Raid&gt;Wednesday, 5/6, 9pm ET: Emperor Ssraeshza + Ssraeshza Temple - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-w99aqsh14')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-x8996l0b7">&lt;Next Scheduled Raid&gt;Wednesday, 6/3, 9pm ET: Emperor Ssraeshza + Ssraeshza Temple - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-x8996l0b7')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-9p2paqi9r">&lt;Next Scheduled Raid&gt;Friday, 5/8, 9pm ET: Vex Thal - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-9p2paqi9r')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-ing1aspjg">&lt;Next Scheduled Raid&gt;Saturday, 5/9, 9pm ET: Sanctus Seru + Lord Inquisitor Seru + a Burrower Parasite + Thought Horror Overfiend + Cursed Cycle - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-ing1aspjg')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-tksnayje4">&lt;Next Scheduled Raid&gt;Friday, 6/5, 9pm ET: Vex Thal - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-tksnayje4')">Copy to Clipboard</button></div>
 
 
-### Week of 5/10 - 5/16 {#week-5-5-10---5-16}
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-omvpnzagl">&lt;Next Scheduled Raid&gt;Monday, 5/11, 9pm ET: Vex Thal - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-omvpnzagl')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-o33ajwhi2">&lt;Next Scheduled Raid&gt;Wednesday, 5/13, 9pm ET: Emperor Ssraeshza + Ssraeshza Temple - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-o33ajwhi2')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-hh7qfnu3s">&lt;Next Scheduled Raid&gt;Friday, 5/15, 9pm ET: Vex Thal - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-hh7qfnu3s')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-gzscejzbh">&lt;Next Scheduled Raid&gt;Saturday, 5/16, 9pm ET: Sanctus Seru + Lord Inquisitor Seru + Shei Vinitras + Lcea Katta + Cursed Cycle - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-gzscejzbh')">Copy to Clipboard</button></div>
+## June
 
 
-### Week of 5/17 - 5/23 {#week-5-5-17---5-23}
+### Week of 6/7 - 6/13 {#week-6-6-7---6-13}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-7zpxm6iyu">&lt;Next Scheduled Raid&gt;Monday, 5/18, 9pm ET: Vex Thal - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-7zpxm6iyu')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-agzny5vl8">&lt;Next Scheduled Raid&gt;Monday, 6/8, 9pm ET: Vex Thal - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-agzny5vl8')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-thvdhc7vy">&lt;Next Scheduled Raid&gt;Wednesday, 5/20, 9pm ET: Emperor Ssraeshza + Ssraeshza Temple - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-thvdhc7vy')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-6j8xestou">&lt;Next Scheduled Raid&gt;Wednesday, 6/10, 9pm ET: Emperor Ssraeshza + Ssraeshza Temple - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-6j8xestou')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-qceirt1iw">&lt;Next Scheduled Raid&gt;Friday, 5/22, 9pm ET: Vex Thal - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-qceirt1iw')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-nrg7dyenz">&lt;Next Scheduled Raid&gt;Saturday, 5/23, 9pm ET: Sanctus Seru + Lord Inquisitor Seru + Rhag Cycle + Cursed Cycle - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-nrg7dyenz')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-dynwd3eg4">&lt;Next Scheduled Raid&gt;Friday, 6/12, 9pm ET: Vex Thal + Lord Inquisitor Seru - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-dynwd3eg4')">Copy to Clipboard</button></div>
 
 
-### Week of 5/24 - 5/30 {#week-5-5-24---5-30}
+### Week of 6/14 - 6/20 {#week-6-6-14---6-20}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-y9rv0mn2t">&lt;Next Scheduled Raid&gt;Monday, 5/25, 9pm ET: Vex Thal - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-y9rv0mn2t')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-z3c901z32">&lt;Next Scheduled Raid&gt;Monday, 6/15, 9pm ET: Vex Thal - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-z3c901z32')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-s0fiz3ik3">&lt;Next Scheduled Raid&gt;Wednesday, 5/27, 9pm ET: Emperor Ssraeshza + Ssraeshza Temple - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-s0fiz3ik3')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-6a8vnj6tr">&lt;Next Scheduled Raid&gt;Wednesday, 6/17, 9pm ET: Emperor Ssraeshza + Ssraeshza Temple - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-6a8vnj6tr')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-t58ew39mz">&lt;Next Scheduled Raid&gt;Friday, 5/29, 9pm ET: Vex Thal - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-t58ew39mz')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-hsnoegm5e">&lt;Next Scheduled Raid&gt;Friday, 6/19, 9pm ET: Vex Thal - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-hsnoegm5e')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-otlpqzk1c">&lt;Next Scheduled Raid&gt;Saturday, 5/30, 9pm ET: Sanctus Seru + Lord Inquisitor Seru + a Burrower Parasite + Thought Horror Overfiend + Cursed Cycle - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-otlpqzk1c')">Copy to Clipboard</button></div>
+
+### Week of 6/21 - 6/27 {#week-6-6-21---6-27}
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-p9aapebi4">&lt;Next Scheduled Raid&gt;Monday, 6/22, 9pm ET: Vex Thal - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-p9aapebi4')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-nrux40fqq">&lt;Next Scheduled Raid&gt;Wednesday, 6/24, 9pm ET: Emperor Ssraeshza + Ssraeshza Temple - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-nrux40fqq')">Copy to Clipboard</button></div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-vm91ly5do">&lt;Next Scheduled Raid&gt;Friday, 6/26, 9pm ET: Vex Thal + Lord Inquisitor Seru - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-vm91ly5do')">Copy to Clipboard</button></div>
+
+
+### Week of 6/28 - 7/4 {#week-6-6-28---7-4}
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-iedargm6f">&lt;Next Scheduled Raid&gt;Monday, 6/29, 9pm ET: Vex Thal - Lv60+ to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-iedargm6f')">Copy to Clipboard</button></div>
 
