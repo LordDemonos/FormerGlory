@@ -26,7 +26,7 @@ If you aren't here to support your fellow guildie in a positive manner and minds
 ## Guild Leadership Expectations:
 
 - A focus on Epic Weapons during Kunark expansion
-- Scheduled raids on Monday, Wednesday, Friday, and Saturday at 9pm EST
+- Scheduled raids on Monday, Wednesday, Friday, ~~and Saturday~~ at 9pm EST
 - Unscheduled raids will be done with notifications in Discord and /guild chat
 - Willingness to help raiders learn
 - Zero tolerance for toxic players and toxic play
