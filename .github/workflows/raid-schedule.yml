@@ -1,5 +1,10 @@
 name: Generate Raid Schedule Markdown
 
+# Serialize pushes so two runs never fight over raids.md on the same branch.
+concurrency:
+  group: raid-schedule-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
 on:
   push:
     paths:
@@ -29,6 +34,15 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Merge remote tip before generating so raids.md is produced from the latest
+      # raids.txt (and we avoid commit-then-rebase conflicts on raids.md).
+      - name: Sync branch with origin
+        run: |
+          git fetch origin "${{ github.ref_name }}"
+          git checkout "${{ github.ref_name }}"
+          git merge --no-edit "origin/${{ github.ref_name }}"
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -107,16 +121,23 @@ jobs:
           # Ensure the file is staged (it should already be from previous step)
           git add raids.md
           
-          # Commit the staged file first (before pulling)
           git commit -m "🤖 Auto-generate raids.md from raids.txt
           Triggered by: ${{ github.event_name }}
           ${{ github.event.inputs.force_regenerate == 'true' && 'Force regenerate: true' || '' }}"
           
-          # Fetch latest changes
-          git fetch origin ${{ github.ref_name }}
-          
-          # Rebase our commit on top of the remote branch
-          git rebase origin/${{ github.ref_name }}
-          
-          # Push changes
-          git push origin ${{ github.ref_name }}
+          # If push fails (remote moved), reset to remote tip and regenerate once — avoids
+          # merge/rebase conflicts on raids.md since the file is fully derived from raids.txt.
+          if ! git push origin "${{ github.ref_name }}"; then
+            git fetch origin "${{ github.ref_name }}"
+            git reset --hard "origin/${{ github.ref_name }}"
+            node assets/js/raid-schedule-generator.js
+            git add raids.md
+            if git diff --cached --quiet raids.md; then
+              echo "No raids.md delta after retry sync; remote already up to date."
+            else
+              git commit -m "🤖 Auto-generate raids.md from raids.txt (after sync)
+          Triggered by: ${{ github.event_name }}
+          ${{ github.event.inputs.force_regenerate == 'true' && 'Force regenerate: true' || '' }}"
+            fi
+            git push origin "${{ github.ref_name }}"
+          fi
