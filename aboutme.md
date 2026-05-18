@@ -53,6 +53,7 @@ Thank you for joining us on this epic adventure to reclaim our Former Glory in N
 - Cukazi/Brakkas/Biggiesmallz
 - Dihat
 - Elcleriko/Polgera/Elwario/Wichy
+- Moliere/RImbaud
 - Quis / Charr / Activist
 - Synthran/Synthor
 - Vamcill / Vamistill
