@@ -21,16 +21,16 @@ Feet	Empty	0	0	0
 Waist	Empty	0	0	0
 Ammo	Empty	0	0	0
 General1	Backpack	17005	1	8
-General1-Slot1	Empty	0	0	0
-General1-Slot2	Empty	0	0	0
-General1-Slot3	Empty	0	0	0
-General1-Slot4	Empty	0	0	0
-General1-Slot5	Empty	0	0	0
-General1-Slot6	Empty	0	0	0
-General1-Slot7	Empty	0	0	0
-General1-Slot8	Empty	0	0	0
+General1-Slot1	Spell: Torment of Argli	19391	1	0
+General1-Slot2	Spell: Wake of Karana	19413	1	0
+General1-Slot3	Spell: Largarn`s Lamentation	19388	1	0
+General1-Slot4	Spell: Regrowth of the Grove	19256	1	0
+General1-Slot5	Spell: Tigir`s Insects	19285	1	0
+General1-Slot6	Spell: Tears of Prexus	19339	1	0
+General1-Slot7	Spell: Forlorn Deeds	19395	1	0
+General1-Slot8	Spell: Tears of Prexus	19339	1	0
 General2	Bearskin Potion Bag	17811	1	10
-General2-Slot1	Empty	0	0	0
+General2-Slot1	Spell: Wake of Karana	19413	1	0
 General2-Slot2	Empty	0	0	0
 General2-Slot3	Empty	0	0	0
 General2-Slot4	Empty	0	0	0
