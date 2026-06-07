@@ -6,15 +6,15 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-05-26
+### Last Update: 2026-06-07
 
 FGS Inv2 [Bearskin Potion Bag](https://www.pqdi.cc/item/17811)
 
 FGS SBnk5 [Song: Battlecry of the Vah Shir](https://www.pqdi.cc/item/7706) x5
 
-FGS SBnk7 [Song: Chorus of Replenishment](https://www.pqdi.cc/item/7709) x2
+SPD SBnk7 [Song: Chorus of Replenishment](https://www.pqdi.cc/item/7709)
 
-FGS Bnk25 s7 [Song: Composition of Ervaj](https://www.pqdi.cc/item/30452) x2
+SPD Bnk16 s3 [Song: Composition of Ervaj](https://www.pqdi.cc/item/30452)
 
 FGS Bnk2 s6 [Song: Elemental Chorus](https://www.pqdi.cc/item/7707) x5
 
@@ -152,8 +152,6 @@ FGS SBnk3 [Spell: Insipid Weakness](https://www.pqdi.cc/item/15180) x2
 
 FGS Bnk2 s8 [Spell: Jolting Blades](https://www.pqdi.cc/item/7697) x2
 
-FGS Bnk7 s8 [Spell: Judgement](https://www.pqdi.cc/item/7608)
-
 FGS Bnk17 s8 [Spell: Jyll`s Wave of Heat](https://www.pqdi.cc/item/19340)
 
 FGS Inv5 s2 [Spell: Khura's Focusing](https://www.pqdi.cc/item/7630) x2
@@ -262,7 +260,7 @@ FGS Bnk3 s7 [Spell: Thunder of Karana](https://www.pqdi.cc/item/7686)
 
 FGS Bnk7 s5 [Spell: Tigir`s Insects](https://www.pqdi.cc/item/19285) x2
 
-FGS Bnk27 s5 [Spell: Torpor](https://www.pqdi.cc/item/19293) x6
+FGS Bnk30 s7 [Spell: Torpor](https://www.pqdi.cc/item/19293) x5
 
 FGS Bnk1 s2 [Spell: Torrent of Hate](https://www.pqdi.cc/item/7677)
 
