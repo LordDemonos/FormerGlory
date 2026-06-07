@@ -110,6 +110,8 @@ FGS Bnk12 s7 [Spell: Focus of Spirit](https://www.pqdi.cc/item/30432) x6
 
 SPD Bnk19 s4 [Spell: Foliage Shield](https://www.pqdi.cc/item/7616)
 
+FGS Inv1 s7 [Spell: Forlorn Deeds](https://www.pqdi.cc/item/19395)
+
 SPD Bnk19 s1 [Spell: Form of the Howler](https://www.pqdi.cc/item/19244)
 
 FGS Bnk12 s1 [Spell: Gift of Brilliance](https://www.pqdi.cc/item/30410) x7
@@ -158,7 +160,7 @@ FGS Inv5 s2 [Spell: Khura's Focusing](https://www.pqdi.cc/item/7630) x2
 
 FGS Bnk13 s7 [Spell: Koadic's Endless Intellect](https://www.pqdi.cc/item/7670) x3
 
-SPD Bnk3 s8 [Spell: Largarn`s Lamentation](https://www.pqdi.cc/item/19388)
+FGS Inv1 s3 [Spell: Largarn`s Lamentation](https://www.pqdi.cc/item/19388) x2
 
 FGS Inv7 s5 [Spell: Maelstrom of Electricity](https://www.pqdi.cc/item/19497) x7
 
@@ -208,6 +210,8 @@ FGS Bnk14 s4 [Spell: Reckoning](https://www.pqdi.cc/item/19212) x7
 
 FGS Inv6 s1 [Spell: Regrowth of Dar Khura](https://www.pqdi.cc/item/7628) x2
 
+FGS Inv1 s4 [Spell: Regrowth of the Grove](https://www.pqdi.cc/item/19256)
+
 FGS Bnk1 s8 [Spell: Remove Curse](https://www.pqdi.cc/item/19542) x5
 
 FGS SBnk2 [Spell: Reoccurring Amnesia](https://www.pqdi.cc/item/15194) x2
@@ -248,6 +252,8 @@ FGS SBnk3 [Spell: Talisman of the Brute](https://www.pqdi.cc/item/19281) x2
 
 FGS Bnk14 s3 [Spell: Talisman of the Rhino](https://www.pqdi.cc/item/19284)
 
+FGS Inv1 s6 [Spell: Tears of Prexus](https://www.pqdi.cc/item/19339) x2
+
 FGS Bnk1 s4 [Spell: Terror of Terris](https://www.pqdi.cc/item/24542) x5
 
 FGS Bnk23 s3 [Spell: The Unspoken Word](https://www.pqdi.cc/item/19225) x2
@@ -258,7 +264,9 @@ SPD Bnk5 s5 [Spell: Thrall of Bones](https://www.pqdi.cc/item/19299)
 
 FGS Bnk3 s7 [Spell: Thunder of Karana](https://www.pqdi.cc/item/7686)
 
-FGS Bnk7 s5 [Spell: Tigir`s Insects](https://www.pqdi.cc/item/19285) x2
+FGS Inv1 s5 [Spell: Tigir`s Insects](https://www.pqdi.cc/item/19285) x3
+
+FGS Inv1 s1 [Spell: Torment of Argli](https://www.pqdi.cc/item/19391)
 
 FGS Bnk30 s7 [Spell: Torpor](https://www.pqdi.cc/item/19293) x5
 
@@ -293,6 +301,8 @@ FGS Bnk18 s3 [Spell: Visions of Grandeur](https://www.pqdi.cc/item/19407) x2
 FGS SBnk2 [Spell: Vocarate: Fire](https://www.pqdi.cc/item/19355) x2
 
 SPD Bnk3 s3 [Spell: Vocarate: Water](https://www.pqdi.cc/item/19362) x2
+
+FGS Inv1 s2 [Spell: Wake of Karana](https://www.pqdi.cc/item/19413) x2
 
 FGS Inv4 s10 [Spell: Warder's Protection](https://www.pqdi.cc/item/7700) x9
 
