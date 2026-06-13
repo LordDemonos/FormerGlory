@@ -134,15 +134,15 @@ Bank4-Slot5	Spell: Pillar of Lightning	19326	1	0
 Bank4-Slot6	Empty	0	0	0
 Bank4-Slot7	Empty	0	0	0
 Bank4-Slot8	Spell: Stun Command	30446	1	0
-Bank4-Slot9	Spell: Aegolism	30447	1	0
+Bank4-Slot9	Empty	0	0	0
 Bank4-Slot10	Spell: The Unspoken Word	19225	1	0
 Bank5	Trader's Satchel	17899	1	10
 Bank5-Slot1	Spell: Augment	19416	1	0
-Bank5-Slot2	Spell: Improved Invis vs Undead	30411	1	0
+Bank5-Slot2	Empty	0	0	0
 Bank5-Slot3	Spell: Color Slant	19378	1	0
 Bank5-Slot4	Spell: Gift of Insight	30409	1	0
 Bank5-Slot5	Spell: Thrall of Bones	19299	1	0
-Bank5-Slot6	Spell: Naltron's Mark	19435	1	0
+Bank5-Slot6	Empty	0	0	0
 Bank5-Slot7	Spell: Gift of Pure Thought	19401	1	0
 Bank5-Slot8	Spell: Heroic Bond	19224	1	0
 Bank5-Slot9	Spell: Death Peace	30460	1	0
@@ -187,7 +187,7 @@ Bank9-Slot3	Spell: Gift of Brilliance	30410	1	0
 Bank9-Slot4	Spell: Quivering Veil of Xarn	19309	1	0
 Bank9-Slot5	Spell: Gift of Brilliance	30410	1	0
 Bank9-Slot6	Spell: Wrath of the Elements	30405	1	0
-Bank9-Slot7	Spell: Heroic Bond	19224	1	0
+Bank9-Slot7	Empty	0	0	0
 Bank9-Slot8	Spell: Wrath of the Elements	30405	1	0
 Bank9-Slot9	Spell: Gift of Insight	30409	1	0
 Bank9-Slot10	Spell: Augment	19416	1	0
@@ -338,7 +338,7 @@ SharedBank6-Slot5	Spell: Scars of Sigil	19358	1	0
 SharedBank6-Slot6	Spell: Scars of Sigil	19358	1	0
 SharedBank6-Slot7	Spell: Shiftless Deeds	15186	1	0
 SharedBank6-Slot8	Spell: Shiftless Deeds	15186	1	0
-SharedBank7	Song: Chorus of Replenishment	7709	1	0
+SharedBank7	Empty	0	0	0
 SharedBank8	Backpack	17005	1	8
 SharedBank8-Slot1	Spell: Wave of Healing	30455	1	0
 SharedBank8-Slot2	Empty	0	0	0
