@@ -21,8 +21,8 @@ Feet	Empty	0	0	0
 Waist	Empty	0	0	0
 Ammo	Empty	0	0	0
 General1	Backpack	17005	1	8
-General1-Slot1	Empty	0	0	0
-General1-Slot2	Empty	0	0	0
+General1-Slot1	Spell: Shock of Fiery Blades	7640	1	0
+General1-Slot2	Spell: Deathly Temptation	19532	1	0
 General1-Slot3	Empty	0	0	0
 General1-Slot4	Empty	0	0	0
 General1-Slot5	Spell: Tigir`s Insects	19285	1	0
