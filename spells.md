@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-06-13
+### Last Update: 2026-06-21
 
 FGS Inv2 [Bearskin Potion Bag](https://www.pqdi.cc/item/17811)
 
@@ -79,6 +79,8 @@ FGS Bnk27 s7 [Spell: Corporeal Empathy](https://www.pqdi.cc/item/30413) x3
 FGS SBnk3 [Spell: Cripple](https://www.pqdi.cc/item/19269) x2
 
 SPD Bnk5 s9 [Spell: Death Peace](https://www.pqdi.cc/item/30460)
+
+FGS Inv1 s2 [Spell: Deathly Temptation](https://www.pqdi.cc/item/19532)
 
 FGS Bnk2 s1 [Spell: Decession](https://www.pqdi.cc/item/7658) x3
 
@@ -246,7 +248,7 @@ FGS Bnk29 s6 [Spell: Servant of Bones](https://www.pqdi.cc/item/19305)
 
 FGS SBnk6 [Spell: Shiftless Deeds](https://www.pqdi.cc/item/15186) x4
 
-FGS Bnk4 s4 [Spell: Shock of Fiery Blades](https://www.pqdi.cc/item/7640)
+FGS Inv1 s1 [Spell: Shock of Fiery Blades](https://www.pqdi.cc/item/7640) x2
 
 FGS Bnk10 s4 [Spell: Shroud of Death](https://www.pqdi.cc/item/30459) x2
 
