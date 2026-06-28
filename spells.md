@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-06-21
+### Last Update: 2026-06-28
 
 FGS Inv2 [Bearskin Potion Bag](https://www.pqdi.cc/item/17811)
 
@@ -294,7 +294,7 @@ FGS Inv1 s5 [Spell: Tigir`s Insects](https://www.pqdi.cc/item/19285) x3
 
 FGS Inv3 s8 [Spell: Torment of Argli](https://www.pqdi.cc/item/19391)
 
-FGS SBnk4 [Spell: Torpor](https://www.pqdi.cc/item/19293) x4
+SPD Bnk2 s2 [Spell: Torpor](https://www.pqdi.cc/item/19293) x3
 
 FGS Bnk1 s2 [Spell: Torrent of Hate](https://www.pqdi.cc/item/7677)
 
@@ -332,7 +332,7 @@ SPD Bnk3 s3 [Spell: Vocarate: Water](https://www.pqdi.cc/item/19362) x2
 
 FGS Inv2 s1 [Spell: Wake of Karana](https://www.pqdi.cc/item/19413) x2
 
-FGS Bnk2 s4 [Spell: Warder's Protection](https://www.pqdi.cc/item/7700) x9
+FGS Bnk4 s1 [Spell: Warder's Protection](https://www.pqdi.cc/item/7700) x8
 
 FGS Bnk23 s7 [Spell: Wave of Healing](https://www.pqdi.cc/item/30455) x10
 
