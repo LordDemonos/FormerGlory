@@ -119,7 +119,7 @@ Bank2	Backpack	17005	1	8
 Bank2-Slot1	Spell: Decession	7658	1	0
 Bank2-Slot2	Empty	0	0	0
 Bank2-Slot3	Spell: Wrath of the Elements	30405	1	0
-Bank2-Slot4	Spell: Warder's Protection	7700	1	0
+Bank2-Slot4	Empty	0	0	0
 Bank2-Slot5	Spell: Disinfecting Aura	7626	1	0
 Bank2-Slot6	Song: Elemental Chorus	7707	1	0
 Bank2-Slot7	Empty	0	0	0
@@ -417,7 +417,7 @@ SharedBank4-Slot2	Empty	0	0	0
 SharedBank4-Slot3	Spell: Bristlebane`s Bundle	19351	1	0
 SharedBank4-Slot4	Spell: Bristlebane`s Bundle	19351	1	0
 SharedBank4-Slot5	Empty	0	0	0
-SharedBank4-Slot6	Spell: Torpor	19293	1	0
+SharedBank4-Slot6	Empty	0	0	0
 SharedBank4-Slot7	Spell: Bandoleer of Luclin	19356	1	0
 SharedBank4-Slot8	Spell: Bandoleer of Luclin	19356	1	0
 SharedBank5	Backpack	17005	1	8
