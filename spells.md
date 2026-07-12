@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-06-28
+### Last Update: 2026-07-12
 
 FGS Inv2 [Bearskin Potion Bag](https://www.pqdi.cc/item/17811)
 
@@ -58,7 +58,7 @@ FGS Bnk10 s8 [Spell: Call of the Predator](https://www.pqdi.cc/item/30464) x4
 
 FGS Bnk28 s7 [Spell: Cannibalize III](https://www.pqdi.cc/item/19272)
 
-FGS Bnk21 s1 [Spell: Cannibalize IV](https://www.pqdi.cc/item/19473) x2
+FGS Bnk21 s2 [Spell: Cannibalize IV](https://www.pqdi.cc/item/19473)
 
 FGS Bnk20 s2 [Spell: Celestial Healing](https://www.pqdi.cc/item/30444)
 
@@ -276,8 +276,6 @@ FGS Bnk17 s7 [Spell: Talisman of Jasinth](https://www.pqdi.cc/item/19264) x4
 
 FGS SBnk3 [Spell: Talisman of the Brute](https://www.pqdi.cc/item/19281) x2
 
-FGS Bnk14 s3 [Spell: Talisman of the Rhino](https://www.pqdi.cc/item/19284)
-
 FGS Inv1 s6 [Spell: Tears of Prexus](https://www.pqdi.cc/item/19339) x2
 
 FGS Bnk1 s4 [Spell: Terror of Terris](https://www.pqdi.cc/item/24542) x5
@@ -290,7 +288,7 @@ SPD Bnk5 s5 [Spell: Thrall of Bones](https://www.pqdi.cc/item/19299)
 
 FGS Bnk3 s7 [Spell: Thunder of Karana](https://www.pqdi.cc/item/7686)
 
-FGS Inv1 s5 [Spell: Tigir`s Insects](https://www.pqdi.cc/item/19285) x3
+FGS Bnk7 s5 [Spell: Tigir`s Insects](https://www.pqdi.cc/item/19285) x2
 
 FGS Inv3 s8 [Spell: Torment of Argli](https://www.pqdi.cc/item/19391)
 
