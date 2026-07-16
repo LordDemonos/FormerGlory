@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-07-12
+### Last Update: 2026-07-16
 
 FGS Inv2 [Bearskin Potion Bag](https://www.pqdi.cc/item/17811)
 
@@ -86,7 +86,7 @@ FGS Bnk2 s1 [Spell: Decession](https://www.pqdi.cc/item/7658) x3
 
 FGS Bnk6 s3 [Spell: Dementia](https://www.pqdi.cc/item/19384)
 
-FGS Inv1 s8 [Spell: Demi Lich](https://www.pqdi.cc/item/19314) x4
+FGS Inv3 s4 [Spell: Demi Lich](https://www.pqdi.cc/item/19314) x3
 
 FGS Bnk1 s5 [Spell: Dictate](https://www.pqdi.cc/item/19406) x6
 
@@ -122,7 +122,7 @@ FGS Bnk8 s8 [Spell: Fixation of Ro](https://www.pqdi.cc/item/30436)
 
 FGS Inv3 s2 [Spell: Flaming Sword of Xuzl](https://www.pqdi.cc/item/19344)
 
-FGS Bnk12 s7 [Spell: Focus of Spirit](https://www.pqdi.cc/item/30432) x5
+FGS Bnk16 s5 [Spell: Focus of Spirit](https://www.pqdi.cc/item/30432) x4
 
 SPD Bnk19 s4 [Spell: Foliage Shield](https://www.pqdi.cc/item/7616)
 
@@ -172,7 +172,7 @@ FGS Bnk2 s8 [Spell: Jolting Blades](https://www.pqdi.cc/item/7697) x2
 
 FGS Bnk17 s8 [Spell: Jyll`s Wave of Heat](https://www.pqdi.cc/item/19340)
 
-FGS Bnk9 s1 [Spell: Khura's Focusing](https://www.pqdi.cc/item/7630) x3
+FGS Bnk14 s7 [Spell: Khura's Focusing](https://www.pqdi.cc/item/7630) x2
 
 FGS Bnk13 s7 [Spell: Koadic's Endless Intellect](https://www.pqdi.cc/item/7670) x3
 
@@ -180,7 +180,7 @@ FGS Bnk30 s7 [Spell: Largarn`s Lamentation](https://www.pqdi.cc/item/19388) x2
 
 FGS Bnk8 s6 [Spell: Lure of Ice](https://www.pqdi.cc/item/19422)
 
-FGS Bnk3 s9 [Spell: Maelstrom of Electricity](https://www.pqdi.cc/item/19497) x7
+FGS Bnk3 s9 [Spell: Maelstrom of Electricity](https://www.pqdi.cc/item/19497) x6
 
 FGS Bnk18 s7 [Spell: Mala](https://www.pqdi.cc/item/19418) x3
 
@@ -248,7 +248,7 @@ FGS Bnk29 s6 [Spell: Servant of Bones](https://www.pqdi.cc/item/19305)
 
 FGS SBnk6 [Spell: Shiftless Deeds](https://www.pqdi.cc/item/15186) x4
 
-FGS Inv1 s1 [Spell: Shock of Fiery Blades](https://www.pqdi.cc/item/7640) x2
+FGS Inv1 s8 [Spell: Shock of Fiery Blades](https://www.pqdi.cc/item/7640) x2
 
 FGS Bnk10 s4 [Spell: Shroud of Death](https://www.pqdi.cc/item/30459) x2
 
@@ -317,8 +317,6 @@ SPD Bnk3 s7 [Spell: Upheaval](https://www.pqdi.cc/item/19205)
 FGS Bnk7 s6 [Spell: Upheaval](https://www.pqdi.cc/item/19233) x6
 
 FGS Bnk5 s4 [Spell: Veil of Elements](https://www.pqdi.cc/item/7637)
-
-FGS Bnk11 s3 [Spell: Velocity](https://www.pqdi.cc/item/19348)
 
 FGS Bnk18 s3 [Spell: Visions of Grandeur](https://www.pqdi.cc/item/19407) x2
 
