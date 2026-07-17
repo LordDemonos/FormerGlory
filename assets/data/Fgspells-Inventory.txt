@@ -136,7 +136,7 @@ Bank3-Slot8	Spell: Cloak of the Akheva	7680	1	0
 Bank3-Slot9	Spell: Maelstrom of Electricity	19497	1	0
 Bank3-Slot10	Empty	0	0	0
 Bank4	Backpack	17005	1	8
-Bank4-Slot1	Spell: Warder's Protection	7700	1	0
+Bank4-Slot1	Empty	0	0	0
 Bank4-Slot2	Spell: Maelstrom of Electricity	19497	1	0
 Bank4-Slot3	Spell: Disinfecting Aura	7626	1	0
 Bank4-Slot4	Spell: Shock of Fiery Blades	7640	1	0
