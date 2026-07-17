@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-07-16
+### Last Update: 2026-07-17
 
 FGS Inv2 [Bearskin Potion Bag](https://www.pqdi.cc/item/17811)
 
@@ -328,7 +328,7 @@ SPD Bnk3 s3 [Spell: Vocarate: Water](https://www.pqdi.cc/item/19362) x2
 
 FGS Inv2 s1 [Spell: Wake of Karana](https://www.pqdi.cc/item/19413) x2
 
-FGS Bnk4 s1 [Spell: Warder's Protection](https://www.pqdi.cc/item/7700) x8
+FGS Bnk9 s5 [Spell: Warder's Protection](https://www.pqdi.cc/item/7700) x7
 
 FGS Bnk23 s7 [Spell: Wave of Healing](https://www.pqdi.cc/item/30455) x10
 
