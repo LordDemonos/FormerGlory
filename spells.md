@@ -38,8 +38,6 @@ FGS SBnk4 [Spell: Bandoleer of Luclin](https://www.pqdi.cc/item/19356) x4
 
 FGS Bnk12 s3 [Spell: Bane of Nife](https://www.pqdi.cc/item/19277) x2
 
-FGS Inv3 s1 [Spell: Banishment of Shadows](https://www.pqdi.cc/item/19228)
-
 FGS Bnk26 s6 [Spell: Beguiling Visage](https://www.pqdi.cc/item/7667)
 
 FGS Bnk4 s5 [Spell: Blast of Poison](https://www.pqdi.cc/item/30429) x5
