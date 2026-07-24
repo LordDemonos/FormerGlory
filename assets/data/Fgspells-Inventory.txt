@@ -41,7 +41,7 @@ General2-Slot8	Spell: Greater Familiar	7660	1	0
 General2-Slot9	Spell: Savagery	19537	1	0
 General2-Slot10	Empty	0	0	0
 General3	Backpack	17005	1	8
-General3-Slot1	Spell: Banishment of Shadows	19228	1	0
+General3-Slot1	Empty	0	0	0
 General3-Slot2	Spell: Flaming Sword of Xuzl	19344	1	0
 General3-Slot3	Spell: Aegis	19227	1	0
 General3-Slot4	Spell: Demi Lich	19314	1	0
