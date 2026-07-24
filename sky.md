@@ -6,11 +6,11 @@ subtitle: List of Plane of Sky items in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-07-17
+### Last Update: 2026-07-24
 
 Inv7 s7 [Acidic Venom](https://www.pqdi.cc/item/20736) x8
 
-Inv5 s1 [Adamantium Bands](https://www.pqdi.cc/item/20828) x7
+Inv1 s9 [Adamantium Bands](https://www.pqdi.cc/item/20828) x7
 
 Bnk6 s10 [Adumbrate Globe](https://www.pqdi.cc/item/20946) x4
 
@@ -40,11 +40,11 @@ Bnk3 s3 [Bluish Stone](https://www.pqdi.cc/item/20769) x18
 
 Inv7 s6 [Bottled Djinni](https://www.pqdi.cc/item/20981) x20
 
-Bnk2 s2 [Bronze Disc](https://www.pqdi.cc/item/20935) x20
+Bnk2 s2 [Bronze Disc](https://www.pqdi.cc/item/20935) x18
 
 Inv8 s6 [Carmine Spiroc Feather](https://www.pqdi.cc/item/20959) x13
 
-Inv5 s3 [Copper Air Band](https://www.pqdi.cc/item/20751) x20
+Inv1 s10 [Copper Air Band](https://www.pqdi.cc/item/20751) x20
 
 Bnk2 s4 [Copper Disc](https://www.pqdi.cc/item/20936) x19
 
@@ -62,7 +62,7 @@ Inv3 s9 [Djinni Blood](https://www.pqdi.cc/item/20784) x19
 
 Bnk7 s1 [Djinni Statuette](https://www.pqdi.cc/item/20955) x15
 
-Inv1 s1 [Djinni Stave](https://www.pqdi.cc/item/20765) x1
+Inv2 s4 [Djinni Stave](https://www.pqdi.cc/item/20765) x1
 
 Bnk1 s3 [Dragon-hide Mantle](https://www.pqdi.cc/item/20854) x19
 
@@ -92,7 +92,7 @@ Inv3 s10 [Efreeti Scimitar](https://www.pqdi.cc/item/20739) x2
 
 Inv2 s8 [Efreeti Standard](https://www.pqdi.cc/item/20817) x3
 
-Inv2 s1 [Efreeti Statuette](https://www.pqdi.cc/item/20951) x3
+Inv2 s1 [Efreeti Statuette](https://www.pqdi.cc/item/20951) x2
 
 Inv4 s2 [Efreeti War Axe](https://www.pqdi.cc/item/20711) x3
 
@@ -108,7 +108,7 @@ Inv3 s2 [Efreeti Wind Staff](https://www.pqdi.cc/item/20779) x3
 
 Inv4 s6 [Efreeti Zweihander](https://www.pqdi.cc/item/20725) x5
 
-Inv8 s4 [Emerald Spiroc Feather](https://www.pqdi.cc/item/20962) x4
+Inv8 s4 [Emerald Spiroc Feather](https://www.pqdi.cc/item/20962) x2
 
 Bnk8 s5 [Essence of Wind](https://www.pqdi.cc/item/10229) x15
 
@@ -142,7 +142,7 @@ Bnk2 s8 [Gold Disc](https://www.pqdi.cc/item/20939) x17
 
 Bnk1 s8 [Golden Hilt](https://www.pqdi.cc/item/20726) x16
 
-Inv5 s6 [Gorgon Head](https://www.pqdi.cc/item/20790) x5
+Inv5 s1 [Gorgon Head](https://www.pqdi.cc/item/20790) x5
 
 Bnk6 s7 [Gridelin Globe](https://www.pqdi.cc/item/20948) x14
 
@@ -152,7 +152,7 @@ Bnk8 s2 [Hardened Clay](https://www.pqdi.cc/item/20732) x20
 
 Bnk7 s5 [Harpy Statuette](https://www.pqdi.cc/item/20952) x18
 
-Bnk4 s3 [Harpy Tongue](https://www.pqdi.cc/item/20852) x8
+Bnk4 s3 [Harpy Tongue](https://www.pqdi.cc/item/20852) x1
 
 Inv7 s10 [Honeyed Nectar](https://www.pqdi.cc/item/20963) x10
 
@@ -178,9 +178,9 @@ Inv7 s9 [Manna Nectar](https://www.pqdi.cc/item/20968) x16
 
 Inv2 s2 [Mithril  Air Ring](https://www.pqdi.cc/item/20747) x1
 
-Bnk2 s5 [Mithril Disc](https://www.pqdi.cc/item/20851) x20
+Bnk2 s5 [Mithril Disc](https://www.pqdi.cc/item/20851) x14
 
-Inv1 s10 [Mottled Spiroc Feather](https://www.pqdi.cc/item/20956) x19
+Inv8 s10 [Mottled Spiroc Feather](https://www.pqdi.cc/item/20956) x19
 
 Bnk8 s3 [Music Box](https://www.pqdi.cc/item/20822) x19
 
@@ -196,9 +196,9 @@ Bnk5 s6 [Ochre Tessera](https://www.pqdi.cc/item/20933) x5
 
 Bnk6 s9 [Pearlescent Globe](https://www.pqdi.cc/item/20942) x20
 
-Bnk7 s7 [Pegasus Statuette](https://www.pqdi.cc/item/20949) x5
+Bnk7 s7 [Pegasus Statuette](https://www.pqdi.cc/item/20949) x4
 
-Inv1 s3 [Petrified Wood](https://www.pqdi.cc/item/20873) x22
+Inv2 s9 [Petrified Wood](https://www.pqdi.cc/item/20873) x22
 
 Bnk6 s5 [Phosphoric Globe](https://www.pqdi.cc/item/20947) x6
 
@@ -206,9 +206,7 @@ Bnk2 s7 [Platinum Disc](https://www.pqdi.cc/item/20940) x17
 
 Bnk3 s1 [Prismatic Sphere](https://www.pqdi.cc/item/20990) x5
 
-Inv6 s4 [Pulsating Sapphire](https://www.pqdi.cc/item/20749) x2
-
-Inv3 s7 [Red Face Paint](https://www.pqdi.cc/item/20986) x10
+Inv3 s7 [Red Face Paint](https://www.pqdi.cc/item/20986) x7
 
 Bnk6 s3 [Rugous Globe](https://www.pqdi.cc/item/20945) x3
 
@@ -220,7 +218,7 @@ Bnk3 s6 [Shimmering Opal](https://www.pqdi.cc/item/20797) x20
 
 Bnk4 s7 [Shimmering Topaz](https://www.pqdi.cc/item/20818) x20
 
-Bnk2 s3 [Silver Disc](https://www.pqdi.cc/item/20938) x15
+Inv2 s10 [Silver Disc](https://www.pqdi.cc/item/20938) x12
 
 Bnk1 s2 [Silver Mesh](https://www.pqdi.cc/item/20974) x20
 
@@ -238,13 +236,13 @@ Bnk8 s8 [Sphinx Hide](https://www.pqdi.cc/item/20839) x18
 
 Bnk4 s8 [Sphinx Tallow](https://www.pqdi.cc/item/20862) x16
 
-Inv1 s7 [Sphinxian Ring](https://www.pqdi.cc/item/20709) x2
+Inv3 s1 [Sphinxian Ring](https://www.pqdi.cc/item/20709) x2
 
-Bnk7 s4 [Spiroc Healing Totem](https://www.pqdi.cc/item/20812) x6
+Bnk7 s4 [Spiroc Healing Totem](https://www.pqdi.cc/item/20812) x4
 
 Bnk7 s3 [Spiroc Peace Totem](https://www.pqdi.cc/item/20721) x5
 
-Bnk7 s8 [Spiroc Statuette](https://www.pqdi.cc/item/20954) x5
+Bnk7 s8 [Spiroc Statuette](https://www.pqdi.cc/item/20954) x2
 
 Inv3 s5 [Spiroc Talon](https://www.pqdi.cc/item/20799) x5
 
@@ -256,7 +254,7 @@ Inv7 s3 [Sweet Nectar](https://www.pqdi.cc/item/20966) x20
 
 Bnk8 s7 [Swirling Mist](https://www.pqdi.cc/item/22523) x20
 
-Inv5 s5 [Thickened Nectar](https://www.pqdi.cc/item/20969) x10
+Inv5 s3 [Thickened Nectar](https://www.pqdi.cc/item/20969) x10
 
 Inv6 s8 [Tiny Ruby](https://www.pqdi.cc/item/20795) x9
 
@@ -266,9 +264,9 @@ Inv3 s8 [Virulent Poison](https://www.pqdi.cc/item/20979) x10
 
 Inv5 s7 [White Spiroc Feather](https://www.pqdi.cc/item/20960) x10
 
-Inv8 s8 [White-tipped Spiroc Feather](https://www.pqdi.cc/item/20958) x15
+Inv8 s8 [White-tipped Spiroc Feather](https://www.pqdi.cc/item/20958) x13
 
-Bnk1 s7 [Wilders Girdle](https://www.pqdi.cc/item/20734) x10
+Bnk1 s7 [Wilders Girdle](https://www.pqdi.cc/item/20734) x8
 
 Inv5 s8 [Wooden Bands](https://www.pqdi.cc/item/20841) x7
 
