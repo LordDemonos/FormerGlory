@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-07-24
+### Last Update: 2026-07-25
 
 FGS Inv2 [Bearskin Potion Bag](https://www.pqdi.cc/item/17811)
 
@@ -233,8 +233,6 @@ FGS SBnk2 [Spell: Reoccurring Amnesia](https://www.pqdi.cc/item/15194) x2
 SPD Bnk7 s4 [Spell: Retribution of Al`Kabor](https://www.pqdi.cc/item/19332)
 
 FGS Bnk14 s5 [Spell: Ro's Smoldering Disjunction](https://www.pqdi.cc/item/7618)
-
-FGS Inv2 s9 [Spell: Savagery](https://www.pqdi.cc/item/19537)
 
 FGS SBnk6 [Spell: Scars of Sigil](https://www.pqdi.cc/item/19358) x4
 
