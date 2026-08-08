@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-07-25
+### Last Update: 2026-08-08
 
 FGS Inv2 [Bearskin Potion Bag](https://www.pqdi.cc/item/17811)
 
@@ -101,6 +101,10 @@ FGS Bnk17 s2 [Spell: Dyzil`s Deafening Decoy](https://www.pqdi.cc/item/19364)
 SPD Bnk19 s7 [Spell: Eagle Eye](https://www.pqdi.cc/item/7699)
 
 FGS Bnk15 s1 [Spell: Elemental Maelstrom](https://www.pqdi.cc/item/30403)
+
+FGS Inv1 s5 [Spell: Elnerick's Rending](https://www.pqdi.cc/item/19525)
+
+FGS Inv1 s1 [Spell: Emissary of Thule](https://www.pqdi.cc/item/19311) x2
 
 FGS Bnk11 s2 [Spell: Enlightenment](https://www.pqdi.cc/item/19396) x6
 
@@ -228,6 +232,8 @@ FGS Bnk6 s4 [Spell: Regrowth of Dar Khura](https://www.pqdi.cc/item/7628) x2
 
 FGS Bnk1 s8 [Spell: Remove Curse](https://www.pqdi.cc/item/19542) x5
 
+FGS Inv2 s2 [Spell: Remove Greater Curse](https://www.pqdi.cc/item/19522) x2
+
 FGS SBnk2 [Spell: Reoccurring Amnesia](https://www.pqdi.cc/item/15194) x2
 
 SPD Bnk7 s4 [Spell: Retribution of Al`Kabor](https://www.pqdi.cc/item/19332)
@@ -324,7 +330,7 @@ SPD Bnk3 s3 [Spell: Vocarate: Water](https://www.pqdi.cc/item/19362) x2
 
 FGS Inv2 s1 [Spell: Wake of Karana](https://www.pqdi.cc/item/19413) x2
 
-FGS Bnk9 s5 [Spell: Warder's Protection](https://www.pqdi.cc/item/7700) x7
+FGS Inv1 s4 [Spell: Warder's Protection](https://www.pqdi.cc/item/7700) x8
 
 FGS Bnk23 s7 [Spell: Wave of Healing](https://www.pqdi.cc/item/30455) x10
 
@@ -334,7 +340,7 @@ FGS Inv3 s6 [Spell: Winds of Gelid](https://www.pqdi.cc/item/19343)
 
 FGS Bnk4 s7 [Spell: Words of Tranquility](https://www.pqdi.cc/item/7687) x2
 
-FGS Bnk2 s3 [Spell: Wrath of the Elements](https://www.pqdi.cc/item/30405) x8
+FGS Bnk3 s4 [Spell: Wrath of the Elements](https://www.pqdi.cc/item/30405) x7
 
 FGS Bnk21 s8 [Spell: Yaulp IV](https://www.pqdi.cc/item/19209)
 
