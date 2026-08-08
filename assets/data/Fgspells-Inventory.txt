@@ -21,24 +21,24 @@ Feet	Empty	0	0	0
 Waist	Empty	0	0	0
 Ammo	Empty	0	0	0
 General1	Backpack	17005	1	8
-General1-Slot1	Empty	0	0	0
+General1-Slot1	Spell: Emissary of Thule	19311	1	0
 General1-Slot2	Spell: Deathly Temptation	19532	1	0
-General1-Slot3	Empty	0	0	0
-General1-Slot4	Empty	0	0	0
-General1-Slot5	Empty	0	0	0
+General1-Slot3	Spell: Emissary of Thule	19311	1	0
+General1-Slot4	Spell: Warder's Protection	7700	1	0
+General1-Slot5	Spell: Elnerick's Rending	19525	1	0
 General1-Slot6	Spell: Tears of Prexus	19339	1	0
 General1-Slot7	Spell: Forlorn Deeds	19395	1	0
 General1-Slot8	Spell: Shock of Fiery Blades	7640	1	0
 General2	Bearskin Potion Bag	17811	1	10
 General2-Slot1	Spell: Wake of Karana	19413	1	0
-General2-Slot2	Empty	0	0	0
+General2-Slot2	Spell: Remove Greater Curse	19522	1	0
 General2-Slot3	Song: Warsong of the Vah Shir	7710	1	0
 General2-Slot4	Spell: Spirit of Snow	19531	1	0
 General2-Slot5	Spell: Brell's Mountainous Barrier	7690	1	0
 General2-Slot6	Spell: Mask of the Stalker	19529	1	0
 General2-Slot7	Spell: Greater Familiar	7660	1	0
 General2-Slot8	Spell: Greater Familiar	7660	1	0
-General2-Slot9	Empty	0	0	0
+General2-Slot9	Spell: Remove Greater Curse	19522	1	0
 General2-Slot10	Empty	0	0	0
 General3	Backpack	17005	1	8
 General3-Slot1	Empty	0	0	0
@@ -118,7 +118,7 @@ Bank1-Slot8	Spell: Remove Curse	19542	1	0
 Bank2	Backpack	17005	1	8
 Bank2-Slot1	Spell: Decession	7658	1	0
 Bank2-Slot2	Empty	0	0	0
-Bank2-Slot3	Spell: Wrath of the Elements	30405	1	0
+Bank2-Slot3	Empty	0	0	0
 Bank2-Slot4	Empty	0	0	0
 Bank2-Slot5	Spell: Disinfecting Aura	7626	1	0
 Bank2-Slot6	Song: Elemental Chorus	7707	1	0
