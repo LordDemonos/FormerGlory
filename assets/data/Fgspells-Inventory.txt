@@ -26,7 +26,7 @@ General1-Slot2	Spell: Deathly Temptation	19532	1	0
 General1-Slot3	Spell: Emissary of Thule	19311	1	0
 General1-Slot4	Spell: Warder's Protection	7700	1	0
 General1-Slot5	Spell: Elnerick's Rending	19525	1	0
-General1-Slot6	Spell: Tears of Prexus	19339	1	0
+General1-Slot6	Empty	0	0	0
 General1-Slot7	Spell: Forlorn Deeds	19395	1	0
 General1-Slot8	Spell: Shock of Fiery Blades	7640	1	0
 General2	Bearskin Potion Bag	17811	1	10
@@ -84,7 +84,7 @@ General6-Slot9	Empty	0	0	0
 General6-Slot10	Empty	0	0	0
 General7	Trader's Satchel	17899	1	10
 General7-Slot1	Empty	0	0	0
-General7-Slot2	Empty	0	0	0
+General7-Slot2	Spell: Spell Shield	7659	1	0
 General7-Slot3	Empty	0	0	0
 General7-Slot4	Empty	0	0	0
 General7-Slot5	Empty	0	0	0
@@ -281,7 +281,7 @@ Bank19-Slot3	Spell: Summon: Muzzle of Mardu	19363	1	0
 Bank19-Slot4	Spell: Spirit of Khurenz	7727	1	0
 Bank19-Slot5	Spell: Summon Phantom Plate	7634	1	0
 Bank19-Slot6	Spell: Vocarate: Air	19357	1	0
-Bank19-Slot7	Spell: Spell Shield	7659	1	0
+Bank19-Slot7	Empty	0	0	0
 Bank19-Slot8	Spell: Improved Invisibility	30406	1	0
 Bank19-Slot9	Spell: Zevfeer's Theft of Vitae	7650	1	0
 Bank19-Slot10	Spell: Zevfeer's Theft of Vitae	7650	1	0
@@ -438,7 +438,17 @@ SharedBank6-Slot5	Spell: Scars of Sigil	19358	1	0
 SharedBank6-Slot6	Spell: Scars of Sigil	19358	1	0
 SharedBank6-Slot7	Spell: Shiftless Deeds	15186	1	0
 SharedBank6-Slot8	Spell: Shiftless Deeds	15186	1	0
-SharedBank7	Empty	0	0	0
+SharedBank7	Hand Made Backpack	17969	1	10
+SharedBank7-Slot1	Sphinxian Ring	20709	2	0
+SharedBank7-Slot2	Efreeti Wind Staff	20779	3	0
+SharedBank7-Slot3	Petrified Wood	20873	20	0
+SharedBank7-Slot4	Efreeti War Club	20845	2	0
+SharedBank7-Slot5	Spiroc Talon	20799	5	0
+SharedBank7-Slot6	Writ of Quellious	20804	16	0
+SharedBank7-Slot7	Red Face Paint	20986	7	0
+SharedBank7-Slot8	Virulent Poison	20979	10	0
+SharedBank7-Slot9	Djinni Blood	20784	19	0
+SharedBank7-Slot10	Efreeti Scimitar	20739	2	0
 SharedBank8	Backpack	17005	1	8
 SharedBank8-Slot1	Spell: Wave of Healing	30455	1	0
 SharedBank8-Slot2	Empty	0	0	0
