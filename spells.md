@@ -6,9 +6,21 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-08-11
+### Last Update: 2026-08-17
 
 FGS Inv2 [Bearskin Potion Bag](https://www.pqdi.cc/item/17811)
+
+SPD SBnk7 [Djinni Blood](https://www.pqdi.cc/item/20784)
+
+SPD SBnk7 [Efreeti Scimitar](https://www.pqdi.cc/item/20739)
+
+SPD SBnk7 [Efreeti War Club](https://www.pqdi.cc/item/20845)
+
+SPD SBnk7 [Efreeti Wind Staff](https://www.pqdi.cc/item/20779)
+
+SPD SBnk7 [Petrified Wood](https://www.pqdi.cc/item/20873)
+
+SPD SBnk7 [Red Face Paint](https://www.pqdi.cc/item/20986)
 
 FGS SBnk5 [Song: Battlecry of the Vah Shir](https://www.pqdi.cc/item/7706) x5
 
@@ -294,7 +306,7 @@ FGS Bnk7 s5 [Spell: Tigir`s Insects](https://www.pqdi.cc/item/19285) x2
 
 FGS Inv3 s8 [Spell: Torment of Argli](https://www.pqdi.cc/item/19391)
 
-SPD Bnk2 s2 [Spell: Torpor](https://www.pqdi.cc/item/19293) x3
+SPD Bnk6 s2 [Spell: Torpor](https://www.pqdi.cc/item/19293)
 
 FGS Bnk1 s2 [Spell: Torrent of Hate](https://www.pqdi.cc/item/7677)
 
@@ -345,4 +357,12 @@ FGS Bnk3 s4 [Spell: Wrath of the Elements](https://www.pqdi.cc/item/30405) x7
 FGS Bnk21 s8 [Spell: Yaulp IV](https://www.pqdi.cc/item/19209)
 
 FGS Bnk9 s7 [Spell: Zevfeer's Theft of Vitae](https://www.pqdi.cc/item/7650) x7
+
+SPD SBnk7 [Sphinxian Ring](https://www.pqdi.cc/item/20709)
+
+SPD SBnk7 [Spiroc Talon](https://www.pqdi.cc/item/20799)
+
+SPD SBnk7 [Virulent Poison](https://www.pqdi.cc/item/20979)
+
+SPD SBnk7 [Writ of Quellious](https://www.pqdi.cc/item/20804)
 
