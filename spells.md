@@ -10,17 +10,17 @@ subtitle: List of Spells in the guild bank
 
 FGS Inv2 [Bearskin Potion Bag](https://www.pqdi.cc/item/17811)
 
-SPD SBnk7 [Djinni Blood](https://www.pqdi.cc/item/20784)
+FGS SBnk7 [Djinni Blood](https://www.pqdi.cc/item/20784) x2
 
-SPD SBnk7 [Efreeti Scimitar](https://www.pqdi.cc/item/20739)
+FGS SBnk7 [Efreeti Scimitar](https://www.pqdi.cc/item/20739) x2
 
-SPD SBnk7 [Efreeti War Club](https://www.pqdi.cc/item/20845)
+FGS SBnk7 [Efreeti War Club](https://www.pqdi.cc/item/20845) x2
 
-SPD SBnk7 [Efreeti Wind Staff](https://www.pqdi.cc/item/20779)
+FGS SBnk7 [Efreeti Wind Staff](https://www.pqdi.cc/item/20779) x2
 
-SPD SBnk7 [Petrified Wood](https://www.pqdi.cc/item/20873)
+FGS SBnk7 [Petrified Wood](https://www.pqdi.cc/item/20873) x2
 
-SPD SBnk7 [Red Face Paint](https://www.pqdi.cc/item/20986)
+FGS SBnk7 [Red Face Paint](https://www.pqdi.cc/item/20986) x2
 
 FGS SBnk5 [Song: Battlecry of the Vah Shir](https://www.pqdi.cc/item/7706) x5
 
@@ -268,7 +268,7 @@ FGS Bnk10 s4 [Spell: Shroud of Death](https://www.pqdi.cc/item/30459) x2
 
 FGS Bnk8 s2 [Spell: Speed of the Brood](https://www.pqdi.cc/item/19535)
 
-FGS Bnk8 s1 [Spell: Spell Shield](https://www.pqdi.cc/item/7659) x2
+FGS Inv7 s2 [Spell: Spell Shield](https://www.pqdi.cc/item/7659) x2
 
 FGS Bnk20 s6 [Spell: Spirit of Khati Sha](https://www.pqdi.cc/item/7731) x3
 
@@ -290,7 +290,7 @@ FGS Bnk17 s7 [Spell: Talisman of Jasinth](https://www.pqdi.cc/item/19264) x4
 
 FGS SBnk3 [Spell: Talisman of the Brute](https://www.pqdi.cc/item/19281) x2
 
-FGS Inv1 s6 [Spell: Tears of Prexus](https://www.pqdi.cc/item/19339) x2
+FGS Bnk3 s3 [Spell: Tears of Prexus](https://www.pqdi.cc/item/19339)
 
 FGS Bnk1 s4 [Spell: Terror of Terris](https://www.pqdi.cc/item/24542) x5
 
@@ -358,11 +358,11 @@ FGS Bnk21 s8 [Spell: Yaulp IV](https://www.pqdi.cc/item/19209)
 
 FGS Bnk9 s7 [Spell: Zevfeer's Theft of Vitae](https://www.pqdi.cc/item/7650) x7
 
-SPD SBnk7 [Sphinxian Ring](https://www.pqdi.cc/item/20709)
+FGS SBnk7 [Sphinxian Ring](https://www.pqdi.cc/item/20709) x2
 
-SPD SBnk7 [Spiroc Talon](https://www.pqdi.cc/item/20799)
+FGS SBnk7 [Spiroc Talon](https://www.pqdi.cc/item/20799) x2
 
-SPD SBnk7 [Virulent Poison](https://www.pqdi.cc/item/20979)
+FGS SBnk7 [Virulent Poison](https://www.pqdi.cc/item/20979) x2
 
-SPD SBnk7 [Writ of Quellious](https://www.pqdi.cc/item/20804)
+FGS SBnk7 [Writ of Quellious](https://www.pqdi.cc/item/20804) x2
 
