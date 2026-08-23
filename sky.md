@@ -228,13 +228,11 @@ Bnk2 s6 [Sphinx Crown](https://www.pqdi.cc/item/20871) x20
 
 Bnk8 s8 [Sphinx Hide](https://www.pqdi.cc/item/20839) x18
 
-Bnk4 s8 [Sphinx Tallow](https://www.pqdi.cc/item/20862) x16
+Bnk4 s8 [Sphinx Tallow](https://www.pqdi.cc/item/20862) x15
 
-Bnk7 s4 [Spiroc Healing Totem](https://www.pqdi.cc/item/20812) x3
+Bnk7 s4 [Spiroc Healing Totem](https://www.pqdi.cc/item/20812) x1
 
 Bnk7 s3 [Spiroc Peace Totem](https://www.pqdi.cc/item/20721) x5
-
-Bnk7 s8 [Spiroc Statuette](https://www.pqdi.cc/item/20954) x1
 
 Bnk7 s10 [Spiroc Thunder Totem](https://www.pqdi.cc/item/20856) x4
 
@@ -244,7 +242,7 @@ Bnk12 s3 [Sweet Nectar](https://www.pqdi.cc/item/20966) x20
 
 Bnk8 s7 [Swirling Mist](https://www.pqdi.cc/item/22523) x22
 
-Bnk16 s3 [Thickened Nectar](https://www.pqdi.cc/item/20969) x10
+Bnk16 s3 [Thickened Nectar](https://www.pqdi.cc/item/20969) x9
 
 Bnk9 s8 [Tiny Ruby](https://www.pqdi.cc/item/20795) x9
 
