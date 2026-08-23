@@ -149,7 +149,7 @@ Bank4-Slot4	Black Nebulous Sapphire	20773	3	0
 Bank4-Slot5	Ethereal Topaz	20723	4	0
 Bank4-Slot6	Ethereal Amber	20836	17	0
 Bank4-Slot7	Shimmering Topaz	20818	20	0
-Bank4-Slot8	Sphinx Tallow	20862	16	0
+Bank4-Slot8	Sphinx Tallow	20862	15	0
 Bank5	Hand Made Backpack	17969	1	10
 Bank5-Slot1	Blood Sky Emerald	20703	6	0
 Bank5-Slot2	Nebulous Ruby	20788	13	0
@@ -176,11 +176,11 @@ Bank7	Hand Made Backpack	17969	1	10
 Bank7-Slot1	Djinni Statuette	20955	15	0
 Bank7-Slot2	Griffon Statuette	20950	13	0
 Bank7-Slot3	Spiroc Peace Totem	20721	5	0
-Bank7-Slot4	Spiroc Healing Totem	20812	3	0
+Bank7-Slot4	Spiroc Healing Totem	20812	1	0
 Bank7-Slot5	Harpy Statuette	20952	18	0
 Bank7-Slot6	Imp Statuette	20953	14	0
 Bank7-Slot7	Pegasus Statuette	20949	4	0
-Bank7-Slot8	Spiroc Statuette	20954	1	0
+Bank7-Slot8	Empty	0	0	0
 Bank7-Slot9	Spiroc Wind Totem	20977	4	0
 Bank7-Slot10	Spiroc Thunder Totem	20856	4	0
 Bank8	Backpack	17005	1	8
@@ -272,7 +272,7 @@ Bank15-Slot10	Copper Air Band	20751	20	0
 Bank16	Large Sewing Kit	17880	1	8
 Bank16-Slot1	Gorgon Head	20790	5	0
 Bank16-Slot2	Jar of Honey	20708	9	0
-Bank16-Slot3	Thickened Nectar	20969	10	0
+Bank16-Slot3	Thickened Nectar	20969	9	0
 Bank16-Slot4	Small Pick	20972	11	0
 Bank16-Slot5	Nebulous Ruby	20788	3	0
 Bank16-Slot6	Bluish Stone	20769	1	0
