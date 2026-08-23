@@ -41,10 +41,10 @@ General2-Slot8	Spell: Greater Familiar	7660	1	0
 General2-Slot9	Spell: Remove Greater Curse	19522	1	0
 General2-Slot10	Empty	0	0	0
 General3	Backpack	17005	1	8
-General3-Slot1	Empty	0	0	0
+General3-Slot1	Spell: Spell Shield	7659	1	0
 General3-Slot2	Spell: Flaming Sword of Xuzl	19344	1	0
 General3-Slot3	Spell: Aegis	19227	1	0
-General3-Slot4	Spell: Demi Lich	19314	1	0
+General3-Slot4	Empty	0	0	0
 General3-Slot5	Spell: Sunstrike	19345	1	0
 General3-Slot6	Spell: Winds of Gelid	19343	1	0
 General3-Slot7	Spell: Demi Lich	19314	1	0
@@ -84,7 +84,7 @@ General6-Slot9	Empty	0	0	0
 General6-Slot10	Empty	0	0	0
 General7	Trader's Satchel	17899	1	10
 General7-Slot1	Empty	0	0	0
-General7-Slot2	Spell: Spell Shield	7659	1	0
+General7-Slot2	Empty	0	0	0
 General7-Slot3	Empty	0	0	0
 General7-Slot4	Empty	0	0	0
 General7-Slot5	Empty	0	0	0
@@ -123,11 +123,11 @@ Bank2-Slot4	Empty	0	0	0
 Bank2-Slot5	Spell: Disinfecting Aura	7626	1	0
 Bank2-Slot6	Song: Elemental Chorus	7707	1	0
 Bank2-Slot7	Empty	0	0	0
-Bank2-Slot8	Spell: Jolting Blades	7697	1	0
+Bank2-Slot8	Empty	0	0	0
 Bank3	Trader's Satchel	17899	1	10
 Bank3-Slot1	Spell: Cloak of the Akheva	7680	1	0
 Bank3-Slot2	Spell: Falcon Eye	7696	1	0
-Bank3-Slot3	Spell: Tears of Prexus	19339	1	0
+Bank3-Slot3	Empty	0	0	0
 Bank3-Slot4	Spell: Wrath of the Elements	30405	1	0
 Bank3-Slot5	Spell: Mental Corruption	7676	1	0
 Bank3-Slot6	Spell: Greater Familiar	7660	1	0
@@ -177,7 +177,7 @@ Bank8-Slot2	Spell: Speed of the Brood	19535	1	0
 Bank8-Slot3	Spell: Decession	7658	1	0
 Bank8-Slot4	Spell: Sedulous Subversion	19410	1	0
 Bank8-Slot5	Spell: Demi Lich	19314	1	0
-Bank8-Slot6	Spell: Lure of Ice	19422	1	0
+Bank8-Slot6	Empty	0	0	0
 Bank8-Slot7	Spell: Quivering Veil of Xarn	19309	1	0
 Bank8-Slot8	Spell: Fixation of Ro	30436	1	0
 Bank8-Slot9	Spell: Circle of Summer	19234	1	0
@@ -201,7 +201,7 @@ Bank10-Slot4	Spell: Shroud of Death	30459	1	0
 Bank10-Slot5	Spell: Glamour of Tunare	19240	1	0
 Bank10-Slot6	Spell: Glamour of Tunare	19240	1	0
 Bank10-Slot7	Spell: Mark of Retribution	7607	1	0
-Bank10-Slot8	Spell: Call of the Predator	30464	1	0
+Bank10-Slot8	Empty	0	0	0
 Bank11	Backpack	17005	1	8
 Bank11-Slot1	Spell: Aegis of Ro	15863	1	0
 Bank11-Slot2	Spell: Enlightenment	19396	1	0
@@ -276,7 +276,7 @@ Bank18-Slot7	Spell: Mala	19418	1	0
 Bank18-Slot8	Spell: Mala	19418	1	0
 Bank19	Trader's Satchel	17899	1	10
 Bank19-Slot1	Spell: Maelstrom of Electricity	19497	1	0
-Bank19-Slot2	Spell: Healing  Wave of Prexus	7689	1	0
+Bank19-Slot2	Empty	0	0	0
 Bank19-Slot3	Spell: Summon: Muzzle of Mardu	19363	1	0
 Bank19-Slot4	Spell: Spirit of Khurenz	7727	1	0
 Bank19-Slot5	Spell: Summon Phantom Plate	7634	1	0
