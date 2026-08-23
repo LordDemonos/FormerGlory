@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-08-17
+### Last Update: 2026-08-23
 
 FGS Inv2 [Bearskin Potion Bag](https://www.pqdi.cc/item/17811)
 
@@ -64,7 +64,7 @@ FGS Bnk28 s2 [Spell: Bristlebane`s Bundle](https://www.pqdi.cc/item/19351) x5
 
 FGS Bnk25 s8 [Spell: Call of Fire](https://www.pqdi.cc/item/30463) x5
 
-FGS Bnk10 s8 [Spell: Call of the Predator](https://www.pqdi.cc/item/30464) x4
+FGS Bnk11 s7 [Spell: Call of the Predator](https://www.pqdi.cc/item/30464) x3
 
 FGS Bnk28 s7 [Spell: Cannibalize III](https://www.pqdi.cc/item/19272)
 
@@ -96,7 +96,7 @@ FGS Bnk2 s1 [Spell: Decession](https://www.pqdi.cc/item/7658) x3
 
 FGS Bnk6 s3 [Spell: Dementia](https://www.pqdi.cc/item/19384)
 
-FGS Inv3 s4 [Spell: Demi Lich](https://www.pqdi.cc/item/19314) x3
+FGS Inv3 s7 [Spell: Demi Lich](https://www.pqdi.cc/item/19314) x2
 
 FGS Bnk1 s5 [Spell: Dictate](https://www.pqdi.cc/item/19406) x6
 
@@ -168,7 +168,7 @@ FGS SBnk9 [Spell: Hammer of Divinity](https://www.pqdi.cc/item/15997) x2
 
 FGS Bnk9 s6 [Spell: Hammer of Souls](https://www.pqdi.cc/item/15995) x4
 
-FGS Bnk19 s2 [Spell: Healing  Wave of Prexus](https://www.pqdi.cc/item/7689) x3
+SPD Inv4 s2 [Spell: Healing  Wave of Prexus](https://www.pqdi.cc/item/7689) x2
 
 FGS Bnk14 s2 [Spell: Heroic Bond](https://www.pqdi.cc/item/19224) x5
 
@@ -182,7 +182,7 @@ FGS Bnk13 s4 [Spell: Improved Invisibility](https://www.pqdi.cc/item/30406) x3
 
 FGS SBnk3 [Spell: Insipid Weakness](https://www.pqdi.cc/item/15180) x2
 
-FGS Bnk2 s8 [Spell: Jolting Blades](https://www.pqdi.cc/item/7697) x2
+SPD Bnk19 s8 [Spell: Jolting Blades](https://www.pqdi.cc/item/7697)
 
 FGS Bnk17 s8 [Spell: Jyll`s Wave of Heat](https://www.pqdi.cc/item/19340)
 
@@ -191,8 +191,6 @@ FGS Bnk14 s7 [Spell: Khura's Focusing](https://www.pqdi.cc/item/7630) x2
 FGS Bnk13 s7 [Spell: Koadic's Endless Intellect](https://www.pqdi.cc/item/7670) x3
 
 FGS Bnk30 s7 [Spell: Largarn`s Lamentation](https://www.pqdi.cc/item/19388) x2
-
-FGS Bnk8 s6 [Spell: Lure of Ice](https://www.pqdi.cc/item/19422)
 
 FGS Bnk3 s9 [Spell: Maelstrom of Electricity](https://www.pqdi.cc/item/19497) x6
 
@@ -268,7 +266,7 @@ FGS Bnk10 s4 [Spell: Shroud of Death](https://www.pqdi.cc/item/30459) x2
 
 FGS Bnk8 s2 [Spell: Speed of the Brood](https://www.pqdi.cc/item/19535)
 
-FGS Inv7 s2 [Spell: Spell Shield](https://www.pqdi.cc/item/7659) x2
+FGS Inv3 s1 [Spell: Spell Shield](https://www.pqdi.cc/item/7659) x2
 
 FGS Bnk20 s6 [Spell: Spirit of Khati Sha](https://www.pqdi.cc/item/7731) x3
 
@@ -289,8 +287,6 @@ FGS Inv3 s5 [Spell: Sunstrike](https://www.pqdi.cc/item/19345)
 FGS Bnk17 s7 [Spell: Talisman of Jasinth](https://www.pqdi.cc/item/19264) x4
 
 FGS SBnk3 [Spell: Talisman of the Brute](https://www.pqdi.cc/item/19281) x2
-
-FGS Bnk3 s3 [Spell: Tears of Prexus](https://www.pqdi.cc/item/19339)
 
 FGS Bnk1 s4 [Spell: Terror of Terris](https://www.pqdi.cc/item/24542) x5
 
