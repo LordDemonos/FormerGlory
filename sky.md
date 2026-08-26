@@ -6,7 +6,7 @@ subtitle: List of Plane of Sky items in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-08-23
+### Last Update: 2026-08-26
 
 Bnk12 s7 [Acidic Venom](https://www.pqdi.cc/item/20736) x8
 
@@ -100,7 +100,7 @@ Bnk13 s4 [Efreeti War Staff](https://www.pqdi.cc/item/20753) x5
 
 Bnk13 s6 [Efreeti Zweihander](https://www.pqdi.cc/item/20725) x5
 
-Bnk14 s4 [Emerald Spiroc Feather](https://www.pqdi.cc/item/20962) x2
+Bnk14 s4 [Emerald Spiroc Feather](https://www.pqdi.cc/item/20962) x1
 
 Bnk8 s5 [Essence of Wind](https://www.pqdi.cc/item/10229) x16
 
