@@ -251,7 +251,7 @@ Bank14	Hand Made Backpack	17969	1	10
 Bank14-Slot1	Black Griffon Feather	20988	3	0
 Bank14-Slot2	Glowing Black Pearl	20791	20	0
 Bank14-Slot3	Sky Emerald	20806	1	0
-Bank14-Slot4	Emerald Spiroc Feather	20962	2	0
+Bank14-Slot4	Emerald Spiroc Feather	20962	1	0
 Bank14-Slot5	Saffron Spiroc Feather	20961	7	0
 Bank14-Slot6	Carmine Spiroc Feather	20959	13	0
 Bank14-Slot7	Dark Spiroc Feather	20957	8	0
