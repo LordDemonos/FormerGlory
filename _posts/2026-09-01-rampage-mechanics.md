@@ -9,7 +9,7 @@ keywords: 'rampage, quarm, tlp, everquest, progression, mechanics'
 We have some new people, some returning people, and some existing players that probably think they don't need to know this stuff. I ask that you all to at least review the video below regarding rampage mechanics. 
 
 <div style="display: flex; justify-content: center;">
-    <iframe width="560" height="315" src="https://youtu.be/E1Rq7cepY-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="www.youtube.com/watch?v=E1Rq7cepY-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 https://youtu.be/E1Rq7cepY-4
@@ -32,3 +32,6 @@ We want to change the order of operations a bit to ensure good ramp placement an
 This way once our debuffers begin casting, the first few slots are filled and we should have enough on the list to protect them. As long as those first four don't die before the rest of the raid gets on the threat table, we should be able to have an SK flop and fill any rampage slots that open during the fight, like if the paladin on ramp goes down.
 
 We'll probably start trying to tighten these mechanics up on our Mon/Fri VT raids. Hopefully we'll get better at this and not have to worry as much when PoP comes out. Thank you for reading!
+
+![rampage.png]({{site.baseurl}}/assets/img/rampage.png)
+
