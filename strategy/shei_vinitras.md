@@ -8,7 +8,7 @@ cover-img: /assets/img/shei3.jpg
 <div class="info-section">
 <div class="info-item"><strong>HP:</strong> 650,000</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/179" target="_blank">Akheva Ruins</a></div>
-<div class="info-item"><strong>Exp:</strong> Velious</div>
+<div class="info-item"><strong>Exp:</strong> Luclin</div>
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/1571" target="_blank">Shei Vinitras</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/179017" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 

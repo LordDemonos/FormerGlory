@@ -89,4 +89,4 @@ cover-img: /assets/img/silverwing.webp
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Silverwing&gt; [Unslowable, gates] - [Remedy/DL spam] // Chaos Breath (targeted AOE, 35 rng, MR, 0 check, 12s CD): 1200 dmg gravity flux | **Max MR**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Silverwing&gt; [Slowable, gates] - [Remedy/DL spam] // Chaos Breath (targeted AOE, 35 rng, MR, 0 check, 12s CD): 1200 dmg gravity flux | **Max MR**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

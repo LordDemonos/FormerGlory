@@ -8,7 +8,7 @@ cover-img: /assets/img/the-burrower-beast2.jpg
 <div class="info-section">
 <div class="info-item"><strong>HP:</strong> 850,000</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/164" target="_blank">The Deep</a></div>
-<div class="info-item"><strong>Exp:</strong> Velious</div>
+<div class="info-item"><strong>Exp:</strong> Luclin</div>
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/5017" target="_blank">KOS</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/164011" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 

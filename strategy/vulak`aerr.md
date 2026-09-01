@@ -61,7 +61,7 @@ cover-img: /assets/img/vulak`aerr.webp
 <div class="ability-cell">Enrage</div>
 <div class="ability-cell">Flurry</div>
 <div class="ability-cell">Double Attack</div>
-<div class="ability-cell">Dual SWield</div>
+<div class="ability-cell">Dual Wield</div>
 <div class="ability-cell">Magical Attack</div>
 <div class="ability-cell">Unmezzable</div>
 <div class="ability-cell">Uncharmable</div>
@@ -75,7 +75,7 @@ cover-img: /assets/img/vulak`aerr.webp
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Vulak Ring&gt; Wave 1: 2 + 3 with monk trigger. /map 700 -750 for trigger point. Wave 2: HP+MANA AT START. Flurry + 5hatch. Kiting flurry. Wave 3: MANA AT START. Miniboss. Wave 4: Splitters. Wave 5: Miniboss. DONT DIE. Wave 6: HP AT START. 1 splitter (WARDEN), possible 1 flurry, up to 4 other mobs. Wave 7: Miniboss. DONT DIE! Wave 8: Herald of Vulak. Wave 9: Vulak.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-vulak-ring">&lt;Vulak Ring&gt; Wave 1: 2 + 3 with monk trigger. /map 700 -750 for trigger point. Wave 2: HP+MANA AT START. Flurry + 5hatch. Kiting flurry. Wave 3: MANA AT START. Miniboss. Wave 4: Splitters. Wave 5: Miniboss. DONT DIE. Wave 6: HP AT START. 1 splitter (WARDEN), possible 1 flurry, up to 4 other mobs. Wave 7: Miniboss. DONT DIE! Wave 8: Herald of Vulak. Wave 9: Vulak.</pre><button class="copy-button" onclick="copyText('copy-box-vulak-ring')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Vulak`Aerr&gt; [Slowable, flurries, baneable] - [CH Unslowed: 1s, Slowed: 3s] // Ancient Breath (PBAOE, 350 rng, DR, -150 check, 60s CD): 250 dmg + 20 HP/tick DoT (lasts a very long time) + 40% slow // Gift of Aerr (PBAOE, 350 rng, unresistable, 15s CD): 50 dmg lifetap | **Melee hide from Ancient Breath**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-vulak-aerr">&lt;Vulak`Aerr&gt; [Slowable, flurries, baneable] - [CH Unslowed: 1s, Slowed: 3s] // Ancient Breath (PBAOE, 350 rng, DR, -150 check, 60s CD): 250 dmg + 20 HP/tick DoT (lasts a very long time) + 40% slow // Gift of Aerr (PBAOE, 350 rng, unresistable, 15s CD): 50 dmg lifetap | **Melee hide from Ancient Breath**</pre><button class="copy-button" onclick="copyText('copy-box-vulak-aerr')">Copy to Clipboard</button></div>
 

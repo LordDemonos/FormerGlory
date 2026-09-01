@@ -76,7 +76,7 @@ cover-img: /assets/img/phara_dar.webp
 <div class="ability-cell">Unstunable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to melee except magical</div>
-<div class="ability-cell">Ranged Spells</div>
+<div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Immune to Taunt</div>
 <div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Proximity Aggro</div>
@@ -84,4 +84,4 @@ cover-img: /assets/img/phara_dar.webp
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Phara Dar&gt; [Unslowable, CHs, gates] - [Remedy/DL spam] // Stun Breath (PBAOE, 300 rng, MR, 0 check, 12s CD): 900 dmg + 12s max duration stun</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Phara Dar&gt; [Slowable, CHs, gates] - [Remedy/DL spam] // Stun Breath (PBAOE, 300 rng, MR, 0 check, 12s CD): 900 dmg + 12s max duration stun</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

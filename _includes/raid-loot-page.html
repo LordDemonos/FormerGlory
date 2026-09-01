@@ -1,0 +1,130 @@
+{% assign catalog = site.data.raid_loot %}
+
+<div class="raid-loot" data-raid-loot>
+  <div class="catalog-chrome">
+    <div class="catalog-toc-row">
+      <div class="toc-heading">Jump to an Expansion</div>
+      <div class="catalog-expand-controls">
+        <button type="button" class="focus-guide-clear" data-expand-all>Expand all</button>
+        <button type="button" class="focus-guide-clear" data-collapse-all>Collapse all</button>
+      </div>
+    </div>
+    <div class="raid-loot-toc">
+      {% for expansion in catalog.expansions %}
+        <a href="#{{ expansion.id }}">{{ expansion.name }}</a>
+      {% endfor %}
+    </div>
+
+    <div class="raid-loot-toolbar">
+      <label class="focus-guide-search">
+        <span class="raid-loot-toolbar-label">Search</span>
+        <input type="search" data-loot-search placeholder="Item, boss, or zone" autocomplete="off">
+      </label>
+    </div>
+
+    <div class="raid-loot-toolbar">
+      <span class="raid-loot-toolbar-label">Usable by</span>
+      <div class="raid-loot-filters" role="group" aria-label="Filter items by class">
+        <button type="button" class="raid-loot-filter is-active" data-class="ALL">All</button>
+        {% for class_name in catalog.classes %}
+          <button type="button" class="raid-loot-filter" data-class="{{ class_name }}" title="{{ class_name }}">{{ class_name }}</button>
+        {% endfor %}
+      </div>
+      <button type="button" class="raid-loot-filter is-active" data-retired-toggle>Hide retired</button>
+      <button type="button" class="focus-guide-clear" data-loot-clear hidden>Clear</button>
+      <span class="focus-guide-count" data-loot-count></span>
+    </div>
+  </div>
+
+  <p class="raid-loot-empty" hidden>No items match those filters.</p>
+
+  {% for expansion in catalog.expansions %}
+    <section data-expansion data-expansion-id="{{ expansion.id }}">
+      <h2 id="{{ expansion.id }}" class="raid-loot-heading">
+        <button type="button" class="raid-loot-caret" data-collapse-toggle aria-expanded="true" title="Expand or collapse {{ expansion.name }}" aria-label="Expand or collapse {{ expansion.name }}"></button>
+        <a href="#{{ expansion.id }}">{{ expansion.name }}</a>
+      </h2>
+      <div class="raid-loot-expansion-body">
+      <p class="raid-description">{{ expansion.description }}</p>
+      <nav class="raid-loot-boss-toc" aria-label="{{ expansion.name }} bosses">
+        {% for zone in expansion.zones %}
+          {% for boss in zone.bosses %}
+            <a href="#{{ boss.id }}">{{ boss.name }}</a>
+          {% endfor %}
+        {% endfor %}
+      </nav>
+
+      {% for zone in expansion.zones %}
+        <div class="raid-loot-zone" data-zone>
+          <h4>
+            <a href="https://www.pqdi.cc/zone/{{ zone.zone_id }}" target="_blank" rel="noopener">{{ zone.name }}</a>
+          </h4>
+
+          {% for boss in zone.bosses %}
+            <section class="raid-loot-boss" id="{{ boss.id }}" data-boss>
+              <header class="raid-loot-boss-head">
+                <div>
+                  <h3 class="raid-loot-boss-name">{{ boss.name }}</h3>
+                  <p class="raid-loot-boss-meta">Level {{ boss.level }} {{ boss.class }} · {{ boss.hp }} HP</p>
+                </div>
+                <div class="raid-loot-boss-links">
+                  <a href="{{ boss.strategy }}">Strategy</a>
+                  <a href="https://www.pqdi.cc/npc/{{ boss.npc_id }}" target="_blank" rel="noopener">PQDI</a>
+                </div>
+              </header>
+
+              {% for table in boss.tables %}
+                <div class="raid-loot-table" data-loot-table>
+                  <div class="raid-loot-table-head">
+                    <strong>{{ table.label }}</strong>
+                    {% if table.summary %}
+                      <span>{{ table.summary }}</span>
+                    {% endif %}
+                  </div>
+                  <ul class="raid-loot-items">
+                    {% for item in table.items %}
+                      {% assign class_list = item.classes | join: " " %}
+                      <li
+                        class="raid-loot-item{% if item.retired %} is-retired{% endif %}"
+                        data-loot-item
+                        data-classes="{{ class_list }}"
+                        data-retired="{% if item.retired %}1{% else %}0{% endif %}"
+                        data-search="{{ item.name | downcase | escape }} {{ boss.name | downcase | escape }} {{ zone.name | downcase | escape }}"
+                      >
+                        <span class="raid-loot-item-name">
+                          <a href="https://www.pqdi.cc/item/{{ item.id }}" target="_blank" rel="noopener">{{ item.name }}</a>
+                          {% if item.retired %}<span class="raid-loot-flag">Retired</span>{% endif %}
+                          {% if item.nodrop %}<span class="raid-loot-flag">No Drop</span>{% endif %}
+                          {% if item.lore %}<span class="raid-loot-flag">Lore</span>{% endif %}
+                          {% if item.kind == "bag" %}<span class="raid-loot-flag">Bag</span>{% endif %}
+                          {% if item.kind == "quest" %}<span class="raid-loot-flag">Quest</span>{% endif %}
+                        </span>
+                        <span class="raid-loot-chance">{{ item.chance }}%</span>
+                        <span class="raid-loot-classes">
+                          {% if item.classes.size == 0 %}
+                            <span class="raid-loot-chip is-neutral">ANY</span>
+                          {% elsif item.classes.first == "ALL" %}
+                            <span class="raid-loot-chip is-neutral">ALL</span>
+                          {% else %}
+                            {% for class_name in item.classes %}
+                              <span class="raid-loot-chip" data-class="{{ class_name }}">{{ class_name }}</span>
+                            {% endfor %}
+                          {% endif %}
+                        </span>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              {% endfor %}
+            </section>
+          {% endfor %}
+        </div>
+      {% endfor %}
+      </div>
+    </section>
+  {% endfor %}
+</div>
+
+<script src="{{ '/assets/js/catalog-collapse.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/catalog-state.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/raid-loot.js' | relative_url }}"></script>

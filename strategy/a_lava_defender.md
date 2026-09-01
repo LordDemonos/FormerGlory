@@ -68,3 +68,6 @@ cover-img: /assets/img/a_lava_defender.webp
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;A Lava Defender&gt; [Slowable, Flurry] - [CH: 2s with Defensive] // Flame Jet (PBAOE, 150 rng, FR, 0 check, 8s CD): 100 dmg</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+

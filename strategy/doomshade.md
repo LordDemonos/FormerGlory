@@ -8,7 +8,7 @@ cover-img: /assets/img/Doomshade.jpg
 <div class="info-section">
 <div class="info-item"><strong>HP:</strong> 350,000</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/176" target="_blank">The Umbral Plains</a></div>
-<div class="info-item"><strong>Exp:</strong> Velious</div>
+<div class="info-item"><strong>Exp:</strong> Luclin</div>
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/5017" target="_blank">KOS</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/176017" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
@@ -68,6 +68,9 @@ cover-img: /assets/img/Doomshade.jpg
 <div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">Corpse Camper</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Doomshade&gt; - Hits 420, Flurry, Dual Wield, Unslowable, Corpse Camper, 350k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
 
 ![a-dark-master](/assets/img/a-dark-master.jpg)
 

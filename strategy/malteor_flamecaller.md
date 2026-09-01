@@ -60,8 +60,7 @@ cover-img: /assets/img/malteor_flamecaller.webp
 <div class="ability-cell">Enrage</div>
 <div class="ability-cell">Flurry</div>
 <div class="ability-cell">Double Attack</div>
-<div class="ability-cell">Magical</div>
-<div class="ability-cell">Attack</div>
+<div class="ability-cell">Magical Attack</div>
 <div class="ability-cell">Unmezzable</div>
 <div class="ability-cell">Uncharmable</div>
 <div class="ability-cell">Immune to fleeing</div>
@@ -69,3 +68,6 @@ cover-img: /assets/img/malteor_flamecaller.webp
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Malteor Flamecaller&gt; [Slowable, Flurry] - [CH: 2s with Defensive] // Flame Jet (PBAOE, 150 rng, FR, 0 check, 8s CD): 100 dmg</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+

@@ -80,4 +80,4 @@ cover-img: /assets/img/fayl_everstrong.webp
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Fayl Everstrong&gt; [Unslowable, gates] - [CH: 6s+] // Melee fight | **Must be sieved!**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Fayl Everstrong&gt; [Slowable, gates] - [CH: 6s+] // Melee fight | **Must be sieved!**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

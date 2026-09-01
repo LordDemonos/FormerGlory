@@ -8,7 +8,7 @@ cover-img: /assets/img/exiled.jpg
 <div class="info-section">
 <div class="info-item"><strong>HP:</strong> 450,000</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/162" target="_blank">Ssraeshza Temple</a></div>
-<div class="info-item"><strong>Exp:</strong> Velious</div>
+<div class="info-item"><strong>Exp:</strong> Luclin</div>
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/1535" target="_blank">Brood of Ssraeshza</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/162039" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
@@ -72,6 +72,6 @@ cover-img: /assets/img/exiled.jpg
 <div class="ability-cell">Corpse Camper</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Vyzh'dra the Exiled&gt; - CH Chain: 2sec, Hits for 624, Immune to Slow, Flurries, Enrages, Casts: AoE Fear (Fire), Casts: Touch of Vinitras (-20k HP), Casts: Abysmal Banishment: -700hp/tick + Blind, 450k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Vyzh'dra the Exiled&gt; - CH Chain: 2sec, Hits for 624, Immune to Slow, Flurries, Enrages, Corpse Camper, Casts: AoE Fear (Fire), Casts: Touch of Vinitras (-20k HP), Casts: Abysmal Banishment: -700hp/tick + Blind, 450k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 Vyzh'dra the Exiled  spawns after a glyph covered serpent dies. He casts a 20k unresistable DD every 2 minutes. This is effectively a Death Touch until later in the game. It can be absorbed with DA for the initial pull. He also has a large PBAE fear, but this can be resisted easily. Keep healers out of line-of-sight. Kill him to spawn Vyzh`dra the Cursed.

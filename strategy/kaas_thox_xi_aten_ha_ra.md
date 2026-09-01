@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kaas Thox Xi Aten Ha Ra
+title: Kaas Thox Xi Aten Ha Ra (North)
 subtitle: Level 66 Goo Rogue
 cover-img: /assets/img/Kaas-Thox-Xi-Aten-Ha-Ra-1.jpg
 ---
@@ -13,7 +13,7 @@ cover-img: /assets/img/Kaas-Thox-Xi-Aten-Ha-Ra-1.jpg
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> </div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>Chain: 2sec, 3sec slowed</strong> </div>
 </div>
 
@@ -69,6 +69,8 @@ cover-img: /assets/img/Kaas-Thox-Xi-Aten-Ha-Ra-1.jpg
 <div class="ability-cell">Immune to lull effects</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Kaas Thox Xi Aten Ha Ra&gt; - Chain: 2sec, 3sec slowed, Hits 1650, casts Fling (AE PC, Gravity Flux Effect, Unresistable), slowable, 1.9M HP, backstabs (at least for 3000+, possibly more). Careful when pulling and during knockbacks!</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-kaas-thox-xi-aten-ha-ra-north">&lt;Kaas Thox Xi Aten Ha Ra (North)&gt; - Chain: 2sec, 3sec slowed, Hits 1650, casts Fling (AE PC, Gravity Flux Effect, Unresistable), procs Black Winds, slowable, 1.9M HP, backstabs (at least for 3000+, possibly more). Careful when pulling and during knockbacks!</pre><button class="copy-button" onclick="copyText('copy-box-kaas-thox-xi-aten-ha-ra-north')">Copy to Clipboard</button></div>
+
+North blob. Careful when pulling and during knockbacks.
 
 ![Blob-Maps](/assets/img/Blob-Maps.jpg)

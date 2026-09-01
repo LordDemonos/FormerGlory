@@ -88,9 +88,9 @@ cover-img: /assets/img/trakanon.webp
 <div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Immune to Taunt</div>
 <div class="ability-cell">Immune to lull effects</div>
-<div class="ability-cell">Proximity SAggro</div>
+<div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Trakanon&gt; [Unslowable, banishes] - [Remedy/DL spam] // Trakanon's Touch (Banish, 30s CD): Banish to mushrooms // Deadly Lifetap (targeted lifetap proc, unresistable): 1500 dmg lifetap // Poison Breath (PBAOE, 300 rng, PR, -150 check, 35s CD): 1200 dmg AOE + 150 dmg DoT (long duration, must be cured) // Blinding Fear (PBOE, 15 rng, unresistable, 30s CD): 24s max duration, curable blind | **Snap agro tank w/ Rune + kiter required**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Trakanon&gt; [Slowable, banishes] - [Remedy/DL spam] // Trakanon's Touch (Banish, 30s CD): Banish to mushrooms // Deadly Lifetap (targeted lifetap proc, unresistable): 1500 dmg lifetap // Poison Breath (PBAOE, 300 rng, PR, -150 check, 35s CD): 1200 dmg AOE + 150 dmg DoT (long duration, must be cured) // Blinding Fear (PBAOE, 15 rng, unresistable, 30s CD): 24s max duration, curable blind | **Snap agro tank w/ Rune + kiter required**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

@@ -85,4 +85,4 @@ cover-img: /assets/img/gorenaire.webp
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Gorenaire&gt; [Unslowable, CHs, fears] - [Remedy/DL spam] // Freezing Breath (PBAOE, 300 rng, CR, -150 check, 12s CD): 750 dmg AOE + 70% atk slow // Dragon Roar (PBAOE, 300 rng, MR, -150 check, 36s CD): 18s max duration fear</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Gorenaire&gt; [Slowable, CHs, fears] - [Remedy/DL spam] // Freezing Breath (PBAOE, 300 rng, CR, -150 check, 12s CD): 750 dmg AOE + 70% atk slow // Dragon Roar (PBAOE, 300 rng, MR, -150 check, 36s CD): 18s max duration fear</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

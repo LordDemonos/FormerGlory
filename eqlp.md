@@ -2,7 +2,7 @@
 layout: page
 title: EQLogParser Guide
 cover-img: /assets/img/eqlp.png
-subtitle: A guide to installing EQLogParser with Fabio's triggers
+subtitle: A guide to installing EQLogParser with Former Glory raid triggers
 ---
 
 # EQLogParser Setup Guide
@@ -84,11 +84,15 @@ Triggers are organized within trigger groups, allowing for easy management of cl
 
 **For detailed information on regex patterns, trigger variables, and advanced trigger configuration, see the [EQLogParser Documentation](https://eqlogparser.kizant.net/documentation.html).**
 
-## Fabio's Trigger Pack
+## Former Glory Trigger Packs
 
-**Primary Download:** [Download Fabio's GINA triggers](https://github.com/LordDemonos/FormerGlory/blob/master/gina_pack.gtp?raw=true)
+**Planes of Power:** [Download pop.tgf.gz](https://github.com/LordDemonos/FormerGlory/blob/master/pop.tgf.gz?raw=true)
 
-**Note:** Fabio's trigger pack was originally created for GINA. EQLogParser can import GINA trigger packages (.gtp files), but you may need to review and adjust some triggers after import as the two systems have slight differences in trigger syntax and capabilities.
+This is a native EQLogParser pack. Import it from Trigger Manager: right-click **Triggers** → **Import to (Triggers)** → select `pop.tgf.gz`.
+
+**Luclin:** [Download Fabio's GINA triggers](https://github.com/LordDemonos/FormerGlory/blob/master/gina_pack.gtp?raw=true)
+
+Fabio's Luclin pack is a GINA `.gtp`. EQLogParser can import it; review a few triggers after import because the two apps differ slightly.
 
 ## Importing Custom Triggers
 
@@ -104,7 +108,7 @@ EQLogParser supports importing triggers from GINA package files (.gtp), making i
 
 4. **Select "Import to (Triggers)"** from the context menu (this option has a download icon next to it)
 
-5. **Browse to your trigger file** (e.g., `gina_pack.gtp`) and select it
+5. **Browse to your trigger file** (e.g., `pop.tgf.gz` or `gina_pack.gtp`) and select it
 
 6. **Review the imported triggers** - EQLogParser will add the imported triggers to your library, organized within their existing group structure
 

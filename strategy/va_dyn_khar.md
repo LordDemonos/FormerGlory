@@ -63,7 +63,7 @@ cover-img: /assets/img/Va-Dyn-Khar.jpg
 <div class="ability-cell">Immune to lull effects</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Va Dyn Kha&gt; - CH Chain: Remedy, Hits 450+, slowable, 600K HP.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Va Dyn Khar&gt; - CH Chain: Remedy, Hits 450+, slowable, 600K HP.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 This boss drops Palace Key. The key to the front door of the Fortress.
 

@@ -1,0 +1,142 @@
+{% assign catalog = site.data.alternate_advancement %}
+
+<div class="aa-guide" data-aa-guide>
+  <div class="catalog-chrome">
+    <div class="catalog-toc-row">
+      <div class="toc-heading">Jump to an Expansion</div>
+      <div class="catalog-expand-controls">
+        <button type="button" class="focus-guide-clear" data-expand-all>Expand all</button>
+        <button type="button" class="focus-guide-clear" data-collapse-all>Collapse all</button>
+      </div>
+    </div>
+    <div class="raid-loot-toc">
+      {% for expansion in catalog.expansions %}
+        <a href="#{{ expansion.id }}">{{ expansion.name }}</a>
+      {% endfor %}
+      <a href="#alt-activate-command-codes-quick-reference">Activate Codes</a>
+    </div>
+
+    <div class="raid-loot-toolbar">
+      <label class="focus-guide-search">
+        <span class="raid-loot-toolbar-label">Search</span>
+        <input type="search" data-aa-search placeholder="Ability, description, or /alt number" autocomplete="off">
+      </label>
+    </div>
+
+    <div class="raid-loot-toolbar">
+      <span class="raid-loot-toolbar-label">Usable by</span>
+      <div class="raid-loot-filters" role="group" aria-label="Filter by class">
+        <button type="button" class="raid-loot-filter is-active" data-class="ALL">All</button>
+        {% for class_name in catalog.classes %}
+          <button type="button" class="raid-loot-filter" data-class="{{ class_name }}" title="{{ class_name }}">{{ class_name }}</button>
+        {% endfor %}
+      </div>
+      <button type="button" class="focus-guide-clear" data-aa-clear hidden>Clear</button>
+      <span class="focus-guide-count" data-aa-count></span>
+    </div>
+  </div>
+
+  <p class="raid-loot-empty" hidden>No AAs match those filters.</p>
+
+  {% for expansion in catalog.expansions %}
+    <section data-expansion data-expansion-id="{{ expansion.id }}">
+      <h2 id="{{ expansion.id }}" class="raid-loot-heading">
+        <button type="button" class="raid-loot-caret" data-collapse-toggle aria-expanded="true" title="Expand or collapse {{ expansion.name }}" aria-label="Expand or collapse {{ expansion.name }}"></button>
+        <a href="#{{ expansion.id }}">{{ expansion.name }}</a>
+      </h2>
+      <div class="raid-loot-expansion-body">
+        <nav class="raid-loot-boss-toc" aria-label="{{ expansion.name }} AA groups">
+          {% for group in expansion.groups %}
+            <a href="#{{ group.id }}">{{ group.name }}</a>
+          {% endfor %}
+        </nav>
+
+        {% for group in expansion.groups %}
+          <section data-group data-group-id="{{ group.id }}">
+            <h3 id="{{ group.id }}" class="raid-loot-heading">
+              <button type="button" class="raid-loot-caret" data-collapse-toggle aria-expanded="true" title="Expand or collapse {{ group.name }}" aria-label="Expand or collapse {{ group.name }}"></button>
+              <a href="#{{ group.id }}">{{ group.name }}</a>
+            </h3>
+            <ul class="raid-loot-items aa-ability-list">
+              {% for ability in group.abilities %}
+                {% assign class_list = ability.classes | join: " " %}
+                <li
+                  class="aa-ability{% if ability.broken %} is-broken{% endif %}"
+                  data-aa
+                  data-classes="{{ class_list }}"
+                  data-search="{{ ability.search | escape }}"
+                >
+                  <div class="aa-ability-main">
+                    <span class="raid-loot-item-name">
+                      {% if ability.url != "" %}
+                        <a href="{{ ability.url }}" target="_blank" rel="noopener">{{ ability.name }}</a>
+                      {% else %}
+                        {{ ability.name }}
+                      {% endif %}
+                      {% if ability.broken %}
+                        <a class="raid-loot-flag" href="{{ '/baa/' | relative_url }}">Broken</a>
+                      {% endif %}
+                      {% if ability.note != "" %}
+                        <span class="raid-loot-flag">{{ ability.note }}</span>
+                      {% endif %}
+                    </span>
+                    <span class="aa-ability-meta">
+                      {{ ability.ranks }} rank{% if ability.ranks != "1" %}s{% endif %}
+                      · {{ ability.cost }}
+                      {% if ability.activate != "" %}
+                        · <button type="button" class="aa-copy-activate" data-copy-activate="/alt activate {{ ability.activate }}">/alt {{ ability.activate }}</button>
+                      {% endif %}
+                    </span>
+                    <span class="raid-loot-classes">
+                      {% if ability.classes.size == 0 or ability.classes.first == "ALL" %}
+                        <span class="raid-loot-chip is-neutral">ALL</span>
+                      {% else %}
+                        {% for class_name in ability.classes %}
+                          <span class="raid-loot-chip" data-class="{{ class_name }}">{{ class_name }}</span>
+                        {% endfor %}
+                      {% endif %}
+                    </span>
+                  </div>
+                  <p class="aa-ability-desc">{{ ability.description }}</p>
+                  {% if ability.broken_why != "" %}
+                    <p class="aa-ability-why">{{ ability.broken_why }}</p>
+                  {% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          </section>
+        {% endfor %}
+      </div>
+    </section>
+  {% endfor %}
+
+  <section data-expansion data-expansion-id="alt-activate-command-codes-quick-reference">
+    <h2 id="alt-activate-command-codes-quick-reference" class="raid-loot-heading">
+      <button type="button" class="raid-loot-caret" data-collapse-toggle aria-expanded="true" title="Expand or collapse Activate Codes" aria-label="Expand or collapse Activate Codes"></button>
+      <a href="#alt-activate-command-codes-quick-reference">Activate Codes</a>
+    </h2>
+    <div class="raid-loot-expansion-body">
+      <p class="raid-description">The command is <code>/alt activate &lt;number&gt;</code>. Click a code to copy it. Codes were collected by Gadzooks of Temerity.</p>
+      <ul class="raid-loot-items aa-activate-list">
+        {% for activate in catalog.activates %}
+          <li
+            class="aa-activate"
+            data-aa-activate
+            data-classes-label="{{ activate.classes_label | upcase | escape }}"
+            data-search="{{ activate.search | escape }}"
+          >
+            <button type="button" class="aa-copy-activate" data-copy-activate="/alt activate {{ activate.code }}">{{ activate.code }}</button>
+            <span class="aa-activate-name">{{ activate.name }}</span>
+            {% if activate.classes_label != "" %}
+              <span class="aa-activate-classes">{{ activate.classes_label }}</span>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+</div>
+
+<script src="{{ '/assets/js/catalog-collapse.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/catalog-state.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/aa.js' | relative_url }}"></script>

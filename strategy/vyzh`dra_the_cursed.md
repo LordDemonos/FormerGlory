@@ -8,7 +8,7 @@ cover-img: /assets/img/Cursed.jpg
 <div class="info-section">
 <div class="info-item"><strong>HP:</strong> 900,000</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/162" target="_blank">Ssraeshza Temple</a></div>
-<div class="info-item"><strong>Exp:</strong> Velious</div>
+<div class="info-item"><strong>Exp:</strong> Luclin</div>
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/1562" target="_blank">Disciples of Rhag`Zadune</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/162042" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
@@ -76,6 +76,6 @@ cover-img: /assets/img/Cursed.jpg
 <div class="ability-cell">Corpse Camper</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Vyzh`dra the Cursed&gt; - CH Chain: 4sec, Hits for 588, Slowable, Flurries, Casts: Mass Insanity (PBAE, Charm, Disease Based), Casts: Caustic Mist (PBAE, 500 HP/Tick DoT, -300 Poison Based), 900k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Vyzh`dra the Cursed&gt; - CH Chain: 4sec, Hits for 588, Slowable, Flurries, Corpse Camper, Casts: Mass Insanity (PBAE, Charm, Disease Based), Casts: Caustic Mist (PBAE, 500 HP/Tick DoT, -300 Poison Based), 900k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 Vyzh`dra the Cursed is the final boss of the spawn cycle but isn’t very difficult. He has a PBAE Charm that is easy to resist with high Disease Resist. He also has a PBAE Poison DoT. Bring group heals. Keep healers out of line-of-sight.

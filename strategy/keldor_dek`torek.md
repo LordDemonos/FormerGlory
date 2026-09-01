@@ -75,4 +75,4 @@ cover-img: /assets/img/keldor_dek`torek.webp
 <div class="ability-cell">Unstunable</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Keldor Dek`Torek&gt; [Unslowable] - [Remedy/DL spam] // Melee fight | **Must be sieved!**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Keldor Dek`Torek&gt; [Slowable] - [Remedy/DL spam] // Melee fight | **Must be sieved!**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

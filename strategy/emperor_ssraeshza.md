@@ -8,7 +8,7 @@ cover-img: /assets/img/Emperor-Ssraeshza2.jpg
 <div class="info-section">
 <div class="info-item"><strong>HP:</strong> 1,250,000</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/162" target="_blank">Ssraeshza Temple</a></div>
-<div class="info-item"><strong>Exp:</strong> Velious</div>
+<div class="info-item"><strong>Exp:</strong> Luclin</div>
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/1536" target="_blank">Emperor Ssraeshza</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/162491" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 

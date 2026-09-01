@@ -1,0 +1,4078 @@
+{
+  "classes": [
+    "WAR",
+    "CLR",
+    "PAL",
+    "RNG",
+    "SHD",
+    "DRU",
+    "MNK",
+    "BRD",
+    "ROG",
+    "SHM",
+    "NEC",
+    "WIZ",
+    "MAG",
+    "ENC",
+    "BST"
+  ],
+  "expansions": [
+    {
+      "id": "luclin",
+      "name": "Luclin",
+      "groups": [
+        {
+          "id": "general-aas",
+          "name": "General",
+          "abilities": [
+            {
+              "id": "general-aas-first-aid",
+              "name": "First Aid",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "3",
+              "cost": "1",
+              "description": "This ability increases the maximum that you can bind wound by 10 percent for each ability level.",
+              "activate": "",
+              "search": "first aid   all all 3 1 this ability increases the maximum that you can bind wound by 10 percent for each ability level. "
+            },
+            {
+              "id": "general-aas-innate-agility",
+              "name": "Innate Agility",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "This ability raises your base Agility by 2 points for each ability level.",
+              "activate": "",
+              "search": "innate agility   all all 5 1 this ability raises your base agility by 2 points for each ability level. "
+            },
+            {
+              "id": "general-aas-innate-charisma",
+              "name": "Innate Charisma",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "This ability raises your base Charisma by 2 points for each ability level.",
+              "activate": "",
+              "search": "innate charisma   all all 5 1 this ability raises your base charisma by 2 points for each ability level. "
+            },
+            {
+              "id": "general-aas-innate-cold-protection",
+              "name": "Innate Cold Protection",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "This ability raises your base Save Vs Cold by 2 points for each ability level.",
+              "activate": "",
+              "search": "innate cold protection   all all 5 1 this ability raises your base save vs cold by 2 points for each ability level. "
+            },
+            {
+              "id": "general-aas-innate-dexterity",
+              "name": "Innate Dexterity",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "This ability raises your base Dexterity by 2 points for each ability level.",
+              "activate": "",
+              "search": "innate dexterity   all all 5 1 this ability raises your base dexterity by 2 points for each ability level. "
+            },
+            {
+              "id": "general-aas-innate-disease-protection",
+              "name": "Innate Disease Protection",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "This ability raises your base Save Vs Disease by 2 points for each ability level.",
+              "activate": "",
+              "search": "innate disease protection   all all 5 1 this ability raises your base save vs disease by 2 points for each ability level. "
+            },
+            {
+              "id": "general-aas-innate-fire-protection",
+              "name": "Innate Fire Protection",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "This ability raises your base Save Vs Fire by 2 points for each ability level.",
+              "activate": "",
+              "search": "innate fire protection   all all 5 1 this ability raises your base save vs fire by 2 points for each ability level. "
+            },
+            {
+              "id": "general-aas-innate-intelligence",
+              "name": "Innate Intelligence",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "This ability raises your base Intelligence by 2 points for each ability level.",
+              "activate": "",
+              "search": "innate intelligence   all all 5 1 this ability raises your base intelligence by 2 points for each ability level. "
+            },
+            {
+              "id": "general-aas-innate-lung-capacity",
+              "name": "Innate Lung Capacity",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "This ability increases the amount of air you have by 10, 25, and 50 percent.",
+              "activate": "",
+              "search": "innate lung capacity   all all 5 1 this ability increases the amount of air you have by 10, 25, and 50 percent. "
+            },
+            {
+              "id": "general-aas-innate-magic-protection",
+              "name": "Innate Magic Protection",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "This ability raises your base Save Vs Magic by 2 points for each ability level.",
+              "activate": "",
+              "search": "innate magic protection   all all 5 1 this ability raises your base save vs magic by 2 points for each ability level. "
+            },
+            {
+              "id": "general-aas-innate-metabolism",
+              "name": "Innate Metabolism",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "This ability decreases your food consumption by 10, 25 and 50 percent.",
+              "activate": "",
+              "search": "innate metabolism   all all 5 1 this ability decreases your food consumption by 10, 25 and 50 percent. "
+            },
+            {
+              "id": "general-aas-innate-poison-protection",
+              "name": "Innate Poison Protection",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "This ability raises your base Save Vs Poison by 2 points for each ability level.",
+              "activate": "",
+              "search": "innate poison protection   all all 5 1 this ability raises your base save vs poison by 2 points for each ability level. "
+            },
+            {
+              "id": "general-aas-innate-regeneration",
+              "name": "Innate Regeneration",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "This ability raises your regeneration ability by 1 point per ability level.",
+              "activate": "",
+              "search": "innate regeneration   all all 5 1 this ability raises your regeneration ability by 1 point per ability level. "
+            },
+            {
+              "id": "general-aas-innate-run-speed",
+              "name": "Innate Run Speed",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "This ability will slightly modify your base run speed. This modification does NOT stack with movement rate spell effects.",
+              "activate": "",
+              "search": "innate run speed   all all 5 1 this ability will slightly modify your base run speed. this modification does not stack with movement rate spell effects. "
+            },
+            {
+              "id": "general-aas-innate-stamina",
+              "name": "Innate Stamina",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "This ability raises your base Stamina by 2 points for each ability level.",
+              "activate": "",
+              "search": "innate stamina   all all 5 1 this ability raises your base stamina by 2 points for each ability level. "
+            },
+            {
+              "id": "general-aas-innate-strength",
+              "name": "Innate Strength",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "This ability raises your base Strength by 2 points for each ability level.",
+              "activate": "",
+              "search": "innate strength   all all 5 1 this ability raises your base strength by 2 points for each ability level. "
+            },
+            {
+              "id": "general-aas-innate-wisdom",
+              "name": "Innate Wisdom",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "This ability raises your base Wisdom by 2 points for each ability level.",
+              "activate": "",
+              "search": "innate wisdom   all all 5 1 this ability raises your base wisdom by 2 points for each ability level. "
+            },
+            {
+              "id": "general-aas-new-tanaan-crafting-mastery",
+              "name": "New Tanaan Crafting Mastery",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "1",
+              "description": "Training with the sages and merchants of New Tanaan gives adventurers the chance to hone their crafting skills. For each rank of this ability that you purchase, you are able to raise an additional trade skill past its Specialization level (200). (This ability applies to Baking, Blacksmithing, Brewing, Fletching, Jewelcraft, Pottery, and Tailoring.)",
+              "activate": "",
+              "search": "new tanaan crafting mastery   all all 5 1 training with the sages and merchants of new tanaan gives adventurers the chance to hone their crafting skills. for each rank of this ability that you purchase, you are able to raise an additional trade skill past its specialization level (200). (this ability applies to baking, blacksmithing, brewing, fletching, jewelcraft, pottery, and tailoring.) "
+            }
+          ]
+        },
+        {
+          "id": "archetype-aas",
+          "name": "Archetype",
+          "abilities": [
+            {
+              "id": "archetype-aas-channeling-focus",
+              "name": "Channeling Focus",
+              "url": "",
+              "note": "",
+              "broken": true,
+              "broken_why": "Does nothing for Bards. Bards do not channel.",
+              "classes": [
+                "CLR",
+                "PAL",
+                "RNG",
+                "SHD",
+                "DRU",
+                "BRD",
+                "SHM",
+                "NEC",
+                "WIZ",
+                "MAG",
+                "ENC",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability reduces the chance of your spell casts being interrupted. The ability levels reduce your interrupts by 5, 10, and 15 percent.",
+              "activate": "",
+              "search": "channeling focus  does nothing for bards. bards do not channel. clr pal rng shd dru brd shm nec wiz mag enc bst mana classes 3 2/4/6 this ability reduces the chance of your spell casts being interrupted. the ability levels reduce your interrupts by 5, 10, and 15 percent. "
+            },
+            {
+              "id": "archetype-aas-combat-agility",
+              "name": "Combat Agility",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability increases your melee damage avoidance by 2, 5 and 10 percent.",
+              "activate": "",
+              "search": "combat agility   all all 3 2/4/6 this ability increases your melee damage avoidance by 2, 5 and 10 percent. "
+            },
+            {
+              "id": "archetype-aas-combat-fury",
+              "name": "Combat Fury",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR",
+                "PAL",
+                "RNG",
+                "SHD",
+                "MNK",
+                "BRD",
+                "ROG",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability increases your chance to land a critical hit. Non-Warriors will nearly match the original critical hit abilities of Warriors, while Warriors will remain significantly ahead of other classes.",
+              "activate": "",
+              "search": "combat fury   war pal rng shd mnk brd rog bst hybrids + melees 3 2/4/6 this ability increases your chance to land a critical hit. non-warriors will nearly match the original critical hit abilities of warriors, while warriors will remain significantly ahead of other classes. "
+            },
+            {
+              "id": "archetype-aas-combat-stability",
+              "name": "Combat Stability",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability increases melee damage mitigation by 2, 5, and 10 percent.",
+              "activate": "",
+              "search": "combat stability   all all 3 2/4/6 this ability increases melee damage mitigation by 2, 5, and 10 percent. "
+            },
+            {
+              "id": "archetype-aas-fear-resistance",
+              "name": "Fear Resistance",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR",
+                "PAL",
+                "RNG",
+                "SHD",
+                "MNK",
+                "BRD",
+                "ROG",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability grants you a resistance bonus to fear type spells of 5, 10, and 25 percent. It also increases the chance of breaking fear earlier.",
+              "activate": "",
+              "search": "fear resistance   war pal rng shd mnk brd rog bst hybrids + melees 3 2/4/6 this ability grants you a resistance bonus to fear type spells of 5, 10, and 25 percent. it also increases the chance of breaking fear earlier. "
+            },
+            {
+              "id": "archetype-aas-finishing-blow",
+              "name": "Finishing Blow",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR",
+                "PAL",
+                "RNG",
+                "SHD",
+                "MNK",
+                "BRD",
+                "ROG",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability gives you a chance to finish off an NPC that is below 10 percent health and fleeing with a single blow. The first level works on NPCs below 50, the second on NPCs below 52, and the third on NPCs below 54. (Non-Warriors must first train one level of Combat Fury to use this ability.)",
+              "activate": "",
+              "search": "finishing blow   war pal rng shd mnk brd rog bst hybrids + melees 3 2/4/6 this ability gives you a chance to finish off an npc that is below 10 percent health and fleeing with a single blow. the first level works on npcs below 50, the second on npcs below 52, and the third on npcs below 54. (non-warriors must first train one level of combat fury to use this ability.) "
+            },
+            {
+              "id": "archetype-aas-healing-adept",
+              "name": "Healing Adept",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR",
+                "PAL",
+                "RNG",
+                "DRU",
+                "SHM",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability increases the maximum effectiveness of your healing spells by 2, 5, and 10 percent.",
+              "activate": "",
+              "search": "healing adept   clr pal rng dru shm bst bst clr dru pal rng shm 3 2/4/6 this ability increases the maximum effectiveness of your healing spells by 2, 5, and 10 percent. "
+            },
+            {
+              "id": "archetype-aas-healing-gift",
+              "name": "Healing Gift",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR",
+                "PAL",
+                "RNG",
+                "DRU",
+                "SHM",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability grants you a chance to score an exceptional heal at 3, 6, and 10 percent. An exceptional heal doubles the healing value of the spell.",
+              "activate": "",
+              "search": "healing gift   clr pal rng dru shm bst bst clr dru pal rng shm 3 2/4/6 this ability grants you a chance to score an exceptional heal at 3, 6, and 10 percent. an exceptional heal doubles the healing value of the spell. "
+            },
+            {
+              "id": "archetype-aas-mental-clarity",
+              "name": "Mental Clarity",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR",
+                "PAL",
+                "RNG",
+                "SHD",
+                "DRU",
+                "BRD",
+                "SHM",
+                "NEC",
+                "WIZ",
+                "MAG",
+                "ENC",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability increases your natural mana regeneration by 1 point per ability level.",
+              "activate": "",
+              "search": "mental clarity   clr pal rng shd dru brd shm nec wiz mag enc bst mana classes 3 2/4/6 this ability increases your natural mana regeneration by 1 point per ability level. "
+            },
+            {
+              "id": "archetype-aas-natural-durability",
+              "name": "Natural Durability",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability increases your maximum hitpoints by 2, 5, and 10 percent. (The percentages are based off of your base hitpoints, which include stamina and stamina effects.)",
+              "activate": "",
+              "search": "natural durability   all all 3 2/4/6 this ability increases your maximum hitpoints by 2, 5, and 10 percent. (the percentages are based off of your base hitpoints, which include stamina and stamina effects.) "
+            },
+            {
+              "id": "archetype-aas-natural-healing",
+              "name": "Natural Healing",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR",
+                "PAL",
+                "RNG",
+                "SHD",
+                "MNK",
+                "BRD",
+                "ROG",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability raises your natural regeneration by one point per ability level.",
+              "activate": "",
+              "search": "natural healing   war pal rng shd mnk brd rog bst hybrids + melees 3 2/4/6 this ability raises your natural regeneration by one point per ability level. "
+            },
+            {
+              "id": "archetype-aas-spell-casting-deftness",
+              "name": "Spell Casting Deftness",
+              "url": "",
+              "note": "",
+              "broken": true,
+              "broken_why": "Redundant with Quick Buff and foci. Spell haste is capped at 50% server-side.",
+              "classes": [
+                "SHD",
+                "NEC",
+                "WIZ",
+                "MAG",
+                "ENC"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability reduces the casting time of beneficial spells that have a duration longer than instant and a cast time greater than four seconds. The ability levels reduce these casting times by 5, 15, and 25 percent.",
+              "activate": "",
+              "search": "spell casting deftness  redundant with quick buff and foci. spell haste is capped at 50% server-side. shd nec wiz mag enc enc mag nec shd wiz 3 2/4/6 this ability reduces the casting time of beneficial spells that have a duration longer than instant and a cast time greater than four seconds. the ability levels reduce these casting times by 5, 15, and 25 percent. "
+            },
+            {
+              "id": "archetype-aas-spell-casting-expertise",
+              "name": "Spell Casting Expertise",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHD",
+                "NEC",
+                "WIZ",
+                "MAG",
+                "ENC"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability makes it impossible for you to fizzle a spell. The first level affects all spells below level 20. The second, on all spells below level 35. The third, on all spells below level 52.",
+              "activate": "",
+              "search": "spell casting expertise   shd nec wiz mag enc enc mag nec shd wiz 3 2/4/6 this ability makes it impossible for you to fizzle a spell. the first level affects all spells below level 20. the second, on all spells below level 35. the third, on all spells below level 52. "
+            },
+            {
+              "id": "archetype-aas-spell-casting-fury",
+              "name": "Spell Casting Fury",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR",
+                "PAL",
+                "RNG",
+                "SHD",
+                "DRU",
+                "BRD",
+                "SHM",
+                "NEC",
+                "WIZ",
+                "MAG",
+                "ENC",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability gives you a chance to land critical hits with your direct damage spells. The ability levels increase your chance to score a critical by 2, 4, and 7 percent.",
+              "activate": "",
+              "search": "spell casting fury   clr pal rng shd dru brd shm nec wiz mag enc bst mana classes 3 2/4/6 this ability gives you a chance to land critical hits with your direct damage spells. the ability levels increase your chance to score a critical by 2, 4, and 7 percent. "
+            },
+            {
+              "id": "archetype-aas-spell-casting-mastery",
+              "name": "Spell Casting Mastery",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR",
+                "DRU",
+                "SHM",
+                "NEC",
+                "WIZ",
+                "MAG",
+                "ENC"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability gives you an increased chance of making your specialization checks. It also reduces your chance to fizzle and increases the chance to lower the mana cost for the spell by 5, 15, and 30 percent.",
+              "activate": "",
+              "search": "spell casting mastery   clr dru shm nec wiz mag enc casters + priests 3 2/4/6 this ability gives you an increased chance of making your specialization checks. it also reduces your chance to fizzle and increases the chance to lower the mana cost for the spell by 5, 15, and 30 percent. "
+            },
+            {
+              "id": "archetype-aas-spell-casting-reinforcement",
+              "name": "Spell Casting Reinforcement",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR",
+                "PAL",
+                "RNG",
+                "DRU",
+                "SHM",
+                "ENC",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability increases the duration of beneficial spells that you cast by 5, 15, and 30 percent.",
+              "activate": "",
+              "search": "spell casting reinforcement   clr pal rng dru shm enc bst bst clr dru enc pal rng shm 3 2/4/6 this ability increases the duration of beneficial spells that you cast by 5, 15, and 30 percent. "
+            },
+            {
+              "id": "archetype-aas-spell-casting-subtlety",
+              "name": "Spell Casting Subtlety",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHD",
+                "BRD",
+                "NEC",
+                "WIZ",
+                "MAG",
+                "ENC"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "After training in this ability, NPCs will notice your magical activities 5, 10, and 20 percent less.",
+              "activate": "",
+              "search": "spell casting subtlety   shd brd nec wiz mag enc brd enc mag nec shd wiz 3 2/4/6 after training in this ability, npcs will notice your magical activities 5, 10, and 20 percent less. "
+            }
+          ]
+        },
+        {
+          "id": "class-aas",
+          "name": "Class",
+          "abilities": [
+            {
+              "id": "class-aas-acrobatics",
+              "name": "Acrobatics",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MNK",
+                "BRD",
+                "ROG"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability will reduce the damage that you take from falling.",
+              "activate": "",
+              "search": "acrobatics   mnk brd rog brd mnk rog 3 3/6/9 this ability will reduce the damage that you take from falling. "
+            },
+            {
+              "id": "class-aas-act-of-valor",
+              "name": "Act of Valor",
+              "url": "https://wiki.takp.info/index.php/Act_of_Valor",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "PAL"
+              ],
+              "ranks": "1",
+              "cost": "3",
+              "description": "This noble ability will allow you to transfer all of your hit points to a target player, killing you in the process.",
+              "activate": "76",
+              "search": "act of valor   pal pal 1 3 this noble ability will allow you to transfer all of your hit points to a target player, killing you in the process. 76"
+            },
+            {
+              "id": "class-aas-advanced-trap-negotiation",
+              "name": "Advanced Trap Negotiation",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "BRD",
+                "ROG"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability will reduce the reuse time on your sense and disarm trap skills.",
+              "activate": "",
+              "search": "advanced trap negotiation   brd rog brd rog 3 3/6/9 this ability will reduce the reuse time on your sense and disarm trap skills. "
+            },
+            {
+              "id": "class-aas-alchemy-mastery",
+              "name": "Alchemy Mastery",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHM"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability reduces your chances of failing alchemy combinations by 10, 25, and 50 percent.",
+              "activate": "",
+              "search": "alchemy mastery   shm shm 3 3/6/9 this ability reduces your chances of failing alchemy combinations by 10, 25, and 50 percent. "
+            },
+            {
+              "id": "class-aas-ambidexterity",
+              "name": "Ambidexterity",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR",
+                "RNG",
+                "MNK",
+                "BRD",
+                "ROG",
+                "BST"
+              ],
+              "ranks": "1",
+              "cost": "9",
+              "description": "This ability increases your chance to use dual wield successfully.",
+              "activate": "",
+              "search": "ambidexterity   war rng mnk brd rog bst brd bst mnk rng rog war 1 9 this ability increases your chance to use dual wield successfully. "
+            },
+            {
+              "id": "class-aas-archery-mastery",
+              "name": "Archery Mastery",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "RNG"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability increases your archery damage 30, 60, and 100 percent.",
+              "activate": "",
+              "search": "archery mastery   rng rng 3 3/6/9 this ability increases your archery damage 30, 60, and 100 percent. "
+            },
+            {
+              "id": "class-aas-area-taunt",
+              "name": "Area Taunt",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability will allow you to taunt everything in a small radius.",
+              "activate": "110",
+              "search": "area taunt   war war 1 5 this ability will allow you to taunt everything in a small radius. 110"
+            },
+            {
+              "id": "class-aas-bandage-wound",
+              "name": "Bandage Wound",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability will give you increased healing ability per bandage by 10, 25, and 50 percent.",
+              "activate": "",
+              "search": "bandage wound   war war 3 3/6/9 this ability will give you increased healing ability per bandage by 10, 25, and 50 percent. "
+            },
+            {
+              "id": "class-aas-bestow-divine-aura",
+              "name": "Bestow Divine Aura",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR"
+              ],
+              "ranks": "1",
+              "cost": "6",
+              "description": "This ability gives you the ability to cast a Divine Aura spell on a Player target, temporarily rendering the target invulnerable.",
+              "activate": "39",
+              "search": "bestow divine aura   clr clr 1 6 this ability gives you the ability to cast a divine aura spell on a player target, temporarily rendering the target invulnerable. 39"
+            },
+            {
+              "id": "class-aas-body-and-mind-rejuvenation",
+              "name": "Body and Mind Rejuvenation",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "PAL",
+                "RNG",
+                "SHD",
+                "BRD",
+                "BST"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability will give you one additional point of mana and hit point regeneration.",
+              "activate": "",
+              "search": "body and mind rejuvenation   pal rng shd brd bst hybrids 1 5 this ability will give you one additional point of mana and hit point regeneration. "
+            },
+            {
+              "id": "class-aas-call-to-corpse",
+              "name": "Call to Corpse",
+              "url": "https://wiki.takp.info/index.php/Call_to_Corpse",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "NEC"
+              ],
+              "ranks": "1",
+              "cost": "6",
+              "description": "This ability allows you to cast a no component summon corpse spell.",
+              "activate": "72",
+              "search": "call to corpse   nec nec 1 6 this ability allows you to cast a no component summon corpse spell. 72"
+            },
+            {
+              "id": "class-aas-cannibalization",
+              "name": "Cannibalization",
+              "url": "https://wiki.takp.info/index.php/Cannibalization",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHM"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability will give the caster a new, massive Cannibalize spell.",
+              "activate": "47",
+              "search": "cannibalization   shm shm 1 5 this ability will give the caster a new, massive cannibalize spell. 47"
+            },
+            {
+              "id": "class-aas-celestial-regeneration",
+              "name": "Celestial Regeneration",
+              "url": "",
+              "note": "",
+              "broken": true,
+              "broken_why": "Single target, not group. The timer shows 15 minutes but the real reuse is 72 minutes.",
+              "classes": [
+                "CLR"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability gives you the ability to cast a large heal over time spell at no mana cost.",
+              "activate": "38",
+              "search": "celestial regeneration  single target, not group. the timer shows 15 minutes but the real reuse is 72 minutes. clr clr 1 5 this ability gives you the ability to cast a large heal over time spell at no mana cost. 38"
+            },
+            {
+              "id": "class-aas-chaotic-stab",
+              "name": "Chaotic Stab",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ROG"
+              ],
+              "ranks": "1",
+              "cost": "6",
+              "description": "This ability will allow you to do minimal backstab damage on your backstab attempt, even if you are not positioned behind the monster.",
+              "activate": "",
+              "search": "chaotic stab   rog rog 1 6 this ability will allow you to do minimal backstab damage on your backstab attempt, even if you are not positioned behind the monster. "
+            },
+            {
+              "id": "class-aas-critical-mend",
+              "name": "Critical Mend",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MNK"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability gives you a chance to perform a superior mend 5, 10, and 25 percent of the time.",
+              "activate": "",
+              "search": "critical mend   mnk mnk 3 3/6/9 this ability gives you a chance to perform a superior mend 5, 10, and 25 percent of the time. "
+            },
+            {
+              "id": "class-aas-dead-mesmerization",
+              "name": "Dead Mesmerization",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "NEC"
+              ],
+              "ranks": "1",
+              "cost": "3",
+              "description": "This ability allows you to cast an AE low resist mesmerization spell effective against the undead.",
+              "activate": "69",
+              "search": "dead mesmerization   nec nec 1 3 this ability allows you to cast an ae low resist mesmerization spell effective against the undead. 69"
+            },
+            {
+              "id": "class-aas-dire-charm",
+              "name": "Dire Charm",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "DRU",
+                "NEC",
+                "ENC"
+              ],
+              "ranks": "1",
+              "cost": "9",
+              "description": "This ability gives you the chance to permanently charm an NPC. (Enchanters: All. Druids: Animals only. Necromancers: Undead only.)",
+              "activate": "46",
+              "search": "dire charm   dru nec enc dru enc nec 1 9 this ability gives you the chance to permanently charm an npc. (enchanters: all. druids: animals only. necromancers: undead only.) 46"
+            },
+            {
+              "id": "class-aas-divine-resurrection",
+              "name": "Divine Resurrection",
+              "url": "https://wiki.takp.info/index.php/Divine_Resurrection",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability allows you to provide a resurrection that restores 100 percent experience, all hit points and mana, and causes no adverse resurrection effects.",
+              "activate": "36",
+              "search": "divine resurrection   clr clr 1 5 this ability allows you to provide a resurrection that restores 100 percent experience, all hit points and mana, and causes no adverse resurrection effects. 36"
+            },
+            {
+              "id": "class-aas-divine-stun",
+              "name": "Divine Stun",
+              "url": "https://wiki.takp.info/index.php/Divine_Stun",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "PAL"
+              ],
+              "ranks": "1",
+              "cost": "9",
+              "description": "Training in this ability gives you a new, fast-casting spell that has the chance to interrupt Level 68 or lower NPCs. Normal resist rules apply.",
+              "activate": "73",
+              "search": "divine stun   pal pal 1 9 training in this ability gives you a new, fast-casting spell that has the chance to interrupt level 68 or lower npcs. normal resist rules apply. 73"
+            },
+            {
+              "id": "class-aas-double-riposte",
+              "name": "Double Riposte",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR",
+                "PAL",
+                "RNG",
+                "SHD",
+                "MNK",
+                "ROG",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability will give you an increased chance to execute a double riposte 15, 35, and 50 percent of the time.",
+              "activate": "",
+              "search": "double riposte   war pal rng shd mnk rog bst ber bst mnk pal rng rog shd war 3 3/6/9 this ability will give you an increased chance to execute a double riposte 15, 35, and 50 percent of the time. "
+            },
+            {
+              "id": "class-aas-dragon-punch",
+              "name": "Dragon Punch",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MNK"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability augments Dragon Punch for human monks and Tail Rake for iksars with the chance to automatically perform a Knockback.",
+              "activate": "116",
+              "search": "dragon punch   mnk mnk 1 5 this ability augments dragon punch for human monks and tail rake for iksars with the chance to automatically perform a knockback. 116"
+            },
+            {
+              "id": "class-aas-elemental-form-air",
+              "name": "Elemental Form: Air",
+              "url": "https://wiki.takp.info/index.php/Elemental_Form:_Air",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MAG"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability will allow you to turn into an air elemental, gaining many of the innate benefits of the form, as well as some of the penalties.",
+              "activate": "64",
+              "search": "elemental form: air   mag mag 3 3/6/9 this ability will allow you to turn into an air elemental, gaining many of the innate benefits of the form, as well as some of the penalties. 64"
+            },
+            {
+              "id": "class-aas-elemental-form-earth",
+              "name": "Elemental Form: Earth",
+              "url": "https://wiki.takp.info/index.php/Elemental_Form:_Earth",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MAG"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability will allow you to turn into an earth elemental, gaining many of the innate benefits of the form, as well as some of the penalties.",
+              "activate": "63",
+              "search": "elemental form: earth   mag mag 3 3/6/9 this ability will allow you to turn into an earth elemental, gaining many of the innate benefits of the form, as well as some of the penalties. 63"
+            },
+            {
+              "id": "class-aas-elemental-form-fire",
+              "name": "Elemental Form: Fire",
+              "url": "https://wiki.takp.info/index.php/Elemental_Form:_Fire",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MAG"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability will allow you to turn into a fire elemental, gaining many of the innate benefits of the form, as well as some of the penalties.",
+              "activate": "61",
+              "search": "elemental form: fire   mag mag 3 3/6/9 this ability will allow you to turn into a fire elemental, gaining many of the innate benefits of the form, as well as some of the penalties. 61"
+            },
+            {
+              "id": "class-aas-elemental-form-water",
+              "name": "Elemental Form: Water",
+              "url": "https://wiki.takp.info/index.php/Elemental_Form:_Water",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MAG"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability will allow you to turn into a water elemental, gaining many of the innate benefits of the form, as well as some of the penalties.",
+              "activate": "62",
+              "search": "elemental form: water   mag mag 3 3/6/9 this ability will allow you to turn into a water elemental, gaining many of the innate benefits of the form, as well as some of the penalties. 62"
+            },
+            {
+              "id": "class-aas-elemental-pact",
+              "name": "Elemental Pact",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MAG"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability will prevent components used in the summoning of pets from being expended.",
+              "activate": "",
+              "search": "elemental pact   mag mag 1 5 this ability will prevent components used in the summoning of pets from being expended. "
+            },
+            {
+              "id": "class-aas-endless-quiver",
+              "name": "Endless Quiver",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "RNG"
+              ],
+              "ranks": "1",
+              "cost": "9",
+              "description": "This ability provides you a never-ending supply of arrows.",
+              "activate": "",
+              "search": "endless quiver   rng rng 1 9 this ability provides you a never-ending supply of arrows. "
+            },
+            {
+              "id": "class-aas-enhanced-root",
+              "name": "Enhanced Root",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "DRU"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability reduces the chance that a rooted NPC will be freed by your damage spells by 50 percent.",
+              "activate": "",
+              "search": "enhanced root   dru dru 1 5 this ability reduces the chance that a rooted npc will be freed by your damage spells by 50 percent. "
+            },
+            {
+              "id": "class-aas-escape",
+              "name": "Escape",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ROG"
+              ],
+              "ranks": "1",
+              "cost": "9",
+              "description": "This ability will cause all NPCs to forget about you. If you are out of immediate combat, this ability will also make you invisible similar to your hiding ability.",
+              "activate": "102",
+              "search": "escape   rog rog 1 9 this ability will cause all npcs to forget about you. if you are out of immediate combat, this ability will also make you invisible similar to your hiding ability. 102"
+            },
+            {
+              "id": "class-aas-exodus",
+              "name": "Exodus",
+              "url": "https://wiki.takp.info/index.php/Exodus",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "DRU",
+                "WIZ"
+              ],
+              "ranks": "1",
+              "cost": "6",
+              "description": "This ability gives you the ability to cast an extremely fast-casting, no mana cost evacuation or succor spell.",
+              "activate": "43",
+              "search": "exodus   dru wiz dru wiz 1 6 this ability gives you the ability to cast an extremely fast-casting, no mana cost evacuation or succor spell. 43"
+            },
+            {
+              "id": "class-aas-extended-notes",
+              "name": "Extended Notes",
+              "url": "",
+              "note": "",
+              "broken": true,
+              "broken_why": "Only beneficial group songs. AE resists, Lceas, PBAoE dots, and snares are unchanged.",
+              "classes": [
+                "BRD"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability will increased your song ranges by 10, 15, and 25 percent.",
+              "activate": "",
+              "search": "extended notes  only beneficial group songs. ae resists, lceas, pbaoe dots, and snares are unchanged. brd brd 3 3/6/9 this ability will increased your song ranges by 10, 15, and 25 percent. "
+            },
+            {
+              "id": "class-aas-fearless",
+              "name": "Fearless",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "PAL",
+                "SHD"
+              ],
+              "ranks": "1",
+              "cost": "6",
+              "description": "This ability will make you permanently immune to fear spells.",
+              "activate": "",
+              "search": "fearless   pal shd pal shd 1 6 this ability will make you permanently immune to fear spells. "
+            },
+            {
+              "id": "class-aas-fearstorm",
+              "name": "Fearstorm",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "NEC"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "Allows you to cast an AE low resist fear spell.",
+              "activate": "70",
+              "search": "fearstorm   nec nec 1 5 allows you to cast an ae low resist fear spell. 70"
+            },
+            {
+              "id": "class-aas-flesh-to-bone",
+              "name": "Flesh to Bone",
+              "url": "https://wiki.takp.info/index.php/Flesh_to_Bone",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "NEC"
+              ],
+              "ranks": "1",
+              "cost": "3",
+              "description": "This ability allows you to turn any meat or body part item into bone chips. You must hold the item or stack on your cursor. *Warning* This ability will use magical or no trade items if they are held on the cursor.",
+              "activate": "71",
+              "search": "flesh to bone   nec nec 1 3 this ability allows you to turn any meat or body part item into bone chips. you must hold the item or stack on your cursor. *warning* this ability will use magical or no trade items if they are held on the cursor. 71"
+            },
+            {
+              "id": "class-aas-flurry",
+              "name": "Flurry",
+              "url": "https://wiki.takp.info/index.php/Flurry",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability will allow you to perform up to 2 additional attacks from your primary hand.",
+              "activate": "",
+              "search": "flurry   war war 3 3/6/9 this ability will allow you to perform up to 2 additional attacks from your primary hand. "
+            },
+            {
+              "id": "class-aas-frenzied-burnout",
+              "name": "Frenzied Burnout",
+              "url": "",
+              "note": "",
+              "broken": true,
+              "broken_why": "Does not stack with Ancient: Burnout Blaze. The AA's 15% haste overwrites the 80% pet haste.",
+              "classes": [
+                "MAG"
+              ],
+              "ranks": "1",
+              "cost": "6",
+              "description": "This ability allows you to cast a buff on your pet that will cause it to go berserk, doing increased damage.",
+              "activate": "60",
+              "search": "frenzied burnout  does not stack with ancient: burnout blaze. the aa's 15% haste overwrites the 80% pet haste. mag mag 1 6 this ability allows you to cast a buff on your pet that will cause it to go berserk, doing increased damage. 60"
+            },
+            {
+              "id": "class-aas-frenzy-of-spirit",
+              "name": "Frenzy of Spirit",
+              "url": "https://wiki.takp.info/index.php/Frenzy_of_Spirit",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "BST"
+              ],
+              "ranks": "1",
+              "cost": "4",
+              "description": "This ability gives Beastlords the power to send themselves into an animalistic frenzy, bent only on slaughter, for a brief period of time.",
+              "activate": "127",
+              "search": "frenzy of spirit   bst bst 1 4 this ability gives beastlords the power to send themselves into an animalistic frenzy, bent only on slaughter, for a brief period of time. 127"
+            },
+            {
+              "id": "class-aas-gather-mana",
+              "name": "Gather Mana",
+              "url": "https://wiki.takp.info/index.php/Gather_Mana",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ENC"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability allows you to recover up to 10,000 points of mana nearly instantly.",
+              "activate": "57",
+              "search": "gather mana   enc enc 1 5 this ability allows you to recover up to 10,000 points of mana nearly instantly. 57"
+            },
+            {
+              "id": "class-aas-hobble-of-spirits",
+              "name": "Hobble of Spirits",
+              "url": "",
+              "note": "",
+              "broken": true,
+              "broken_why": "Snare caps at 40% and often fails to stop high-level runners. Also blocks some pet procs such as Spirit of Snow.",
+              "classes": [
+                "BST"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "Once you train this ability, you may imbue your pet with an attack that is reputed to slow an enemys walking.",
+              "activate": "126",
+              "search": "hobble of spirits  snare caps at 40% and often fails to stop high-level runners. also blocks some pet procs such as spirit of snow. bst bst 1 5 once you train this ability, you may imbue your pet with an attack that is reputed to slow an enemys walking. 126"
+            },
+            {
+              "id": "class-aas-holy-steed",
+              "name": "Holy Steed",
+              "url": "https://wiki.takp.info/index.php/Holy_Steed",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "PAL"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability provides you with the power to call the ultimate holy steed to your side.",
+              "activate": "77",
+              "search": "holy steed   pal pal 1 5 this ability provides you with the power to call the ultimate holy steed to your side. 77"
+            },
+            {
+              "id": "class-aas-improved-familiar",
+              "name": "Improved Familiar",
+              "url": "https://wiki.takp.info/index.php/Improved_Familiar",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WIZ"
+              ],
+              "ranks": "1",
+              "cost": "9",
+              "description": "This ability will summon an improved familiar that is an upgrade from the greater familiar. This improved familiar is higher in level, has more hitpoints, and is very resistant to all spells.",
+              "activate": "52",
+              "search": "improved familiar   wiz wiz 1 9 this ability will summon an improved familiar that is an upgrade from the greater familiar. this improved familiar is higher in level, has more hitpoints, and is very resistant to all spells. 52"
+            },
+            {
+              "id": "class-aas-improved-harm-touch",
+              "name": "Improved Harm Touch",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHD"
+              ],
+              "ranks": "1",
+              "cost": "6",
+              "description": "This ability gives you a low-resist Harm Touch. Using this ability also uses your existing Harm Touch timer.",
+              "activate": "86",
+              "search": "improved harm touch   shd shd 1 6 this ability gives you a low-resist harm touch. using this ability also uses your existing harm touch timer. 86"
+            },
+            {
+              "id": "class-aas-improved-lay-on-hands",
+              "name": "Improved Lay on Hands",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "PAL"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability will turn your Lay of Hands into a complete heal.",
+              "activate": "",
+              "search": "improved lay on hands   pal pal 1 5 this ability will turn your lay of hands into a complete heal. "
+            },
+            {
+              "id": "class-aas-improved-reclaim-energy",
+              "name": "Improved Reclaim Energy",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MAG"
+              ],
+              "ranks": "1",
+              "cost": "3",
+              "description": "This ability will increase the amount of mana returned to you when reclaiming your pet.",
+              "activate": "65",
+              "search": "improved reclaim energy   mag mag 1 3 this ability will increase the amount of mana returned to you when reclaiming your pet. 65"
+            },
+            {
+              "id": "class-aas-innate-camouflage",
+              "name": "Innate Camouflage",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "RNG",
+                "DRU"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability allows you to become invisible, nearly at will, without the need to memorize a spell.",
+              "activate": "80",
+              "search": "innate camouflage   rng dru dru rng 1 5 this ability allows you to become invisible, nearly at will, without the need to memorize a spell. 80"
+            },
+            {
+              "id": "class-aas-innate-invisibility-vs-undead",
+              "name": "Innate Invisibility vs Undead",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR",
+                "NEC"
+              ],
+              "ranks": "1",
+              "cost": "3",
+              "description": "This ability allows you to become invisible to the undead, nearly at will, without the need to memorize a spell.",
+              "activate": "37",
+              "search": "innate invisibility vs undead   clr nec clr nec 1 3 this ability allows you to become invisible to the undead, nearly at will, without the need to memorize a spell. 37"
+            },
+            {
+              "id": "class-aas-instrument-mastery",
+              "name": "Instrument Mastery",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "BRD"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability allows for improved use of all instrument types.",
+              "activate": "",
+              "search": "instrument mastery   brd brd 3 3/6/9 this ability allows for improved use of all instrument types. "
+            },
+            {
+              "id": "class-aas-jam-fest",
+              "name": "Jam Fest",
+              "url": "",
+              "note": "",
+              "broken": true,
+              "broken_why": "Only the Bard gets the higher singing level. The group does not.",
+              "classes": [
+                "BRD"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability allows you to sing your songs at a higher apparent level. Note: This does not allow you to sing songs that are actually higher than your level.",
+              "activate": "",
+              "search": "jam fest  only the bard gets the higher singing level. the group does not. brd brd 3 3/6/9 this ability allows you to sing your songs at a higher apparent level. note: this does not allow you to sing songs that are actually higher than your level. "
+            },
+            {
+              "id": "class-aas-jewelcraft-mastery",
+              "name": "Jewelcraft Mastery",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ENC"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability reduces your chance of failing jewelcraft combinations by 10, 25, and 50 percent.",
+              "activate": "",
+              "search": "jewelcraft mastery   enc enc 3 3/6/9 this ability reduces your chance of failing jewelcraft combinations by 10, 25, and 50 percent. "
+            },
+            {
+              "id": "class-aas-leech-touch",
+              "name": "Leech Touch",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHD"
+              ],
+              "ranks": "1",
+              "cost": "6",
+              "description": "This ability gives you a life tap harm touch. Using this ability also uses your existing Harm Touch timer.",
+              "activate": "87",
+              "search": "leech touch   shd shd 1 6 this ability gives you a life tap harm touch. using this ability also uses your existing harm touch timer. 87"
+            },
+            {
+              "id": "class-aas-lifeburn",
+              "name": "Lifeburn",
+              "url": "https://wiki.takp.info/index.php/Lifeburn",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "NEC"
+              ],
+              "ranks": "1",
+              "cost": "9",
+              "description": "This ability allows you to cast a no-resist direct damage spell equal to that of your current hitpoints. The effect drains your life and provides a life bond effect that does 250 damage per tick, for 6 ticks.",
+              "activate": "68",
+              "search": "lifeburn   nec nec 1 9 this ability allows you to cast a no-resist direct damage spell equal to that of your current hitpoints. the effect drains your life and provides a life bond effect that does 250 damage per tick, for 6 ticks. 68"
+            },
+            {
+              "id": "class-aas-manaburn",
+              "name": "Manaburn",
+              "url": "https://wiki.takp.info/index.php/Manaburn",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WIZ"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability allows you to do non-resistable damage in an amount based off of your current mana. This is calculated as a random 50-100% of the current mana pool (gear and buffs) is added to the current mana pool number. Ex: 4500 mana could result in 9000 damage at the high end or 6750 at the low end. A debuff is left on the mob for one minute that blocks other manaburns. Cap is 9492.",
+              "activate": "226",
+              "search": "manaburn   wiz wiz 1 5 this ability allows you to do non-resistable damage in an amount based off of your current mana. this is calculated as a random 50-100% of the current mana pool (gear and buffs) is added to the current mana pool number. ex: 4500 mana could result in 9000 damage at the high end or 6750 at the low end. a debuff is left on the mob for one minute that blocks other manaburns. cap is 9492. 226"
+            },
+            {
+              "id": "class-aas-mass-group-buff",
+              "name": "Mass Group Buff",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR",
+                "PAL",
+                "RNG",
+                "DRU",
+                "SHM",
+                "NEC",
+                "MAG",
+                "ENC",
+                "BST"
+              ],
+              "ranks": "1",
+              "cost": "9",
+              "description": "This ability turns the next group buff that you cast into a beneficial area effect spell, hitting everyone within its radius, at the cost of doubling the spells mana usage.",
+              "activate": "35",
+              "search": "mass group buff   clr pal rng dru shm nec mag enc bst bst clr dru enc mag nec pal rng shm 1 9 this ability turns the next group buff that you cast into a beneficial area effect spell, hitting everyone within its radius, at the cost of doubling the spells mana usage. 35"
+            },
+            {
+              "id": "class-aas-mend-companion",
+              "name": "Mend Companion",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "NEC",
+                "MAG",
+                "BST"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability allows you to cast a Lay of Hands type spell on your pet.",
+              "activate": "58",
+              "search": "mend companion   nec mag bst bst mag nec 1 5 this ability allows you to cast a lay of hands type spell on your pet. 58"
+            },
+            {
+              "id": "class-aas-nexus-gate",
+              "name": "Nexus Gate",
+              "url": "https://wiki.takp.info/index.php/Nexus_Gate",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WIZ"
+              ],
+              "ranks": "1",
+              "cost": "6",
+              "description": "This ability gives you an instant-cast self gate spell to the Nexus.",
+              "activate": "53",
+              "search": "nexus gate   wiz wiz 1 6 this ability gives you an instant-cast self gate spell to the nexus. 53"
+            },
+            {
+              "id": "class-aas-paragon-of-spirit",
+              "name": "Paragon of Spirit",
+              "url": "https://wiki.takp.info/index.php/Paragon_of_Spirit",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "BST"
+              ],
+              "ranks": "1",
+              "cost": "6",
+              "description": "This ability allows the Beastlord to share some of his natural attunement with his party in the form of health and mana.",
+              "activate": "128",
+              "search": "paragon of spirit   bst bst 1 6 this ability allows the beastlord to share some of his natural attunement with his party in the form of health and mana. 128"
+            },
+            {
+              "id": "class-aas-permanent-illusion",
+              "name": "Permanent Illusion",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ENC"
+              ],
+              "ranks": "1",
+              "cost": "3",
+              "description": "This ability allows you to zone without losing your current illusion.",
+              "activate": "",
+              "search": "permanent illusion   enc enc 1 3 this ability allows you to zone without losing your current illusion. "
+            },
+            {
+              "id": "class-aas-pet-discipline",
+              "name": "Pet Discipline",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHD",
+                "SHM",
+                "NEC",
+                "MAG",
+                "BST"
+              ],
+              "ranks": "1",
+              "cost": "6",
+              "description": "This ability will allow you to give your pet a hold command until explicitly told to attack. Usage: /pet hold.",
+              "activate": "",
+              "search": "pet discipline   shd shm nec mag bst bst mag nec shd shm 1 6 this ability will allow you to give your pet a hold command until explicitly told to attack. usage: /pet hold. "
+            },
+            {
+              "id": "class-aas-physical-enhancement",
+              "name": "Physical Enhancement",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR",
+                "PAL",
+                "RNG",
+                "SHD",
+                "MNK",
+                "BRD",
+                "ROG",
+                "BST"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability will give you additional improvements in your Natural Durability, Avoidance Boost, and Mitigation Boost.",
+              "activate": "",
+              "search": "physical enhancement   war pal rng shd mnk brd rog bst hybrids + melees 1 5 this ability will give you additional improvements in your natural durability, avoidance boost, and mitigation boost. "
+            },
+            {
+              "id": "class-aas-poison-mastery",
+              "name": "Poison Mastery",
+              "url": "",
+              "note": "",
+              "broken": true,
+              "broken_why": "You can still fail poison application. The other rank bonuses still work.",
+              "classes": [
+                "ROG"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability reduces your chance of failing on a poison combination by 10, 25, and 50 percent. It also reduces the time to apply poison by 2.5 seconds per ability level. Once one point is applied to this ability, you will never again fail in poison application.",
+              "activate": "",
+              "search": "poison mastery  you can still fail poison application. the other rank bonuses still work. rog rog 3 3/6/9 this ability reduces your chance of failing on a poison combination by 10, 25, and 50 percent. it also reduces the time to apply poison by 2.5 seconds per ability level. once one point is applied to this ability, you will never again fail in poison application. "
+            },
+            {
+              "id": "class-aas-purge-poison",
+              "name": "Purge Poison",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ROG"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability will remove all poisons from your body.",
+              "activate": "107",
+              "search": "purge poison   rog rog 1 5 this ability will remove all poisons from your body. 107"
+            },
+            {
+              "id": "class-aas-purify-body",
+              "name": "Purify Body",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MNK"
+              ],
+              "ranks": "1",
+              "cost": "9",
+              "description": "This ability removes all negative effects from your body except for fear, charm, and resurrection effects.",
+              "activate": "98",
+              "search": "purify body   mnk mnk 1 9 this ability removes all negative effects from your body except for fear, charm, and resurrection effects. 98"
+            },
+            {
+              "id": "class-aas-purify-soul",
+              "name": "Purify Soul",
+              "url": "https://wiki.takp.info/index.php/Purify_Soul",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability allows you to cast a spell that cures most ailments.",
+              "activate": "41",
+              "search": "purify soul   clr clr 1 5 this ability allows you to cast a spell that cures most ailments. 41"
+            },
+            {
+              "id": "class-aas-quick-buff",
+              "name": "Quick Buff",
+              "url": "",
+              "note": "",
+              "broken": true,
+              "broken_why": "Redundant with Spell Casting Deftness and foci. Spell haste is capped at 50% server-side.",
+              "classes": [
+                "SHM",
+                "ENC"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability reduces the casting time of many beneficial spells that have a duration by 10, 25, and 50 percent.",
+              "activate": "",
+              "search": "quick buff  redundant with spell casting deftness and foci. spell haste is capped at 50% server-side. shm enc enc shm 3 3/6/9 this ability reduces the casting time of many beneficial spells that have a duration by 10, 25, and 50 percent. "
+            },
+            {
+              "id": "class-aas-quick-damage",
+              "name": "Quick Damage",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "DRU",
+                "WIZ"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability reduces the casting time on your damage spells that have a casting time greater than four seconds by 2, 5 and 10 percent.",
+              "activate": "",
+              "search": "quick damage   dru wiz dru wiz 3 3/6/9 this ability reduces the casting time on your damage spells that have a casting time greater than four seconds by 2, 5 and 10 percent. "
+            },
+            {
+              "id": "class-aas-quick-evacuation",
+              "name": "Quick Evacuation",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "DRU",
+                "WIZ"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability reduces the casting time on your evacuation and succor spells by 10, 25, and 50 percent.",
+              "activate": "",
+              "search": "quick evacuation   dru wiz dru wiz 3 3/6/9 this ability reduces the casting time on your evacuation and succor spells by 10, 25, and 50 percent. "
+            },
+            {
+              "id": "class-aas-quick-summoning",
+              "name": "Quick Summoning",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MAG"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability reduces the casting time of your summoning spells by 10, 25, and 50 percent. This includes CotH.",
+              "activate": "",
+              "search": "quick summoning   mag mag 3 3/6/9 this ability reduces the casting time of your summoning spells by 10, 25, and 50 percent. this includes coth. "
+            },
+            {
+              "id": "class-aas-rabid-bear",
+              "name": "Rabid Bear",
+              "url": "https://wiki.takp.info/index.php/Rabid_Bear",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHM"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability turns you into a Rabid Bear, boosting all of your offensive capabilities.",
+              "activate": "50",
+              "search": "rabid bear   shm shm 1 5 this ability turns you into a rabid bear, boosting all of your offensive capabilities. 50"
+            },
+            {
+              "id": "class-aas-rampage",
+              "name": "Rampage",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability will allow you to strike everything in a small radius.",
+              "activate": "109",
+              "search": "rampage   war war 1 5 this ability will allow you to strike everything in a small radius. 109"
+            },
+            {
+              "id": "class-aas-rapid-feign",
+              "name": "Rapid Feign",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MNK"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability reduces your reuse time on feign death by 10, 25, and 50 percent.",
+              "activate": "",
+              "search": "rapid feign   mnk mnk 3 3/6/9 this ability reduces your reuse time on feign death by 10, 25, and 50 percent. "
+            },
+            {
+              "id": "class-aas-return-kick",
+              "name": "Return Kick",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MNK"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability gives you the chance to automatically perform a bonus flying kick on ripostes 25, 35, and 50 percent of the time.",
+              "activate": "",
+              "search": "return kick   mnk mnk 3 3/6/9 this ability gives you the chance to automatically perform a bonus flying kick on ripostes 25, 35, and 50 percent of the time. "
+            },
+            {
+              "id": "class-aas-scribble-notes",
+              "name": "Scribble Notes",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "BRD"
+              ],
+              "ranks": "1",
+              "cost": "3",
+              "description": "This ability will reduce the amount of time that it takes you to memorize a song.",
+              "activate": "",
+              "search": "scribble notes   brd brd 1 3 this ability will reduce the amount of time that it takes you to memorize a song. "
+            },
+            {
+              "id": "class-aas-singing-mastery",
+              "name": "Singing Mastery",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "BRD"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability allows for specialization and improved use of your voice.",
+              "activate": "",
+              "search": "singing mastery   brd brd 3 3/6/9 this ability allows for specialization and improved use of your voice. "
+            },
+            {
+              "id": "class-aas-slay-undead",
+              "name": "Slay Undead",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "PAL"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability will cause your criticals to inflict greatly improved damage versus the undead.",
+              "activate": "",
+              "search": "slay undead   pal pal 3 3/6/9 this ability will cause your criticals to inflict greatly improved damage versus the undead. "
+            },
+            {
+              "id": "class-aas-soul-abrasion",
+              "name": "Soul Abrasion",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHD"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability gives you increased damage off of the lifetap procs that result from your self buffs.",
+              "activate": "",
+              "search": "soul abrasion   shd shd 3 3/6/9 this ability gives you increased damage off of the lifetap procs that result from your self buffs. "
+            },
+            {
+              "id": "class-aas-spell-casting-fury-mastery",
+              "name": "Spell Casting Fury Mastery",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WIZ"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability gives you an increased chance to score a critical hit with your direct damage spells.",
+              "activate": "",
+              "search": "spell casting fury mastery   wiz wiz 3 3/6/9 this ability gives you an increased chance to score a critical hit with your direct damage spells. "
+            },
+            {
+              "id": "class-aas-spell-casting-reinforcement-mastery",
+              "name": "Spell Casting Reinforcement Mastery",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR",
+                "DRU",
+                "SHM",
+                "ENC"
+              ],
+              "ranks": "1",
+              "cost": "8",
+              "description": "This ability increases the duration of beneficial buffs that you cast by an additional 20 percent.",
+              "activate": "",
+              "search": "spell casting reinforcement mastery   clr dru shm enc clr dru enc shm 1 8 this ability increases the duration of beneficial buffs that you cast by an additional 20 percent. "
+            },
+            {
+              "id": "class-aas-strong-root",
+              "name": "Strong Root",
+              "url": "https://wiki.takp.info/index.php/Strong_Root",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WIZ"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability will grant you the ability to cast an extremely low resistance Root-type spell.",
+              "activate": "117",
+              "search": "strong root   wiz wiz 1 5 this ability will grant you the ability to cast an extremely low resistance root-type spell. 117"
+            },
+            {
+              "id": "class-aas-turn-summoned",
+              "name": "Turn Summoned",
+              "url": "https://wiki.takp.info/index.php/Turn_Summoned",
+              "note": "Not In Lucy",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MAG"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability infuses a summoned NPC with elemental energy, causing it to continually take damage for the next 30 seconds. Each additional level of this ability increases the damage done. Occasionally a summoned NPC will react violently to the infusion of energy, potentially destroying it outright.",
+              "activate": "66",
+              "search": "turn summoned not in lucy  mag mag 1 5 this ability infuses a summoned npc with elemental energy, causing it to continually take damage for the next 30 seconds. each additional level of this ability increases the damage done. occasionally a summoned npc will react violently to the infusion of energy, potentially destroying it outright. 66"
+            },
+            {
+              "id": "class-aas-turn-undead",
+              "name": "Turn Undead",
+              "url": "https://wiki.takp.info/index.php/Turn_Undead",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability infuses an undead NPC with holy energy, causing it to continually take damage for the next 30 seconds. Each additional level of this ability increases the damage done. Occasionally an undead NPC will react violently to the infusion of holy energy, potentially destroying it outright.",
+              "activate": "40",
+              "search": "turn undead   clr clr 3 3/6/9 this ability infuses an undead npc with holy energy, causing it to continually take damage for the next 30 seconds. each additional level of this ability increases the damage done. occasionally an undead npc will react violently to the infusion of holy energy, potentially destroying it outright. 40"
+            },
+            {
+              "id": "class-aas-two-hand-bash",
+              "name": "Two Hand Bash",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "PAL",
+                "SHD"
+              ],
+              "ranks": "1",
+              "cost": "6",
+              "description": "This ability will allow you to use your Bash skill while wielding any 2-handed weapon.",
+              "activate": "",
+              "search": "two hand bash   pal shd pal shd 1 6 this ability will allow you to use your bash skill while wielding any 2-handed weapon. "
+            },
+            {
+              "id": "class-aas-unholy-steed",
+              "name": "Unholy Steed",
+              "url": "https://wiki.takp.info/index.php/Unholy_Steed",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHD"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "This ability provides you with the power to call the ultimate unholy steed to your side.",
+              "activate": "85",
+              "search": "unholy steed   shd shd 1 5 this ability provides you with the power to call the ultimate unholy steed to your side. 85"
+            },
+            {
+              "id": "class-aas-warcry",
+              "name": "Warcry",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability will allow you to make your entire group immune to fear for 10 seconds per level of the ability.",
+              "activate": "111",
+              "search": "warcry   war war 3 3/6/9 this ability will allow you to make your entire group immune to fear for 10 seconds per level of the ability. 111"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pop",
+      "name": "Planes of Power",
+      "groups": [
+        {
+          "id": "pop-advance-aas",
+          "name": "PoP Advance",
+          "abilities": [
+            {
+              "id": "pop-advance-aas-advanced-innate-agility",
+              "name": "Advanced Innate Agility",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "10",
+              "cost": "1 Each",
+              "description": "This ability raises your innate Agility by two points per rank. You may train in this ability twice each level, beginning at level 61.",
+              "activate": "",
+              "search": "advanced innate agility   all all 10 1 each this ability raises your innate agility by two points per rank. you may train in this ability twice each level, beginning at level 61. "
+            },
+            {
+              "id": "pop-advance-aas-advanced-innate-charisma",
+              "name": "Advanced Innate Charisma",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "10",
+              "cost": "1 each",
+              "description": "This ability raises your innate Charisma by two points per rank. You may train in this ability twice each level, beginning at level 61.",
+              "activate": "",
+              "search": "advanced innate charisma   all all 10 1 each this ability raises your innate charisma by two points per rank. you may train in this ability twice each level, beginning at level 61. "
+            },
+            {
+              "id": "pop-advance-aas-advanced-innate-dexterity",
+              "name": "Advanced Innate Dexterity",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "10",
+              "cost": "1 each",
+              "description": "This ability raises your innate Dexterity by two points per rank. You may train in this ability twice each level, beginning at level 61.",
+              "activate": "",
+              "search": "advanced innate dexterity   all all 10 1 each this ability raises your innate dexterity by two points per rank. you may train in this ability twice each level, beginning at level 61. "
+            },
+            {
+              "id": "pop-advance-aas-advanced-innate-intelligence",
+              "name": "Advanced Innate Intelligence",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "10",
+              "cost": "1 each",
+              "description": "This ability raises your innate Intelligence by two points per rank. You may train in this ability twice each level, beginning at level 61.",
+              "activate": "",
+              "search": "advanced innate intelligence   all all 10 1 each this ability raises your innate intelligence by two points per rank. you may train in this ability twice each level, beginning at level 61. "
+            },
+            {
+              "id": "pop-advance-aas-advanced-innate-stamina",
+              "name": "Advanced Innate Stamina",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "10",
+              "cost": "1 each",
+              "description": "This ability raises your innate Stamina by two points per rank. You may train in this ability twice each level, beginning at level 61.",
+              "activate": "",
+              "search": "advanced innate stamina   all all 10 1 each this ability raises your innate stamina by two points per rank. you may train in this ability twice each level, beginning at level 61. "
+            },
+            {
+              "id": "pop-advance-aas-advanced-innate-strength",
+              "name": "Advanced Innate Strength",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "10",
+              "cost": "1 each",
+              "description": "This ability raises your innate Strength by two points per rank. You may train in this ability twice each level, beginning at level 61.",
+              "activate": "",
+              "search": "advanced innate strength   all all 10 1 each this ability raises your innate strength by two points per rank. you may train in this ability twice each level, beginning at level 61. "
+            },
+            {
+              "id": "pop-advance-aas-advanced-innate-wisdom",
+              "name": "Advanced Innate Wisdom",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "10",
+              "cost": "1 each",
+              "description": "This ability raises your innate Wisdom by two points per rank. You may train in this ability twice each level, beginning at level 61.",
+              "activate": "",
+              "search": "advanced innate wisdom   all all 10 1 each this ability raises your innate wisdom by two points per rank. you may train in this ability twice each level, beginning at level 61. "
+            },
+            {
+              "id": "pop-advance-aas-bertoxxulous-gift",
+              "name": "Bertoxxulous' Gift",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "10",
+              "cost": "1 each",
+              "description": "This ability raises your base resistance to disease-based spells by two points per rank. You may train in this ability twice each level, beginning at level 61.",
+              "activate": "",
+              "search": "bertoxxulous' gift   all all 10 1 each this ability raises your base resistance to disease-based spells by two points per rank. you may train in this ability twice each level, beginning at level 61. "
+            },
+            {
+              "id": "pop-advance-aas-blessing-of-e-ci",
+              "name": "Blessing of E'ci",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "10",
+              "cost": "1 each",
+              "description": "This ability raises your base resistance to cold-based spells by two points per rank. You may train in this ability twice each level, beginning at level 61.",
+              "activate": "",
+              "search": "blessing of e'ci   all all 10 1 each this ability raises your base resistance to cold-based spells by two points per rank. you may train in this ability twice each level, beginning at level 61. "
+            },
+            {
+              "id": "pop-advance-aas-innate-enlightenment",
+              "name": "Innate Enlightenment",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR",
+                "DRU",
+                "SHM",
+                "NEC",
+                "WIZ",
+                "MAG",
+                "ENC"
+              ],
+              "ranks": "5",
+              "cost": "3 Each",
+              "description": "Those who have meditated on the Plane of Tranquility find themselves able to expand their capacity of both Insight and Intellect. Each rank of this ability raises the maximum that you may raise your Intelligence and Wisdom by ten points. You may train in this ability once each level, beginning at level 61.",
+              "activate": "",
+              "search": "innate enlightenment   clr dru shm nec wiz mag enc casters + priests 5 3 each those who have meditated on the plane of tranquility find themselves able to expand their capacity of both insight and intellect. each rank of this ability raises the maximum that you may raise your intelligence and wisdom by ten points. you may train in this ability once each level, beginning at level 61. "
+            },
+            {
+              "id": "pop-advance-aas-marr-s-protection",
+              "name": "Marr's Protection",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "10",
+              "cost": "1 each",
+              "description": "This ability raises your base resistance to magic-based spells by two points per rank. You may train in this ability twice each level, beginning at level 61.",
+              "activate": "",
+              "search": "marr's protection   all all 10 1 each this ability raises your base resistance to magic-based spells by two points per rank. you may train in this ability twice each level, beginning at level 61. "
+            },
+            {
+              "id": "pop-advance-aas-planar-durability",
+              "name": "Planar Durability",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR",
+                "PAL",
+                "SHD"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "The planes demand a certain hardiness of those who adventure within. Each rank of this ability adds an additional 1.5% to your maximum hit points. You gain the ability to train an additional rank at levels 61, 63, and 65.",
+              "activate": "",
+              "search": "planar durability   war pal shd pal shd war 3 3 each the planes demand a certain hardiness of those who adventure within. each rank of this ability adds an additional 1.5% to your maximum hit points. you gain the ability to train an additional rank at levels 61, 63, and 65. "
+            },
+            {
+              "id": "pop-advance-aas-planar-power",
+              "name": "Planar Power",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "2 Each",
+              "description": "This ability raises the maximum that your statistics can be raised to, with items or spells, by 5 points per rank. You may train in this ability once each level, beginning at level 61.",
+              "activate": "",
+              "search": "planar power   all all 5 2 each this ability raises the maximum that your statistics can be raised to, with items or spells, by 5 points per rank. you may train in this ability once each level, beginning at level 61. "
+            },
+            {
+              "id": "pop-advance-aas-shroud-of-the-faceless",
+              "name": "Shroud of the Faceless",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "10",
+              "cost": "1 each",
+              "description": "This ability raises your base resistance to poison-based spells by two points per rank. You may train in this ability twice each level, beginning at level 61.",
+              "activate": "",
+              "search": "shroud of the faceless   all all 10 1 each this ability raises your base resistance to poison-based spells by two points per rank. you may train in this ability twice each level, beginning at level 61. "
+            },
+            {
+              "id": "pop-advance-aas-warding-of-solusek",
+              "name": "Warding of Solusek",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "10",
+              "cost": "1 each",
+              "description": "This ability raises your base resistance to fire-based spells by two points per rank. You may train in this ability twice each level, beginning at level 61.",
+              "activate": "",
+              "search": "warding of solusek   all all 10 1 each this ability raises your base resistance to fire-based spells by two points per rank. you may train in this ability twice each level, beginning at level 61. "
+            }
+          ]
+        },
+        {
+          "id": "pop-ability-aas",
+          "name": "PoP Ability",
+          "abilities": [
+            {
+              "id": "pop-ability-aas-advanced-healing-adept",
+              "name": "Advanced Healing Adept",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR",
+                "PAL",
+                "RNG",
+                "DRU",
+                "SHM",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability increases the maximum effectiveness of your healing spells by three percent per rank. You may train in this ability once each level, upon reaching levels 62, 63, and 64.",
+              "activate": "",
+              "search": "advanced healing adept   clr pal rng dru shm bst bst clr dru pal rng shm 3 2/4/6 this ability increases the maximum effectiveness of your healing spells by three percent per rank. you may train in this ability once each level, upon reaching levels 62, 63, and 64. "
+            },
+            {
+              "id": "pop-ability-aas-advanced-healing-gift",
+              "name": "Advanced Healing Gift",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR",
+                "PAL",
+                "RNG",
+                "DRU",
+                "SHM",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "2/3/4",
+              "description": "This ability increases your chance to score an exceptional heal by two percent per rank. An exceptional heal doubles the healing value of the spell. You may train in this ability once each level, upon reaching levels 62, 63, and 64.",
+              "activate": "",
+              "search": "advanced healing gift   clr pal rng dru shm bst bst clr dru pal rng shm 3 2/3/4 this ability increases your chance to score an exceptional heal by two percent per rank. an exceptional heal doubles the healing value of the spell. you may train in this ability once each level, upon reaching levels 62, 63, and 64. "
+            },
+            {
+              "id": "pop-ability-aas-allegiant-familiar",
+              "name": "Allegiant Familiar",
+              "url": "https://wiki.takp.info/index.php/Allegiant_Familiar",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WIZ"
+              ],
+              "ranks": "1",
+              "cost": "6",
+              "description": "This ability will cause your existing Improved Familiar to summon an even more powerful companion. This familiar provides even greater benefits to its owner than its predecessor.",
+              "activate": "179",
+              "search": "allegiant familiar   wiz wiz 1 6 this ability will cause your existing improved familiar to summon an even more powerful companion. this familiar provides even greater benefits to its owner than its predecessor. 179"
+            },
+            {
+              "id": "pop-ability-aas-animation-empathy",
+              "name": "Animation Empathy",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ENC"
+              ],
+              "ranks": "3",
+              "cost": "4/3/2",
+              "description": "Progressive ranks of this ability grant you finer control over your animations. At its initial level, you are allowed to give your animations Guard and Follow commands. At the second rank, Attack and Go Away commands. At the final rank,back off, Taunt, and Sit commands. You gain the ability to train an additional rank at levels 61, 63, and 65.",
+              "activate": "",
+              "search": "animation empathy   enc enc 3 4/3/2 progressive ranks of this ability grant you finer control over your animations. at its initial level, you are allowed to give your animations guard and follow commands. at the second rank, attack and go away commands. at the final rank,back off, taunt, and sit commands. you gain the ability to train an additional rank at levels 61, 63, and 65. "
+            },
+            {
+              "id": "pop-ability-aas-ayonae-s-tutelage",
+              "name": "Ayonae's Tutelage",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "BRD"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "This ability allows for further improvements in the use of all instrument and singing types. The three ranks of this ability may be trained once each level for levels 63 and above.",
+              "activate": "192",
+              "search": "ayonae's tutelage   brd brd 3 2 each this ability allows for further improvements in the use of all instrument and singing types. the three ranks of this ability may be trained once each level for levels 63 and above. 192"
+            },
+            {
+              "id": "pop-ability-aas-bestial-frenzy",
+              "name": "Bestial Frenzy",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "BST"
+              ],
+              "ranks": "5",
+              "cost": "2 Each",
+              "description": "This ability grants you a chance of performing a double attack in any given combat round. You may train in this ability once each level after reaching level 61.",
+              "activate": "186",
+              "search": "bestial frenzy   bst bst 5 2 each this ability grants you a chance of performing a double attack in any given combat round. you may train in this ability once each level after reaching level 61. 186"
+            },
+            {
+              "id": "pop-ability-aas-boastful-bellow",
+              "name": "Boastful Bellow",
+              "url": "https://wiki.takp.info/index.php/Boastful_Bellow",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "BRD"
+              ],
+              "ranks": "1",
+              "cost": "6",
+              "description": "This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.",
+              "activate": "199",
+              "search": "boastful bellow   brd brd 1 6 this ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting. 199"
+            },
+            {
+              "id": "pop-ability-aas-call-of-xuzl",
+              "name": "Call of Xuzl",
+              "url": "https://wiki.takp.info/index.php/Call_of_Xuzl",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WIZ"
+              ],
+              "ranks": "3",
+              "cost": "3/2/1",
+              "description": "This ability calls a number of swords of Xuzl into existence directed at a target. The swords attack the target until they dissipate 45 seconds later.",
+              "activate": "208",
+              "search": "call of xuzl   wiz wiz 3 3/2/1 this ability calls a number of swords of xuzl into existence directed at a target. the swords attack the target until they dissipate 45 seconds later. 208"
+            },
+            {
+              "id": "pop-ability-aas-celestial-renewal",
+              "name": "Celestial Renewal",
+              "url": "https://wiki.takp.info/index.php/Celestial_Renewal",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR"
+              ],
+              "ranks": "2",
+              "cost": "3/6",
+              "description": "This ability grants improvements to your existing Celestial Regeneration. You may train in the two ranks of this ability at or after levels 63 and 64.",
+              "activate": "38",
+              "search": "celestial renewal   clr clr 2 3/6 this ability grants improvements to your existing celestial regeneration. you may train in the two ranks of this ability at or after levels 63 and 64. 38"
+            },
+            {
+              "id": "pop-ability-aas-consumption-of-the-soul",
+              "name": "Consumption of the Soul",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHD"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "The most advanced Shadow Knights can further enhance their Leech Touch ability. This ability adds 200 additional damage and healing to Leech Touch, per rank. You gain the ability to train an additional rank at levels 61, 63, and 65. The ability caps at 1500 hp.",
+              "activate": "",
+              "search": "consumption of the soul   shd shd 3 3 each the most advanced shadow knights can further enhance their leech touch ability. this ability adds 200 additional damage and healing to leech touch, per rank. you gain the ability to train an additional rank at levels 61, 63, and 65. the ability caps at 1500 hp. "
+            },
+            {
+              "id": "pop-ability-aas-coup-de-grace",
+              "name": "Coup de Grace",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR",
+                "PAL",
+                "RNG",
+                "SHD",
+                "MNK",
+                "BRD",
+                "ROG",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "This ability gives you a chance to immediately slay an NPC that is below ten percent health and fleeing with a single, well placed strike. The first level works on NPCs below level 55, the second on NPCs below 57, and the third on NPCs below 59. You may train in this ability once each level, upon reaching levels 62, 63, and 64.",
+              "activate": "",
+              "search": "coup de grace   war pal rng shd mnk brd rog bst hybrids + melees 3 2 each this ability gives you a chance to immediately slay an npc that is below ten percent health and fleeing with a single, well placed strike. the first level works on npcs below level 55, the second on npcs below 57, and the third on npcs below 59. you may train in this ability once each level, upon reaching levels 62, 63, and 64. "
+            },
+            {
+              "id": "pop-ability-aas-divine-arbitration",
+              "name": "Divine Arbitration",
+              "url": "https://wiki.takp.info/index.php/Divine_Arbitration",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "Using this ability balances the health of your group such that all group members end up with the same amount of damage taken. The first rank does so at a 20 percent penalty to the average, the second rank does so at a 10 percent penalty, and the final rank does so at no penalty. You may train the ranks of this ability at or after levels 61, 63, and 65.",
+              "activate": "169",
+              "search": "divine arbitration   clr clr 3 3 each using this ability balances the health of your group such that all group members end up with the same amount of damage taken. the first rank does so at a 20 percent penalty to the average, the second rank does so at a 10 percent penalty, and the final rank does so at no penalty. you may train the ranks of this ability at or after levels 61, 63, and 65. 169"
+            },
+            {
+              "id": "pop-ability-aas-eldritch-rune",
+              "name": "Eldritch Rune",
+              "url": "https://wiki.takp.info/index.php/Eldritch_Rune",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ENC"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "This ability provides Enchanters with an additional line of defense in the form of an added self-only rune. Each rank of this ability provides a stronger rune than the previous. You may train the ranks of this ability at or after levels 61, 63, and 65.",
+              "activate": "173",
+              "search": "eldritch rune   enc enc 3 3 each this ability provides enchanters with an additional line of defense in the form of an added self-only rune. each rank of this ability provides a stronger rune than the previous. you may train the ranks of this ability at or after levels 61, 63, and 65. 173"
+            },
+            {
+              "id": "pop-ability-aas-entrap",
+              "name": "Entrap",
+              "url": "https://wiki.takp.info/index.php/Entrap",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "RNG"
+              ],
+              "ranks": "1",
+              "cost": "4",
+              "description": "This ability provides you an additional means of entrapping, or more specifically, ensnaring an opponent.",
+              "activate": "219",
+              "search": "entrap   rng rng 1 4 this ability provides you an additional means of entrapping, or more specifically, ensnaring an opponent. 219"
+            },
+            {
+              "id": "pop-ability-aas-fading-memories",
+              "name": "Fading Memories",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "BRD"
+              ],
+              "ranks": "1",
+              "cost": "6",
+              "description": "This ability will cause all NPCs to forget about you. If you are out of immediate combat, this ability will also make you invisible. This ability is usable any time that you have 900 mana.",
+              "activate": "212",
+              "search": "fading memories   brd brd 1 6 this ability will cause all npcs to forget about you. if you are out of immediate combat, this ability will also make you invisible. this ability is usable any time that you have 900 mana. 212"
+            },
+            {
+              "id": "pop-ability-aas-feigned-minion",
+              "name": "Feigned Minion",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "NEC"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "This ability allows you to instruct your pet to feign death via the /pet feign command. Three ranks of this skill are available, causing your pet to succeed 25%, 50%, and 75% of the time, respectively. You gain the ability to train an additional rank at levels 61, 63, and 65.",
+              "activate": "",
+              "search": "feigned minion   nec nec 3 3 each this ability allows you to instruct your pet to feign death via the /pet feign command. three ranks of this skill are available, causing your pet to succeed 25%, 50%, and 75% of the time, respectively. you gain the ability to train an additional rank at levels 61, 63, and 65. "
+            },
+            {
+              "id": "pop-ability-aas-ferocity",
+              "name": "Ferocity",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR",
+                "RNG",
+                "MNK",
+                "ROG"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "This ability grants you an increased chance of performing a double attack in any given combat round. You gain the ability to train an additional rank at levels 61, 63, and 65.",
+              "activate": "",
+              "search": "ferocity   war rng mnk rog mnk rng rog war 3 3 each this ability grants you an increased chance of performing a double attack in any given combat round. you gain the ability to train an additional rank at levels 61, 63, and 65. "
+            },
+            {
+              "id": "pop-ability-aas-feverent-blessing",
+              "name": "Feverent Blessing",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "PAL"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "This ability decreases the amount of time required between uses of Lay Hands by twelve minutes per rank. You gain the ability to train an additional rank at levels 61, 63, and 65.",
+              "activate": "",
+              "search": "feverent blessing   pal pal 3 3 each this ability decreases the amount of time required between uses of lay hands by twelve minutes per rank. you gain the ability to train an additional rank at levels 61, 63, and 65. "
+            },
+            {
+              "id": "pop-ability-aas-flash-of-steel",
+              "name": "Flash of Steel",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR",
+                "PAL",
+                "RNG",
+                "SHD",
+                "MNK",
+                "ROG",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "This ability further increases your chance of double riposting your opponent each time you score a successful riposte by ten percent per rank. You may train in this ability once each level, upon reaching levels 62, 63, and 64.",
+              "activate": "",
+              "search": "flash of steel   war pal rng shd mnk rog bst bst mnk pal rng rog shd war 3 3 each this ability further increases your chance of double riposting your opponent each time you score a successful riposte by ten percent per rank. you may train in this ability once each level, upon reaching levels 62, 63, and 64. "
+            },
+            {
+              "id": "pop-ability-aas-fleet-of-foot",
+              "name": "Fleet of Foot",
+              "url": "",
+              "note": "",
+              "broken": true,
+              "broken_why": "Was refunded. Everyone has FoF 3 for free and bards cannot buy it.",
+              "classes": [
+                "BRD"
+              ],
+              "ranks": "2",
+              "cost": "2/4",
+              "description": "This ability allows Bards to run at previously unheard of speeds. You may train in this ability at or after levels 62 and 64.",
+              "activate": "",
+              "search": "fleet of foot  was refunded. everyone has fof 3 for free and bards cannot buy it. brd brd 2 2/4 this ability allows bards to run at previously unheard of speeds. you may train in this ability at or after levels 62 and 64. "
+            },
+            {
+              "id": "pop-ability-aas-furious-rampage",
+              "name": "Furious Rampage",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "This ability decreases the amount of time required between uses of Rampage by ten percent per rank. You may train in this ability once each level, upon reaching level 63.",
+              "activate": "",
+              "search": "furious rampage   war war 3 2 each this ability decreases the amount of time required between uses of rampage by ten percent per rank. you may train in this ability once each level, upon reaching level 63. "
+            },
+            {
+              "id": "pop-ability-aas-fury-of-magic",
+              "name": "Fury of Magic",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR",
+                "DRU",
+                "SHM",
+                "NEC",
+                "MAG",
+                "ENC"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability further increases your chance to score a critical hit with your direct damage spells.",
+              "activate": "",
+              "search": "fury of magic   clr dru shm nec mag enc clr dru enc mag nec shm 3 3/6/9 this ability further increases your chance to score a critical hit with your direct damage spells. "
+            },
+            {
+              "id": "pop-ability-aas-fury-of-magic-mastery",
+              "name": "Fury of Magic Mastery",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WIZ"
+              ],
+              "ranks": "3",
+              "cost": "3/6/9",
+              "description": "This ability further increases your chance to score a critical hit with your direct damage spells.",
+              "activate": "",
+              "search": "fury of magic mastery   wiz wiz 3 3/6/9 this ability further increases your chance to score a critical hit with your direct damage spells. "
+            },
+            {
+              "id": "pop-ability-aas-fury-of-the-ages",
+              "name": "Fury of the Ages",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR",
+                "PAL",
+                "RNG",
+                "SHD",
+                "MNK",
+                "BRD",
+                "ROG",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "This ability further increases your chance to score a critical blow against your opponent. You may train in this ability once each level, upon reaching levels 62, 63, and 64.",
+              "activate": "",
+              "search": "fury of the ages   war pal rng shd mnk brd rog bst hybrids + melees 3 3 each this ability further increases your chance to score a critical blow against your opponent. you may train in this ability once each level, upon reaching levels 62, 63, and 64. "
+            },
+            {
+              "id": "pop-ability-aas-guardian-of-the-forest",
+              "name": "Guardian of the Forest",
+              "url": "https://wiki.takp.info/index.php/Guardian_of_the_Forest",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "RNG"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "This ability transforms you into an exceptionally bloodthirsty wolf that attacks with lightning speed, for a brief time. You may train the three ranks of this ability at or after levels 61, 63, and 65.",
+              "activate": "184",
+              "search": "guardian of the forest   rng rng 3 3 each this ability transforms you into an exceptionally bloodthirsty wolf that attacks with lightning speed, for a brief time. you may train the three ranks of this ability at or after levels 61, 63, and 65. 184"
+            },
+            {
+              "id": "pop-ability-aas-hand-of-piety",
+              "name": "Hand of Piety",
+              "url": "https://wiki.takp.info/index.php/Hand_of_Piety",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "PAL"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "This ability invokes the direct blessing of your deity upon all of those nearby. All group members in range are healed 750 hit points in the first rank, and successive ranks each add 250. You may train in this ability at or after levels 61, 63, and 65.",
+              "activate": "180",
+              "search": "hand of piety   pal pal 3 3 each this ability invokes the direct blessing of your deity upon all of those nearby. all group members in range are healed 750 hit points in the first rank, and successive ranks each add 250. you may train in this ability at or after levels 61, 63, and 65. 180"
+            },
+            {
+              "id": "pop-ability-aas-harmonious-attack",
+              "name": "Harmonious Attack",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "BRD"
+              ],
+              "ranks": "5",
+              "cost": "2 Each",
+              "description": "This ability grants you a chance of performing a double attack in any given combat round. You may train in this ability once each level after reaching level 61.",
+              "activate": "",
+              "search": "harmonious attack   brd brd 5 2 each this ability grants you a chance of performing a double attack in any given combat round. you may train in this ability once each level after reaching level 61. "
+            },
+            {
+              "id": "pop-ability-aas-harvest-of-druzzil",
+              "name": "Harvest of Druzzil",
+              "url": "https://wiki.takp.info/index.php/Harvest_of_Druzzil",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WIZ"
+              ],
+              "ranks": "1",
+              "cost": "2",
+              "description": "This ability gathers streams of additional mana into your being. You may train this ability at or after level 62.",
+              "activate": "172",
+              "search": "harvest of druzzil   wiz wiz 1 2 this ability gathers streams of additional mana into your being. you may train this ability at or after level 62. 172"
+            },
+            {
+              "id": "pop-ability-aas-hastened-divinity",
+              "name": "Hastened Divinity",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "This ability decreases the amount of time required between uses of Bestow Divine Aura by ten percent per rank. You may train in this ability once each level, upon reaching level 63.",
+              "activate": "",
+              "search": "hastened divinity   clr clr 3 2 each this ability decreases the amount of time required between uses of bestow divine aura by ten percent per rank. you may train in this ability once each level, upon reaching level 63. "
+            },
+            {
+              "id": "pop-ability-aas-hastened-exodus",
+              "name": "Hastened Exodus",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "DRU",
+                "WIZ"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "This ability decreases the amount of time required between uses of Exodus by ten percent per rank. You may train in this ability once each level, upon reaching level 63.",
+              "activate": "",
+              "search": "hastened exodus   dru wiz dru wiz 3 2 each this ability decreases the amount of time required between uses of exodus by ten percent per rank. you may train in this ability once each level, upon reaching level 63. "
+            },
+            {
+              "id": "pop-ability-aas-hastened-gathering",
+              "name": "Hastened Gathering",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ENC"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "This ability decreases the amount of time required between uses of Gather Mana by ten percent per rank. You may train in this ability once each level, upon reaching level 63.",
+              "activate": "",
+              "search": "hastened gathering   enc enc 3 2 each this ability decreases the amount of time required between uses of gather mana by ten percent per rank. you may train in this ability once each level, upon reaching level 63. "
+            },
+            {
+              "id": "pop-ability-aas-hastened-instigation",
+              "name": "Hastened Instigation",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "This ability decreases the amount of time required between uses of Area Taunt by ten percent per rank. You may train in this ability once each level, upon reaching level 63.",
+              "activate": "",
+              "search": "hastened instigation   war war 3 3 each this ability decreases the amount of time required between uses of area taunt by ten percent per rank. you may train in this ability once each level, upon reaching level 63. "
+            },
+            {
+              "id": "pop-ability-aas-hastened-mending",
+              "name": "Hastened Mending",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "NEC",
+                "MAG",
+                "BST"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "This ability decreases the amount of time required between uses of Mend Companion by ten percent per rank. You may train in this ability once each level, upon reaching level 63.",
+              "activate": "",
+              "search": "hastened mending   nec mag bst bst mag nec 3 2 each this ability decreases the amount of time required between uses of mend companion by ten percent per rank. you may train in this ability once each level, upon reaching level 63. "
+            },
+            {
+              "id": "pop-ability-aas-hastened-purification",
+              "name": "Hastened Purification",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ROG"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "This ability decreases the amount of time required between uses of Purge Poison by ten percent per rank. You may train in this ability once each level, upon reaching level 63.",
+              "activate": "",
+              "search": "hastened purification   rog rog 3 2 each this ability decreases the amount of time required between uses of purge poison by ten percent per rank. you may train in this ability once each level, upon reaching level 63. "
+            },
+            {
+              "id": "pop-ability-aas-hastened-purification-of-body",
+              "name": "Hastened Purification of Body",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MNK"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "This ability decreases the amount of time required between uses of Purify Body by ten percent per rank. You may train in this ability once each level, upon reaching level 63.",
+              "activate": "",
+              "search": "hastened purification of body   mnk mnk 3 2 each this ability decreases the amount of time required between uses of purify body by ten percent per rank. you may train in this ability once each level, upon reaching level 63. "
+            },
+            {
+              "id": "pop-ability-aas-hastened-purification-of-soul",
+              "name": "Hastened Purification of Soul",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "This ability decreases the amount of time required between uses of Purify Soul by ten percent per rank. You may train in this ability once each level, upon reaching level 63.",
+              "activate": "",
+              "search": "hastened purification of soul   clr clr 3 2 each this ability decreases the amount of time required between uses of purify soul by ten percent per rank. you may train in this ability once each level, upon reaching level 63. "
+            },
+            {
+              "id": "pop-ability-aas-hastened-rabidity",
+              "name": "Hastened Rabidity",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHM"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "This ability decreases the amount of time required between uses of Rabid Bear by four minutes per rank. You may train in this ability once each level, upon reaching level 63.",
+              "activate": "",
+              "search": "hastened rabidity   shm shm 3 2 each this ability decreases the amount of time required between uses of rabid bear by four minutes per rank. you may train in this ability once each level, upon reaching level 63. "
+            },
+            {
+              "id": "pop-ability-aas-hastened-root",
+              "name": "Hastened Root",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WIZ"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "This ability decreases the amount of time required between uses of Strong Root by ten percent per rank. You may train in this ability once each level, upon reaching level 6",
+              "activate": "",
+              "search": "hastened root   wiz wiz 3 2 each this ability decreases the amount of time required between uses of strong root by ten percent per rank. you may train in this ability once each level, upon reaching level 6 "
+            },
+            {
+              "id": "pop-ability-aas-hastened-stealth",
+              "name": "Hastened Stealth",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ROG"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "This ability reduces the time between which you may attempt to hide or evade by one second per rank. You may train the ranks of this ability at or after levels 61, 62, and 63.",
+              "activate": "",
+              "search": "hastened stealth   rog rog 3 3 each this ability reduces the time between which you may attempt to hide or evade by one second per rank. you may train the ranks of this ability at or after levels 61, 62, and 63. "
+            },
+            {
+              "id": "pop-ability-aas-hasty-exit",
+              "name": "Hasty Exit",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ROG"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "This ability decreases the amount of time required between uses of Escape by ten percent per rank. You may train in this ability once each level, upon reaching level 63.",
+              "activate": "",
+              "search": "hasty exit   rog rog 3 2 each this ability decreases the amount of time required between uses of escape by ten percent per rank. you may train in this ability once each level, upon reaching level 63. "
+            },
+            {
+              "id": "pop-ability-aas-headshot",
+              "name": "Headshot",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "RNG"
+              ],
+              "ranks": "1",
+              "cost": "4",
+              "description": "This ability provides you the chance of instantly killing an opponent(humanoid only) who is too far below you in level to provide a challenge, when using a bow. (Deals 32,000 dmg on humanoid mobs lvl 46 and below.)",
+              "activate": "",
+              "search": "headshot   rng rng 1 4 this ability provides you the chance of instantly killing an opponent(humanoid only) who is too far below you in level to provide a challenge, when using a bow. (deals 32,000 dmg on humanoid mobs lvl 46 and below.) "
+            },
+            {
+              "id": "pop-ability-aas-host-of-the-elements",
+              "name": "Host of the Elements",
+              "url": "https://wiki.takp.info/index.php/Host_of_the_Elements",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MAG"
+              ],
+              "ranks": "3",
+              "cost": "5/4/3",
+              "description": "This ability calls an assault of elemental minions into existence directed at a target. The minions attack the target without question until they are called back to their plane 30 seconds later. The initial rank of this ability calls five elementals. Additional ranks add two elementals each. You may train the ranks of this ability at or after levels 63, 64, and 65.",
+              "activate": "207",
+              "search": "host of the elements   mag mag 3 5/4/3 this ability calls an assault of elemental minions into existence directed at a target. the minions attack the target without question until they are called back to their plane 30 seconds later. the initial rank of this ability calls five elementals. additional ranks add two elementals each. you may train the ranks of this ability at or after levels 63, 64, and 65. 207"
+            },
+            {
+              "id": "pop-ability-aas-ingenuity",
+              "name": "Ingenuity",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR",
+                "MNK",
+                "ROG"
+              ],
+              "ranks": "3",
+              "cost": "1/2/3",
+              "description": "Years of experimentation have led to the discovery of how to gain additional performance (in the form of critical spell hits) from weapons and other items. You may train in this ability at or after levels 61, 63, and 65.",
+              "activate": "",
+              "search": "ingenuity   war mnk rog melee classes 3 1/2/3 years of experimentation have led to the discovery of how to gain additional performance (in the form of critical spell hits) from weapons and other items. you may train in this ability at or after levels 61, 63, and 65. "
+            },
+            {
+              "id": "pop-ability-aas-innate-defense",
+              "name": "Innate Defense",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "3 Each",
+              "description": "This ability further increases your mitigation of incoming melee damage. You may train in this ability once each level after reaching level 61.",
+              "activate": "",
+              "search": "innate defense   all all 5 3 each this ability further increases your mitigation of incoming melee damage. you may train in this ability once each level after reaching level 61. "
+            },
+            {
+              "id": "pop-ability-aas-knight-s-advantage",
+              "name": "Knight's Advantage",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "PAL",
+                "SHD"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability grants you an increased chance of performing a double attack in any given combat round. You gain the ability to train an additional rank at levels 61, 63, and 65.",
+              "activate": "",
+              "search": "knight's advantage   pal shd pal shd 3 2/4/6 this ability grants you an increased chance of performing a double attack in any given combat round. you gain the ability to train an additional rank at levels 61, 63, and 65. "
+            },
+            {
+              "id": "pop-ability-aas-lightning-reflexes",
+              "name": "Lightning Reflexes",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ALL"
+              ],
+              "ranks": "5",
+              "cost": "3 Each",
+              "description": "This ability further increases your chance of completely avoiding incoming melee damage. You may train in this ability once each level after reaching level 61.",
+              "activate": "",
+              "search": "lightning reflexes   all all 5 3 each this ability further increases your chance of completely avoiding incoming melee damage. you may train in this ability once each level after reaching level 61. "
+            },
+            {
+              "id": "pop-ability-aas-living-shield",
+              "name": "Living Shield",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This extends your capacity to act as a living shield, This ability adds twelve seconds per rank to the duration of your /shield. You may train the ranks of this ability at or after levels 61, 63, and 65",
+              "activate": "",
+              "search": "living shield   war war 3 2/4/6 this extends your capacity to act as a living shield, this ability adds twelve seconds per rank to the duration of your /shield. you may train the ranks of this ability at or after levels 61, 63, and 65 "
+            },
+            {
+              "id": "pop-ability-aas-mastery-of-the-past",
+              "name": "Mastery of the Past",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHD",
+                "BRD",
+                "NEC",
+                "WIZ",
+                "MAG",
+                "ENC"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "This ability makes it impossible for you to fizzle a spell. The first level affects all spells below level 54. The second, on all spells below level 56. The third, on all spells below level 58. You may train in this ability once each level, upon reaching levels 62, 63, and 64.",
+              "activate": "",
+              "search": "mastery of the past   shd brd nec wiz mag enc brd enc mag nec shd wiz 3 3 each this ability makes it impossible for you to fizzle a spell. the first level affects all spells below level 54. the second, on all spells below level 56. the third, on all spells below level 58. you may train in this ability once each level, upon reaching levels 62, 63, and 64. "
+            },
+            {
+              "id": "pop-ability-aas-mending-of-the-tranquil",
+              "name": "Mending of the Tranquil",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MNK"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "This ability further increases the chance of performing a superior mend. The three ranks of this ability may be trained once each level for levels 63 and above.",
+              "activate": "",
+              "search": "mending of the tranquil   mnk mnk 3 2 each this ability further increases the chance of performing a superior mend. the three ranks of this ability may be trained once each level for levels 63 and above. "
+            },
+            {
+              "id": "pop-ability-aas-mithaniel-s-binding",
+              "name": "Mithaniel's Binding",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "This ability further increases the amount of healing provided by a single bandage while binding wounds. The two ranks of this ability may be trained at or after levels 63 and 64.",
+              "activate": "",
+              "search": "mithaniel's binding   war war 3 2 each this ability further increases the amount of healing provided by a single bandage while binding wounds. the two ranks of this ability may be trained at or after levels 63 and 64. "
+            },
+            {
+              "id": "pop-ability-aas-nimble-evasion",
+              "name": "Nimble Evasion",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ROG"
+              ],
+              "ranks": "5",
+              "cost": "1 Each",
+              "description": "This ability grants you a chance to hide or evade while moving. Each rank provides an increasing chance. You may train in this ability once each level after reaching level 61.",
+              "activate": "",
+              "search": "nimble evasion   rog rog 5 1 each this ability grants you a chance to hide or evade while moving. each rank provides an increasing chance. you may train in this ability once each level after reaching level 61. "
+            },
+            {
+              "id": "pop-ability-aas-project-illusion",
+              "name": "Project Illusion",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ENC"
+              ],
+              "ranks": "1",
+              "cost": "4",
+              "description": "This ability allows you to project your innate talent with illusions upon others. (Activating this ability on a targeted group member causes your next illusion spell to affect that target.)",
+              "activate": "@#%$",
+              "search": "project illusion   enc enc 1 4 this ability allows you to project your innate talent with illusions upon others. (activating this ability on a targeted group member causes your next illusion spell to affect that target.) @#%$"
+            },
+            {
+              "id": "pop-ability-aas-punishing-blade",
+              "name": "Punishing Blade",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR",
+                "RNG",
+                "MNK"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability increases the chance of scoring an extra hit with all two-handed weapons that you wield. You gain the ability to train an additional rank at levels 61, 63, and 65.",
+              "activate": "",
+              "search": "punishing blade   war rng mnk mnk rng war 3 2/4/6 this ability increases the chance of scoring an extra hit with all two-handed weapons that you wield. you gain the ability to train an additional rank at levels 61, 63, and 65. "
+            },
+            {
+              "id": "pop-ability-aas-radiant-cure",
+              "name": "Radiant Cure",
+              "url": "https://wiki.takp.info/index.php/Radiant_Cure",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR",
+                "DRU",
+                "SHM"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability grants its wielder the ability to cure their party of many afflictions, poisons, curses, and harmful magics. You may train in the ranks of this ability at or after levels 61, 63, and 65.",
+              "activate": "153",
+              "search": "radiant cure   clr dru shm priests 3 2/4/6 this ability grants its wielder the ability to cure their party of many afflictions, poisons, curses, and harmful magics. you may train in the ranks of this ability at or after levels 61, 63, and 65. 153"
+            },
+            {
+              "id": "pop-ability-aas-raging-flurry",
+              "name": "Raging Flurry",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability further increases the chance of performing a flurry attack upon successfully scoring a triple attack. The three ranks of this ability may be trained once each level for levels 63 and above.",
+              "activate": "",
+              "search": "raging flurry   war war 3 2/4/6 this ability further increases the chance of performing a flurry attack upon successfully scoring a triple attack. the three ranks of this ability may be trained once each level for levels 63 and above. "
+            },
+            {
+              "id": "pop-ability-aas-rush-to-judgment",
+              "name": "Rush to Judgment",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "PAL"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "Training in this ability shortens the time between uses of Divine Stun by seven seconds per rank. The three ranks of this ability may be trained once each level for levels 63 and above.",
+              "activate": "",
+              "search": "rush to judgment   pal pal 3 2 each training in this ability shortens the time between uses of divine stun by seven seconds per rank. the three ranks of this ability may be trained once each level for levels 63 and above. "
+            },
+            {
+              "id": "pop-ability-aas-servant-of-ro",
+              "name": "Servant of Ro",
+              "url": "https://wiki.takp.info/index.php/Servant_of_Ro",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MAG"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "This ability calls a loyal servant into being who will repeatedly hurl fire at your target. Each rank of this ability increases the amount of time that the servant is able to remain by your side (45, 70, and 90 seconds). You may train the ranks of this ability at or after levels 61, 63, and 65.",
+              "activate": "174",
+              "search": "servant of ro   mag mag 3 3 each this ability calls a loyal servant into being who will repeatedly hurl fire at your target. each rank of this ability increases the amount of time that the servant is able to remain by your side (45, 70, and 90 seconds). you may train the ranks of this ability at or after levels 61, 63, and 65. 174"
+            },
+            {
+              "id": "pop-ability-aas-shroud-of-stealth",
+              "name": "Shroud of Stealth",
+              "url": "https://wiki.takp.info/index.php/Shroud_of_Stealth",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ROG"
+              ],
+              "ranks": "1",
+              "cost": "6",
+              "description": "This ability provides a previously unheard of level of stealth. The Rogue is able to draw shadows about himself so completely, even creatures that are normally not fooled by such trickery are frequently unable to see him. You may train in this ability upon reaching level 63.",
+              "activate": "",
+              "search": "shroud of stealth   rog rog 1 6 this ability provides a previously unheard of level of stealth. the rogue is able to draw shadows about himself so completely, even creatures that are normally not fooled by such trickery are frequently unable to see him. you may train in this ability upon reaching level 63. "
+            },
+            {
+              "id": "pop-ability-aas-sionachie-s-crescendo",
+              "name": "Sionachie's Crescendo",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "BRD"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "This ability provides an even greater extension to the range of group songs. The three ranks of this ability may be trained once each level for levels 63 and above.",
+              "activate": "",
+              "search": "sionachie's crescendo   brd brd 3 2 each this ability provides an even greater extension to the range of group songs. the three ranks of this ability may be trained once each level for levels 63 and above. "
+            },
+            {
+              "id": "pop-ability-aas-speed-of-the-knight",
+              "name": "Speed of the Knight",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "PAL",
+                "SHD"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "This ability grants you the chance to score an additional attack with two-handed weapons. You gain the ability to train an additional rank at levels 61, 63, and 65.",
+              "activate": "",
+              "search": "speed of the knight   pal shd pal shd 3 3 each this ability grants you the chance to score an additional attack with two-handed weapons. you gain the ability to train an additional rank at levels 61, 63, and 65. "
+            },
+            {
+              "id": "pop-ability-aas-spirit-call",
+              "name": "Spirit Call",
+              "url": "https://wiki.takp.info/index.php/Spirit_Call",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHM"
+              ],
+              "ranks": "3",
+              "cost": "4/3/2",
+              "description": "This ability calls a number of spirit companions into existence directed at a target. The companions attack the target without question until they are called back to their home plane 60 seconds later. The initial rank of this ability calls three companions. Additional ranks add one companion each. You may train the ranks of this ability at or after levels 61, 63, and 65.",
+              "activate": "177",
+              "search": "spirit call   shm shm 3 4/3/2 this ability calls a number of spirit companions into existence directed at a target. the companions attack the target without question until they are called back to their home plane 60 seconds later. the initial rank of this ability calls three companions. additional ranks add one companion each. you may train the ranks of this ability at or after levels 61, 63, and 65. 177"
+            },
+            {
+              "id": "pop-ability-aas-spirit-of-the-wood",
+              "name": "Spirit of the Wood",
+              "url": "https://wiki.takp.info/index.php/Spirit_of_the_Wood",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "DRU"
+              ],
+              "ranks": "3",
+              "cost": "4/3/2",
+              "description": "For a brief time, you are able to commune with the woodland spirits who provide your party with exceptional regenerative abilities and a protective shield of armor and thorns. You may train in the three ranks of this ability at or after levels 61, 63, and 65.",
+              "activate": "185",
+              "search": "spirit of the wood   dru dru 3 4/3/2 for a brief time, you are able to commune with the woodland spirits who provide your party with exceptional regenerative abilities and a protective shield of armor and thorns. you may train in the three ranks of this ability at or after levels 61, 63, and 65. 185"
+            },
+            {
+              "id": "pop-ability-aas-stalwart-endurance",
+              "name": "Stalwart Endurance",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability grants a chance to endure what would otherwise be a stunning blow, from any angle, without being stunned. You may train in the ranks of this ability at or after levels 61, 63, and 65.",
+              "activate": "",
+              "search": "stalwart endurance   war war 3 2/4/6 this ability grants a chance to endure what would otherwise be a stunning blow, from any angle, without being stunned. you may train in the ranks of this ability at or after levels 61, 63, and 65. "
+            },
+            {
+              "id": "pop-ability-aas-suspended-minion",
+              "name": "Suspended Minion",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHM",
+                "NEC",
+                "MAG",
+                "ENC",
+                "BST"
+              ],
+              "ranks": "2",
+              "cost": "5/3",
+              "description": "This ability grants the summoner the ability to suspend and recall their existing pet at will, provided they remain in their current zone. The first rank suspends the pet at its current health only, while the second rank suspends the pet with all of its beneficial effects as well as its weapons and armor. You may cast a second pet while your first pet is Suspended. You may train the first rank upon reaching level 62 and the second rank upon reaching level 64.",
+              "activate": "176",
+              "search": "suspended minion   shm nec mag enc bst bst enc mag nec shm 2 5/3 this ability grants the summoner the ability to suspend and recall their existing pet at will, provided they remain in their current zone. the first rank suspends the pet at its current health only, while the second rank suspends the pet with all of its beneficial effects as well as its weapons and armor. you may cast a second pet while your first pet is suspended. you may train the first rank upon reaching level 62 and the second rank upon reaching level 64. 176"
+            },
+            {
+              "id": "pop-ability-aas-tactical-mastery",
+              "name": "Tactical Mastery",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "WAR"
+              ],
+              "ranks": "3",
+              "cost": "2/3/4",
+              "description": "Studying ones opponent for weaknesses provides the knowledge and ability to pierce through advanced defenses. Each rank of this ability grants an increasing chance of bypassing an opponents special defenses, such as dodge, block, parry, and riposte. You may train in this ability at or after levels 61, 63, and 65.",
+              "activate": "",
+              "search": "tactical mastery   war war 3 2/3/4 studying ones opponent for weaknesses provides the knowledge and ability to pierce through advanced defenses. each rank of this ability grants an increasing chance of bypassing an opponents special defenses, such as dodge, block, parry, and riposte. you may train in this ability at or after levels 61, 63, and 65. "
+            },
+            {
+              "id": "pop-ability-aas-technique-of-master-wu",
+              "name": "Technique of Master Wu",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MNK"
+              ],
+              "ranks": "5",
+              "cost": "2 Each",
+              "description": "Under the tutelage of Wu, Monks are able to hone their skills to the point of being able to execute a second and sometimes even third strike when scoring a hit with their special attacks. This ability grants a 20 percent increase in the chance of scoring multiple special attacks, per rank.",
+              "activate": "206",
+              "search": "technique of master wu   mnk mnk 5 2 each under the tutelage of wu, monks are able to hone their skills to the point of being able to execute a second and sometimes even third strike when scoring a hit with their special attacks. this ability grants a 20 percent increase in the chance of scoring multiple special attacks, per rank. 206"
+            },
+            {
+              "id": "pop-ability-aas-theft-of-life",
+              "name": "Theft of Life",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHD",
+                "NEC"
+              ],
+              "ranks": "3",
+              "cost": "1/2/3",
+              "description": "This ability grants a chance that the healing effect on your lifetaps will provide an exceptional amount of healing.",
+              "activate": "",
+              "search": "theft of life   shd nec nec shd 3 1/2/3 this ability grants a chance that the healing effect on your lifetaps will provide an exceptional amount of healing. "
+            },
+            {
+              "id": "pop-ability-aas-total-domination",
+              "name": "Total Domination",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "ENC"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability adds strength to your charm spells. Victims of your charm spells are less likely to break out of their charms early.",
+              "activate": "",
+              "search": "total domination   enc enc 3 2/4/6 this ability adds strength to your charm spells. victims of your charm spells are less likely to break out of their charms early. "
+            },
+            {
+              "id": "pop-ability-aas-touch-of-the-wicked",
+              "name": "Touch of the Wicked",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHD"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "This ability decreases the amount of time required between uses of Harm Touch and its upgrades by twelve minutes per rank. You gain the ability to train an additional rank at levels 61, 63, and 65.",
+              "activate": "",
+              "search": "touch of the wicked   shd shd 3 2/4/6 this ability decreases the amount of time required between uses of harm touch and its upgrades by twelve minutes per rank. you gain the ability to train an additional rank at levels 61, 63, and 65. "
+            },
+            {
+              "id": "pop-ability-aas-unfailing-divinity",
+              "name": "Unfailing Divinity",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR"
+              ],
+              "ranks": "3",
+              "cost": "2/4/6",
+              "description": "The most devout find that their calls are answered with much greater frequency. This ability grants your Death Pact-type spells a second chance to successfully heal their target. Additional ranks of this ability cause said spells to do a portion of their healing value even on a complete failure. You gain the ability to train an additional rank at levels 61, 63, and 65.",
+              "activate": "",
+              "search": "unfailing divinity   clr clr 3 2/4/6 the most devout find that their calls are answered with much greater frequency. this ability grants your death pact-type spells a second chance to successfully heal their target. additional ranks of this ability cause said spells to do a portion of their healing value even on a complete failure. you gain the ability to train an additional rank at levels 61, 63, and 65. "
+            },
+            {
+              "id": "pop-ability-aas-unholy-touch",
+              "name": "Unholy Touch",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHD"
+              ],
+              "ranks": "3",
+              "cost": "2 Each",
+              "description": "A further enhancement to Improved Harm Touch, this ability grants a considerable bonus to the amount of damage done by that ability. You gain the ability to train an additional rank at levels 61, 63, and 65.",
+              "activate": "",
+              "search": "unholy touch   shd shd 3 2 each a further enhancement to improved harm touch, this ability grants a considerable bonus to the amount of damage done by that ability. you gain the ability to train an additional rank at levels 61, 63, and 65. "
+            },
+            {
+              "id": "pop-ability-aas-virulent-paralysis",
+              "name": "Virulent Paralysis",
+              "url": "https://wiki.takp.info/index.php/Virulent_Paralysis",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "SHM"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "This ability causes your target to succumb to a sudden, violent attack, after which they are frequently unable to move for a time. Each rank of this ability increases the amount of time that the victim remains immobile. You may train the ranks of this ability at or after levels 61, 63, and 65.",
+              "activate": "171",
+              "search": "virulent paralysis   shm shm 3 3 each this ability causes your target to succumb to a sudden, violent attack, after which they are frequently unable to move for a time. each rank of this ability increases the amount of time that the victim remains immobile. you may train the ranks of this ability at or after levels 61, 63, and 65. 171"
+            },
+            {
+              "id": "pop-ability-aas-viscid-roots",
+              "name": "Viscid Roots",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "DRU"
+              ],
+              "ranks": "1",
+              "cost": "5",
+              "description": "Root spells applied by the owner of this ability are significantly less likely to break when the victim takes damage initiated by anyone, unlike previous abilities which only affect damage caused by the caster.",
+              "activate": "",
+              "search": "viscid roots   dru dru 1 5 root spells applied by the owner of this ability are significantly less likely to break when the victim takes damage initiated by anyone, unlike previous abilities which only affect damage caused by the caster. "
+            },
+            {
+              "id": "pop-ability-aas-wake-the-dead",
+              "name": "Wake the Dead",
+              "url": "https://wiki.takp.info/index.php/Wake_the_Dead",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "NEC"
+              ],
+              "ranks": "3",
+              "cost": "5/4/3",
+              "description": "This ability calls the shade of a nearby corpse back to life to serve the Necromancer. The soulless abomination will fight the target, until called back to the afterlife some time later. The slave summoned by the first rank of this ability serves for 60 seconds, and each increasing rank adds 15 additional seconds. You may train the ranks of this ability at or after levels 61, 63, and 65.",
+              "activate": "175",
+              "search": "wake the dead   nec nec 3 5/4/3 this ability calls the shade of a nearby corpse back to life to serve the necromancer. the soulless abomination will fight the target, until called back to the afterlife some time later. the slave summoned by the first rank of this ability serves for 60 seconds, and each increasing rank adds 15 additional seconds. you may train the ranks of this ability at or after levels 61, 63, and 65. 175"
+            },
+            {
+              "id": "pop-ability-aas-wrack-summoned",
+              "name": "Wrack Summoned",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "MAG"
+              ],
+              "ranks": "1",
+              "cost": "9",
+              "description": "This ability further improves the damage caused by your Turn Summoned ability.",
+              "activate": "",
+              "search": "wrack summoned   mag mag 1 9 this ability further improves the damage caused by your turn summoned ability. "
+            },
+            {
+              "id": "pop-ability-aas-wrack-undead",
+              "name": "Wrack Undead",
+              "url": "",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "CLR"
+              ],
+              "ranks": "1",
+              "cost": "9",
+              "description": "This ability grants you a more damaging version of your Turn Undead ability.",
+              "activate": "",
+              "search": "wrack undead   clr clr 1 9 this ability grants you a more damaging version of your turn undead ability. "
+            },
+            {
+              "id": "pop-ability-aas-wrath-of-the-wild",
+              "name": "Wrath of the Wild",
+              "url": "https://wiki.takp.info/index.php/Wrath_of_the_Wild",
+              "note": "",
+              "broken": false,
+              "broken_why": "",
+              "classes": [
+                "DRU"
+              ],
+              "ranks": "3",
+              "cost": "3 Each",
+              "description": "Developed by the denizens of Tranquility as a deterrent to potential attackers, this ability will shield you with a single-hit, large damage barrier of thorns. Additional ranks of this ability increase the amount of damage that is inflicted by 350, 500, and 650 points of damage. You may train the ranks of this ability at or after levels 61, 63, and 65.",
+              "activate": "170",
+              "search": "wrath of the wild   dru dru 3 3 each developed by the denizens of tranquility as a deterrent to potential attackers, this ability will shield you with a single-hit, large damage barrier of thorns. additional ranks of this ability increase the amount of damage that is inflicted by 350, 500, and 650 points of damage. you may train the ranks of this ability at or after levels 61, 63, and 65. 170"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "activates": [
+    {
+      "code": "76",
+      "name": "Act of Valor",
+      "classes_label": "PAL",
+      "search": "76 act of valor (pal)"
+    },
+    {
+      "code": "179",
+      "name": "Allegiant Familiar",
+      "classes_label": "",
+      "search": "179 allegiant familiar"
+    },
+    {
+      "code": "110",
+      "name": "Area Taunt",
+      "classes_label": "WAR",
+      "search": "110 area taunt (war)"
+    },
+    {
+      "code": "192",
+      "name": "Ayonae's Tutelage",
+      "classes_label": "",
+      "search": "192 ayonae's tutelage"
+    },
+    {
+      "code": "186",
+      "name": "Bestial Frenzy",
+      "classes_label": "",
+      "search": "186 bestial frenzy"
+    },
+    {
+      "code": "39",
+      "name": "Bestow Divine Aura",
+      "classes_label": "CLR",
+      "search": "39 bestow divine aura (clr)"
+    },
+    {
+      "code": "199",
+      "name": "Boastful Bellow",
+      "classes_label": "BRD",
+      "search": "199 boastful bellow (brd)"
+    },
+    {
+      "code": "208",
+      "name": "Call of Xuzl",
+      "classes_label": "WIZ",
+      "search": "208 call of xuzl (wiz)"
+    },
+    {
+      "code": "72",
+      "name": "Call to Corpse",
+      "classes_label": "NEC",
+      "search": "72 call to corpse (nec)"
+    },
+    {
+      "code": "47",
+      "name": "Cannabalization",
+      "classes_label": "SHM",
+      "search": "47 cannabalization (shm)"
+    },
+    {
+      "code": "38",
+      "name": "Celestial Regeneration",
+      "classes_label": "CLR",
+      "search": "38 celestial regeneration (clr)"
+    },
+    {
+      "code": "69",
+      "name": "Dead Mesmerization",
+      "classes_label": "NEC",
+      "search": "69 dead mesmerization (nec)"
+    },
+    {
+      "code": "46",
+      "name": "Dire Charm",
+      "classes_label": "DRU, ENC, NEC",
+      "search": "46 dire charm (dru, enc, nec)"
+    },
+    {
+      "code": "169",
+      "name": "Divine Arbitration",
+      "classes_label": "CLR",
+      "search": "169 divine arbitration (clr)"
+    },
+    {
+      "code": "36",
+      "name": "Divine Ressurection",
+      "classes_label": "CLR",
+      "search": "36 divine ressurection (clr)"
+    },
+    {
+      "code": "73",
+      "name": "Divine Stun",
+      "classes_label": "PAL",
+      "search": "73 divine stun (pal)"
+    },
+    {
+      "code": "116",
+      "name": "Dragon Punch",
+      "classes_label": "",
+      "search": "116 dragon punch"
+    },
+    {
+      "code": "173",
+      "name": "Eldritch Rune",
+      "classes_label": "ENC",
+      "search": "173 eldritch rune (enc)"
+    },
+    {
+      "code": "64",
+      "name": "Elemental Form : Air",
+      "classes_label": "MAG",
+      "search": "64 elemental form : air (mag)"
+    },
+    {
+      "code": "63",
+      "name": "Elemental Form : Earth",
+      "classes_label": "MAG",
+      "search": "63 elemental form : earth (mag)"
+    },
+    {
+      "code": "61",
+      "name": "Elemental Form : Fire",
+      "classes_label": "MAG",
+      "search": "61 elemental form : fire (mag)"
+    },
+    {
+      "code": "62",
+      "name": "Elemental Form : Water",
+      "classes_label": "MAG",
+      "search": "62 elemental form : water (mag)"
+    },
+    {
+      "code": "67",
+      "name": "Elemental Pact",
+      "classes_label": "",
+      "search": "67 elemental pact"
+    },
+    {
+      "code": "219",
+      "name": "Entrap",
+      "classes_label": "RNG",
+      "search": "219 entrap (rng)"
+    },
+    {
+      "code": "102",
+      "name": "Escape",
+      "classes_label": "ROG",
+      "search": "102 escape (rog)"
+    },
+    {
+      "code": "43",
+      "name": "Exodus",
+      "classes_label": "DRU, WIZ",
+      "search": "43 exodus (dru, wiz)"
+    },
+    {
+      "code": "212",
+      "name": "Fading Memories",
+      "classes_label": "BRD",
+      "search": "212 fading memories (brd)"
+    },
+    {
+      "code": "70",
+      "name": "Fearstorm",
+      "classes_label": "NEC",
+      "search": "70 fearstorm (nec)"
+    },
+    {
+      "code": "71",
+      "name": "Flesh to Bone",
+      "classes_label": "NEC",
+      "search": "71 flesh to bone (nec)"
+    },
+    {
+      "code": "60",
+      "name": "Frenzied Burnout",
+      "classes_label": "MAG",
+      "search": "60 frenzied burnout (mag)"
+    },
+    {
+      "code": "127",
+      "name": "Frenzy of Spirit",
+      "classes_label": "BST",
+      "search": "127 frenzy of spirit (bst)"
+    },
+    {
+      "code": "57",
+      "name": "Gather Mana",
+      "classes_label": "ENC",
+      "search": "57 gather mana (enc)"
+    },
+    {
+      "code": "184",
+      "name": "Guardian of the Forest",
+      "classes_label": "RNG",
+      "search": "184 guardian of the forest (rng)"
+    },
+    {
+      "code": "180",
+      "name": "Hand of Piety",
+      "classes_label": "PAL",
+      "search": "180 hand of piety (pal)"
+    },
+    {
+      "code": "172",
+      "name": "Harvest of Druzzil",
+      "classes_label": "WIZ",
+      "search": "172 harvest of druzzil (wiz)"
+    },
+    {
+      "code": "126",
+      "name": "Hobble of Spirits",
+      "classes_label": "BST",
+      "search": "126 hobble of spirits (bst)"
+    },
+    {
+      "code": "77",
+      "name": "Holy Steed",
+      "classes_label": "PAL",
+      "search": "77 holy steed (pal)"
+    },
+    {
+      "code": "207",
+      "name": "Host of the Elements",
+      "classes_label": "MAG",
+      "search": "207 host of the elements (mag)"
+    },
+    {
+      "code": "52",
+      "name": "Improved Familiar",
+      "classes_label": "WIZ",
+      "search": "52 improved familiar (wiz)"
+    },
+    {
+      "code": "86",
+      "name": "Improved Harm Touch",
+      "classes_label": "SHD",
+      "search": "86 improved harm touch (shd)"
+    },
+    {
+      "code": "80",
+      "name": "Innate Camouflage",
+      "classes_label": "DRU, RNG",
+      "search": "80 innate camouflage (dru, rng)"
+    },
+    {
+      "code": "37",
+      "name": "Innate Invis to Undead",
+      "classes_label": "CLR, NEC",
+      "search": "37 innate invis to undead (clr, nec)"
+    },
+    {
+      "code": "87",
+      "name": "Leech Touch",
+      "classes_label": "SHD",
+      "search": "87 leech touch (shd)"
+    },
+    {
+      "code": "68",
+      "name": "Life Burn",
+      "classes_label": "NEC",
+      "search": "68 life burn (nec)"
+    },
+    {
+      "code": "226",
+      "name": "Mana Burn",
+      "classes_label": "WIZ",
+      "search": "226 mana burn (wiz)"
+    },
+    {
+      "code": "35",
+      "name": "Mass Group Buff",
+      "classes_label": "CLR, DRU, ENC, MAG, NEC, PAL, RNG [omg why? p], SHM",
+      "search": "35 mass group buff (clr, dru, enc, mag, nec, pal, rng [omg why? p], shm)"
+    },
+    {
+      "code": "58",
+      "name": "Mend Companion",
+      "classes_label": "BST, MAG, NEC",
+      "search": "58 mend companion (bst, mag, nec)"
+    },
+    {
+      "code": "182",
+      "name": "Mending of the Tranquil",
+      "classes_label": "",
+      "search": "182 mending of the tranquil"
+    },
+    {
+      "code": "181",
+      "name": "Mithaniel's Binding",
+      "classes_label": "",
+      "search": "181 mithaniel's binding"
+    },
+    {
+      "code": "53",
+      "name": "Nexus Gate",
+      "classes_label": "WIZ",
+      "search": "53 nexus gate (wiz)"
+    },
+    {
+      "code": "128",
+      "name": "Paragon of Spirit",
+      "classes_label": "BST",
+      "search": "128 paragon of spirit (bst)"
+    },
+    {
+      "code": "@#%$",
+      "name": "Project Illusion",
+      "classes_label": "ENC",
+      "search": "@#%$ project illusion (enc)"
+    },
+    {
+      "code": "107",
+      "name": "Purge Poison",
+      "classes_label": "ROG",
+      "search": "107 purge poison (rog)"
+    },
+    {
+      "code": "98",
+      "name": "Purify Body",
+      "classes_label": "MNK",
+      "search": "98 purify body (mnk)"
+    },
+    {
+      "code": "41",
+      "name": "Purify Soul",
+      "classes_label": "CLR",
+      "search": "41 purify soul (clr)"
+    },
+    {
+      "code": "50",
+      "name": "Rabid Bear",
+      "classes_label": "SHM",
+      "search": "50 rabid bear (shm)"
+    },
+    {
+      "code": "153",
+      "name": "Radiant Cure",
+      "classes_label": "CLR, DRU, SHM",
+      "search": "153 radiant cure (clr, dru, shm)"
+    },
+    {
+      "code": "109",
+      "name": "Rampage",
+      "classes_label": "WAR",
+      "search": "109 rampage (war)"
+    },
+    {
+      "code": "65",
+      "name": "Reclaim Energy",
+      "classes_label": "",
+      "search": "65 reclaim energy"
+    },
+    {
+      "code": "196",
+      "name": "Rush to Judgement",
+      "classes_label": "",
+      "search": "196 rush to judgement"
+    },
+    {
+      "code": "174",
+      "name": "Servant of Ro",
+      "classes_label": "MAG",
+      "search": "174 servant of ro (mag)"
+    },
+    {
+      "code": "177",
+      "name": "Spirit Call",
+      "classes_label": "SHM",
+      "search": "177 spirit call (shm)"
+    },
+    {
+      "code": "185",
+      "name": "Spirit of the Wood",
+      "classes_label": "DRU",
+      "search": "185 spirit of the wood (dru)"
+    },
+    {
+      "code": "117",
+      "name": "Strong Root",
+      "classes_label": "WIZ",
+      "search": "117 strong root (wiz)"
+    },
+    {
+      "code": "176",
+      "name": "Suspended Minion",
+      "classes_label": "BST, ENC, MAG, NEC, SHM",
+      "search": "176 suspended minion (bst, enc, mag, nec, shm)"
+    },
+    {
+      "code": "206",
+      "name": "Technique of Master Wu",
+      "classes_label": "",
+      "search": "206 technique of master wu"
+    },
+    {
+      "code": "6",
+      "name": "Turn Summoned",
+      "classes_label": "MAG",
+      "search": "6 turn summoned (mag)"
+    },
+    {
+      "code": "40",
+      "name": "Turn Undead",
+      "classes_label": "CLR",
+      "search": "40 turn undead (clr)"
+    },
+    {
+      "code": "85",
+      "name": "Unholy Steed",
+      "classes_label": "SHD",
+      "search": "85 unholy steed (shd)"
+    },
+    {
+      "code": "171",
+      "name": "Virulent Paralysis",
+      "classes_label": "SHM",
+      "search": "171 virulent paralysis (shm)"
+    },
+    {
+      "code": "175",
+      "name": "Wake the Dead",
+      "classes_label": "NEC",
+      "search": "175 wake the dead (nec)"
+    },
+    {
+      "code": "111",
+      "name": "Warcry",
+      "classes_label": "WAR",
+      "search": "111 warcry (war)"
+    },
+    {
+      "code": "170",
+      "name": "Wrath of the Wild",
+      "classes_label": "DRU",
+      "search": "170 wrath of the wild (dru)"
+    }
+  ]
+}

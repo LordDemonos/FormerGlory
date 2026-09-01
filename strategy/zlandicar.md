@@ -15,7 +15,7 @@ cover-img: /assets/img/zlandicar.webp
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours</div>
-<div class="info-lockoutitem"><strong>CH Chain:</strong> Remedy Spam</div>
+<div class="info-lockoutitem"><strong>CH Chain:</strong> Unslowed: 8s, Slowed: 1 cleric</div>
 </div>
 
 <div class="stats-grid">

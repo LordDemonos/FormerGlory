@@ -92,4 +92,4 @@ cover-img: /assets/img/hoshkar.webp
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Hoshkar&gt; [Unslowable, gates] - [Words of Restoration] // Diseased Cloud (PBAOE, 300 rng, DR, -150 check, 12s CD): 1250 dmg + 55% slow</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Hoshkar&gt; [Slowable, gates] - [Words of Restoration] // Diseased Cloud (PBAOE, 300 rng, DR, -150 check, 12s CD): 1250 dmg + 55% slow</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

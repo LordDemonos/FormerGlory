@@ -36,17 +36,17 @@ navbar-links:
     - Raid Schedule: "raids"
   Strategy:
     - Boss Guides: "strategy"
-    - EQLogParser Guide: "eqlp"
-    - GINA Guide: "gina"
+    - Raid Loot: "raid-loot"
     - Spell Focus Items: "focus"
     - Alternate Advancement: "aa"
-#    - Quick Reference: "spoilers"
+    - GINA Guide: "gina"
+    - EQLogParser Guide: "eqlp"
+    - PQ Companion Guide: "pq-companion"
   Services:
     - Target Requests: "targets"
     - Spell Bank: "spells"
     - Gems Bank: "gems"
     - Sky Bank: "sky"
-#    - Loot Rights: "loot"
 
 ################
 # --- Logo --- #
@@ -346,6 +346,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - assets/py/
 
 plugins:
   - jekyll-paginate

@@ -1,0 +1,207 @@
+{% assign catalog = site.data.spell_focus %}
+
+<div class="focus-guide" data-spell-focus>
+  <p class="raid-description">Spell focus items on Project Quarm. Level limits are hard: a 60 cap does nothing on 61+ spells.</p>
+
+  <details class="focus-guide-notes">
+    <summary>How foci work</summary>
+    <p>Except for range and spell haste, foci roll a random amount from 1% up to the listed max. That roll happens after skills and AAs. Complete Heals for Cleric, Druid, and Shaman are excluded from every focus except range.</p>
+    <ul>
+      <li><strong>Mana preservation</strong> is 1% to the listed max, after specialization and SCM. Example: GSS costs 540. SCM3 plus 200 evocation specialization save 21%, down to 426. Wind of Mana then rolls 1–20% on that remainder, so a full 20% proc lands at 341.</li>
+      <li><strong>Spell haste</strong> is a fixed cut. Hybrids get 3% per level over 50. Every haste source shares a hard cap of 50% of the original cast time, including foci, AAs, and Blessing of the Faithful. See <a href="{{ '/baa' | relative_url }}">AA Issues</a> before buying redundant haste AAs.</li>
+    </ul>
+  </details>
+
+  <div class="catalog-chrome">
+    <div class="catalog-toc-row">
+      <div class="toc-heading">Jump to an Expansion</div>
+      <div class="catalog-expand-controls">
+        <button type="button" class="focus-guide-clear" data-expand-all>Expand all</button>
+        <button type="button" class="focus-guide-clear" data-collapse-all>Collapse all</button>
+      </div>
+    </div>
+    <div class="raid-loot-toc">
+      {% for expansion in catalog.expansions %}
+        <a href="#{{ expansion.id }}">{{ expansion.name }}</a>
+      {% endfor %}
+    </div>
+
+    <div class="raid-loot-toolbar">
+      <label class="focus-guide-search">
+        <span class="raid-loot-toolbar-label">Search</span>
+        <input type="search" data-focus-search placeholder="Focus, item, zone, or mob" autocomplete="off">
+      </label>
+    </div>
+
+    <div class="raid-loot-toolbar">
+      <span class="raid-loot-toolbar-label">Usable by</span>
+      <div class="raid-loot-filters" role="group" aria-label="Filter by class">
+        <button type="button" class="raid-loot-filter is-active" data-class="ALL">All</button>
+        {% for class_name in catalog.classes %}
+          <button type="button" class="raid-loot-filter" data-class="{{ class_name }}" title="{{ class_name }}">{{ class_name }}</button>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="raid-loot-toolbar">
+      <span class="raid-loot-toolbar-label">Effect</span>
+      <div class="raid-loot-filters focus-family-filters" role="group" aria-label="Filter by focus effect">
+        <button type="button" class="raid-loot-filter is-active" data-family-filter="ALL">All families</button>
+        {% for family in catalog.family_filters %}
+          <button type="button" class="raid-loot-filter" data-family-filter="{{ family.id }}">
+            {{ family.name }} <span class="focus-family-count" data-family-count="{{ family.id }}"></span>
+          </button>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="raid-loot-toolbar">
+      <span class="raid-loot-toolbar-label">Slot</span>
+      <div class="raid-loot-filters" role="group" aria-label="Filter by slot">
+        <button type="button" class="raid-loot-filter is-active" data-slot="ALL">Any</button>
+        {% for slot_name in catalog.slots %}
+          <button type="button" class="raid-loot-filter" data-slot="{{ slot_name }}">{{ slot_name }}</button>
+        {% endfor %}
+      </div>
+      <button type="button" class="focus-guide-clear" data-focus-clear hidden>Clear</button>
+      <span class="focus-guide-count" data-focus-count></span>
+    </div>
+
+    <details class="catalog-more-filters" data-more-filters>
+      <summary>More filters</summary>
+      <div class="raid-loot-toolbar">
+        <span class="raid-loot-toolbar-label">Works on</span>
+        <div class="raid-loot-filters" role="group" aria-label="Filter by spell type">
+          <button type="button" class="raid-loot-filter is-active" data-applies="ALL">Any</button>
+          <button type="button" class="raid-loot-filter" data-applies="beneficial">Beneficial</button>
+          <button type="button" class="raid-loot-filter" data-applies="detrimental">Detrimental</button>
+        </div>
+        <span class="raid-loot-toolbar-label">School</span>
+        <div class="raid-loot-filters" role="group" aria-label="Filter by resist school">
+          <button type="button" class="raid-loot-filter is-active" data-element="ALL">Any</button>
+          <button type="button" class="raid-loot-filter" data-element="Fire">Fire</button>
+          <button type="button" class="raid-loot-filter" data-element="Cold">Cold</button>
+          <button type="button" class="raid-loot-filter" data-element="Magic">Magic</button>
+          <button type="button" class="raid-loot-filter" data-element="Disease">Disease</button>
+        </div>
+        <span class="raid-loot-toolbar-label">Spell level</span>
+        <div class="raid-loot-filters" role="group" aria-label="Filter by spell level cap">
+          <button type="button" class="raid-loot-filter is-active" data-level="ALL" title="Show every focus">Any</button>
+          {% for level in catalog.levels %}
+            <button type="button" class="raid-loot-filter" data-level="{{ level }}" title="Show foci that affect level {{ level }} spells">{{ level }}</button>
+          {% endfor %}
+        </div>
+      </div>
+    </details>
+  </div>
+
+  <p class="raid-loot-empty" hidden>No focus items match those filters.</p>
+
+  {% for expansion in catalog.expansions %}
+    <section data-expansion data-expansion-id="{{ expansion.id }}">
+      <h2 id="{{ expansion.id }}" class="raid-loot-heading">
+        <button type="button" class="raid-loot-caret" data-collapse-toggle aria-expanded="true" title="Expand or collapse {{ expansion.name }}" aria-label="Expand or collapse {{ expansion.name }}"></button>
+        <a href="#{{ expansion.id }}">{{ expansion.name }}</a>
+      </h2>
+      <div class="raid-loot-expansion-body">
+      {% for family in expansion.families %}
+    <section data-family data-family-id="{{ family.id }}" data-family-key="{{ family.key }}">
+      <h3 id="{{ family.id }}" class="raid-loot-heading">
+        <button type="button" class="raid-loot-caret" data-collapse-toggle aria-expanded="true" title="Expand or collapse {{ family.name }}" aria-label="Expand or collapse {{ family.name }}"></button>
+        <a href="#{{ family.id }}">{{ family.name }}</a>
+      </h3>
+      <div class="focus-guide-family-body">
+        <nav class="raid-loot-boss-toc" aria-label="{{ family.name }} foci">
+          {% for effect in family.effects %}
+            <a href="#{{ effect.id }}">{{ effect.name }}</a>
+          {% endfor %}
+        </nav>
+
+        {% for effect in family.effects %}
+          <section class="focus-guide-effect" id="{{ effect.id }}" data-effect>
+            <header class="focus-guide-effect-head">
+              <div>
+                <h3 class="focus-guide-effect-name">{{ effect.name }}</h3>
+                {% if effect.description != "" %}
+                  <p class="focus-guide-effect-desc">{{ effect.description }}</p>
+                {% endif %}
+              </div>
+            </header>
+
+            {% for rank in effect.ranks %}
+              <div class="raid-loot-table" data-rank>
+                <div class="raid-loot-table-head">
+                  <strong>
+                    {% if rank.spell_id %}
+                      <a href="https://www.pqdi.cc/spell/{{ rank.spell_id }}" target="_blank" rel="noopener">{% if rank.name != effect.name %}{{ rank.name }}{% else %}Max Lv {{ rank.max_level }}{% endif %}</a>
+                    {% elsif rank.name != effect.name %}
+                      {{ rank.name }}
+                    {% endif %}
+                  </strong>
+                  <span>
+                    Max Lv {{ rank.max_level }}
+                    {% if rank.applies == "beneficial" %} · Beneficial{% endif %}
+                    {% if rank.applies == "detrimental" %} · Detrimental{% endif %}
+                    {% if rank.element != "" %} · {{ rank.element }}{% endif %}
+                  </span>
+                </div>
+                <ul class="raid-loot-items">
+                  {% for item in rank.items %}
+                    {% assign class_list = item.classes | join: " " %}
+                    {% assign slot_list = item.slots | join: " " %}
+                    <li
+                      class="focus-guide-item"
+                      data-focus-item
+                      data-classes="{{ class_list }}"
+                      data-slots="{{ slot_list }}"
+                      data-applies="{{ item.applies }}"
+                      data-element="{{ item.element }}"
+                      data-max-level="{{ item.max_level }}"
+                      data-search="{{ item.search | escape }}"
+                    >
+                      <span class="raid-loot-item-name">
+                        {% if item.id > 0 %}
+                          <a href="https://www.pqdi.cc/item/{{ item.id }}" target="_blank" rel="noopener">{{ item.name }}</a>
+                        {% elsif item.url != "" %}
+                          <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>
+                        {% else %}
+                          {{ item.name }}
+                        {% endif %}
+                      </span>
+                      <span class="focus-guide-slots">
+                        {% if item.slots.size == 0 %}
+                          <span class="raid-loot-chip is-neutral">—</span>
+                        {% else %}
+                          {% for slot_name in item.slots %}
+                            <span class="raid-loot-chip is-neutral">{{ slot_name }}</span>
+                          {% endfor %}
+                        {% endif %}
+                      </span>
+                      <span class="focus-guide-where">{% if item.zone != "" %}{{ item.zone }}{% endif %}{% if item.zone != "" and item.sources.size > 0 %} · {% endif %}{{ item.sources | join: ", " }}</span>
+                      <span class="raid-loot-classes">
+                        {% if item.classes.size == 0 or item.classes.first == "ALL" %}
+                          <span class="raid-loot-chip is-neutral">ALL</span>
+                        {% else %}
+                          {% for class_name in item.classes %}
+                            <span class="raid-loot-chip" data-class="{{ class_name }}">{{ class_name }}</span>
+                          {% endfor %}
+                        {% endif %}
+                      </span>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </div>
+            {% endfor %}
+          </section>
+        {% endfor %}
+      </div>
+    </section>
+      {% endfor %}
+      </div>
+    </section>
+  {% endfor %}
+</div>
+
+<script src="{{ '/assets/js/catalog-collapse.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/catalog-state.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/spell-focus.js' | relative_url }}"></script>

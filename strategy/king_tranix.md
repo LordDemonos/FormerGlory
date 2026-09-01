@@ -72,6 +72,9 @@ cover-img: /assets/img/king_tranix.webp
 <div class="ability-cell">Proximity Aggro</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;King Tranix&gt; - CH Chain: Remedy/DL spam, Hits 145, Slowable, Casts: Heat Blood, Heart Flutter, Dooming Darkness, Siphon Life, 15.5k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
+
 <div style="display: flex; justify-content: center;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/INVngCGZE6w?si=7sE0mqABpcE_ePrD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>

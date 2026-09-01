@@ -1219,100 +1219,176 @@ body:not(.strategy-page):not(.spoilers-page) .view-toggle {
     }
 }
 
-/* Focus page specific styles */
+/* Focus guide */
 .focus-page {
-  font-size: 0.95rem; /* Slightly reduced base font size */
+  font-size: 0.95rem;
 }
 
-.focus-page table {
-  width: 100%;
-  margin-bottom: 1.5rem;
-  border-collapse: collapse;
-  display: table;
-  table-layout: fixed;
+.focus-guide-notes {
+  margin: 0 0 1.25rem;
+  padding: 0.65rem 0.85rem;
+  background: #1e1e1e;
+  border: 1px solid #2a2a2a;
+  border-radius: 6px;
 }
 
-.focus-page table th,
-.focus-page table td {
-  padding: 0.75rem;
-  border: 1px solid var(--navbar-border-col);
-  text-align: left;
-  vertical-align: top; /* Added to align content to top */
-}
-
-/* Column widths */
-.focus-page table th:nth-child(1),
-.focus-page table td:nth-child(1) {
-  width: 40%; /* Name column */
-  white-space: normal; /* Allow wrapping but with hyphenation */
-  hyphens: auto;
-}
-
-.focus-page table th:nth-child(2),
-.focus-page table td:nth-child(2) {
-  width: 30%; /* Zone column */
-}
-
-.focus-page table th:nth-child(3),
-.focus-page table td:nth-child(3) {
-  width: 30%; /* Mob column */
-}
-
-.focus-page table th {
-  background-color: var(--navbar-col);
+.focus-guide-notes summary {
+  cursor: pointer;
   font-weight: 600;
 }
 
-.focus-page table tr:nth-child(even) {
-  background-color: var(--navbar-col);
+.focus-guide-notes p,
+.focus-guide-notes ul {
+  margin: 0.7rem 0 0;
 }
 
-.focus-page table tr:hover {
-  background-color: rgba(255, 255, 255, 0.05);
-  transition: background-color 0.2s ease;
+.focus-guide-notes li + li {
+  margin-top: 0.45rem;
 }
 
-/* Make tables responsive */
-@media (max-width: 768px) {
-  .focus-page table {
-    display: block; /* Switch to block on mobile */
-    overflow-x: auto; /* Enable horizontal scroll */
+.focus-guide-search {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.55rem 0.85rem;
+  width: 100%;
+}
+
+.focus-guide-search input {
+  flex: 1 1 16rem;
+  min-width: 0;
+  border: 1px solid #333;
+  background: #121212;
+  color: inherit;
+  border-radius: 4px;
+  padding: 0.35rem 0.6rem;
+  font-size: 0.9rem;
+}
+
+.focus-guide-clear {
+  appearance: none;
+  border: 1px solid #333;
+  background: transparent;
+  color: #9e9e9e;
+  border-radius: 4px;
+  padding: 0.2rem 0.55rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.focus-guide-clear:hover {
+  color: #fff;
+  border-color: currentColor;
+}
+
+.focus-guide-count {
+  margin-left: auto;
+  color: #9e9e9e;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+[data-family].is-collapsed .focus-guide-family-body {
+  display: none;
+}
+
+.focus-guide-effect {
+  margin: 0 0 1.25rem;
+  background: #1e1e1e;
+  border: 1px solid #2a2a2a;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.focus-guide-effect-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.75rem 0.9rem 0.35rem;
+}
+
+.focus-guide-effect-name {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+.focus-guide-effect-desc {
+  margin: 0.25rem 0 0;
+  color: #b5b5b5;
+  font-size: 0.9rem;
+}
+
+.focus-guide-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) 7.5rem minmax(0, 1.3fr) minmax(8rem, 32%);
+  gap: 0.5rem 0.75rem;
+  align-items: center;
+  padding: 0.45rem 0.9rem;
+  border-bottom: 1px solid #2a2a2a;
+  font-size: 0.85rem;
+}
+
+.focus-guide-item:last-child {
+  border-bottom: none;
+}
+
+.focus-guide-slots,
+.focus-guide-where {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  min-width: 0;
+}
+
+.focus-guide-where {
+  color: #b5b5b5;
+}
+
+@media (max-width: 900px) {
+  .focus-guide-item {
+    grid-template-columns: minmax(0, 1fr) auto;
   }
-  
-  .focus-page table th,
-  .focus-page table td {
-    padding: 0.5rem;
-    min-width: 140px; /* Slightly increased for better readability */
-    font-size: 0.95rem; /* Slightly reduced font size on mobile */
-  }
 
-  /* Adjust column widths for mobile */
-  .focus-page table th:nth-child(1),
-  .focus-page table td:nth-child(1) {
-    min-width: 180px; /* Wider for item names */
-  }
-  
-  .focus-page table td:first-child {
-    font-weight: 600;
+  .focus-guide-slots,
+  .focus-guide-where,
+  .focus-guide-item .raid-loot-classes {
+    grid-column: 1 / -1;
+    justify-content: flex-start;
   }
 }
 
-/* Dark mode support */
-[data-theme="dark"] .focus-page table th {
-  background-color: var(--navbar-col-drk);
+[data-theme="light"] .focus-guide-notes,
+[data-theme="light"] .focus-guide-effect {
+  background: #e8e8e8;
+  border-color: #ddd;
 }
 
-[data-theme="dark"] .focus-page table tr:nth-child(even) {
-  background-color: var(--navbar-col-drk);
+[data-theme="light"] .focus-guide-search input {
+  background: #f5f5f5;
+  border-color: #ccc;
+  color: #333;
 }
 
-[data-theme="dark"] .focus-page table tr:hover {
-  background-color: rgba(255, 255, 255, 0.08);
+[data-theme="light"] .focus-guide-clear {
+  border-color: #ccc;
+  color: #555;
 }
 
-/* Light mode hover effect */
-[data-theme="light"] .focus-page table tr:hover {
-  background-color: rgba(0, 0, 0, 0.04);
+[data-theme="light"] .focus-guide-effect-name {
+  color: #333;
+}
+
+[data-theme="light"] .focus-guide-effect-desc,
+[data-theme="light"] .focus-guide-where,
+[data-theme="light"] .focus-guide-count {
+  color: #555;
+}
+
+[data-theme="light"] .focus-guide-item {
+  border-bottom-color: #d8d8d8;
 }
 
 /* AA Page Styles - Similar to focus page but optimized for AA tables */
@@ -1473,6 +1549,111 @@ body:not(.strategy-page):not(.spoilers-page) .view-toggle {
 }
 
 /* Highlight broken AA rows in aa-page */
+.aa-ability-list,
+.aa-activate-list {
+  margin-bottom: 1.25rem;
+}
+
+.aa-ability {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding: 0.55rem 0.9rem;
+  border-bottom: 1px solid #2a2a2a;
+}
+
+.aa-ability-main {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(9rem, 0.8fr) minmax(8rem, 32%);
+  gap: 0.5rem 0.75rem;
+  align-items: center;
+}
+
+.aa-ability-meta {
+  color: #b5b5b5;
+  font-size: 0.8rem;
+}
+
+.aa-ability-desc {
+  margin: 0;
+  color: #b5b5b5;
+  font-size: 0.85rem;
+}
+
+.aa-ability-why {
+  margin: 0.15rem 0 0;
+  color: #e8a0a0;
+  font-size: 0.8rem;
+}
+
+.aa-copy-activate {
+  appearance: none;
+  border: 1px solid #333;
+  background: transparent;
+  color: inherit;
+  border-radius: 4px;
+  padding: 0.1rem 0.4rem;
+  font: inherit;
+  font-size: 0.78rem;
+  cursor: pointer;
+}
+
+.aa-ability.is-broken {
+  background-color: #3a1518;
+  border-left: 4px solid #dc3545;
+}
+
+.aa-activate {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 1fr) auto;
+  gap: 0.5rem 0.75rem;
+  align-items: center;
+  padding: 0.4rem 0.9rem;
+  border-bottom: 1px solid #2a2a2a;
+  font-size: 0.85rem;
+}
+
+.aa-activate-code {
+  font-weight: 700;
+}
+
+.aa-activate-classes {
+  color: #9e9e9e;
+  font-size: 0.8rem;
+}
+
+@media (max-width: 800px) {
+  .aa-ability-main,
+  .aa-activate {
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+
+  .aa-ability-meta,
+  .aa-ability .raid-loot-classes,
+  .aa-activate-classes {
+    grid-column: 1 / -1;
+  }
+}
+
+[data-theme="light"] .aa-ability-desc,
+[data-theme="light"] .aa-ability-meta,
+[data-theme="light"] .aa-activate-classes {
+  color: #555;
+}
+
+[data-theme="light"] .aa-ability-why {
+  color: #a33;
+}
+
+[data-theme="light"] .aa-ability,
+[data-theme="light"] .aa-activate {
+  border-bottom-color: #d8d8d8;
+}
+
+[data-theme="light"] .aa-ability.is-broken {
+  background-color: #ffe6e6;
+}
+
 .aa-page table tr:has(a[href="/baa/"]) {
   background-color: #ffe6e6 !important;
   border-left: 4px solid #dc3545;
@@ -1632,4 +1813,666 @@ body:not(.strategy-page):not(.spoilers-page) .view-toggle {
 
 [data-theme="light"] .baa-page table tr:hover {
   background-color: #ffe6e6;
+}
+
+/* Raid loot catalog */
+.catalog-chrome {
+  position: sticky;
+  top: 3.5rem;
+  z-index: 20;
+  margin: 0 0 1.25rem;
+  padding: 0.7rem 0.85rem 0.8rem;
+  background: #121212;
+  border: 1px solid #2a2a2a;
+  border-radius: 6px;
+}
+
+.catalog-toc-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.45rem 1rem;
+  margin-bottom: 0.45rem;
+}
+
+.catalog-toc-row .toc-heading {
+  margin: 0;
+}
+
+.catalog-expand-controls {
+  display: flex;
+  gap: 0.35rem;
+}
+
+.catalog-chrome .raid-loot-toc {
+  margin-bottom: 0.75rem;
+}
+
+.catalog-chrome .raid-loot-toolbar {
+  margin-bottom: 0.65rem;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+}
+
+.catalog-chrome .raid-loot-toolbar:last-child {
+  margin-bottom: 0;
+}
+
+.catalog-more-filters {
+  margin: 0;
+}
+
+.catalog-more-filters summary {
+  cursor: pointer;
+  color: #9e9e9e;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.45rem;
+}
+
+[data-expansion] .raid-loot-heading,
+[data-family] .raid-loot-heading,
+[data-group] .raid-loot-heading,
+[data-boss],
+[data-effect] {
+  scroll-margin-top: var(--catalog-scroll-margin, 9rem);
+}
+
+.raid-loot-toc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  font-size: 1.25em;
+  margin-bottom: 20px;
+}
+
+.raid-loot-toc a.is-active {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.raid-loot-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.raid-loot-caret {
+  appearance: none;
+  background: none;
+  border: 0;
+  padding: 0.35rem 0.55rem;
+  margin: 0 0 0 -0.35rem;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  line-height: 1;
+  flex: 0 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+.raid-loot-caret::before {
+  content: "▾";
+  font-size: 0.75em;
+  opacity: 0.8;
+}
+
+.raid-loot-heading a {
+  color: inherit;
+}
+
+.is-collapsed > .raid-loot-heading .raid-loot-caret::before {
+  content: "▸";
+}
+
+[data-expansion].is-collapsed .raid-loot-expansion-body,
+[data-family].is-collapsed .focus-guide-family-body,
+[data-group].is-collapsed .aa-ability-list {
+  display: none;
+}
+
+.raid-loot-boss-toc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1rem;
+  margin: 0 0 1rem;
+  font-size: 0.95rem;
+}
+
+.raid-loot-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem 0.85rem;
+  margin: 0 0 1.25rem;
+  padding: 0.65rem 0.8rem;
+  background: #1e1e1e;
+  border: 1px solid #2a2a2a;
+  border-radius: 6px;
+}
+
+.raid-loot-toolbar-label {
+  color: #9e9e9e;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.raid-loot-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.raid-loot-filter {
+  appearance: none;
+  border: 1px solid #333;
+  background: #121212;
+  color: #d0d0d0;
+  border-radius: 4px;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+  line-height: 1.3;
+}
+
+.raid-loot-filter.is-active,
+.raid-loot-filter:hover {
+  color: #fff;
+  border-color: currentColor;
+}
+
+.raid-loot-filter[data-class="ALL"].is-active {
+  background: #333;
+  border-color: #333;
+  color: #fff;
+}
+
+.raid-loot-filter[data-class="WAR"].is-active { background: #946b29; border-color: #946b29; }
+.raid-loot-filter[data-class="CLR"].is-active { background: #30388c; border-color: #30388c; }
+.raid-loot-filter[data-class="PAL"].is-active { background: #ac3a96; border-color: #ac3a96; }
+.raid-loot-filter[data-class="RNG"].is-active { background: #156f1d; border-color: #156f1d; }
+.raid-loot-filter[data-class="SHD"].is-active { background: #8c3030; border-color: #8c3030; }
+.raid-loot-filter[data-class="DRU"].is-active { background: #39b343; border-color: #39b343; }
+.raid-loot-filter[data-class="MNK"].is-active { background: #a45711; border-color: #a45711; }
+.raid-loot-filter[data-class="BRD"].is-active { background: #20d4be; border-color: #167a6e; color: #10221f; }
+.raid-loot-filter[data-class="ROG"].is-active { background: #8c8c30; border-color: #8c8c30; }
+.raid-loot-filter[data-class="SHM"].is-active { background: #642e06; border-color: #642e06; }
+.raid-loot-filter[data-class="NEC"].is-active { background: #5b308c; border-color: #5b308c; }
+.raid-loot-filter[data-class="WIZ"].is-active { background: #941313; border-color: #941313; }
+.raid-loot-filter[data-class="MAG"].is-active { background: #167e8d; border-color: #167e8d; }
+.raid-loot-filter[data-class="ENC"].is-active { background: #00a5a9; border-color: #00a5a9; color: #102223; }
+.raid-loot-filter[data-class="BST"].is-active { background: #c45c26; border-color: #c45c26; }
+
+.focus-family-filters .raid-loot-filter {
+  border-radius: 999px;
+  font-weight: 600;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.focus-family-count {
+  margin-left: 0.2em;
+  font-variant-numeric: tabular-nums;
+  opacity: 0.75;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="ALL"] {
+  background: #1c1c1c;
+  border-color: #555;
+  color: #e8e8e8;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="ALL"].is-active {
+  background: #f3f3f3;
+  border-color: #f3f3f3;
+  color: #111;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="reagent"] {
+  background: #1a1a1a;
+  border-color: #5a5a5a;
+  color: #c8c8c8;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="reagent"].is-active {
+  background: #6b6b6b;
+  border-color: #6b6b6b;
+  color: #fff;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="mana"] {
+  background: #132033;
+  border-color: #3d6aa3;
+  color: #8eb6e8;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="mana"].is-active {
+  background: #3d6aa3;
+  border-color: #3d6aa3;
+  color: #fff;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="aggro"] {
+  background: #1b1b1b;
+  border-color: #6a6a6a;
+  color: #cfcfcf;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="aggro"].is-active {
+  background: #5e5e5e;
+  border-color: #5e5e5e;
+  color: #fff;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="damage"] {
+  background: #2a1810;
+  border-color: #c56b36;
+  color: #f0b089;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="damage"].is-active {
+  background: #c56b36;
+  border-color: #c56b36;
+  color: #fff;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="all-duration"] {
+  background: #1a1a1a;
+  border-color: #6a6a6a;
+  color: #d0d0d0;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="all-duration"].is-active {
+  background: #6f6f6f;
+  border-color: #6f6f6f;
+  color: #fff;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="buff-duration"] {
+  background: #1a1e22;
+  border-color: #6a7a86;
+  color: #c5d3dc;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="buff-duration"].is-active {
+  background: #6a7a86;
+  border-color: #6a7a86;
+  color: #fff;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="dot-duration"] {
+  background: #281416;
+  border-color: #b45a66;
+  color: #e8a8b0;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="dot-duration"].is-active {
+  background: #b45a66;
+  border-color: #b45a66;
+  color: #fff;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="haste"] {
+  background: #2a230d;
+  border-color: #c4a32a;
+  color: #e8d27a;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="haste"].is-active {
+  background: #c4a32a;
+  border-color: #c4a32a;
+  color: #1a1506;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="healing"] {
+  background: #102216;
+  border-color: #3d9a55;
+  color: #8fd4a0;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="healing"].is-active {
+  background: #3d9a55;
+  border-color: #3d9a55;
+  color: #fff;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="range"] {
+  background: #1b1428;
+  border-color: #7a5aa8;
+  color: #c4a8e8;
+}
+
+.focus-family-filters .raid-loot-filter[data-family-filter="range"].is-active {
+  background: #7a5aa8;
+  border-color: #7a5aa8;
+  color: #fff;
+}
+
+.raid-loot-empty {
+  color: #a0a0a0;
+  font-size: 0.9rem;
+  margin: 0 0 1rem;
+}
+
+.raid-loot-boss {
+  background: #1e1e1e;
+  border: 1px solid #2a2a2a;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  margin-bottom: 1.25rem;
+  overflow: hidden;
+}
+
+.raid-loot-boss-head {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.75rem 1rem;
+  padding: 0.75rem 0.9rem;
+  border-bottom: 1px solid #2a2a2a;
+}
+
+.raid-loot-boss-name {
+  margin: 0;
+  font-size: 1.15rem;
+  color: var(--text-col);
+}
+
+.raid-loot-boss-meta {
+  margin: 0.2rem 0 0;
+  color: #9e9e9e;
+  font-size: 0.85rem;
+}
+
+.raid-loot-boss-links {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  font-size: 0.85rem;
+}
+
+.raid-loot-table-head {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.35rem 0.75rem;
+  padding: 0.55rem 0.9rem;
+  background: #171717;
+  border-top: 1px solid #2a2a2a;
+  border-bottom: 1px solid #2a2a2a;
+  font-size: 0.85rem;
+}
+
+.raid-loot-table-head span {
+  color: #9e9e9e;
+}
+
+.raid-loot-items {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.raid-loot-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 4.5rem minmax(8rem, 40%);
+  gap: 0.5rem 0.75rem;
+  align-items: center;
+  padding: 0.45rem 0.9rem;
+  border-bottom: 1px solid #2a2a2a;
+  font-size: 0.85rem;
+}
+
+.raid-loot-item:last-child {
+  border-bottom: none;
+}
+
+.raid-loot-item.is-retired {
+  opacity: 0.55;
+}
+
+.raid-loot-item-name {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem 0.45rem;
+  min-width: 0;
+}
+
+.raid-loot-chance {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  color: #d8d8d8;
+  text-align: right;
+}
+
+.raid-loot-classes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.25rem;
+}
+
+.raid-loot-chip {
+  display: inline-block;
+  padding: 0.1rem 0.35rem;
+  border-radius: 3px;
+  color: #fff;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  line-height: 1.3;
+}
+
+.raid-loot-chip.is-neutral {
+  background: #3a3a3a;
+  color: #d0d0d0;
+}
+
+.raid-loot-chip[data-class="WAR"] { background: #946b29; }
+.raid-loot-chip[data-class="CLR"] { background: #30388c; }
+.raid-loot-chip[data-class="PAL"] { background: #ac3a96; }
+.raid-loot-chip[data-class="RNG"] { background: #156f1d; }
+.raid-loot-chip[data-class="SHD"] { background: #8c3030; }
+.raid-loot-chip[data-class="DRU"] { background: #39b343; }
+.raid-loot-chip[data-class="MNK"] { background: #a45711; }
+.raid-loot-chip[data-class="BRD"] { background: #20d4be; color: #10221f; }
+.raid-loot-chip[data-class="ROG"] { background: #8c8c30; }
+.raid-loot-chip[data-class="SHM"] { background: #642e06; }
+.raid-loot-chip[data-class="NEC"] { background: #5b308c; }
+.raid-loot-chip[data-class="WIZ"] { background: #941313; }
+.raid-loot-chip[data-class="MAG"] { background: #167e8d; }
+.raid-loot-chip[data-class="ENC"] { background: #00a5a9; color: #102223; }
+.raid-loot-chip[data-class="BST"] { background: #c45c26; }
+
+.raid-loot-flag {
+  color: #9e9e9e;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+@media (max-width: 700px) {
+  .raid-loot-item {
+    grid-template-columns: auto minmax(0, 1fr);
+  }
+
+  .raid-loot-chance {
+    order: -1;
+    text-align: left;
+  }
+
+  .raid-loot-classes {
+    grid-column: 1 / -1;
+    justify-content: flex-start;
+  }
+}
+
+[data-theme="light"] .catalog-chrome {
+  background: #f4f4f4;
+  border-color: #ddd;
+}
+
+[data-theme="light"] .raid-loot-toolbar,
+[data-theme="light"] .raid-loot-boss {
+  background: #e8e8e8;
+  border-color: #ddd;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="light"] .catalog-chrome .raid-loot-toolbar {
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+
+[data-theme="light"] .raid-loot-filter {
+  background: #f5f5f5;
+  border-color: #ccc;
+  color: #333;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="ALL"] {
+  background: #fff;
+  border-color: #bbb;
+  color: #333;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="ALL"].is-active {
+  background: #fff;
+  border-color: #111;
+  color: #111;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="reagent"],
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="aggro"],
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="all-duration"] {
+  background: #ececec;
+  border-color: #d4d4d4;
+  color: #4a4a4a;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="reagent"].is-active,
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="aggro"].is-active,
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="all-duration"].is-active {
+  background: #d8d8d8;
+  border-color: #bbb;
+  color: #222;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="mana"] {
+  background: #dce8f5;
+  border-color: #c5d7ec;
+  color: #2f5f93;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="mana"].is-active {
+  background: #c5d7ec;
+  border-color: #9bb8d8;
+  color: #1d4a7a;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="damage"] {
+  background: #f8e4d4;
+  border-color: #efd0b6;
+  color: #a85a28;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="damage"].is-active {
+  background: #efd0b6;
+  border-color: #e0b48e;
+  color: #7a3d16;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="buff-duration"] {
+  background: #e7ecef;
+  border-color: #d3dce2;
+  color: #4a5d6a;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="buff-duration"].is-active {
+  background: #d3dce2;
+  border-color: #bbc8d1;
+  color: #2f414c;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="dot-duration"] {
+  background: #f6dfe2;
+  border-color: #ebc8cd;
+  color: #9a3d4a;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="dot-duration"].is-active {
+  background: #ebc8cd;
+  border-color: #d9a8b0;
+  color: #6e2430;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="haste"] {
+  background: #f6edd0;
+  border-color: #ead9a4;
+  color: #8a6d14;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="haste"].is-active {
+  background: #ead9a4;
+  border-color: #d8c278;
+  color: #5c4808;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="healing"] {
+  background: #dcefdc;
+  border-color: #c3e0c3;
+  color: #2f7a3a;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="healing"].is-active {
+  background: #c3e0c3;
+  border-color: #a4cda4;
+  color: #1d5a28;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="range"] {
+  background: #e7dff3;
+  border-color: #d4c7e8;
+  color: #6a4a94;
+}
+
+[data-theme="light"] .focus-family-filters .raid-loot-filter[data-family-filter="range"].is-active {
+  background: #d4c7e8;
+  border-color: #bba8d6;
+  color: #4a2f72;
+}
+
+[data-theme="light"] .raid-loot-boss-name {
+  color: #333;
+}
+
+[data-theme="light"] .raid-loot-table-head {
+  background: #dedede;
+  border-color: #d0d0d0;
+}
+
+[data-theme="light"] .raid-loot-item {
+  border-bottom-color: #d8d8d8;
+}
+
+[data-theme="light"] .raid-loot-chance {
+  color: #333;
+}
+
+[data-theme="light"] .raid-loot-chip.is-neutral {
+  background: #d0d0d0;
+  color: #333;
 }

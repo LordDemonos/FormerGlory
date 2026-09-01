@@ -73,4 +73,4 @@ cover-img: /assets/img/talendor.webp
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Talendor&gt; [Unslowable, fears, charms] - [Remedy/DL spam] // Immolating Breath (PBAOE, 300 rng, FR, 0 check, 12s CD): 500 dmg AOE // Dragon Roar (PBAOE, 300 rng, MR, -150 check, 36s CD): 18s max duration fear // Dragon Charm (targeted, MR, 0 check, 35s CD): Charms a target</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Talendor&gt; [Slowable, fears, charms] - [Remedy/DL spam] // Immolating Breath (PBAOE, 300 rng, FR, 0 check, 12s CD): 500 dmg AOE // Dragon Roar (PBAOE, 300 rng, MR, -150 check, 36s CD): 18s max duration fear // Dragon Charm (targeted, MR, 0 check, 35s CD): Charms a target</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

@@ -66,4 +66,7 @@ cover-img: /assets/img/Rumblecrush.jpg
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Rumblecrush&gt; - Hits 720, Rampage, Dual Wield, Slowable, Always Calls for Help, 140k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
+
 Rumblecrush spawns at the Vex Thal zone entrance. There are other elementals around him that you’ll either need to split off or kill. They are not linked to Rumblecrush.

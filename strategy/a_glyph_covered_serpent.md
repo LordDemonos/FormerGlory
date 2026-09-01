@@ -8,7 +8,7 @@ cover-img: /assets/img/a-glyph-covered-serp.jpg
 <div class="info-section">
 <div class="info-item"><strong>HP:</strong> 300,000</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/162" target="_blank">Ssraeshza Temple</a></div>
-<div class="info-item"><strong>Exp:</strong> Velious</div>
+<div class="info-item"><strong>Exp:</strong> Luclin</div>
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/1535" target="_blank">Brood of Ssraeshza</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/162037" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
@@ -71,6 +71,6 @@ cover-img: /assets/img/a-glyph-covered-serp.jpg
 <div class="ability-cell">Corpse Camper</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;a glyph covered serpent (Cursed 1)&gt; - CH Chain: 2sec, 4+ slowed, Hits for 584, Slowable, Flurries, Casts: Wave of Death: 500HP + Feign Death(AoE around Caster: Range: 100), Casts: Glowing Glyphs: 50hp/tick + 12sec Stun (Single Target -150 Cold), 300k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;a glyph covered serpent (Cursed 1)&gt; - CH Chain: 2sec, 4+ slowed, Hits for 584, Slowable, Flurries, Corpse Camper, Casts: Wave of Death: 500HP + Feign Death(AoE around Caster: Range: 100), Casts: Glowing Glyphs: 50hp/tick + 12sec Stun (Single Target -150 Cold), 300k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 Tank a glyph covered serpent with your back against a wall and healers out of line-of-sight. He casts a knockback on the tank and a PBAE Feigh Death. Kill him to spawn Vyzh`dra the Exiled.

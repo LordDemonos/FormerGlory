@@ -60,4 +60,4 @@ cover-img: /assets/img/keeper_of_the_glades.webp
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;keeper of the glades&gt; [Unslowable, hits relatively hard] - [CH: 3s] // Melee fight</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;keeper of the glades&gt; [Slowable, hits relatively hard] - [CH: 3s] // Melee fight</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

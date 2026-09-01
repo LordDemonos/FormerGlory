@@ -80,7 +80,7 @@ cover-img: /assets/img/velketor_the_sorcerer.webp
 <div class="ability-cell">NO LOITERING</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Velketor the Sorcerer&gt; [Unslowable, gates, baneable] - [CH: 3s] // Casts several high dmg area of effect spells. Practitioner only of the light magical arts--no dark arts here, friends.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Velketor the Sorcerer&gt; [Slowable, gates, baneable] - [CH: 3s] // Casts several high dmg area of effect spells. Practitioner only of the light magical arts--no dark arts here, friends.</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 ### Preparation
  - Tank needs CR and FR as well as junk buffs because Velk can dispel the tank

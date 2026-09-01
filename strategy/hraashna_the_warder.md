@@ -72,4 +72,4 @@ cover-img: /assets/img/hraashna_the_warder.webp
 <div class="ability-cell">Proximity Aggro</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Hraashna the Warder&gt; [Slowable, rampages, flurries] - [CH Unslowed: 2s, Slowed: 4s] // Stream of Acid (PBOE, 300 rng, FR, -150 check, 12s CD): 500 dmg + 500/tick DoT (2m duration) | **Keep SoW/JBoots top slot, dispel DoT ASAP**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Hraashna the Warder&gt; [Slowable, rampages] - [CH Unslowed: 3s, Slowed: 5s] // Stream of Acid (PBAOE, 300 rng, FR, -150 check, 12s CD): 500 dmg + 500/tick DoT (2m duration) | **Keep SoW/JBoots top slot, dispel DoT ASAP**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

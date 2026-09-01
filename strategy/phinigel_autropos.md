@@ -77,6 +77,9 @@ resize_images: true
 <div class="ability-cell">Uncharmable</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Phinigel Autropos&gt; - CH Chain: Remedy/DL spam, Hits 161, Slowable, Split from seahorses, Casts: Gravity Flux, Inferno of Al'Kabor, Ice Comet, Gate, 16.3k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
+
 ## STRATEGY
 Phinny is surrounded by Four seahorses that will complete heal, so he must be separated from them. Bind sight on Phinny and when he paths to one of the sides a pet class targets the west most seahorse then attacks it from the east side. After the seahorse is agro'd he pulls his pet back and swims back into the room behind him. This should allow the puller to tag in phinny solo. The raid then burns Phinny down, and deals with any seahorses that return if needed. 
 

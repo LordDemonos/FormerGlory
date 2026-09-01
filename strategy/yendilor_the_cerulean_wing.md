@@ -72,3 +72,6 @@ cover-img: /assets/img/yendilor_the_cerulean_wing.webp
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Yendilor the Cerulean Wing&gt; [Unslowable] - [CH: Remedy Spam] // Thunder Blast (Single, MR, 0 check, 8s CD): 75 HP/tick + 75 mana/tick</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+

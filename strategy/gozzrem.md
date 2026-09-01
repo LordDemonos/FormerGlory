@@ -85,4 +85,4 @@ cover-img: /assets/img/gozzrem.webp
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Gozzrem&gt; [Unslowable, CHs, baneable, gates] - [CH: 6s] // Frost Breath (PBAOE, 300 rng, CR, 0 check, 12s CD): 500 dmg + 1 slot dispel | **Must be sieved! Keep junk buff in top slot!**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Gozzrem&gt; [Slowable, CHs, baneable, gates] - [CH: 6s] // Frost Breath (PBAOE, 300 rng, CR, 0 check, 12s CD): 500 dmg + 1 slot dispel | **Must be sieved! Keep junk buff in top slot!**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

@@ -61,4 +61,4 @@ cover-img: /assets/img/guardian_of_takish.webp
 <div class="ability-cell">Unstunable</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Guardian of Takish&gt; [Unslowable, hits hard] - [CH: Instant] // Melee fight | **Hits like AoW, need a tight chain and bumps ready**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Guardian of Takish&gt; [Slowable, hits hard] - [CH: Instant] // Melee fight | **Hits like AoW, need a tight chain and bumps ready**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

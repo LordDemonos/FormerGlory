@@ -9,7 +9,7 @@ cover-img: /assets/img/Grieg-Veneficus2.jpg
 <div class="info-item"><strong>HP:</strong> 325,000</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/163" target="_blank">Grieg's End</a></div>
 <div class="info-item"><strong>Exp:</strong> Luclin</div>
-<div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/1555" target="_blank">Grieg</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/163156" target="_blank" title="View NPC on PQDI">🔗</a></div>
+<div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/1555" target="_blank">Grieg</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/163389" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
 <div class="info-lockout">

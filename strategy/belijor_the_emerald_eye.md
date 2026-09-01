@@ -67,3 +67,6 @@ cover-img: /assets/img/belijor_the_emerald_eye.webp
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Belijor the Emerald Eye&gt; [Slowable] - [CH: Remedy Spam] // Slime Mist (Single, DR, 0 check, 8s CD): 40/tick + 25% slow</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+

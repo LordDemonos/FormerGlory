@@ -63,3 +63,6 @@ cover-img: /assets/img/hsrek.webp
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Hsrek&gt; [Slowable] - [CH: Remedy Spam] // Melee</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+

@@ -54,3 +54,6 @@ cover-img: /assets/img/nortlav_the_scalekeeper.webp
 <div class="ability-cell">Immune to fleeing</div>
 <div class="ability-cell">Corpse Camper</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Nortlav the Scalekeeper&gt; - Hits 270, Slowable, Corpse Camper, 25k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+

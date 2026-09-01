@@ -8,7 +8,7 @@ cover-img: /assets/img/rhag-2.jpg
 <div class="info-section">
 <div class="info-item"><strong>HP:</strong> 200,000</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/162" target="_blank">Ssraeshza Temple</a></div>
-<div class="info-item"><strong>Exp:</strong> Velious</div>
+<div class="info-item"><strong>Exp:</strong> Luclin</div>
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/1562" target="_blank">Disciples of Rhag`Zadune</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/162192" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 

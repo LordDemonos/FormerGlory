@@ -72,4 +72,4 @@ cover-img: /assets/img/xygoz.webp
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Xygoz&gt; [Unslowable, silences, gates] - [Remedy/DL spam] // Mesmerizing Breath (PBAOE, 300 rng, MR, -150 check, 12s CD): AOE silence</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Xygoz&gt; [Slowable, silences, gates] - [Remedy/DL spam] // Mesmerizing Breath (PBAOE, 300 rng, MR, -150 check, 12s CD): AOE silence</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

@@ -69,4 +69,4 @@ cover-img: /assets/img/faydedar.webp
 <div class="ability-cell">Immune to lull effects</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Faydedar&gt; [Unslowable, fears] - [CH: As needed] // Lava Breath (PBAOE, 300 rng FR, 0 check, 12s CD): 500 dmg AOE + 1 slot dispel // Dragon Roar (PBAOE, 300 rng, MR, -150 check, 36s CD): 18s max duration fear **Keep junk buff in top slot**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Faydedar&gt; [Slowable, fears] - [CH: As needed] // Lava Breath (PBAOE, 300 rng FR, 0 check, 12s CD): 500 dmg AOE + 1 slot dispel // Dragon Roar (PBAOE, 300 rng, MR, -150 check, 36s CD): 18s max duration fear **Keep junk buff in top slot**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

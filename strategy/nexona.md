@@ -76,11 +76,11 @@ cover-img: /assets/img/nexona.webp
 <div class="ability-cell">Unstunable</div>
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to melee except magical</div>
-<div class="ability-cell">Ranged Spells</div>
+<div class="ability-cell">Resistant to Ranged Spells</div>
 <div class="ability-cell">Immune to Taunt</div>
 <div class="ability-cell">Immune to lull effects</div>
 <div class="ability-cell">Always Calls for Help</div>
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Nexona&gt; [Unslowable] - [Words of Redemption, Remedy/DL spam, Wort pots] // Stream of Acid (PBOE, 300 rng, FR, -150 check, 12s CD): 500 dmg + 500/tick DoT (2m duration) **Keep SoW/JBoots top slot, dispel DoT ASAP**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Nexona&gt; [Slowable] - [Words of Redemption, Remedy/DL spam, Wort pots] // Stream of Acid (PBAOE, 300 rng, FR, -150 check, 12s CD): 500 dmg + 500/tick DoT (2m duration) **Keep SoW/JBoots top slot, dispel DoT ASAP**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

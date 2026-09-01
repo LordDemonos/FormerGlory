@@ -66,3 +66,6 @@ cover-img: /assets/img/an_onyx_defender.webp
 <div class="ability-cell">Proximity Aggro</div>
 <div class="ability-cell">NO LOITERING</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;An Onyx Defender&gt; [Slowable, Flurry] - [CH: 2s with Defensive] // Acid Jet (PBAOE, 200 rng, PR, 0 check, 8s CD): 50 dmg + 20/tick</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+

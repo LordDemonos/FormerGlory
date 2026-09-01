@@ -74,7 +74,7 @@ cover-img: /assets/img/king_tormax.gif
 ### Preparation
  - King Tormax's room has a lot of guards. It is possible to pull Tormax to Zone line and kite all the guards during kill. But will be safer if the guards are split off and killed first. After 5 minutes, Tormax summons all his throne room guards to him if they are not engaged
  - King Tormax is unslowable, but you can cripple and debuff
- - Can corner pin at zone line, or kill near the enterence of throne room
+ - Can corner pin at zone line, or kill near the entrance of throne room
 ### Engage
  - Establish rampage tank on pull, the rampage tank should not be in the rotation for tank swaps
  - Main tank will need a 3 or 4 second CH chain, and then faster if defensive discipline drops

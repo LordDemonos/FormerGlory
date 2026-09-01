@@ -2,7 +2,7 @@
 layout: page
 title: GINA Guide
 cover-img: /assets/img/gina.webp
-subtitle: A guide to installing GINA with Fabio's triggers
+subtitle: A guide to installing GINA with Former Glory raid triggers
 ---
 
 # GINA Setup Guide
@@ -48,9 +48,13 @@ Triggers in GINA define specific text patterns to monitor in your log files and 
 
 Triggers must be organized within trigger groups and cannot exist at the top level of your library. This organizational structure allows for easy management of class-specific triggers, raid-specific alerts, and general utility triggers. GINA supports four primary notification types: audio playback, text overlays, text-to-speech synthesis, and timer displays with countdown functionality.
 
-## Fabio's GINA Triggers
+## Former Glory Trigger Packs
 
-**Primary Download:** [Download Fabio's GINA triggers](https://github.com/LordDemonos/FormerGlory/blob/master/gina_pack.gtp?raw=true)
+**Planes of Power:** [Download pop.gtp](https://github.com/LordDemonos/FormerGlory/blob/master/pop.gtp?raw=true)
+
+**Luclin:** [Download Fabio's GINA triggers](https://github.com/LordDemonos/FormerGlory/blob/master/gina_pack.gtp?raw=true)
+
+Import `pop.gtp` from Sharing → Import → From GINA Package File. After the merge, enable **Former Glory → Planes of Power** on raid characters. Fabio's pack is the Luclin library (raid, class, and buff groups).
 
 ## Importing Custom Triggers
 

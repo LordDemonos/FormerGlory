@@ -95,4 +95,4 @@ cover-img: /assets/img/tunare.webp
 <div class="ability-cell">Use Warrior Skills</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Tunare&gt; [Unslowable, flurry, hits hard, no enrage] - [CH: 2s] // Power of the Forests (single target, PR, 0 check, 4s CD) 800 dmg + knockback // Vengeance of the Glades (single target, unresistable, 4s CD) root, 1m max duration | **Need a wall of ogres/trolls to stop MT from being punted out of range**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Tunare&gt; [Slowable, flurry, hits hard, no enrage] - [CH: 2s] // Power of the Forests (single target, PR, 0 check, 4s CD) 800 dmg + knockback // Vengeance of the Glades (single target, unresistable, 4s CD) root, 1m max duration | **Need a wall of ogres/trolls to stop MT from being punted out of range**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>

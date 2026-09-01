@@ -68,3 +68,6 @@ cover-img: /assets/img/zelnithak.jpg
 <div class="ability-cell">Unfearable</div>
 <div class="ability-cell">Immune to fleeing</div>
 </div>
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Zelnithak&gt; - Hits 400, Flurry, Slowable, Casts: Rumbling Earth (PBAE, 6s stun, Magic 0, 24s recast), Umbral Rot (PBAE, 350 DD, Disease 0, 35s recast), 251k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+

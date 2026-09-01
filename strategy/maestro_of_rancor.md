@@ -8,7 +8,7 @@ cover-img: /assets/img/maestro_of_rancor.webp
 <div class="info-section">
 <div class="info-item"><strong>HP:</strong> 32,000</div>
 <div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/76" target="_blank">Plane of Hate</a></div>
-<div class="info-item"><strong>Exp:</strong> Default</div>
+<div class="info-item"><strong>Exp:</strong> Velious</div>
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/425" target="_blank">Inhabitants of Hate</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/76011" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 

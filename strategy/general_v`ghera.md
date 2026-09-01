@@ -73,9 +73,12 @@ cover-img: /assets/img/general_v`ghera.webp
 <div class="ability-cell">NO LOITERING</div>
 </div>
 
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;General V`ghera&gt; - Hits 285, Dual Wield, Slowable, Procs: Soul Devour (Single, 500 DD, Unresistable), Casts: Festering Darkness, Ignite Blood, Touch of Innoruuk, 32k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
+
 ### Strategy
 Have the Raid set up at the Rivervale zoneline.
-Give Sealed Box to any of the dark elves in the house at (+800, +2400) in Kithicor Forest. This will cause General Vgehera to spawn.To ensure a safe and successful turn in have a ranger harmony the camp, make sure you are Sneaking and NOT HIDDEN, confirm the dark elf cons Indifferent, then hand in the Sealed Box and immediately hide to not agro him. Only Hide AFTER you click Give and the box has been turned in. Harmony the camp again then have someone try and tag the General out, this most likely will agro other mobs. Have a "Dirty tagger" pull off the general and bring to raid. The initial tagger should zone into HH, and the dirty tagger should zone into Rivervale.
+Give Sealed Box to any of the dark elves in the house at (+800, +2400) in Kithicor Forest. This will cause General V`ghera to spawn. To ensure a safe and successful turn in have a ranger harmony the camp, make sure you are Sneaking and NOT HIDDEN, confirm the dark elf cons Indifferent, then hand in the Sealed Box and immediately hide to not agro him. Only Hide AFTER you click Give and the box has been turned in. Harmony the camp again then have someone try and tag the General out, this most likely will agro other mobs. Have a "Dirty tagger" pull off the general and bring to raid. The initial tagger should zone into HH, and the dirty tagger should zone into Rivervale.
 
 The General hits hard and fast so have the healers to spam heals.
  
