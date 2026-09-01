@@ -10,7 +10,7 @@ We have some new people, some returning people, and some existing players that p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E1Rq7cepY-4?si=mY2DT7-N80DPQM18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-https://youtu.be/E1Rq7cepY-4
+[https://youtu.be/E1Rq7cepY-4](https://youtu.be/E1Rq7cepY-4)
 
 ## Why are we talking about rampage again?
 If you're part of the pull team, tagging team, a tank, or melee in general, I'd like you to keep reading. We've had problems with rampage over the years and recently those issues keep coming back. The raid leadership would like to make some changes to how we approach pulling VT, tagging, debuffing, in order to try and straighten things out. 
