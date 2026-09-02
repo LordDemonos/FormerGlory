@@ -86,7 +86,7 @@ Triggers are organized within trigger groups, allowing for easy management of cl
 
 ## Former Glory Trigger Packs
 
-**Planes of Power:** [Download pop.tgf.gz](https://github.com/LordDemonos/FormerGlory/blob/master/pop.tgf.gz?raw=true)
+**Planes of Power:** [Download pop.tgf.gz](https://github.com/LordDemonos/FormerGlory/blob/master/pop.tgf.gz?raw=true) — Updated September 2, 2026
 
 This is a native EQLogParser pack. Import it from Trigger Manager: right-click **Triggers** → **Import to (Triggers)** → select `pop.tgf.gz`.
 

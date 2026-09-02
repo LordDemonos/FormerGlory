@@ -50,7 +50,7 @@ Triggers must be organized within trigger groups and cannot exist at the top lev
 
 ## Former Glory Trigger Packs
 
-**Planes of Power:** [Download pop.gtp](https://github.com/LordDemonos/FormerGlory/blob/master/pop.gtp?raw=true)
+**Planes of Power:** [Download pop.gtp](https://github.com/LordDemonos/FormerGlory/blob/master/pop.gtp?raw=true) — Updated September 2, 2026
 
 **Luclin:** [Download Fabio's GINA triggers](https://github.com/LordDemonos/FormerGlory/blob/master/gina_pack.gtp?raw=true)
 

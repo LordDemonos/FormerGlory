@@ -11,7 +11,7 @@ PQ Companion is a desktop companion app for Project Quarm. It sits next to the c
 
 ## Former Glory Trigger Packs
 
-**Planes of Power:** [Download pop-triggers.json](https://github.com/LordDemonos/FormerGlory/blob/master/pop-triggers.json?raw=true)
+**Planes of Power:** [Download pop-triggers.json](https://github.com/LordDemonos/FormerGlory/blob/master/pop-triggers.json?raw=true) — Updated September 2, 2026
 
 This is a native PQ Companion pack (same Who / Casts / Procs / Emotes tree as the GINA and EQLogParser packs). Import it from Triggers → import wizard → select `pop-triggers.json`. Folders land as `PoP / {tier} / {zone} / {boss}`. Enable the bosses you are fighting.
 
