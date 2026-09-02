@@ -13,7 +13,7 @@ cover-img: /assets/img/insanity-crawler.jpg
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days, 17 hours and 56 minutes</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days, 18 hours and 3 minutes</div>
 <div class="info-lockoutitem"><strong>CH Chain: Remedy spam</strong> </div>
 </div>
 

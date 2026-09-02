@@ -14,7 +14,7 @@ cover-img: /assets/img/the_statue_of_rallos_zek.webp
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> </div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong>6 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> Unslowed: 2s, Slowed: 4s</div>
 </div>
 
