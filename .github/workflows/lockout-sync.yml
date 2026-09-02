@@ -25,6 +25,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Use LF in this job
+        run: |
+          git config core.autocrlf false
+          git config core.eol lf
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -57,28 +62,28 @@ jobs:
             cat lockout-sync-report.md >> "$GITHUB_STEP_SUMMARY"
           fi
 
-      # *.md is eol=lf. git add renormalizes leftover CRLF into the index and
-      # leaves the working tree dirty, which makes create-pull-request fail
-      # when it tries to switch to lockout-sync.
-      - name: Match working tree to LF index
-        if: github.event.inputs.dry_run != 'true'
-        run: |
-          git config core.autocrlf false
-          git add -- strategy
-          git restore --worktree -- strategy
-
       - name: Open PR if lockout boxes changed
         if: github.event.inputs.dry_run != 'true'
-        uses: peter-evans/create-pull-request@v7
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: |
-            Update Respawn Time from PQDI
-
-            Tuesday lockout sync. Review NPC matches before merge.
-          title: Lockout sync — PQDI respawn timers
-          body-path: lockout-sync-report.md
-          branch: lockout-sync
-          delete-branch: true
-          add-paths: |
-            strategy/**
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B lockout-sync
+          git add -- strategy
+          if git diff --cached --quiet; then
+            echo "No lockout box changes."
+            exit 0
+          fi
+          git commit -m "Update Respawn Time from PQDI" \
+            -m "Tuesday lockout sync. Review NPC matches before merge."
+          git push --force origin HEAD:lockout-sync
+          PR=$(gh pr list --head lockout-sync --state open --json number --jq '.[0].number // empty')
+          if [ -n "$PR" ]; then
+            gh pr edit "$PR" --title "Lockout sync — PQDI respawn timers" --body-file lockout-sync-report.md
+          else
+            gh pr create --title "Lockout sync — PQDI respawn timers" \
+              --body-file lockout-sync-report.md \
+              --base "${{ github.ref_name }}" \
+              --head lockout-sync
+          fi

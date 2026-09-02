@@ -13,7 +13,7 @@ cover-img: /assets/img/exiled.jpg
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> Cursed Cycle</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain: 2sec</strong> </div>
 </div>
 

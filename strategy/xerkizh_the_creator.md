@@ -13,7 +13,7 @@ cover-img: /assets/img/creator.jpg
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> </div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days, 18 hours and 3 minutes</div>
 <div class="info-lockoutitem"><strong>CH Chain: 4 sec slowed</strong> </div>
 </div>
 
