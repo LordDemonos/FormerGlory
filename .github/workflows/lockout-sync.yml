@@ -57,6 +57,16 @@ jobs:
             cat lockout-sync-report.md >> "$GITHUB_STEP_SUMMARY"
           fi
 
+      # *.md is eol=lf. git add renormalizes leftover CRLF into the index and
+      # leaves the working tree dirty, which makes create-pull-request fail
+      # when it tries to switch to lockout-sync.
+      - name: Match working tree to LF index
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          git config core.autocrlf false
+          git add -- strategy
+          git restore --worktree -- strategy
+
       - name: Open PR if lockout boxes changed
         if: github.event.inputs.dry_run != 'true'
         uses: peter-evans/create-pull-request@v7

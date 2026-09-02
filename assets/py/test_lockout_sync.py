@@ -143,41 +143,50 @@ class PqdiParseTests(unittest.TestCase):
 
 
 class SyncTests(unittest.TestCase):
-    def test_instances_wins_npc_fallback_event_only_not_overwritten(self) -> None:
+    def test_instances_wins_npc_page_is_ignored(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             strategy = Path(tmp)
             _write_pages(strategy)
             instances = (FIXTURES / "instances.html").read_text(encoding="utf-8")
-            npc_html = {
-                "32040": (FIXTURES / "npc_emperor.html").read_text(encoding="utf-8"),
-                "179017": (FIXTURES / "npc_gryme.html").read_text(encoding="utf-8"),
-                "223044": (FIXTURES / "npc_emperor.html").read_text(encoding="utf-8"),
-            }
-
-            def fetch_npc(npc_id: str) -> str | None:
-                return npc_html.get(npc_id)
-
             report = ls.sync_lockouts(
                 index_text=INDEX,
                 strategy_dir=strategy,
                 instances_html=instances,
-                fetch_npc=fetch_npc,
                 apply=True,
             )
             naggy = (strategy / "lord_nagafen.md").read_text(encoding="utf-8")
             shei = (strategy / "shei_vinitras.md").read_text(encoding="utf-8")
             neimon = (strategy / "neimon_of_air.md").read_text(encoding="utf-8")
-            # instances miss for Nagafen 32040 → NPC Quick Facts 6d18h
-            self.assertIn("6 days and 18 hours", naggy)
+            # Nagafen 32040 is not on /instances — leave the page, do not use NPC spawn
+            self.assertIn("3 days", naggy)
+            self.assertIn("lord_nagafen", report.missing_timer)
             # instances hit for Shei 179017 beats FG 6d18h
             self.assertIn("2 days and 18 hours", shei)
-            # event-only ignores instances 3 days and NPC 6d18h
+            # event-only stays Event spawn when /instances has no override
             self.assertIn("Event spawn", neimon)
             self.assertNotIn("3 days", neimon)
             sources = {c.slug: c.source for c in report.changes}
-            self.assertEqual(sources["lord_nagafen"], "npc")
+            self.assertNotIn("lord_nagafen", sources)
             self.assertEqual(sources["shei_vinitras"], "instances")
             self.assertEqual(sources["neimon_of_air"], "event-allowlist")
+
+    def test_apply_writes_lf_even_when_page_was_crlf(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            strategy = Path(tmp)
+            _write_pages(strategy)
+            (strategy / "shei_vinitras.md").write_bytes(
+                SHEI_PAGE.replace("\n", "\r\n").encode("utf-8")
+            )
+            instances = (FIXTURES / "instances.html").read_text(encoding="utf-8")
+            ls.sync_lockouts(
+                index_text=INDEX,
+                strategy_dir=strategy,
+                instances_html=instances,
+                apply=True,
+            )
+            written = (strategy / "shei_vinitras.md").read_bytes()
+            self.assertNotIn(b"\r\n", written)
+            self.assertIn(b"2 days and 18 hours", written)
 
 
 if __name__ == "__main__":

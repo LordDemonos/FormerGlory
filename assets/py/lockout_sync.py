@@ -1,9 +1,9 @@
 """PQDI → Former Glory Respawn Time sync.
 
 Walks strategy.md boss cards, skips event-guide / overview / flagging cards,
-reads PQDI /instances then the NPC page, and rewrites the lockout box when
-the guide disagrees. Event-only names stay "Event spawn" unless /instances
-has an override. Do not invent hours.
+and rewrites the lockout box from PQDI /instances. That list is the raid
+source of truth. Event-only names stay "Event spawn" unless /instances has
+an override. Do not copy NPC-page spawn timers. Do not invent hours.
 """
 from __future__ import annotations
 
@@ -22,7 +22,6 @@ INDEX_PATH = REPO_ROOT / "strategy.md"
 STRATEGY_DIR = REPO_ROOT / "strategy"
 UA = "FormerGlory-lockout-sync/1.0 (raid lockouts; +https://github.com/LordDemonos/FormerGlory)"
 INSTANCES_URL = "https://www.pqdi.cc/instances"
-NPC_URL = "https://www.pqdi.cc/npc/{npc_id}"
 
 EVENT_ONLY_SLUGS = frozenset(
     {
@@ -399,18 +398,26 @@ def fetch_url(url: str, cache_path: Path | None, delay_s: float) -> str:
     raise RuntimeError(f"Failed to fetch {url}: {last_error}")
 
 
+def read_page_text(path: Path) -> str:
+    """Read a guide as LF text. Matches .gitattributes `*.md text eol=lf`."""
+    return path.read_bytes().decode("utf-8").replace("\r\n", "\n").replace("\r", "\n")
+
+
+def write_page_text(path: Path, text: str) -> None:
+    path.write_bytes(text.replace("\r\n", "\n").replace("\r", "\n").encode("utf-8"))
+
+
 def load_boss_page(slug: str, strategy_dir: Path) -> BossPage | None:
     path = strategy_dir / f"{slug}.md"
     if not path.exists():
         return None
-    return parse_boss_page(slug, path.read_text(encoding="utf-8"), path)
+    return parse_boss_page(slug, read_page_text(path), path)
 
 
 def desired_timer(
     card: BossCard,
     page: BossPage,
     instances: dict[str, str],
-    npc_timer: TimerHit | None,
 ) -> TimerHit | None:
     instances_text = instances.get(page.npc_id) if page.npc_id else None
     if instances_text:
@@ -424,7 +431,7 @@ def desired_timer(
             return TimerHit(text=page.respawn_text or "Event spawn", source="event-allowlist")
         return TimerHit(text="Event spawn", source="event-allowlist")
 
-    return npc_timer
+    return None
 
 
 def sync_lockouts(
@@ -432,7 +439,6 @@ def sync_lockouts(
     index_text: str,
     strategy_dir: Path,
     instances_html: str | None,
-    fetch_npc,
     apply: bool,
 ) -> SyncReport:
     report = SyncReport()
@@ -453,13 +459,7 @@ def sync_lockouts(
         if not page.npc_id and card.slug not in EVENT_ONLY_SLUGS:
             report.missing_npc.append(card.slug)
 
-        npc_timer = None
-        if page.npc_id and fetch_npc is not None:
-            npc_html = fetch_npc(page.npc_id)
-            if npc_html:
-                npc_timer = parse_npc_timer(npc_html)
-
-        desired = desired_timer(card, page, instances, npc_timer)
+        desired = desired_timer(card, page, instances)
         if desired is None:
             report.missing_timer.append(card.slug)
             continue
@@ -478,7 +478,7 @@ def sync_lockouts(
             report.missing_lockout.append(card.slug)
             continue
         if apply and page.path is not None:
-            page.path.write_text(updated, encoding="utf-8")
+            write_page_text(page.path, updated)
         report.changes.append(
             Change(
                 slug=card.slug,
@@ -488,18 +488,6 @@ def sync_lockouts(
             )
         )
     return report
-
-
-def make_fetcher(cache_dir: Path, delay_s: float, offline: bool):
-    def fetch_npc(npc_id: str) -> str | None:
-        cache_path = cache_dir / "npc" / f"{npc_id}.html"
-        if offline:
-            if cache_path.exists():
-                return cache_path.read_text(encoding="utf-8", errors="replace")
-            return None
-        return fetch_url(NPC_URL.format(npc_id=npc_id), cache_path, delay_s)
-
-    return fetch_npc
 
 
 def load_instances(cache_dir: Path, delay_s: float, offline: bool) -> str | None:
@@ -544,12 +532,10 @@ def main(argv: Iterable[str] | None = None) -> int:
         return 0
 
     instances_html = load_instances(cache_dir, args.delay, args.offline)
-    fetch_npc = make_fetcher(cache_dir, args.delay, args.offline)
     report = sync_lockouts(
         index_text=index_text,
         strategy_dir=strategy_dir,
         instances_html=instances_html,
-        fetch_npc=fetch_npc,
         apply=apply,
     )
     markdown = report.to_markdown()
