@@ -14,7 +14,7 @@ cover-img: /assets/img/a_lava_defender.webp
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 5 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> 2 sec chain with Defensive</div>
 </div>
 

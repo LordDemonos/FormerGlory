@@ -13,7 +13,7 @@ cover-img: /assets/img/Diabo-Xi-Va-Temariel-1.jpg
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> </div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong>6 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>Chain: 2sec, 3sec slowed</strong> </div>
 </div>
 
