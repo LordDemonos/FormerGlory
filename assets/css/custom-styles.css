@@ -14,13 +14,22 @@
   color: #ccc;
   padding: 8px;
   border-radius: 4px;
-  z-index: 1000;
+  z-index: 4000;
   font-family: Arial, sans-serif;
   font-size: 14px;
   line-height: 1.4;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
   min-width: 200px;
   border: 1px solid #2c2c2c;
+  pointer-events: none;
+}
+
+#spell-tooltip-container {
+  position: absolute;
+  display: none;
+  z-index: 4000;
+  pointer-events: none;
+  max-width: 400px;
 }
 
 #tooltip-container table {

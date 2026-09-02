@@ -7,17 +7,15 @@ subtitle: A guide to installing PQ Companion with Former Glory trigger packs
 
 # PQ Companion Setup Guide
 
-PQ Companion is a desktop companion app for Project Quarm. It sits next to the client and covers raid overlays, a DPS meter, spell timers, NPC info, live maps, and a regex trigger engine with on-screen text, sound, and text-to-speech. This guide covers install, first-launch setup, and how Former Glory trigger packs will land in the app.
+PQ Companion is a desktop companion app for Project Quarm. It sits next to the client and covers raid overlays, a DPS meter, spell timers, NPC info, live maps, and a regex trigger engine with on-screen text, sound, and text-to-speech. This guide covers install, first-launch setup, and the Former Glory Planes of Power pack.
 
 ## Former Glory Trigger Packs
 
-Former Glory packs for PQ Companion will download from this section. They will be **native PQ Companion JSON packs**, converted from the same Planes of Power tree as `pop.gtp` and `pop.tgf.gz`.
+**Planes of Power:** [Download pop-triggers.json](https://github.com/LordDemonos/FormerGlory/blob/master/pop-triggers.json?raw=true)
 
-PQ Companion can import GINA `.gtp`, EQLogParser, and EQNag packs through its import wizard. We are building dedicated PQ Companion packs because the native format is different — JSON categories, extra patterns, timer groups, and optional Zeal pipe-source triggers.
+This is a native PQ Companion pack (same Who / Casts / Procs / Emotes tree as the GINA and EQLogParser packs). Import it from Triggers → import wizard → select `pop-triggers.json`. Folders land as `PoP / {tier} / {zone} / {boss}`. Enable the bosses you are fighting.
 
-**Coming soon.** Native JSON conversion is the next pass once we have the PQ Companion pack format.
-
-Need raid triggers today? Planes of Power and Luclin packs are on the [GINA Guide](/gina/) and the [EQLogParser Guide](/eqlp/).
+Luclin GINA and EQLogParser packs stay on the [GINA Guide](/gina/) and the [EQLogParser Guide](/eqlp/).
 
 ## Download and Installation
 
@@ -75,7 +73,7 @@ Install [Zeal](https://github.com/iamclint/Zeal) so PQ Companion can read live c
 
 Open **Triggers** in the sidebar. The import wizard detects and previews:
 
-- PQ Companion JSON packs (the format Former Glory will ship)
+- PQ Companion JSON packs (this is `pop-triggers.json`)
 - GINA package files (`.gtp`) and GINA XML shares
 - EQLogParser trigger files
 - EQNag databases
@@ -84,7 +82,7 @@ Open **Triggers** in the sidebar. The import wizard detects and previews:
 
 1. Open **Triggers**.
 
-2. Start the import wizard and select your pack file.
+2. Start the import wizard and select `pop-triggers.json`.
 
 3. Review the preview, then commit the pack into a category.
 
@@ -123,3 +121,4 @@ Under **Settings → Backups**, use **App Backup & Restore** to export settings,
 - **Zeal:** [github.com/iamclint/Zeal](https://github.com/iamclint/Zeal)
 - **Former Glory GINA Guide:** [GINA Guide](/gina/) — `pop.gtp` (Planes of Power) and Fabio's Luclin `.gtp`
 - **Former Glory EQLogParser Guide:** [EQLogParser Guide](/eqlp/) — `pop.tgf.gz` (Planes of Power)
+- **Former Glory PQ Companion pack:** [pop-triggers.json](https://github.com/LordDemonos/FormerGlory/blob/master/pop-triggers.json?raw=true)
