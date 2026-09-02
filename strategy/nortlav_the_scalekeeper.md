@@ -13,6 +13,10 @@ cover-img: /assets/img/nortlav_the_scalekeeper.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/5028" target="_blank">Indifferent</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/39148" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+<div class="info-lockout">
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours</div>
+</div>
+
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 435</div>

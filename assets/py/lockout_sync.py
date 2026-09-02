@@ -13,6 +13,7 @@ import sys
 import time
 import urllib.error
 import urllib.request
+from collections import defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Iterable
@@ -86,6 +87,10 @@ INSTANCES_ITEM_RE = re.compile(
     r".*?Respawn Time:\s*([^<]+?)\s*</small>",
     re.I | re.S,
 )
+INSTANCES_ZONE_RE = re.compile(
+    r"<strong>\s*<a href=['\"]/zone/\d+['\"][^>]*>\s*([^<]+?)\s*</a>\s*</strong>",
+    re.I | re.S,
+)
 QUICK_TIMER_RE = re.compile(
     r"Instance Spawn Timer:\s*(?:<br\s*/?>)?\s*([^<]+)",
     re.I,
@@ -140,6 +145,26 @@ class BossPage:
 class TimerHit:
     text: str
     source: str  # instances | npc | event-allowlist
+
+
+@dataclass
+class InstanceEntry:
+    npc_id: str
+    name: str
+    zone: str
+    text: str
+
+
+@dataclass
+class InstancesIndex:
+    by_id: dict[str, str]
+    by_name_zone: dict[tuple[str, str], str]
+
+    def lookup(self, page: BossPage, card: BossCard) -> str | None:
+        if page.npc_id and page.npc_id in self.by_id:
+            return self.by_id[page.npc_id]
+        zone = page.zone or card.zone
+        return self.by_name_zone.get((normalize_name(page.name), normalize_zone(zone)))
 
 
 @dataclass
@@ -200,6 +225,11 @@ class SyncReport:
 
 def normalize_name(value: str) -> str:
     return re.sub(r"\s+", " ", value.replace("`", "'").strip().lower())
+
+
+def normalize_zone(value: str) -> str:
+    text = re.sub(r"\s*\(instanced\)\s*$", "", value.strip(), flags=re.I)
+    return normalize_name(text)
 
 
 def is_event_spawn_token(text: str | None) -> bool:
@@ -344,14 +374,45 @@ def replace_respawn_time(page_text: str, new_text: str) -> str | None:
     return RESPAWN_RE.sub(rf"\g<1>{new_text}\g<3>", page_text, count=1)
 
 
+def parse_instances_entries(html: str) -> list[InstanceEntry]:
+    headers = [(m.start(), m.group(1).strip()) for m in INSTANCES_ZONE_RE.finditer(html)]
+    entries: list[InstanceEntry] = []
+    header_i = 0
+    zone = ""
+    for match in INSTANCES_ITEM_RE.finditer(html):
+        while header_i < len(headers) and headers[header_i][0] < match.start():
+            zone = headers[header_i][1]
+            header_i += 1
+        entries.append(
+            InstanceEntry(
+                npc_id=match.group(1),
+                name=re.sub(r"\s+", " ", match.group(2)).strip(),
+                zone=zone,
+                text=re.sub(r"\s+", " ", match.group(3)).strip(),
+            )
+        )
+    return entries
+
+
 def parse_instances_page(html: str) -> dict[str, str]:
     """Map npc_id -> Respawn Time string from /instances."""
     timers: dict[str, str] = {}
-    for npc_id, _name, timer in INSTANCES_ITEM_RE.findall(html):
-        text = re.sub(r"\s+", " ", timer).strip()
-        if npc_id not in timers:
-            timers[npc_id] = text
+    for entry in parse_instances_entries(html):
+        if entry.npc_id not in timers:
+            timers[entry.npc_id] = entry.text
     return timers
+
+
+def build_instances_index(html: str) -> InstancesIndex:
+    entries = parse_instances_entries(html)
+    by_id: dict[str, str] = {}
+    buckets: dict[tuple[str, str], set[str]] = defaultdict(set)
+    for entry in entries:
+        if entry.npc_id not in by_id:
+            by_id[entry.npc_id] = entry.text
+        buckets[(normalize_name(entry.name), normalize_zone(entry.zone))].add(entry.text)
+    by_name_zone = {key: next(iter(texts)) for key, texts in buckets.items() if len(texts) == 1}
+    return InstancesIndex(by_id=by_id, by_name_zone=by_name_zone)
 
 
 def parse_npc_timer(html: str) -> TimerHit | None:
@@ -417,9 +478,12 @@ def load_boss_page(slug: str, strategy_dir: Path) -> BossPage | None:
 def desired_timer(
     card: BossCard,
     page: BossPage,
-    instances: dict[str, str],
+    instances: InstancesIndex | dict[str, str],
 ) -> TimerHit | None:
-    instances_text = instances.get(page.npc_id) if page.npc_id else None
+    if isinstance(instances, InstancesIndex):
+        instances_text = instances.lookup(page, card)
+    else:
+        instances_text = instances.get(page.npc_id) if page.npc_id else None
     if instances_text:
         return TimerHit(text=instances_text, source="instances")
 
@@ -442,7 +506,11 @@ def sync_lockouts(
     apply: bool,
 ) -> SyncReport:
     report = SyncReport()
-    instances = parse_instances_page(instances_html) if instances_html else {}
+    instances: InstancesIndex | dict[str, str]
+    if instances_html:
+        instances = build_instances_index(instances_html)
+    else:
+        instances = {}
     cards = parse_index_cards(index_text)
     for card in cards:
         if card.skip_reason:

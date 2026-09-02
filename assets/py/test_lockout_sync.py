@@ -170,6 +170,104 @@ class SyncTests(unittest.TestCase):
             self.assertEqual(sources["shei_vinitras"], "instances")
             self.assertEqual(sources["neimon_of_air"], "event-allowlist")
 
+    def test_instances_matches_name_and_zone_when_npc_id_differs(self) -> None:
+        html = """
+        <li class="list-group-item">
+            <strong>
+                <a href='/zone/39' class="text-decoration-none">The Hole</a>
+            </strong>
+            <ul class="list-group mt-2">
+                <li class="list-group-item">
+                    <a href='/npc/39138' class="text-decoration-none">Master Yael</a>
+                    <br>
+                    <small class="text-muted">Respawn Time: 2 days and 18 hours</small>
+                </li>
+            </ul>
+        </li>
+        <li class="list-group-item">
+            <strong>
+                <a href='/zone/1072' class="text-decoration-none">Plane of Fear (Instanced)</a>
+            </strong>
+            <ul class="list-group mt-2">
+                <li class="list-group-item">
+                    <a href='/npc/72600' class="text-decoration-none">Cazic Thule</a>
+                    <br>
+                    <small class="text-muted">Respawn Time: 6 days and 18 hours</small>
+                </li>
+            </ul>
+        </li>
+        """
+        index = """
+<h4><a href="https://www.pqdi.cc/zone/39" target="_blank">The Hole</a></h4>
+<div class="card-container">
+  <div class="card dragon">
+    <ul>
+      <li><a href="master_yael">Master Yael</a></li>
+      <li>Level 56 Elemental Wizard</li>
+    </ul>
+  </div>
+</div>
+<h4><a href="https://www.pqdi.cc/zone/72" target="_blank">Plane of Fear</a></h4>
+<div class="card-container">
+  <div class="card dragon">
+    <ul>
+      <li><a href="cazic_thule">Cazic Thule</a></li>
+      <li>Level 70 Cazic Thule Shadow Knight</li>
+    </ul>
+  </div>
+</div>
+<h4><a href="https://www.pqdi.cc/zone/223" target="_blank">Plane of Time</a></h4>
+<div class="card-container">
+  <div class="card dragon">
+    <ul>
+      <li><a href="cazic_thule_time">Cazic Thule</a></li>
+      <li>Level 75 Cazic Thule Warrior</li>
+    </ul>
+  </div>
+</div>
+"""
+        yael = """---
+title: Master Yael
+---
+<div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/39">The Hole</a></div>
+<div class="info-item"><strong>Faction:</strong> KOS&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/39538" target="_blank" title="View NPC on PQDI">🔗</a></div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+"""
+        fear = """---
+title: Cazic Thule
+---
+<div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/72">Plane of Fear</a></div>
+<div class="info-item"><strong>Faction:</strong> KOS&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/72003" target="_blank" title="View NPC on PQDI">🔗</a></div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+"""
+        time_cazic = """---
+title: Cazic Thule
+---
+<div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/223">Plane of Time</a></div>
+<div class="info-item"><strong>Faction:</strong> KOS&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/223004" target="_blank" title="View NPC on PQDI">🔗</a></div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+"""
+        with tempfile.TemporaryDirectory() as tmp:
+            strategy = Path(tmp)
+            strategy.mkdir(parents=True, exist_ok=True)
+            (strategy / "master_yael.md").write_text(yael, encoding="utf-8")
+            (strategy / "cazic_thule.md").write_text(fear, encoding="utf-8")
+            (strategy / "cazic_thule_time.md").write_text(time_cazic, encoding="utf-8")
+            report = ls.sync_lockouts(
+                index_text=index,
+                strategy_dir=strategy,
+                instances_html=html,
+                apply=True,
+            )
+            self.assertIn("2 days and 18 hours", (strategy / "master_yael.md").read_text(encoding="utf-8"))
+            self.assertIn("6 days and 18 hours", (strategy / "cazic_thule.md").read_text(encoding="utf-8"))
+            self.assertIn("3 days", (strategy / "cazic_thule_time.md").read_text(encoding="utf-8"))
+            self.assertIn("cazic_thule_time", report.missing_timer)
+            sources = {c.slug: c.source for c in report.changes}
+            self.assertEqual(sources["master_yael"], "instances")
+            self.assertEqual(sources["cazic_thule"], "instances")
+            self.assertNotIn("cazic_thule_time", sources)
+
     def test_apply_writes_lf_even_when_page_was_crlf(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             strategy = Path(tmp)
