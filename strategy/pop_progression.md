@@ -17,8 +17,6 @@ Sit at **Seer Mal Nae`Shi** in Plane of Knowledge, in the building next to the P
 
 If an elemental stone or a Planar Projection refuses you, bounce Seer and Maelin until neither gives more. If you see a checklist flag instead of a character flag, bounce them the same way.
 
-Say **craft** to **Gram Dunnar** in Plane of Knowledge for **Intricate Wooden Figurine**. Say **I have stories** after each new zone for the charm upgrades.
-
 Planar Projections answer the killer's raid or group only. Hail inside the timer. Caps are on the boss pages.
 
 One unflagged can piggy per five flagged.
