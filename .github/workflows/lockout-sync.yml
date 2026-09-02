@@ -2,8 +2,8 @@ name: Lockout sync
 
 on:
   schedule:
-    # Tuesday 10:00 AM ET (14:00 UTC)
-    - cron: '0 14 * * 2'
+    # Tuesday 10:00 PM ET (02:00 UTC Wednesday)
+    - cron: '0 2 * * 3'
   workflow_dispatch:
     inputs:
       dry_run:
