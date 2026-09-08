@@ -15,6 +15,7 @@ cover-img: /assets/img/narandi_the_wretched.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> Spawned</div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> 3sec</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#narandi-the-wretched" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

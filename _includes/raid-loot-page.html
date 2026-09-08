@@ -1,6 +1,6 @@
 {% assign catalog = site.data.raid_loot %}
 
-<div class="raid-loot" data-raid-loot>
+<div class="raid-loot" data-raid-loot data-show-tables="0">
   <div class="catalog-chrome">
     <div class="catalog-toc-row">
       <div class="toc-heading">Jump to an Expansion</div>
@@ -31,6 +31,7 @@
         {% endfor %}
       </div>
       <button type="button" class="raid-loot-filter is-active" data-retired-toggle>Hide retired</button>
+      <button type="button" class="raid-loot-filter" data-tables-toggle>Show tables</button>
       <button type="button" class="focus-guide-clear" data-loot-clear hidden>Clear</button>
       <span class="focus-guide-count" data-loot-count></span>
     </div>
@@ -77,9 +78,15 @@
                 <div class="raid-loot-table" data-loot-table>
                   <div class="raid-loot-table-head">
                     <strong>{{ table.label }}</strong>
-                    {% if table.summary %}
-                      <span>{{ table.summary }}</span>
-                    {% endif %}
+                    <span>
+                      {% assign table_id_digits = table.id | plus: 0 | append: "" %}
+                      {% if table.id == table_id_digits %}
+                        id {{ table.id }}
+                        {% if table.summary %} · {% endif %}
+                      {% endif %}
+                      {{ table.summary }}
+                      {% if table.independent %} · each item rolled separately{% endif %}
+                    </span>
                   </div>
                   <ul class="raid-loot-items">
                     {% for item in table.items %}
@@ -89,7 +96,7 @@
                         data-loot-item
                         data-classes="{{ class_list }}"
                         data-retired="{% if item.retired %}1{% else %}0{% endif %}"
-                        data-search="{{ item.name | downcase | escape }} {{ boss.name | downcase | escape }} {{ zone.name | downcase | escape }}"
+                        data-search="{{ item.name | downcase | escape }} {{ boss.name | downcase | escape }} {{ zone.name | downcase | escape }} {{ table.label | downcase | escape }}"
                       >
                         <span class="raid-loot-item-name">
                           <a href="https://www.pqdi.cc/item/{{ item.id }}" target="_blank" rel="noopener">{{ item.name }}</a>
@@ -99,7 +106,12 @@
                           {% if item.kind == "bag" %}<span class="raid-loot-flag">Bag</span>{% endif %}
                           {% if item.kind == "quest" %}<span class="raid-loot-flag">Quest</span>{% endif %}
                         </span>
-                        <span class="raid-loot-chance">{{ item.chance }}%</span>
+                        <span class="raid-loot-chance">
+                          {{ item.chance }}%
+                          {% if item.table_chance and item.table_chance != item.chance %}
+                            <span class="raid-loot-table-chance">{{ item.table_chance }}% table</span>
+                          {% endif %}
+                        </span>
                         <span class="raid-loot-classes">
                           {% if item.classes.size == 0 %}
                             <span class="raid-loot-chip is-neutral">ANY</span>

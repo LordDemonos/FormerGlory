@@ -16,6 +16,7 @@ cover-img: /assets/img/sontalak.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong>2 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> Heroic Bond heals or group heals</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#sontalak" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

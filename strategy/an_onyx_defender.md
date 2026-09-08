@@ -16,6 +16,7 @@ cover-img: /assets/img/an_onyx_defender.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 5 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> 2 sec chain with Defensive</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#an-onyx-defender" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

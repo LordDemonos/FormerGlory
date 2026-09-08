@@ -15,14 +15,16 @@ document.addEventListener('DOMContentLoaded', function () {
   const searchInput = root.querySelector('[data-loot-search]');
   const clearButton = root.querySelector('[data-loot-clear]');
   const retiredToggle = root.querySelector('[data-retired-toggle]');
+  const tablesToggle = root.querySelector('[data-tables-toggle]');
   const collapse = bindCatalogCollapse(root, { sectionSelector: '[data-expansion]' });
   catalogBindExpandControls(root, collapse);
 
-  const defaults = { class: 'ALL', q: '', retired: '0' };
+  const defaults = { class: 'ALL', q: '', retired: '0', tables: '0' };
   const state = {
     className: catalogReadClass(),
     query: catalogReadParam('q', '').toLowerCase(),
     hideRetired: catalogReadParam('retired', '0') !== '1',
+    showTables: catalogReadParam('tables', '0') === '1',
   };
 
   function syncUrl() {
@@ -32,6 +34,7 @@ document.addEventListener('DOMContentLoaded', function () {
         class: state.className,
         q: state.query,
         retired: state.hideRetired ? '0' : '1',
+        tables: state.showTables ? '1' : '0',
       },
       defaults
     );
@@ -60,7 +63,7 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   function hasActiveFilters() {
-    return state.className !== 'ALL' || state.query !== '' || !state.hideRetired;
+    return state.className !== 'ALL' || state.query !== '' || !state.hideRetired || state.showTables;
   }
 
   function applyFilter() {
@@ -112,6 +115,12 @@ document.addEventListener('DOMContentLoaded', function () {
       retiredToggle.classList.toggle('is-active', state.hideRetired);
     }
 
+    if (tablesToggle) {
+      tablesToggle.classList.toggle('is-active', state.showTables);
+    }
+
+    root.setAttribute('data-show-tables', state.showTables ? '1' : '0');
+
     if (state.query) {
       collapse.expandAll();
     }
@@ -141,6 +150,14 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  if (tablesToggle) {
+    tablesToggle.addEventListener('click', function () {
+      state.showTables = !state.showTables;
+      syncUrl();
+      applyFilter();
+    });
+  }
+
   if (searchInput) {
     searchInput.addEventListener('input', function () {
       state.query = searchInput.value.trim().toLowerCase();
@@ -154,6 +171,7 @@ document.addEventListener('DOMContentLoaded', function () {
       state.className = 'ALL';
       state.query = '';
       state.hideRetired = true;
+      state.showTables = false;
       if (searchInput) {
         searchInput.value = '';
       }

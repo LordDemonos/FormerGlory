@@ -15,6 +15,7 @@ cover-img: /assets/img/Kaas-Thox-Xi-Aten-Ha-Ra-1.jpg
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>Chain: 2sec, 3sec slowed</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#kaas-thox-xi-aten-ha-ra-south" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

@@ -16,6 +16,7 @@ cover-img: /assets/img/malteor_flamecaller.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days</div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> 2 sec chain with Defensive</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#malteor-flamecaller" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

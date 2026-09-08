@@ -32,6 +32,7 @@ cover-img: /assets/img/A-Perfected-Warder-of-Earth.jpg
 
 <div class="info-lockoutitem"><strong>CH Chain: 2sec, 3sec slowed</strong> </div>
 
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#a-perfected-warder-of-earth" title="View raid loot">🔗</a></div>
 </div>
 
 

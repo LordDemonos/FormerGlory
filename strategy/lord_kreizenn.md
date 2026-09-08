@@ -16,6 +16,7 @@ cover-img: /assets/img/lord_kreizenn.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> 2sec</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#lord-kreizenn" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

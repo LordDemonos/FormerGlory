@@ -32,6 +32,7 @@ cover-img: /assets/img/Derugoak-Bloodwalker.jpg
 
 <div class="info-lockoutitem"><strong>CH Chain: 2sec, 3sec slowed</strong> </div>
 
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#derugoak-bloodwalker" title="View raid loot">🔗</a></div>
 </div>
 
 

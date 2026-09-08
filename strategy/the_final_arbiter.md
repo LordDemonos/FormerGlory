@@ -15,6 +15,7 @@ cover-img: /assets/img/the_final_arbiter.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> Unslowed: 5s, Slowed: 9s+</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#the-final-arbiter" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

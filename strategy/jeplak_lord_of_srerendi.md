@@ -15,6 +15,7 @@ cover-img: /assets/img/strategy.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
 <div class="info-lockoutitem"><strong>CH Chain: 2sec</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#jeplak-lord-of-srerendi" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

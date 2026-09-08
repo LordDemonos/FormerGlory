@@ -16,6 +16,7 @@ cover-img: /assets/img/hraashna_the_warder.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours </div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> Unslowed: 3s, Slowed: 5s</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#hraashna-the-warder" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

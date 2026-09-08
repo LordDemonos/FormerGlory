@@ -242,6 +242,24 @@ cover-img: /assets/img/strategy.webp
       <li>Level 58 Dragon Necromancer</li>
     </ul>
   </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="dread">Dread</a> · <a href="/raid-loot#dread">Loot</a></li>
+      <li>Level 55 Golem Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="fright">Fright</a> · <a href="/raid-loot#fright">Loot</a></li>
+      <li>Level 55 Golem Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="terror">Terror</a> · <a href="/raid-loot#terror">Loot</a></li>
+      <li>Level 55 Golem Warrior</li>
+    </ul>
+  </div>
 </div>
 <h4><a href="https://www.pqdi.cc/zone/127" target="_blank">Plane of Growth</a></h4>
 <div class="card-container">

@@ -15,6 +15,7 @@ cover-img: /assets/img/Manaetic-Behemoth.png
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
 <div class="info-lockoutitem"><strong>CH Chain: 3sec</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#manaetic-behemoth" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

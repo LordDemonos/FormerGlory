@@ -15,6 +15,7 @@ cover-img: /assets/img/Rizlona.png
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
 <div class="info-lockoutitem"><strong>CH Chain: 2sec, 3sec slowed</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#rizlona" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

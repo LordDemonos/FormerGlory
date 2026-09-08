@@ -15,6 +15,7 @@ cover-img: /assets/img/a-glyph-covered-serp.jpg
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days, 18 hours and 3 minutes</div>
 <div class="info-lockoutitem"><strong>CH Chain: 2sec, 4+ slowed</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#a-glyph-covered-serpent" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

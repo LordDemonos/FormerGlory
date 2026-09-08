@@ -32,6 +32,7 @@ cover-img: /assets/img/A-Monstrous-Mudwalker.jpg
 
 <div class="info-lockoutitem"><strong>CH Chain: 2sec, 3sec slowed</strong> </div>
 
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#a-monsterous-mudwalker" title="View raid loot">🔗</a></div>
 </div>
 
 

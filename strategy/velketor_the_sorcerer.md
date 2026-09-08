@@ -16,6 +16,7 @@ cover-img: /assets/img/velketor_the_sorcerer.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours  </div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> 3sec</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#velketor-the-sorcerer" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

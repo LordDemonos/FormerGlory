@@ -32,6 +32,7 @@ cover-img: /assets/img/Warlord-Gintolaken.jpg
 
 <div class="info-lockoutitem"><strong>CH Chain: 1sec, 2sec slowed</strong> </div>
 
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#warlord-gintolaken" title="View raid loot">🔗</a></div>
 </div>
 
 

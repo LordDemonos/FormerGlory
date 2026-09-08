@@ -15,6 +15,7 @@ cover-img: /assets/img/Gryme-the-Crypt-Guardian.jpg
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 hours, 8 minutes, 20 seconds</div>
 <div class="info-lockoutitem"><strong>CH Chain: 4sec, 6sec slowed</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#gryme-the-crypt-guardian" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

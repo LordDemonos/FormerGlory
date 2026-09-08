@@ -15,6 +15,7 @@ cover-img: /assets/img/Diabo-Xi-Va-Temariel-1.jpg
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong>6 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>Chain: 2sec, 3sec slowed</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#diabo-xi-va-temariel" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

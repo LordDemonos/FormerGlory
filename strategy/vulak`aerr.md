@@ -16,6 +16,7 @@ cover-img: /assets/img/vulak`aerr.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> Spawned</div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> Unslowed: 1s, Slowed: 3s</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#vulakaerr" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

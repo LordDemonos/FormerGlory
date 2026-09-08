@@ -15,6 +15,7 @@ cover-img: /assets/img/Cursed.jpg
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain: 4 sec, 3 sec without defensive</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#vyzhdra-the-cursed" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

@@ -15,6 +15,7 @@ cover-img: /assets/img/Nathyn-Illuminious.jpg
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#nathyn-illuminious" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

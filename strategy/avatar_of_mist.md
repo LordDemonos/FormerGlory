@@ -15,6 +15,7 @@ cover-img: /assets/img/Avatar-of-Mist.png
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
 <div class="info-lockoutitem"><strong>CH Chain: 1sec, 2sec slowed</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#avatar-of-mist" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

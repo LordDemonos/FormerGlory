@@ -15,6 +15,7 @@ cover-img: /assets/img/Diabo-Xi-Xin-Thall.jpg
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong>6 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain: 3 sec</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#diabo-xi-xin-thall" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

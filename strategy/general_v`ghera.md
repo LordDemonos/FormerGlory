@@ -13,6 +13,10 @@ cover-img: /assets/img/general_v`ghera.webp
 <div class="info-item"><strong>Faction:</strong> <a href="https://www.pqdi.cc/faction/420" target="_blank">Fallen of Bloody Kithicor</a>&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/20205" target="_blank" title="View NPC on PQDI">🔗</a></div>
 </div>
 
+
+<div class="info-lockout">
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#general-vghera" title="View raid loot">🔗</a></div>
+</div>
 <div class="stats-grid">
 <div class="stats-row">
 <div class="stats-cell"><strong>FR:</strong> 150</div>

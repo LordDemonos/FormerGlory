@@ -15,6 +15,7 @@ cover-img: /assets/img/A-Mystical-Arbitor-of-Earth.jpg
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 50 minutes after the fourth ring</div>
 <div class="info-lockoutitem"><strong>CH Chain: 2sec, 3sec slowed</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#a-mystical-arbitor-of-earth" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

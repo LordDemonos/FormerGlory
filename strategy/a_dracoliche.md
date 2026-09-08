@@ -15,6 +15,7 @@ cover-img: /assets/img/a_dracoliche.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours </div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> Assist/fast heals</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#a-dracoliche" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

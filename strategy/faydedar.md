@@ -16,6 +16,7 @@ cover-img: /assets/img/faydedar.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours </div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> As needed</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#faydedar" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

@@ -32,6 +32,7 @@ cover-img: /assets/img/War-Chieftan-Birak.jpg
 
 <div class="info-lockoutitem"><strong>CH Chain: 1sec, 2sec slowed</strong> </div>
 
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#war-chieftan-birak" title="View raid loot">🔗</a></div>
 </div>
 
 

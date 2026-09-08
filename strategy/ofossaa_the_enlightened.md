@@ -15,6 +15,7 @@ cover-img: /assets/img/Ofossaa-the-Enlightened.jpg
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
 <div class="info-lockoutitem"><strong>CH Chain: 2sec, 3sec slowed</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#ofossaa-the-enlightened" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

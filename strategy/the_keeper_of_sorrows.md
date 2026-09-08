@@ -15,6 +15,7 @@ cover-img: /assets/img/The-Keeper-of-Sorrows.png
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days, 12 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain: 2sec</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#the-keeper-of-sorrows" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

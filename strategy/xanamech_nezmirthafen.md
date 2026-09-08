@@ -15,6 +15,7 @@ cover-img: /assets/img/Xanamech-Nezmirthafen.png
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> Event spawn</div>
 <div class="info-lockoutitem"><strong>CH Chain: 4sec, 6sec slowed</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#xanamech-nezmirthafen" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

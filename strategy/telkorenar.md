@@ -16,6 +16,7 @@ cover-img: /assets/img/telkorenar.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> 6sec</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#telkorenar" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

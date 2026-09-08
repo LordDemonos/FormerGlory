@@ -15,6 +15,7 @@ cover-img: /assets/img/rhag-1.jpg
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days, 18 hours and 3 minutes</div>
 <div class="info-lockoutitem"><strong>CH Chain: Remedy Spam</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#rhagzhezum" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

@@ -16,6 +16,7 @@ cover-img: /assets/img/king_tranix.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 18 hours </div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> Remedy/DL spam</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#king-tranix" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

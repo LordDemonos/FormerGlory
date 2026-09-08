@@ -15,6 +15,7 @@ cover-img: /assets/img/Grieg-Veneficus2.jpg
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days, 18 hours and 3 minutes</div>
 <div class="info-lockoutitem"><strong>CH Chain: 6 Sec</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#grieg-veneficus" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

@@ -15,6 +15,7 @@ cover-img: /assets/img/keldor_dek`torek.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days </div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> Remedy Spam</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#keldor-dektorek" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

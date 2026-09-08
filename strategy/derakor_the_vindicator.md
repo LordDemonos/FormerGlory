@@ -16,6 +16,7 @@ cover-img: /assets/img/derakor_the_vindicator.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours </div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> 2-4sec</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#derakor-the-vindicator" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

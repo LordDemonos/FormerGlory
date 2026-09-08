@@ -15,6 +15,7 @@ cover-img: /assets/img/Aramin-the-Spider-Guardian.jpg
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 1 day</div>
 <div class="info-lockoutitem"><strong>CH Chain: 4sec, 6sec slowed</strong> </div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#aramin-the-spider-guardian" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

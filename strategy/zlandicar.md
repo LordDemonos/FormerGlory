@@ -16,6 +16,7 @@ cover-img: /assets/img/zlandicar.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> Unslowed: 8s, Slowed: 1 cleric</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#zlandicar" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

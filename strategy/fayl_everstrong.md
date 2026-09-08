@@ -15,6 +15,7 @@ cover-img: /assets/img/fayl_everstrong.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 1 day and 6 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> 6s+</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#fayl-everstrong" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

@@ -32,6 +32,7 @@ cover-img: /assets/img/Vamuil-of-Water.jpg
 
 <div class="info-lockoutitem"><strong>CH Chain: 4sec, 6sec slowed</strong> </div>
 
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#vamuil-of-water" title="View raid loot">🔗</a></div>
 </div>
 
 

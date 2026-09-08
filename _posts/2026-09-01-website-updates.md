@@ -32,9 +32,9 @@ If an item is marked Retired, that's something that used to drop and doesn't any
 
 PoP packs are up for GINA, EQLogParser, and PQ Companion.
 
-- [GINA](https://formerglory.lol/gina) — download `pop.gtp`
-- [EQLogParser](https://formerglory.lol/eqlp) — download `pop.tgf.gz`
-- [PQ Companion](https://formerglory.lol/pq-companion) — download `pop-triggers.json`
+- [GINA](https://formerglory.lol/gina) — download `pop.gtp` — Updated September 8, 2026
+- [EQLogParser](https://formerglory.lol/eqlp) — download `pop.tgf.gz` — Updated September 8, 2026
+- [PQ Companion](https://formerglory.lol/pq-companion) — download `pop-triggers.json` — Updated September 8, 2026
 
 Fabio's Luclin pack is still there for anyone who never grabbed it.
 

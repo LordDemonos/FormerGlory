@@ -16,6 +16,7 @@ cover-img: /assets/img/master_of_the_guard.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> Unslowed: 5s, Slowed: 9s+</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#master-of-the-guard" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">

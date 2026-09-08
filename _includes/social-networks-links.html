@@ -87,6 +87,18 @@
   </li>
   {%- endif -%}
 
+  {%- if network[0] == "teepublic" -%}
+  <li class="list-inline-item">
+    <a href="https://www.teepublic.com/user/{{ network[1] }}" title="Merch">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-shirt fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Merch</span>
+   </a>
+  </li>
+  {%- endif -%}
+
   {%- if network[0] == "gitlab" -%}
   <li class="list-inline-item">
     <a href="https://gitlab.com/{{ network[1] }}" title="GitLab">

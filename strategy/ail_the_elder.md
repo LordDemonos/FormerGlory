@@ -15,6 +15,7 @@ cover-img: /assets/img/ail_the_elder.webp
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 1 day and 6 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain:</strong> 6s+</div>
+<div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#ail-the-elder" title="View raid loot">🔗</a></div>
 </div>
 
 <div class="stats-grid">
