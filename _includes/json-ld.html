@@ -1,0 +1,63 @@
+{%- assign org_id = site.url | append: "/#organization" -%}
+{%- assign website_id = site.url | append: "/#website" -%}
+{%- assign same_as = site.discord_url | split: "|||" -%}
+{%- if site.social-network-links.github -%}
+  {%- assign github_url = "https://github.com/" | append: site.social-network-links.github -%}
+  {%- assign same_as = same_as | push: github_url -%}
+{%- endif -%}
+{%- if site.social-network-links.teepublic -%}
+  {%- assign teepublic_url = "https://www.teepublic.com/user/" | append: site.social-network-links.teepublic -%}
+  {%- assign same_as = same_as | push: teepublic_url -%}
+{%- endif -%}
+{%- assign is_article = false -%}
+{%- if page.id or is_strategy_guide -%}
+  {%- assign is_article = true -%}
+{%- endif -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": {{ org_id | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "url": {{ site.url | jsonify }},
+      "description": {{ site.description | jsonify }},
+      {%- if site.avatar %}
+      "logo": {{ site.avatar | absolute_url | jsonify }},
+      {%- endif %}
+      "sameAs": {{ same_as | jsonify }}
+    },
+    {
+      "@type": "WebSite",
+      "@id": {{ website_id | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "url": {{ site.url | jsonify }},
+      "description": {{ site.description | jsonify }},
+      "inLanguage": "en",
+      "publisher": { "@id": {{ org_id | jsonify }} }
+    }{%- if is_article %},
+    {
+      "@type": "Article",
+      "headline": {{ pagetitle_raw | jsonify }},
+      "description": {{ description_raw | jsonify }},
+      "name": {{ page.title | strip_html | jsonify }},
+      "url": {{ page.url | absolute_url | jsonify }},
+      "inLanguage": "en",
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "publisher": { "@id": {{ org_id | jsonify }} }{% if page.author %},
+      "author": {
+        "@type": "Person",
+        "name": {{ page.author | strip_html | jsonify }}
+      }{% else %},
+      "author": { "@id": {{ org_id | jsonify }} }{% endif %}{% if page.date %},
+      "datePublished": {{ page.date | date_to_xmlschema | jsonify }}{% endif %}{% if img != "" %},
+      "image": {{ img | absolute_url | jsonify }}{% endif %}{% if is_strategy_guide %},
+      "about": {
+        "@type": "Thing",
+        "name": {{ page.title | strip_html | jsonify }}
+      }{% endif %}
+    }{%- endif %}
+  ]
+}
+</script>

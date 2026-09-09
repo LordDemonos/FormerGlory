@@ -2,36 +2,60 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  {% capture pagetitle %}
+  {% assign is_strategy_guide = false %}
+  {% if page.path contains 'strategy/' %}
+    {% assign is_strategy_guide = true %}
+  {% endif %}
+
+  {% capture pagetitle_raw %}
     {%- if page.share-title -%}
-      {{ page.share-title | strip_html | xml_escape }}
+      {{ page.share-title | strip_html }}
+    {%- elsif is_strategy_guide and page.title and page.subtitle and page.subtitle contains 'Level' -%}
+      {{ page.title | strip_html }} raid strategy | Project Quarm
+    {%- elsif is_strategy_guide and page.title -%}
+      {{ page.title | strip_html }} | Project Quarm
     {%- elsif page.title -%}
-      {{ page.title | strip_html | xml_escape  }}
+      {{ page.title | strip_html }}
     {%- else -%}
-      {{ site.title | strip_html | xml_escape }}
+      {{ site.title | strip_html }}
     {%- endif -%}
   {% endcapture %}
+  {% assign pagetitle_raw = pagetitle_raw | strip %}
 
-  {% capture title %}
-    {%- if site.title and site.title-on-all-pages and (site.title != pagetitle) -%}
-      {{ pagetitle }} | {{ site.title }}
+  {% capture title_raw %}
+    {%- if site.title and site.title-on-all-pages and site.title != pagetitle_raw -%}
+      {%- unless pagetitle_raw contains site.title -%}
+        {{ pagetitle_raw }} | {{ site.title }}
+      {%- else -%}
+        {{ pagetitle_raw }}
+      {%- endunless -%}
     {%- else -%}
-      {{ pagetitle }}
+      {{ pagetitle_raw }}
     {%- endif -%}
   {% endcapture %}
+  {% assign title_raw = title_raw | strip %}
 
-  {% capture description %}
+  {% capture description_raw %}
     {%- if page.share-description -%}
-      {{ page.share-description | strip_html | xml_escape }}
+      {{ page.share-description | strip_html }}
+    {%- elsif page.description -%}
+      {{ page.description | strip_html }}
+    {%- elsif is_strategy_guide and page.title and page.subtitle -%}
+      {{ page.title | strip_html }} raid strategy for Project Quarm. {{ page.subtitle | strip_html }}.
+    {%- elsif is_strategy_guide and page.title -%}
+      {{ page.title | strip_html }} raid strategy for Project Quarm.
     {%- elsif page.subtitle -%}
-      {{ page.subtitle | strip_html | xml_escape }}
+      {{ page.subtitle | strip_html }}
+    {%- elsif site.description -%}
+      {{ site.description | strip_html }}
     {%- else -%}
       {%- assign excerpt_length = site.excerpt_length | default: 50 -%}
-      {{ page.content | strip_html | xml_escape | truncatewords: excerpt_length | strip }}
+      {{ page.content | strip_html | truncatewords: excerpt_length | strip }}
     {%- endif -%}
   {% endcapture %}
+  {% assign description_raw = description_raw | strip %}
 
-  <title>{{ title }}</title>
+  <title>{{ title_raw | xml_escape }}</title>
 
   {% capture author %}
     {%- if page.author -%}
@@ -44,19 +68,22 @@
   <meta name="author" content="{{ author }}">
   {% endif %}
 
-  <meta name="description" content="{{ description }}">
+  <meta name="description" content="{{ description_raw | xml_escape }}">
 
   {% if site.mobile-theme-col %}
   <meta name="theme-color" content="{{ site.mobile-theme-col }}">
   {% endif %}
 
-  {% if site.keywords %}
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords }}">
+  {% elsif site.keywords %}
   <meta name="keywords" content="{{ site.keywords }}">
   {% endif %}
 
-  {% if site.rss-description %}
+  {% if site.rss-description or site.description %}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
   {% endif %}
+  <link rel="alternate" type="text/plain" title="LLM index" href="{{ '/llms.txt' | absolute_url }}">
 
   {% include gtag.html %}
   {% include gtm_head.html %}
@@ -119,8 +146,9 @@
   {%- endcapture -%}
   {%- assign img=img | strip -%}
 
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="{{ description }}">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:title" content="{{ title_raw | xml_escape }}">
+  <meta property="og:description" content="{{ description_raw | xml_escape }}">
 
   {% if img != "" %}
   <meta property="og:image" content="{{ img | absolute_url }}">
@@ -145,11 +173,13 @@
   {% else %}
   <meta name="twitter:card" content="summary">
   {% endif %}
+  {% if site.social-network-links.twitter %}
   <meta name="twitter:site" content="@{{ site.social-network-links.twitter }}">
   <meta name="twitter:creator" content="@{{ site.social-network-links.twitter }}">
+  {% endif %}
 
-  <meta property="twitter:title" content="{{ title }}">
-  <meta property="twitter:description" content="{{ description }}">
+  <meta property="twitter:title" content="{{ title_raw | xml_escape }}">
+  <meta property="twitter:description" content="{{ description_raw | xml_escape }}">
 
   {% if img != "" %}
   <meta name="twitter:image" content="{{ img | absolute_url }}">
@@ -165,6 +195,8 @@
   {% if favicon_exists == 1 %}
   <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" />
   {% endif %}
+
+  {% include json-ld.html %}
 
   {% if page.head-extra %}
     {% for file in page.head-extra %}

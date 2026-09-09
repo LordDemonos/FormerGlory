@@ -1,0 +1,26 @@
+---
+layout: null
+permalink: /llms-full.txt
+---
+# Former Glory
+
+> Full page list for Former Glory on Project Quarm (EverQuest).
+
+Shorter curated index: [llms.txt]({{ '/llms.txt' | absolute_url }})
+
+## Guild
+
+- [Home]({{ '/' | absolute_url }}): {{ site.description }}
+- [About Former Glory]({{ '/aboutme/' | absolute_url }}): Guild charter
+- [Raid schedule]({{ '/raids/' | absolute_url }}): Raid nights and MOTD
+- [Raid loot]({{ '/raid-loot/' | absolute_url }}): Classic through Planes of Power drop tables
+- [Alternate Advancement]({{ '/aa/' | absolute_url }}): AA abilities on Project Quarm
+- [Spell focus items]({{ '/focus/' | absolute_url }}): Foci by class, slot, and spell level
+- [GINA guide]({{ '/gina/' | absolute_url }}): Raid triggers for GINA
+- [EQLogParser guide]({{ '/eqlp/' | absolute_url }}): Raid triggers for EQLogParser
+- [PQ Companion guide]({{ '/pq-companion/' | absolute_url }}): Trigger packs for PQ Companion
+- [Strategy index]({{ '/strategy/' | absolute_url }}): Boss guides by expansion
+
+## Strategy
+{% assign guides = site.pages | where_exp: "p", "p.path contains 'strategy/'" | sort: "title" %}{% for p in guides %}{% if p.title %}
+- [{{ p.title | strip_html }}]({{ p.url | absolute_url }}){% if p.subtitle %}: {{ p.subtitle | strip_html }}{% endif %}{% endif %}{% endfor %}

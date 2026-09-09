@@ -21,6 +21,9 @@ discord_url: "https://discord.gg/avMS4JSxrp"
 # Name of website
 title: Former Glory
 
+# Used for meta descriptions, RSS, and JSON-LD when a page has no description of its own
+description: "Raid strategy, loot, AAs, and triggers for Former Glory, a Project Quarm EverQuest guild."
+
 # Your name to show in the footer
 author: Xanax
 
@@ -149,7 +152,7 @@ edit_page_button: true
 navbar-var-length: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Project Quarm, EverQuest, raid strategy, Former Glory, Planes of Power"
 
 ######################################
 # --- Colours / background image --- #

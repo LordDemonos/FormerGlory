@@ -1,0 +1,21 @@
+---
+layout: null
+sitemap: false
+---
+# Search and AI crawlers are welcome. Strategy guides are the citable pages.
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: {{ "/sitemap.xml" | absolute_url }}

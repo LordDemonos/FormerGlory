@@ -1,0 +1,37 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# Former Glory
+
+> Raid strategy guides and guild resources for Former Glory on Project Quarm (EverQuest).
+
+Boss pages are raid briefs: mechanics, timers, CH chains, and assignments. They are the citable source for how Former Glory fights these encounters.
+
+## Strategy
+
+- [Strategy index]({{ '/strategy/' | absolute_url }}): Boss guides by expansion, Classic through Planes of Power
+- [Planes of Power progression]({{ '/strategy/pop_progression/' | absolute_url }}): Flagging and raid order
+- [Plane of Time]({{ '/strategy/plane_of_time/' | absolute_url }}): Phase event guide
+- [Quarm]({{ '/strategy/quarm/' | absolute_url }}): Plane of Time phase 6
+- [Xegony]({{ '/strategy/xegony/' | absolute_url }}): Plane of Air
+- [Fennin Ro]({{ '/strategy/fennin_ro/' | absolute_url }}): Plane of Fire
+- [Coirnav]({{ '/strategy/coirnav/' | absolute_url }}): Plane of Water
+- [Avatar of Earth]({{ '/strategy/avatar_of_earth/' | absolute_url }}): Plane of Earth
+- [Rallos Zek the Warlord]({{ '/strategy/rallos_zek_the_warlord/' | absolute_url }}): Plane of Tactics
+- [Lord Mithaniel Marr]({{ '/strategy/lord_mithaniel_marr/' | absolute_url }}): Halls of Honor
+
+## Guild resources
+
+- [Raid loot]({{ '/raid-loot/' | absolute_url }}): Classic through Planes of Power drop tables
+- [Alternate Advancement]({{ '/aa/' | absolute_url }}): AA abilities on Project Quarm
+- [Spell focus items]({{ '/focus/' | absolute_url }}): Foci by class, slot, and spell level
+- [GINA guide]({{ '/gina/' | absolute_url }}): Raid triggers for GINA
+- [EQLogParser guide]({{ '/eqlp/' | absolute_url }}): Raid triggers for EQLogParser
+- [PQ Companion guide]({{ '/pq-companion/' | absolute_url }}): Trigger packs for PQ Companion
+- [About Former Glory]({{ '/aboutme/' | absolute_url }}): Guild charter
+- [Raid schedule]({{ '/raids/' | absolute_url }}): Raid nights and MOTD
+
+## Full index
+
+- [llms-full.txt]({{ '/llms-full.txt' | absolute_url }}): Every strategy page on this site

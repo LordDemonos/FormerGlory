@@ -2,7 +2,7 @@
 layout: page
 title: About Former Glory
 cover-img: /assets/img/fg.webp
-subtitle: A Relaxed EverQuest Guild for Friends and Adventure
+subtitle: A relaxed Project Quarm EverQuest guild for friends and adventure
 ---
 
 # Former Glory Guild Charter

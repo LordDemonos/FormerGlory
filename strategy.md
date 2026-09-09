@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Strategy Guides
-subtitle: Boss fight strategies and information
+subtitle: Project Quarm raid strategies from Classic through Planes of Power
 cover-img: /assets/img/strategy.webp
 ---
 
