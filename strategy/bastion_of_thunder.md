@@ -44,6 +44,42 @@ Hold **Symbol of Torden** on your cursor and click the statue. Your raid or grou
 
 Hold **Enchanted Ring of Torden** on your cursor and click a wing door to port your group (100 range) while you farm spheres.
 
+## Tower nameds
+
+They respawn in **6 hours**.
+
+**[Auliffe Chaoswind](/strategy/auliffe_chaoswind)** (300k, hits 876). Flurry. Dual Wield. **Reverse Slow**.
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-auliffe-chaoswind">&lt;Auliffe Chaoswind&gt; - CH Chain: 4sec, Hits 876, Flurry, Dual Wield, Reverse Slow, Poison Immune (PR 1000), Procs: Cyclone (Single target, Stun (1.0 sec) + Decrease Hitpoints by 200 per tick + Increase Agro Multiplier by 95%, Magic (-150), 18.0s recast), 300k HP</pre><button class="copy-button" onclick="copyText('copy-box-auliffe-chaoswind')">Copy to Clipboard</button></div>
+
+**[Brynju Thunderclap](/strategy/brynju_thunderclap)** (330k, hits 876). Rampage. Dual Wield. **Slowable** (50% mit).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-brynju-thunderclap">&lt;Brynju Thunderclap&gt; - CH Chain: 4sec, 6sec slowed, Hits 876, Rampage, Dual Wield, Double Attack, Slowable (50% mit), Fire Immune (FR 1000), Procs: Thunder Call (Area of effect around the target, Stun (0.5 sec) + Decrease Hitpoints by 1000 + Increase Mana by 200, Magic (-300), 0.0s recast), 330k HP</pre><button class="copy-button" onclick="copyText('copy-box-brynju-thunderclap')">Copy to Clipboard</button></div>
+
+**[Eindride Icestorm](/strategy/eindride_icestorm)** (300k, hits 876). Flurry. Dual Wield. **Slowable** (50% mit).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-eindride-icestorm">&lt;Eindride Icestorm&gt; - CH Chain: 4sec, 6sec slowed, Hits 876, Flurry, Dual Wield, Slowable (50% mit), Cold Immune (CR 1000), Procs: Deluge (Single target, Decrease Hitpoints by 500 + Stun (1.0 sec), Cold (0), 22.0s recast), 300k HP</pre><button class="copy-button" onclick="copyText('copy-box-eindride-icestorm')">Copy to Clipboard</button></div>
+
+**[Kuanbyr Hailstorm](/strategy/kuanbyr_hailstorm)** (330k, hits 876). Rampage. Dual Wield. **Slowable** (50% mit).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-kuanbyr-hailstorm">&lt;Kuanbyr Hailstorm&gt; - CH Chain: 4sec, 6sec slowed, Hits 876, Rampage, Dual Wield, Slowable (50% mit), Disease Immune (DR 1000), Procs: Stone Gale (Area of effect around the target, Decrease Hitpoints by 1500 + Stun (2.0 sec), Unresistable (0), 0.0s recast), 330k HP</pre><button class="copy-button" onclick="copyText('copy-box-kuanbyr-hailstorm')">Copy to Clipboard</button></div>
+
+**[Laef Windfall](/strategy/laef_windfall)** (80k, hits 784). **Reverse Slow**.
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-laef-windfall">&lt;Laef Windfall&gt; - CH Chain: 4sec, Hits 784, Reverse Slow, Poison Immune (PR 1000), Procs: Tornado (Single target, Stun (1.0 sec) + Decrease Hitpoints by 200 per tick, Magic (-100), 18.0s recast), 80k HP</pre><button class="copy-button" onclick="copyText('copy-box-laef-windfall')">Copy to Clipboard</button></div>
+
+**[Gaukr Sandstorm](/strategy/gaukr_sandstorm)** (80k, hits 784). **Slowable** (50% mit).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-gaukr-sandstorm">&lt;Gaukr Sandstorm&gt; - CH Chain: 4sec, 6sec slowed, Hits 784, Slowable (50% mit), Disease Immune (DR 1000), Procs: Stone Gale (Area of effect around the target, Decrease Hitpoints by 1500 + Stun (2.0 sec), Unresistable (0), 0.0s recast), 80k HP</pre><button class="copy-button" onclick="copyText('copy-box-gaukr-sandstorm')">Copy to Clipboard</button></div>
+
+**[Oreen Wavecrasher](/strategy/oreen_wavecrasher)** (80k, hits 784). **Slowable** (50% mit).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-oreen-wavecrasher">&lt;Oreen Wavecrasher&gt; - CH Chain: 4sec, 6sec slowed, Hits 784, Slowable (50% mit), Cold Immune (CR 1000), 80k HP</pre><button class="copy-button" onclick="copyText('copy-box-oreen-wavecrasher')">Copy to Clipboard</button></div>
+
+**[Hreidar Lynhillig](/strategy/hreidar_lynhillig)** (80k, hits 784). **Slowable** (50% mit).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-hreidar-lynhillig">&lt;Hreidar Lynhillig&gt; - CH Chain: 4sec, 6sec slowed, Hits 784, Slowable (50% mit), Fire Immune (FR 1000), Procs: Thunder Call (Area of effect around the target, Stun (0.5 sec) + Decrease Hitpoints by 1000 + Increase Mana by 200, Magic (-300), 0.0s recast), 80k HP</pre><button class="copy-button" onclick="copyText('copy-box-hreidar-lynhillig')">Copy to Clipboard</button></div>
+
 ## Phase 1
 
 **[Evynd Firestorm](/strategy/evynd_firestorm)** is up on zone-in with three firestorm portals. Kite or offtank Evynd. Kill the portals and firestorm elementals first, then kill him. Portals recast every **120 seconds**.

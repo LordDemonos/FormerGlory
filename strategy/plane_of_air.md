@@ -34,6 +34,30 @@ All four Avatars are **Slowable** (25% mit). AE Rampage. Dual Wield. Hits 2060. 
 
 ![Baltaldor-the-Cursed](/assets/img/Baltaldor-the-Cursed.jpg)
 
+## Outdoor nameds
+
+**[Queen Silandria](/strategy/queen_silandria)** (280k, hits 1540). AE Rampage. Dual Wield. **Unslowable**. Loot includes **Scintillating Feather Mask**.
+
+**Crushing Fist of the Wind** is a proc (Single, Levitate + SpinStun + 500, Unresistable).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-silandria">&lt;Queen Silandria&gt; - CH Chain: 2sec, Hits 1540, AE Rampage, Dual Wield, Double Attack, Immune to Slow, Procs: Crushing Fist of the Wind (Single, Levitate + SpinStun + 500, Unresistable), 280k HP</pre><button class="copy-button" onclick="copyText('copy-box-silandria')">Copy to Clipboard</button></div>
+
+**[Arch Mage Alchtonion](/strategy/arch_mage_alchtonion)** (175k, hits 1312). AE Rampage. **Slowable** (25% mit). Wizard AEs. Interrupt the AEs.
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-alchtonion">&lt;Arch Mage Alchtonion&gt; - CH Chain: 4sec, 6sec slowed, Hits 1312, AE Rampage, Slowable (25% mit), Casts: Elnerick's Entombment of Ice (Single, 303 (L39) to 355 (L65) + Root, Cold -10, 3.5s recast); Atol's Spectral Shackles (Targeted AE, Decrease Movement by 60%, Magic 0, 2.25s recast); Inferno of Al'Kabor (Targeted AE, 750 (L53) to 800 (L58), Fire -10, 9s recast); Pillar of Flame (Targeted AE, 937 (L57) to 952 (L60), Fire -10, 6s recast); Invert Gravity (Targeted AE, 368 (L59) to 380 (L65) + Toss Up by 350, Magic 0, 12s recast); Greater Fetter (Single, Root, Magic -30, 2.25s recast), plus wizard nukes/roots/lures, 175k HP</pre><button class="copy-button" onclick="copyText('copy-box-alchtonion')">Copy to Clipboard</button></div>
+
+**[Gakamenial Fir`Disralsi](/strategy/gakamenial_fir_disralsi)** (265k, hits 1462). AE Rampage. Dual Wield. **Unslowable**. Loot includes **Exquisite Leather Cap**.
+
+**Lava Breath** is a Targeted AE (500 + Cancel Magic, Fire 0, 12s recast). **Manastorm** is a proc (PBAE, 600 + Decrease Mana by 200, Magic 0, 36s recast).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-gakamenial">&lt;Gakamenial Fir`Disralsi&gt; - CH Chain: 2sec, Hits 1462, AE Rampage, Dual Wield, Immune to Slow, Casts: Lava Breath (Targeted AE, 500 + Cancel Magic (9), Fire 0, 12s recast), Procs: Manastorm (PBAE, 600 + Decrease Mana by 200, Magic 0, 36s recast), 265k HP</pre><button class="copy-button" onclick="copyText('copy-box-gakamenial')">Copy to Clipboard</button></div>
+
+**[Rinturion Windblade](/strategy/rinturion_windblade)** (306k, hits 1686). Rampage. Dual Wield. **Slowable** (25% mit). Loot includes **Sparkling Satin Pantaloons**.
+
+**Blade Frenzy** is a proc (PBAE, Stun 10s + Stamina by 100, Magic 0, 40s recast).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-rinturion">&lt;Rinturion Windblade&gt; - CH Chain: 2sec, 3sec slowed, Hits 1686, Rampage, Dual Wield, Slowable (25% mit), Procs: Blade Frenzy (PBAE, Stun (10.0 sec) + Stamina by 100, Magic 0, 40s recast), 306k HP</pre><button class="copy-button" onclick="copyText('copy-box-rinturion')">Copy to Clipboard</button></div>
+
 ## Muzlakh the Chosen
 
 At the rainbow landing. Be ready when you click up.

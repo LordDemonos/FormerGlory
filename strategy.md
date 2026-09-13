@@ -1097,6 +1097,12 @@ cover-img: /assets/img/strategy.webp
       <li>Level 70 Terris Thule Warrior</li>
     </ul>
   </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="mujaki_the_devourer">Mujaki the Devourer</a> · <a href="/raid-loot#mujaki-the-devourer">Loot</a></li>
+      <li>Level 70 Soul Devourer Warrior</li>
+    </ul>
+  </div>
 </div>
 <h4><a href="https://www.pqdi.cc/zone/206" target="_blank">Plane of Innovation</a></h4>
 <div class="card-container">
@@ -1142,6 +1148,42 @@ cover-img: /assets/img/strategy.webp
     <ul>
       <li><a href="plane_of_storms">Plane of Storms</a></li>
       <li>Event Guide</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="faruek_the_bold">Faruek the Bold</a> · <a href="/raid-loot#faruek-the-bold">Loot</a></li>
+      <li>Level 65 Giant Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="paruek_the_strong">Paruek the Strong</a> · <a href="/raid-loot#paruek-the-strong">Loot</a></li>
+      <li>Level 65 Giant Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="laruken_the_rigid">Laruken the Rigid</a> · <a href="/raid-loot#laruken-the-rigid">Loot</a></li>
+      <li>Level 65 Giant Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="zertuken_the_unyielding">Zertuken the Unyielding</a> · <a href="/raid-loot#zertuken-the-unyielding">Loot</a></li>
+      <li>Level 65 Giant Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="pendubk_the_turbulent">Pendubk the Turbulent</a> · <a href="/raid-loot#pendubk-the-turbulent">Loot</a></li>
+      <li>Level 65 Giant Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="solnebk_the_unruly">Solnebk the Unruly</a> · <a href="/raid-loot#solnebk-the-unruly">Loot</a></li>
+      <li>Level 65 Giant Warrior</li>
     </ul>
   </div>
   <div class="card dragon">
@@ -1261,6 +1303,54 @@ cover-img: /assets/img/strategy.webp
     <ul>
       <li><a href="bastion_of_thunder">Bastion of Thunder</a></li>
       <li>Event Guide</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="auliffe_chaoswind">Auliffe Chaoswind</a> · <a href="/raid-loot#auliffe-chaoswind">Loot</a></li>
+      <li>Level 67 Giant Cleric</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="brynju_thunderclap">Brynju Thunderclap</a> · <a href="/raid-loot#brynju-thunderclap">Loot</a></li>
+      <li>Level 67 Giant Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="eindride_icestorm">Eindride Icestorm</a> · <a href="/raid-loot#eindride-icestorm">Loot</a></li>
+      <li>Level 67 Giant Cleric</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="kuanbyr_hailstorm">Kuanbyr Hailstorm</a> · <a href="/raid-loot#kuanbyr-hailstorm">Loot</a></li>
+      <li>Level 67 Giant Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="laef_windfall">Laef Windfall</a> · <a href="/raid-loot#laef-windfall">Loot</a></li>
+      <li>Level 65 Giant Cleric</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="gaukr_sandstorm">Gaukr Sandstorm</a> · <a href="/raid-loot#gaukr-sandstorm">Loot</a></li>
+      <li>Level 65 Giant Cleric</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="oreen_wavecrasher">Oreen Wavecrasher</a> · <a href="/raid-loot#oreen-wavecrasher">Loot</a></li>
+      <li>Level 65 Giant Cleric</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="hreidar_lynhillig">Hreidar Lynhillig</a> · <a href="/raid-loot#hreidar-lynhillig">Loot</a></li>
+      <li>Level 65 Giant Cleric</li>
     </ul>
   </div>
   <div class="card dragon">
@@ -1490,6 +1580,66 @@ cover-img: /assets/img/strategy.webp
       <li>Level 80 Fennin Ro Warrior</li>
     </ul>
   </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="arch_mage_yozanni">Arch Mage Yozanni</a> · <a href="/raid-loot#arch-mage-yozanni">Loot</a></li>
+      <li>Level 78 Efreeti Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="babnoxis_the_spider_queen">Babnoxis the Spider Queen</a> · <a href="/raid-loot#babnoxis-the-spider-queen">Loot</a></li>
+      <li>Level 75 Arachnid Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="blazzax_the_omnifiend">Blazzax the Omnifiend</a> · <a href="/raid-loot#blazzax-the-omnifiend">Loot</a></li>
+      <li>Level 78 Fiend Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="criare_sunmane">Criare Sunmane</a> · <a href="/raid-loot#criare-sunmane">Loot</a></li>
+      <li>Level 75 Phoenix Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="general_druav_flamesinger">General Druav Flamesinger</a> · <a href="/raid-loot#general-druav-flamesinger">Loot</a></li>
+      <li>Level 75 Solusek Ro Guard Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="general_reparm">General Reparm</a> · <a href="/raid-loot#general-reparm">Loot</a></li>
+      <li>Level 78 Solusek Ro Guard Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="jaxoliz_dawneyes">Jaxoliz Dawneyes</a> · <a href="/raid-loot#jaxoliz-dawneyes">Loot</a></li>
+      <li>Level 75 Phoenix Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="magmaton">Magmaton</a> · <a href="/raid-loot#magmaton">Loot</a></li>
+      <li>Level 75 Golem Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="pyronis">Pyronis</a> · <a href="/raid-loot#pyronis">Loot</a></li>
+      <li>Level 75 Poison Frog Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="quavonis_firetail">Quavonis Firetail</a> · <a href="/raid-loot#quavonis-firetail">Loot</a></li>
+      <li>Level 78 Phoenix Warrior</li>
+    </ul>
+  </div>
 </div>
 <h4><a href="https://www.pqdi.cc/zone/215" target="_blank">Plane of Air</a></h4>
 <div class="card-container">
@@ -1503,6 +1653,30 @@ cover-img: /assets/img/strategy.webp
     <ul>
       <li><a href="baltaldor_the_cursed">Baltaldor the Cursed</a> · <a href="/raid-loot#baltaldor-the-cursed">Loot</a></li>
       <li>Level 67 Stormrider Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="queen_silandria">Queen Silandria</a> · <a href="/raid-loot#queen-silandria">Loot</a></li>
+      <li>Level 68 Nilborien Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="arch_mage_alchtonion">Arch Mage Alchtonion</a> · <a href="/raid-loot#arch-mage-alchtonion">Loot</a></li>
+      <li>Level 65 Nilborien Wizard</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="gakamenial_fir_disralsi">Gakamenial Fir`Disralsi</a> · <a href="/raid-loot#gakamenial-fir-disralsi">Loot</a></li>
+      <li>Level 67 Phoenix Warrior</li>
+    </ul>
+  </div>
+  <div class="card dragon">
+    <ul>
+      <li><a href="rinturion_windblade">Rinturion Windblade</a> · <a href="/raid-loot#rinturion-windblade">Loot</a></li>
+      <li>Level 70 Efreeti Warrior</li>
     </ul>
   </div>
   <div class="card dragon">

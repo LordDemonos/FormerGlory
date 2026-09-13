@@ -92,3 +92,64 @@ He is **Reverse Slow**. Do not slow him. AE Rampage. Dual Wield. Hits 1962. Atta
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box-fennin">&lt;Fennin Ro the Tyrant of Fire&gt; - CH Chain: 2sec, Hits 1962, AE Rampage, Dual Wield, Reverse Slow, Tank corner of steps, Keep off idle elites, Melee max range, Casts: Cataclysm of Ro (PBAE, 3000 DD + 100 HP/tick + 100 mana/tick, Fire -700, 18 curse, 60s recast), 1M HP</pre><button class="copy-button" onclick="copyText('copy-box-fennin')">Copy to Clipboard</button></div>
 
 Hail the Planar Projection. Loot **Globe of Dancing Flame**.
+
+## Outdoor nameds
+
+**[Arch Mage Yozanni](/strategy/arch_mage_yozanni)** (800k, hits 2968). Dual Wield. **Slowable** (85% mit). Fire Immune (FR 1000).
+
+**Disjunction of Flame** is a PBAE (250 mana/tick + AC/ATK down, Fire -350, 60s recast).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-yozanni">&lt;Arch Mage Yozanni&gt; - CH Chain: 1sec, 2sec slowed, Hits 2968, Dual Wield, Slowable (85% mit), Fire Immune (FR 1000), Casts: Disjunction of Flame (PBAE, Decrease Mana by 250 per tick (total 2500) + Decrease AC for Cloth Casters by 590, Everyone else by 442 + Decrease ATK by 200, Fire -350, 60s recast), 800k HP</pre><button class="copy-button" onclick="copyText('copy-box-yozanni')">Copy to Clipboard</button></div>
+
+**[Babnoxis the Spider Queen](/strategy/babnoxis_the_spider_queen)** (625k, hits 2107). Flurry. Dual Wield. **Slowable** (90% mit). Fire Immune (FR 1000). Poison Immune (PR 1000).
+
+**Poisoned Flames** is a PBAE (Poison Counter 18 + 500/tick + 125 mana/tick, Poison -350, 30s recast).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-babnoxis">&lt;Babnoxis the Spider Queen&gt; - CH Chain: 1sec, 2sec slowed, Hits 2107, Flurry, Dual Wield, Slowable (90% mit), Fire Immune (FR 1000), Poison Immune (PR 1000), Casts: Poisoned Flames (PBAE, Increase Poison Counter by 18 + 500 per tick + Decrease Mana by 125 per tick (total 3750), Poison -350, 30s recast), 625k HP</pre><button class="copy-button" onclick="copyText('copy-box-babnoxis')">Copy to Clipboard</button></div>
+
+**[Blazzax the Omnifiend](/strategy/blazzax_the_omnifiend)** (850k, hits 3540). Dual Wield. **Slowable** (90% mit). Fire Immune (FR 1000).
+
+**Nova Inferno** is a PBAE (2000 DD, Fire -350, 30s recast).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-blazzax">&lt;Blazzax the Omnifiend&gt; - CH Chain: 1sec, 2sec slowed, Hits 3540, Dual Wield, Slowable (90% mit), Fire Immune (FR 1000), Casts: Nova Inferno (PBAE, 2000, Fire -350, 30s recast), 850k HP</pre><button class="copy-button" onclick="copyText('copy-box-blazzax')">Copy to Clipboard</button></div>
+
+**[Criare Sunmane](/strategy/criare_sunmane)** (625k, hits 2317). Dual Wield. **Slowable** (85% mit). Fire Immune (FR 1000).
+
+**Phoenix Charm** is a single (Charm + 2000 HP + 80% haste, Unresistable, 120s recast).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-criare">&lt;Criare Sunmane&gt; - CH Chain: 1sec, 2sec slowed, Hits 2317, Dual Wield, Slowable (85% mit), Fire Immune (FR 1000), Casts: Phoenix Charm (Single, Charm up to level 0 + Increase Max Hitpoints by 2000 + Increase Attack Speed by 80%, Unresistable, 120s recast), 625k HP</pre><button class="copy-button" onclick="copyText('copy-box-criare')">Copy to Clipboard</button></div>
+
+**[General Druav Flamesinger](/strategy/general_druav_flamesinger)** (600k, hits 2264). Dual Wield. **Slowable** (85% mit). Fire Immune (FR 1000).
+
+**Fiery Strike** is a proc (Single, 3000 DD + 5s stun, Fire -350, 60s recast).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-druav">&lt;General Druav Flamesinger&gt; - CH Chain: 1sec, 2sec slowed, Hits 2264, Dual Wield, Slowable (85% mit), Fire Immune (FR 1000), Procs: Fiery Strike (Single, 3000 + Stun (5.0 sec), Fire -350, 60s recast), 600k HP</pre><button class="copy-button" onclick="copyText('copy-box-druav')">Copy to Clipboard</button></div>
+
+**[General Reparm](/strategy/general_reparm)** (850k, hits 3174). Dual Wield. **Unslowable**. Fire Immune (FR 1000).
+
+**Fiery Strike** is a proc (Single, 3000 DD + 5s stun, Fire -350, 60s recast).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-reparm">&lt;General Reparm&gt; - CH Chain: 1sec, Hits 3174, Dual Wield, Immune to Slow, Fire Immune (FR 1000), Procs: Fiery Strike (Single, 3000 + Stun (5.0 sec), Fire -350, 60s recast), 850k HP</pre><button class="copy-button" onclick="copyText('copy-box-reparm')">Copy to Clipboard</button></div>
+
+**[Jaxoliz Dawneyes](/strategy/jaxoliz_dawneyes)** (625k, hits 2698). Dual Wield. **Slowable** (90% mit). Fire Immune (FR 1000).
+
+**Phoenix Charm** is a single (Charm + 2000 HP + 80% haste, Unresistable, 120s recast).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-jaxoliz">&lt;Jaxoliz Dawneyes&gt; - CH Chain: 1sec, 2sec slowed, Hits 2698, Dual Wield, Slowable (90% mit), Fire Immune (FR 1000), Casts: Phoenix Charm (Single, Charm up to level 0 + Increase Max Hitpoints by 2000 + Increase Attack Speed by 80%, Unresistable, 120s recast), 625k HP</pre><button class="copy-button" onclick="copyText('copy-box-jaxoliz')">Copy to Clipboard</button></div>
+
+**[Magmaton](/strategy/magmaton)** (800k, hits 2929). AE Rampage. Dual Wield. **Slowable** (65% mit). Fire Immune (FR 1000).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-magmaton">&lt;Magmaton&gt; - CH Chain: 1sec, 2sec slowed, Hits 2929, AE Rampage, Dual Wield, Slowable (65% mit), Fire Immune (FR 1000), 800k HP</pre><button class="copy-button" onclick="copyText('copy-box-magmaton')">Copy to Clipboard</button></div>
+
+**[Pyronis](/strategy/pyronis)** (650k, hits 2650). Dual Wield. **Slowable** (95% mit). Fire Immune (FR 1000).
+
+**Mighty Bellow of Fire** is a PBAE (1500 DD + 1s stun, Fire -350, 60s recast).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-pyronis">&lt;Pyronis&gt; - CH Chain: 1sec, 2sec slowed, Hits 2650, Dual Wield, Slowable (95% mit), Fire Immune (FR 1000), Casts: Mighty Bellow of Fire (PBAE, 1500 + Stun (1.0 sec), Fire -350, 60s recast), 650k HP</pre><button class="copy-button" onclick="copyText('copy-box-pyronis')">Copy to Clipboard</button></div>
+
+**[Quavonis Firetail](/strategy/quavonis_firetail)** (825k, hits 3300). Dual Wield. **Slowable** (80% mit). Fire Immune (FR 1000).
+
+**Juxtapose of Fire** is a PBAE (1 DD + Shadowstep, Fire -350, 24s recast).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-quavonis">&lt;Quavonis Firetail&gt; - CH Chain: 1sec, 2sec slowed, Hits 3300, Dual Wield, Slowable (80% mit), Fire Immune (FR 1000), Casts: Juxtapose of Fire (PBAE, 1 + Shadowstep, Fire -350, 24s recast), 825k HP</pre><button class="copy-button" onclick="copyText('copy-box-quavonis')">Copy to Clipboard</button></div>
+

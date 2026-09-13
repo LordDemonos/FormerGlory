@@ -34,3 +34,12 @@ Loot the Dagger Blade Shard from the construct and give it to Thelin. Hail Theli
 Zone into The Lair of Terris-Thule and kill **[Terris-Thule](/strategy/terris_thule)**. She respawns in **2 days and 18 hours**. Keep the fight in her chamber. Dream defilers spawn at 79% and 69%. Direption of Dreams (unresistable PBAE dispel) at 50%. Four gargoyles at 40%. Hail the Planar Projection, then hail Elder Poxbourne in Plane of Tranquility.
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box-terris">&lt;Terris-Thule&gt; - CH Chain: 2sec, 3sec slowed, Hits 977, Flurry, Dual Wield, Slowable (75% mit), Procs: Touch of Night (Single, 720 lifetap, Magic -200), Casts: Direption of Dreams (PBAE, mass dispel, Unresistable) at 50%, 450k HP</pre><button class="copy-button" onclick="copyText('copy-box-terris')">Copy to Clipboard</button></div>
+
+## Mujaki the Devourer
+
+Find **Etumer** in the southeast gargoyle city. Hail, **brother**, **perhaps**. Group leaders say **I am ready**. **24** players. Waves start **5 minutes** after the first port. Kill adds before they reach the stage. After **36** adds, **[Mujaki the Devourer](/strategy/mujaki_the_devourer)** goes live (400k, hits 843). He respawns in **2 days and 18 hours**. **Always Calls for Help**. **Slowable**. Loot includes **Recurved Wormwood Bow** (10%).
+
+**Instill Nightmare** is a cast (Single, Fear up to level 52, Magic -300, 24s recast). **Devouring Nightmare** is a proc (PBAE, 150 DD, Unresistable, 24s recast).
+
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-mujaki">&lt;Mujaki the Devourer&gt; - CH Chain: 4sec, 6sec slowed, Hits 843, Always Calls for Help, Corpse Camper, Slowable, Poison Immune (PR 1000), Disease Immune (DR 1000), Casts: Instill Nightmare (Single, Fear up to level 52, Magic -300, 24s recast), Procs: Devouring Nightmare (PBAE, 150 DD, Unresistable, 24s recast), 400k HP</pre><button class="copy-button" onclick="copyText('copy-box-mujaki')">Copy to Clipboard</button></div>
+

@@ -42644,6 +42644,95 @@
                   ]
                 }
               ]
+            },
+            {
+              "id": "mujaki-the-devourer",
+              "name": "Mujaki the Devourer",
+              "npc_id": 204039,
+              "level": 70,
+              "hp": "400,000",
+              "class": "Soul Devourer Warrior",
+              "strategy": "/strategy/mujaki_the_devourer",
+              "tables": [
+                {
+                  "id": "3915",
+                  "label": "Mujaki the Devourer",
+                  "summary": "100%",
+                  "items": [
+                    {
+                      "id": 5742,
+                      "name": "Earring of Twisted Visions",
+                      "chance": 33.3,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 15830,
+                      "name": "Hooded Shroud",
+                      "chance": 33.3,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM",
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 15845,
+                      "name": "Cloak of Daggers",
+                      "chance": 33.3,
+                      "classes": [
+                        "WAR",
+                        "PAL",
+                        "RNG",
+                        "SHD",
+                        "MNK",
+                        "BRD",
+                        "ROG",
+                        "BST"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                },
+                {
+                  "id": "recurved-wormwood-bow",
+                  "label": "Recurved Wormwood Bow",
+                  "summary": "10%",
+                  "independent": true,
+                  "items": [
+                    {
+                      "id": 27700,
+                      "name": "Recurved Wormwood Bow",
+                      "chance": 10,
+                      "classes": [
+                        "WAR",
+                        "PAL",
+                        "RNG",
+                        "SHD",
+                        "ROG"
+                      ],
+                      "table_chance": 10,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -43078,6 +43167,503 @@
           "name": "Plane of Storms",
           "zone_id": 210,
           "bosses": [
+            {
+              "id": "faruek-the-bold",
+              "name": "Faruek the Bold",
+              "npc_id": 210029,
+              "level": 65,
+              "hp": "177,000",
+              "class": "Giant Warrior",
+              "strategy": "/strategy/faruek_the_bold",
+              "tables": [
+                {
+                  "id": "2198",
+                  "label": "postorms mini boss loot",
+                  "summary": "25% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 4324,
+                      "name": "Crashing Wave Earring",
+                      "chance": 8.3,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 26213,
+                      "name": "Waning Light Katar",
+                      "chance": 8.3,
+                      "classes": [
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 26863,
+                      "name": "Tome of the Wind's Wisdom",
+                      "chance": 8.3,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM",
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                },
+                {
+                  "id": "115288",
+                  "label": "Ethereal+Spectral 25%",
+                  "summary": "100% \u00b7 0 to 2 drops",
+                  "items": [
+                    {
+                      "id": 29112,
+                      "name": "Ethereal Parchment",
+                      "chance": 25,
+                      "classes": [],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29131,
+                      "name": "Spectral Parchment",
+                      "chance": 25,
+                      "classes": [],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                }
+              ]
+            },
+            {
+              "id": "paruek-the-strong",
+              "name": "Paruek the Strong",
+              "npc_id": 210028,
+              "level": 65,
+              "hp": "177,000",
+              "class": "Giant Warrior",
+              "strategy": "/strategy/paruek_the_strong",
+              "tables": [
+                {
+                  "id": "2198",
+                  "label": "postorms mini boss loot",
+                  "summary": "25% \u00b7 0 to 3 drops",
+                  "items": [
+                    {
+                      "id": 4324,
+                      "name": "Crashing Wave Earring",
+                      "chance": 8.3,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 26213,
+                      "name": "Waning Light Katar",
+                      "chance": 8.3,
+                      "classes": [
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 26863,
+                      "name": "Tome of the Wind's Wisdom",
+                      "chance": 8.3,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM",
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                }
+              ]
+            },
+            {
+              "id": "laruken-the-rigid",
+              "name": "Laruken the Rigid",
+              "npc_id": 210026,
+              "level": 65,
+              "hp": "177,000",
+              "class": "Giant Warrior",
+              "strategy": "/strategy/laruken_the_rigid",
+              "tables": [
+                {
+                  "id": "2198",
+                  "label": "postorms mini boss loot",
+                  "summary": "25% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 4324,
+                      "name": "Crashing Wave Earring",
+                      "chance": 8.3,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 26213,
+                      "name": "Waning Light Katar",
+                      "chance": 8.3,
+                      "classes": [
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 26863,
+                      "name": "Tome of the Wind's Wisdom",
+                      "chance": 8.3,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM",
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                },
+                {
+                  "id": "115288",
+                  "label": "Ethereal+Spectral 25%",
+                  "summary": "100% \u00b7 0 to 2 drops",
+                  "items": [
+                    {
+                      "id": 29112,
+                      "name": "Ethereal Parchment",
+                      "chance": 25,
+                      "classes": [],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29131,
+                      "name": "Spectral Parchment",
+                      "chance": 25,
+                      "classes": [],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                }
+              ]
+            },
+            {
+              "id": "zertuken-the-unyielding",
+              "name": "Zertuken the Unyielding",
+              "npc_id": 210027,
+              "level": 65,
+              "hp": "177,000",
+              "class": "Giant Warrior",
+              "strategy": "/strategy/zertuken_the_unyielding",
+              "tables": [
+                {
+                  "id": "2198",
+                  "label": "postorms mini boss loot",
+                  "summary": "25% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 4324,
+                      "name": "Crashing Wave Earring",
+                      "chance": 8.3,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 26213,
+                      "name": "Waning Light Katar",
+                      "chance": 8.3,
+                      "classes": [
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 26863,
+                      "name": "Tome of the Wind's Wisdom",
+                      "chance": 8.3,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM",
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                },
+                {
+                  "id": "115288",
+                  "label": "Ethereal+Spectral 25%",
+                  "summary": "100% \u00b7 0 to 2 drops",
+                  "items": [
+                    {
+                      "id": 29112,
+                      "name": "Ethereal Parchment",
+                      "chance": 25,
+                      "classes": [],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29131,
+                      "name": "Spectral Parchment",
+                      "chance": 25,
+                      "classes": [],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                }
+              ]
+            },
+            {
+              "id": "pendubk-the-turbulent",
+              "name": "Pendubk the Turbulent",
+              "npc_id": 210032,
+              "level": 65,
+              "hp": "177,000",
+              "class": "Giant Warrior",
+              "strategy": "/strategy/pendubk_the_turbulent",
+              "tables": [
+                {
+                  "id": "2198",
+                  "label": "postorms mini boss loot",
+                  "summary": "25% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 4324,
+                      "name": "Crashing Wave Earring",
+                      "chance": 8.3,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 26213,
+                      "name": "Waning Light Katar",
+                      "chance": 8.3,
+                      "classes": [
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 26863,
+                      "name": "Tome of the Wind's Wisdom",
+                      "chance": 8.3,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM",
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                },
+                {
+                  "id": "115288",
+                  "label": "Ethereal+Spectral 25%",
+                  "summary": "100% \u00b7 0 to 2 drops",
+                  "items": [
+                    {
+                      "id": 29112,
+                      "name": "Ethereal Parchment",
+                      "chance": 25,
+                      "classes": [],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29131,
+                      "name": "Spectral Parchment",
+                      "chance": 25,
+                      "classes": [],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                }
+              ]
+            },
+            {
+              "id": "solnebk-the-unruly",
+              "name": "Solnebk the Unruly",
+              "npc_id": 210033,
+              "level": 65,
+              "hp": "177,000",
+              "class": "Giant Warrior",
+              "strategy": "/strategy/solnebk_the_unruly",
+              "tables": [
+                {
+                  "id": "2198",
+                  "label": "postorms mini boss loot",
+                  "summary": "25% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 4324,
+                      "name": "Crashing Wave Earring",
+                      "chance": 8.3,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 26213,
+                      "name": "Waning Light Katar",
+                      "chance": 8.3,
+                      "classes": [
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 26863,
+                      "name": "Tome of the Wind's Wisdom",
+                      "chance": 8.3,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM",
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 33.3,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                },
+                {
+                  "id": "115288",
+                  "label": "Ethereal+Spectral 25%",
+                  "summary": "100% \u00b7 0 to 2 drops",
+                  "items": [
+                    {
+                      "id": 29112,
+                      "name": "Ethereal Parchment",
+                      "chance": 25,
+                      "classes": [],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29131,
+                      "name": "Spectral Parchment",
+                      "chance": 25,
+                      "classes": [],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                }
+              ]
+            },
             {
               "id": "jeplak-lord-of-srerendi",
               "name": "Jeplak, Lord of Srerendi",
@@ -44504,6 +45090,1341 @@
           "name": "Bastion of Thunder",
           "zone_id": 209,
           "bosses": [
+            {
+              "id": "auliffe-chaoswind",
+              "name": "Auliffe Chaoswind",
+              "npc_id": 209059,
+              "level": 67,
+              "hp": "300,000",
+              "class": "Giant Cleric",
+              "strategy": "/strategy/auliffe_chaoswind",
+              "tables": [
+                {
+                  "id": "6094",
+                  "label": "bothunder vind stuff",
+                  "summary": "100% \u00b7 0 to 3 drops",
+                  "items": [
+                    {
+                      "id": 29912,
+                      "name": "A Wind-Worn Stone",
+                      "chance": 4,
+                      "classes": [],
+                      "table_chance": 4,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29913,
+                      "name": "Pendant of Thunder",
+                      "chance": 3,
+                      "classes": [],
+                      "table_chance": 3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29914,
+                      "name": "Heart of the Windstorm",
+                      "chance": 3,
+                      "classes": [],
+                      "table_chance": 3,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "11440",
+                  "label": "Auliffe Chaoswind",
+                  "summary": "100% \u00b7 2 drops",
+                  "items": [
+                    {
+                      "id": 16348,
+                      "name": "Ornate Leather Tunic Pattern",
+                      "chance": 25,
+                      "classes": [
+                        "DRU",
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 23496,
+                      "name": "Blackblade of the Rain",
+                      "chance": 20,
+                      "classes": [
+                        "PAL"
+                      ],
+                      "table_chance": 20,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 24780,
+                      "name": "Greatstaff of the Four Winds",
+                      "chance": 20,
+                      "classes": [
+                        "WAR",
+                        "PAL",
+                        "RNG",
+                        "SHD",
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 20,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 26747,
+                      "name": "Wand of the Ice Storm",
+                      "chance": 20,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 20,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 27289,
+                      "name": "Stormrider Carapace",
+                      "chance": 15,
+                      "classes": [
+                        "WAR"
+                      ],
+                      "table_chance": 15,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                },
+                {
+                  "id": "39713",
+                  "label": "Fungus Clump x2",
+                  "summary": "40% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 24088,
+                      "name": "Fungus Clump",
+                      "chance": 40,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "96411",
+                  "label": "Spectral Parchment",
+                  "summary": "45% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29131,
+                      "name": "Spectral Parchment",
+                      "chance": 45,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "115474",
+                  "label": "Glyphed Rune Word",
+                  "summary": "45% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29132,
+                      "name": "Glyphed Rune Word",
+                      "chance": 45,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                }
+              ]
+            },
+            {
+              "id": "brynju-thunderclap",
+              "name": "Brynju Thunderclap",
+              "npc_id": 209016,
+              "level": 67,
+              "hp": "330,000",
+              "class": "Giant Warrior",
+              "strategy": "/strategy/brynju_thunderclap",
+              "tables": [
+                {
+                  "id": "6078",
+                  "label": "bothunder brann stuff",
+                  "summary": "100% \u00b7 0 to 3 drops",
+                  "items": [
+                    {
+                      "id": 29906,
+                      "name": "Shard of Pure Energy",
+                      "chance": 5,
+                      "classes": [],
+                      "table_chance": 5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29907,
+                      "name": "Orb of Electricity",
+                      "chance": 2.5,
+                      "classes": [],
+                      "table_chance": 2.5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29908,
+                      "name": "Lightning Encased Signet",
+                      "chance": 2.5,
+                      "classes": [],
+                      "table_chance": 2.5,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "6171",
+                  "label": "Brynju Thunderclap",
+                  "summary": "100% \u00b7 2 drops",
+                  "items": [
+                    {
+                      "id": 9497,
+                      "name": "Cap of Drowned Souls",
+                      "chance": 25,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16291,
+                      "name": "Ornate Chain Tunic Pattern",
+                      "chance": 25,
+                      "classes": [
+                        "RNG",
+                        "ROG",
+                        "SHM"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 24645,
+                      "name": "Wicked Shank",
+                      "chance": 25,
+                      "classes": [
+                        "WAR",
+                        "PAL",
+                        "RNG",
+                        "SHD",
+                        "BRD",
+                        "ROG",
+                        "BST"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 27637,
+                      "name": "Glowing Orb of the Stormwatcher",
+                      "chance": 25,
+                      "classes": [
+                        "CLR",
+                        "PAL",
+                        "RNG",
+                        "SHD",
+                        "DRU",
+                        "BRD",
+                        "SHM",
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC",
+                        "BST"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                },
+                {
+                  "id": "39713",
+                  "label": "Fungus Clump x2",
+                  "summary": "40% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 24088,
+                      "name": "Fungus Clump",
+                      "chance": 40,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "96411",
+                  "label": "Spectral Parchment",
+                  "summary": "45% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29131,
+                      "name": "Spectral Parchment",
+                      "chance": 45,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "115474",
+                  "label": "Glyphed Rune Word",
+                  "summary": "45% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29132,
+                      "name": "Glyphed Rune Word",
+                      "chance": 45,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                }
+              ]
+            },
+            {
+              "id": "eindride-icestorm",
+              "name": "Eindride Icestorm",
+              "npc_id": 209060,
+              "level": 67,
+              "hp": "300,000",
+              "class": "Giant Cleric",
+              "strategy": "/strategy/eindride_icestorm",
+              "tables": [
+                {
+                  "id": "6085",
+                  "label": "BoT vann stuff",
+                  "summary": "100% \u00b7 0 to 4 drops",
+                  "items": [
+                    {
+                      "id": 29768,
+                      "name": "Vann Toes",
+                      "chance": 20,
+                      "classes": [],
+                      "table_chance": 20,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29903,
+                      "name": "An Icy Vial",
+                      "chance": 3,
+                      "classes": [],
+                      "table_chance": 3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29904,
+                      "name": "A Drop of Pure Rain",
+                      "chance": 2.5,
+                      "classes": [],
+                      "table_chance": 2.5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29905,
+                      "name": "Hailstone",
+                      "chance": 2.5,
+                      "classes": [],
+                      "table_chance": 2.5,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "10581",
+                  "label": "Eindride Icestorm67",
+                  "summary": "100% \u00b7 2 drops",
+                  "items": [
+                    {
+                      "id": 13670,
+                      "name": "Mantle of the Rainmaker",
+                      "chance": 25,
+                      "classes": [
+                        "PAL",
+                        "RNG",
+                        "SHD",
+                        "BRD",
+                        "BST"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16346,
+                      "name": "Ornate Breastplate Mold",
+                      "chance": 25,
+                      "classes": [
+                        "WAR",
+                        "CLR",
+                        "PAL",
+                        "SHD",
+                        "BRD"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 22971,
+                      "name": "Great Blade of Storms",
+                      "chance": 25,
+                      "classes": [
+                        "WAR",
+                        "RNG",
+                        "BRD",
+                        "ROG"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 27168,
+                      "name": "Twice Forged Steel Bulwark",
+                      "chance": 25,
+                      "classes": [
+                        "WAR",
+                        "PAL",
+                        "RNG",
+                        "SHD",
+                        "BRD",
+                        "ROG"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                },
+                {
+                  "id": "39713",
+                  "label": "Fungus Clump x2",
+                  "summary": "40% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 24088,
+                      "name": "Fungus Clump",
+                      "chance": 40,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "96411",
+                  "label": "Spectral Parchment",
+                  "summary": "45% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29131,
+                      "name": "Spectral Parchment",
+                      "chance": 45,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "115474",
+                  "label": "Glyphed Rune Word",
+                  "summary": "45% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29132,
+                      "name": "Glyphed Rune Word",
+                      "chance": 45,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                }
+              ]
+            },
+            {
+              "id": "kuanbyr-hailstorm",
+              "name": "Kuanbyr Hailstorm",
+              "npc_id": 209061,
+              "level": 67,
+              "hp": "330,000",
+              "class": "Giant Warrior",
+              "strategy": "/strategy/kuanbyr_hailstorm",
+              "tables": [
+                {
+                  "id": "8151",
+                  "label": "Kuanbyr Hailstorm",
+                  "summary": "100% \u00b7 2 drops",
+                  "items": [
+                    {
+                      "id": 10232,
+                      "name": "Stormriders Signet",
+                      "chance": 25,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16355,
+                      "name": "Ornate Silk Robe Pattern",
+                      "chance": 25,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 24646,
+                      "name": "Gargoyle Talon",
+                      "chance": 25,
+                      "classes": [
+                        "ROG"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 25800,
+                      "name": "Greater Stormwatcher Horn",
+                      "chance": 25,
+                      "classes": [
+                        "SHD"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                },
+                {
+                  "id": "39713",
+                  "label": "Fungus Clump x2",
+                  "summary": "40% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 24088,
+                      "name": "Fungus Clump",
+                      "chance": 40,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "96411",
+                  "label": "Spectral Parchment",
+                  "summary": "45% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29131,
+                      "name": "Spectral Parchment",
+                      "chance": 45,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "96970",
+                  "label": "bothunder jord stuff",
+                  "summary": "8% \u00b7 0 to 3 drops",
+                  "items": [
+                    {
+                      "id": 29909,
+                      "name": "Sandstorm Pearl",
+                      "chance": 4,
+                      "classes": [],
+                      "table_chance": 50,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29910,
+                      "name": "Sandstorm Medallion",
+                      "chance": 3.2,
+                      "classes": [],
+                      "table_chance": 40,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29911,
+                      "name": "Grain of Burning Sand",
+                      "chance": 3.2,
+                      "classes": [],
+                      "table_chance": 40,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "115474",
+                  "label": "Glyphed Rune Word",
+                  "summary": "45% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29132,
+                      "name": "Glyphed Rune Word",
+                      "chance": 45,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "115508",
+                  "label": "Jord Meat",
+                  "summary": "20% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29770,
+                      "name": "Jord Meat",
+                      "chance": 20,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                }
+              ]
+            },
+            {
+              "id": "laef-windfall",
+              "name": "Laef Windfall",
+              "npc_id": 209070,
+              "level": 65,
+              "hp": "80,000",
+              "class": "Giant Cleric",
+              "strategy": "/strategy/laef_windfall",
+              "tables": [
+                {
+                  "id": "6094",
+                  "label": "bothunder vind stuff",
+                  "summary": "100% \u00b7 0 to 3 drops",
+                  "items": [
+                    {
+                      "id": 29912,
+                      "name": "A Wind-Worn Stone",
+                      "chance": 4,
+                      "classes": [],
+                      "table_chance": 4,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29913,
+                      "name": "Pendant of Thunder",
+                      "chance": 3,
+                      "classes": [],
+                      "table_chance": 3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29914,
+                      "name": "Heart of the Windstorm",
+                      "chance": 3,
+                      "classes": [],
+                      "table_chance": 3,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "11448",
+                  "label": "Laef Windfall",
+                  "summary": "100% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 16352,
+                      "name": "Ornate Leather Pant Pattern",
+                      "chance": 5,
+                      "classes": [
+                        "DRU",
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 21892,
+                      "name": "Thundering Mace",
+                      "chance": 5,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM",
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29428,
+                      "name": "Bracer of Energy",
+                      "chance": 5,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 25223,
+                      "name": "Staff of Flowing Water",
+                      "chance": 3,
+                      "classes": [
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 3,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                },
+                {
+                  "id": "39713",
+                  "label": "Fungus Clump x2",
+                  "summary": "40% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 24088,
+                      "name": "Fungus Clump",
+                      "chance": 40,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "96411",
+                  "label": "Spectral Parchment",
+                  "summary": "45% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29131,
+                      "name": "Spectral Parchment",
+                      "chance": 45,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "115474",
+                  "label": "Glyphed Rune Word",
+                  "summary": "20% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29132,
+                      "name": "Glyphed Rune Word",
+                      "chance": 20,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                }
+              ]
+            },
+            {
+              "id": "gaukr-sandstorm",
+              "name": "Gaukr Sandstorm",
+              "npc_id": 209071,
+              "level": 65,
+              "hp": "80,000",
+              "class": "Giant Cleric",
+              "strategy": "/strategy/gaukr_sandstorm",
+              "tables": [
+                {
+                  "id": "6106",
+                  "label": "Gaukr Sandstorm",
+                  "summary": "100% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 9441,
+                      "name": "Mask of Thunder",
+                      "chance": 5,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 14965,
+                      "name": "Wind-worn Chestplate",
+                      "chance": 5,
+                      "classes": [
+                        "WAR",
+                        "CLR",
+                        "PAL",
+                        "SHD",
+                        "BRD"
+                      ],
+                      "table_chance": 5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16344,
+                      "name": "Ornate Greaves Mold",
+                      "chance": 5,
+                      "classes": [
+                        "WAR",
+                        "CLR",
+                        "PAL",
+                        "SHD",
+                        "BRD"
+                      ],
+                      "table_chance": 5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 27166,
+                      "name": "Eye of the Sandstorm",
+                      "chance": 3,
+                      "classes": [
+                        "WAR",
+                        "PAL",
+                        "RNG",
+                        "SHD",
+                        "BRD",
+                        "ROG"
+                      ],
+                      "table_chance": 3,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                },
+                {
+                  "id": "39713",
+                  "label": "Fungus Clump x2",
+                  "summary": "40% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 24088,
+                      "name": "Fungus Clump",
+                      "chance": 40,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "96411",
+                  "label": "Spectral Parchment",
+                  "summary": "45% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29131,
+                      "name": "Spectral Parchment",
+                      "chance": 45,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "96970",
+                  "label": "bothunder jord stuff",
+                  "summary": "8% \u00b7 0 to 3 drops",
+                  "items": [
+                    {
+                      "id": 29909,
+                      "name": "Sandstorm Pearl",
+                      "chance": 4,
+                      "classes": [],
+                      "table_chance": 50,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29910,
+                      "name": "Sandstorm Medallion",
+                      "chance": 3.2,
+                      "classes": [],
+                      "table_chance": 40,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29911,
+                      "name": "Grain of Burning Sand",
+                      "chance": 3.2,
+                      "classes": [],
+                      "table_chance": 40,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "115474",
+                  "label": "Glyphed Rune Word",
+                  "summary": "20% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29132,
+                      "name": "Glyphed Rune Word",
+                      "chance": 20,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "115508",
+                  "label": "Jord Meat",
+                  "summary": "20% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29770,
+                      "name": "Jord Meat",
+                      "chance": 20,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                }
+              ]
+            },
+            {
+              "id": "oreen-wavecrasher",
+              "name": "Oreen Wavecrasher",
+              "npc_id": 209072,
+              "level": 65,
+              "hp": "80,000",
+              "class": "Giant Cleric",
+              "strategy": "/strategy/oreen_wavecrasher",
+              "tables": [
+                {
+                  "id": "6085",
+                  "label": "BoT vann stuff",
+                  "summary": "100% \u00b7 0 to 4 drops",
+                  "items": [
+                    {
+                      "id": 29768,
+                      "name": "Vann Toes",
+                      "chance": 20,
+                      "classes": [],
+                      "table_chance": 20,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29903,
+                      "name": "An Icy Vial",
+                      "chance": 3,
+                      "classes": [],
+                      "table_chance": 3,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29904,
+                      "name": "A Drop of Pure Rain",
+                      "chance": 2.5,
+                      "classes": [],
+                      "table_chance": 2.5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29905,
+                      "name": "Hailstone",
+                      "chance": 2.5,
+                      "classes": [],
+                      "table_chance": 2.5,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "6124",
+                  "label": "Oreen Wavecrasher",
+                  "summary": "100% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 9449,
+                      "name": "Mask of the Hailstorms",
+                      "chance": 5,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM"
+                      ],
+                      "table_chance": 5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 15926,
+                      "name": "Belt of Thunderous Auras",
+                      "chance": 5,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM",
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16295,
+                      "name": "Ornate Chain Pant Pattern",
+                      "chance": 5,
+                      "classes": [
+                        "RNG",
+                        "ROG",
+                        "SHM"
+                      ],
+                      "table_chance": 5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 22996,
+                      "name": "Shortblade of Lightning",
+                      "chance": 3,
+                      "classes": [
+                        "WAR"
+                      ],
+                      "table_chance": 3,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                },
+                {
+                  "id": "96411",
+                  "label": "Spectral Parchment",
+                  "summary": "45% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29131,
+                      "name": "Spectral Parchment",
+                      "chance": 45,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "115474",
+                  "label": "Glyphed Rune Word",
+                  "summary": "20% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29132,
+                      "name": "Glyphed Rune Word",
+                      "chance": 20,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                }
+              ]
+            },
+            {
+              "id": "hreidar-lynhillig",
+              "name": "Hreidar Lynhillig",
+              "npc_id": 209082,
+              "level": 65,
+              "hp": "80,000",
+              "class": "Giant Cleric",
+              "strategy": "/strategy/hreidar_lynhillig",
+              "tables": [
+                {
+                  "id": "4315",
+                  "label": "Hreidar Lynhillig",
+                  "summary": "100% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 6508,
+                      "name": "Tear of the Rainmaker",
+                      "chance": 5,
+                      "classes": [
+                        "WAR",
+                        "PAL",
+                        "RNG",
+                        "SHD",
+                        "MNK",
+                        "BRD",
+                        "ROG",
+                        "BST"
+                      ],
+                      "table_chance": 5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16359,
+                      "name": "Ornate Silk Pant Pattern",
+                      "chance": 5,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 21871,
+                      "name": "Hammer of the Wind",
+                      "chance": 5,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 26085,
+                      "name": "Heavy Windriders Lance",
+                      "chance": 3,
+                      "classes": [
+                        "PAL",
+                        "SHD"
+                      ],
+                      "table_chance": 3,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                },
+                {
+                  "id": "6078",
+                  "label": "bothunder brann stuff",
+                  "summary": "100% \u00b7 0 to 3 drops",
+                  "items": [
+                    {
+                      "id": 29906,
+                      "name": "Shard of Pure Energy",
+                      "chance": 5,
+                      "classes": [],
+                      "table_chance": 5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29907,
+                      "name": "Orb of Electricity",
+                      "chance": 2.5,
+                      "classes": [],
+                      "table_chance": 2.5,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 29908,
+                      "name": "Lightning Encased Signet",
+                      "chance": 2.5,
+                      "classes": [],
+                      "table_chance": 2.5,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "39713",
+                  "label": "Fungus Clump x2",
+                  "summary": "40% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 24088,
+                      "name": "Fungus Clump",
+                      "chance": 40,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "96411",
+                  "label": "Spectral Parchment",
+                  "summary": "45% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29131,
+                      "name": "Spectral Parchment",
+                      "chance": 45,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                },
+                {
+                  "id": "115474",
+                  "label": "Glyphed Rune Word",
+                  "summary": "20% \u00b7 0 to 1 drops",
+                  "items": [
+                    {
+                      "id": 29132,
+                      "name": "Glyphed Rune Word",
+                      "chance": 20,
+                      "classes": [],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ],
+                  "independent": true
+                }
+              ]
+            },
             {
               "id": "agnarr-the-storm-lord",
               "name": "Agnarr the Storm Lord",
@@ -46565,6 +48486,805 @@
                   ]
                 }
               ]
+            },
+            {
+              "id": "arch-mage-yozanni",
+              "name": "Arch Mage Yozanni",
+              "npc_id": 217019,
+              "level": 78,
+              "hp": "800,000",
+              "class": "Efreeti Warrior",
+              "strategy": "/strategy/arch_mage_yozanni",
+              "tables": [
+                {
+                  "id": "6035",
+                  "label": "Arch Mage Yozanni",
+                  "summary": "100%",
+                  "items": [
+                    {
+                      "id": 16374,
+                      "name": "Elemental Gauntlet Mold",
+                      "chance": 26,
+                      "classes": [
+                        "WAR",
+                        "CLR",
+                        "PAL",
+                        "SHD",
+                        "BRD"
+                      ],
+                      "table_chance": 26,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16383,
+                      "name": "Elemental Silk Turban Pattern",
+                      "chance": 25,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16366,
+                      "name": "Elemental Chain Glove Pattern",
+                      "chance": 17,
+                      "classes": [
+                        "RNG",
+                        "ROG",
+                        "SHM"
+                      ],
+                      "table_chance": 17,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16376,
+                      "name": "Elemental Leather Helm Pattern",
+                      "chance": 17,
+                      "classes": [
+                        "DRU",
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 17,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 9320,
+                      "name": "Phoenix Claw Talisman",
+                      "chance": 15,
+                      "classes": [
+                        "SHM",
+                        "BST"
+                      ],
+                      "table_chance": 15,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "babnoxis-the-spider-queen",
+              "name": "Babnoxis the Spider Queen",
+              "npc_id": 217005,
+              "level": 75,
+              "hp": "625,000",
+              "class": "Arachnid Warrior",
+              "strategy": "/strategy/babnoxis_the_spider_queen",
+              "tables": [
+                {
+                  "id": "23777",
+                  "label": "Babnoxis the Spider Queen",
+                  "summary": "100%",
+                  "items": [
+                    {
+                      "id": 9462,
+                      "name": "Mask of the Insightful",
+                      "chance": 25,
+                      "classes": [
+                        "CLR",
+                        "PAL",
+                        "RNG",
+                        "SHD",
+                        "DRU",
+                        "BRD",
+                        "SHM",
+                        "BST"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16369,
+                      "name": "Elemental Bracer Mold",
+                      "chance": 25,
+                      "classes": [
+                        "WAR",
+                        "CLR",
+                        "PAL",
+                        "SHD",
+                        "BRD"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16380,
+                      "name": "Elemental Leather Glove Pattern",
+                      "chance": 25,
+                      "classes": [
+                        "DRU",
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16387,
+                      "name": "Elemental Silk Glove Pattern",
+                      "chance": 25,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "blazzax-the-omnifiend",
+              "name": "Blazzax the Omnifiend",
+              "npc_id": 217003,
+              "level": 78,
+              "hp": "850,000",
+              "class": "Fiend Warrior",
+              "strategy": "/strategy/blazzax_the_omnifiend",
+              "tables": [
+                {
+                  "id": "11210",
+                  "label": "Blazzax the Omnifiend",
+                  "summary": "100%",
+                  "items": [
+                    {
+                      "id": 16365,
+                      "name": "Elemental Chain Bracelet Pattern",
+                      "chance": 25,
+                      "classes": [
+                        "RNG",
+                        "ROG",
+                        "SHM"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16389,
+                      "name": "Elemental Silk Boot Pattern",
+                      "chance": 25,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16370,
+                      "name": "Elemental Boot Mold",
+                      "chance": 25,
+                      "classes": [
+                        "WAR",
+                        "CLR",
+                        "PAL",
+                        "SHD",
+                        "BRD"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 15814,
+                      "name": "Cape of Flames",
+                      "chance": 25,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "criare-sunmane",
+              "name": "Criare Sunmane",
+              "npc_id": 217051,
+              "level": 75,
+              "hp": "625,000",
+              "class": "Phoenix Warrior",
+              "strategy": "/strategy/criare_sunmane",
+              "tables": [
+                {
+                  "id": "8563",
+                  "label": "Criare Sunmane",
+                  "summary": "100%",
+                  "items": [
+                    {
+                      "id": 13654,
+                      "name": "Shining Crimson Shawl",
+                      "chance": 32,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM",
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 32,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 11323,
+                      "name": "Shimmering Sleeves of Flame",
+                      "chance": 30,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 30,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 15864,
+                      "name": "Drape of the Agile",
+                      "chance": 18,
+                      "classes": [
+                        "WAR",
+                        "MNK",
+                        "ROG"
+                      ],
+                      "table_chance": 18,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 20618,
+                      "name": "Fang of Flame",
+                      "chance": 13,
+                      "classes": [
+                        "WAR",
+                        "PAL",
+                        "RNG",
+                        "SHD",
+                        "MNK",
+                        "BRD",
+                        "ROG",
+                        "BST"
+                      ],
+                      "table_chance": 13,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 24789,
+                      "name": "Staff of Eternal Flames",
+                      "chance": 7,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM"
+                      ],
+                      "table_chance": 7,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "general-druav-flamesinger",
+              "name": "General Druav Flamesinger",
+              "npc_id": 217036,
+              "level": 75,
+              "hp": "600,000",
+              "class": "Solusek Ro Guard Warrior",
+              "strategy": "/strategy/general_druav_flamesinger",
+              "tables": [
+                {
+                  "id": "6143",
+                  "label": "General Druav Flamesinger",
+                  "summary": "100%",
+                  "items": [
+                    {
+                      "id": 25981,
+                      "name": "Ornate Greatblade",
+                      "chance": 70,
+                      "classes": [
+                        "WAR",
+                        "PAL",
+                        "RNG",
+                        "SHD"
+                      ],
+                      "table_chance": 70,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 9479,
+                      "name": "Lava Forged Face Guard",
+                      "chance": 15,
+                      "classes": [
+                        "WAR",
+                        "PAL",
+                        "RNG",
+                        "SHD",
+                        "MNK",
+                        "BRD",
+                        "ROG",
+                        "BST"
+                      ],
+                      "table_chance": 15,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 9487,
+                      "name": "Burning Mask of Terror",
+                      "chance": 15,
+                      "classes": [
+                        "PAL",
+                        "RNG",
+                        "SHD",
+                        "BRD",
+                        "BST"
+                      ],
+                      "table_chance": 15,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "general-reparm",
+              "name": "General Reparm",
+              "npc_id": 217032,
+              "level": 78,
+              "hp": "850,000",
+              "class": "Solusek Ro Guard Warrior",
+              "strategy": "/strategy/general_reparm",
+              "tables": [
+                {
+                  "id": "7895",
+                  "label": "General Reparm",
+                  "summary": "100%",
+                  "items": [
+                    {
+                      "id": 16371,
+                      "name": "Elemental Helm Mold",
+                      "chance": 28,
+                      "classes": [
+                        "WAR",
+                        "CLR",
+                        "PAL",
+                        "SHD",
+                        "BRD"
+                      ],
+                      "table_chance": 28,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16387,
+                      "name": "Elemental Silk Glove Pattern",
+                      "chance": 28,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 28,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16380,
+                      "name": "Elemental Leather Glove Pattern",
+                      "chance": 18,
+                      "classes": [
+                        "DRU",
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 18,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16362,
+                      "name": "Elemental Chain Coif Pattern",
+                      "chance": 18,
+                      "classes": [
+                        "RNG",
+                        "ROG",
+                        "SHM"
+                      ],
+                      "table_chance": 18,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 26738,
+                      "name": "Fiery Staff of Zha",
+                      "chance": 8,
+                      "classes": [
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 8,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "jaxoliz-dawneyes",
+              "name": "Jaxoliz Dawneyes",
+              "npc_id": 217049,
+              "level": 75,
+              "hp": "625,000",
+              "class": "Phoenix Warrior",
+              "strategy": "/strategy/jaxoliz_dawneyes",
+              "tables": [
+                {
+                  "id": "8563",
+                  "label": "Jaxoliz Dawneyes",
+                  "summary": "100%",
+                  "items": [
+                    {
+                      "id": 13654,
+                      "name": "Shining Crimson Shawl",
+                      "chance": 32,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM",
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 32,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 11323,
+                      "name": "Shimmering Sleeves of Flame",
+                      "chance": 30,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 30,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 15864,
+                      "name": "Drape of the Agile",
+                      "chance": 18,
+                      "classes": [
+                        "WAR",
+                        "MNK",
+                        "ROG"
+                      ],
+                      "table_chance": 18,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 20618,
+                      "name": "Fang of Flame",
+                      "chance": 13,
+                      "classes": [
+                        "WAR",
+                        "PAL",
+                        "RNG",
+                        "SHD",
+                        "MNK",
+                        "BRD",
+                        "ROG",
+                        "BST"
+                      ],
+                      "table_chance": 13,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 24789,
+                      "name": "Staff of Eternal Flames",
+                      "chance": 7,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM"
+                      ],
+                      "table_chance": 7,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "magmaton",
+              "name": "Magmaton",
+              "npc_id": 217059,
+              "level": 75,
+              "hp": "800,000",
+              "class": "Golem Warrior",
+              "strategy": "/strategy/magmaton",
+              "tables": [
+                {
+                  "id": "5425",
+                  "label": "Magmaton",
+                  "summary": "100%",
+                  "items": [
+                    {
+                      "id": 7767,
+                      "name": "Necklace of Reflected Flames",
+                      "chance": 25,
+                      "classes": [
+                        "ALL"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16368,
+                      "name": "Elemental Chain Boot Pattern",
+                      "chance": 25,
+                      "classes": [
+                        "RNG",
+                        "ROG",
+                        "SHM"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16382,
+                      "name": "Elemental Leather Boot Pattern",
+                      "chance": 25,
+                      "classes": [
+                        "DRU",
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16386,
+                      "name": "Elemental Silk Bracelet Pattern",
+                      "chance": 25,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "pyronis",
+              "name": "Pyronis",
+              "npc_id": 217063,
+              "level": 75,
+              "hp": "650,000",
+              "class": "Poison Frog Warrior",
+              "strategy": "/strategy/pyronis",
+              "tables": [
+                {
+                  "id": "11467",
+                  "label": "Pyronis",
+                  "summary": "100%",
+                  "items": [
+                    {
+                      "id": 16366,
+                      "name": "Elemental Chain Glove Pattern",
+                      "chance": 25,
+                      "classes": [
+                        "RNG",
+                        "ROG",
+                        "SHM"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16374,
+                      "name": "Elemental Gauntlet Mold",
+                      "chance": 25,
+                      "classes": [
+                        "WAR",
+                        "CLR",
+                        "PAL",
+                        "SHD",
+                        "BRD"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16379,
+                      "name": "Elemental Leather Wrist Pattern",
+                      "chance": 25,
+                      "classes": [
+                        "DRU",
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 20507,
+                      "name": "Blackflame Sphere",
+                      "chance": 25,
+                      "classes": [
+                        "CLR",
+                        "PAL",
+                        "DRU",
+                        "SHM"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "quavonis-firetail",
+              "name": "Quavonis Firetail",
+              "npc_id": 217056,
+              "level": 78,
+              "hp": "825,000",
+              "class": "Phoenix Warrior",
+              "strategy": "/strategy/quavonis_firetail",
+              "tables": [
+                {
+                  "id": "9246",
+                  "label": "Quavonis Firetail",
+                  "summary": "100%",
+                  "items": [
+                    {
+                      "id": 12082,
+                      "name": "Cloak of Combustion",
+                      "chance": 25,
+                      "classes": [
+                        "ALL"
+                      ],
+                      "table_chance": 25,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16372,
+                      "name": "Elemental Vambrace Mold",
+                      "chance": 23,
+                      "classes": [
+                        "WAR",
+                        "CLR",
+                        "PAL",
+                        "SHD",
+                        "BRD"
+                      ],
+                      "table_chance": 23,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16385,
+                      "name": "Elemental Silk Sleeve Pattern",
+                      "chance": 22,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 22,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16364,
+                      "name": "Elemental Chain Sleeve Pattern",
+                      "chance": 15,
+                      "classes": [
+                        "RNG",
+                        "ROG",
+                        "SHM"
+                      ],
+                      "table_chance": 15,
+                      "lore": true,
+                      "nodrop": true
+                    },
+                    {
+                      "id": 16378,
+                      "name": "Elemental Leather Sleeve Pattern",
+                      "chance": 15,
+                      "classes": [
+                        "DRU",
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 15,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -46595,6 +49315,139 @@
                         "RNG",
                         "BRD",
                         "ROG"
+                      ],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "queen-silandria",
+              "name": "Queen Silandria",
+              "npc_id": 215003,
+              "level": 68,
+              "hp": "280,000",
+              "class": "Nilborien Warrior",
+              "strategy": "/strategy/queen_silandria",
+              "tables": [
+                {
+                  "id": "6140",
+                  "label": "Queen Silandria",
+                  "summary": "100%",
+                  "items": [
+                    {
+                      "id": 9468,
+                      "name": "Scintillating Feather Mask",
+                      "chance": 100,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM",
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "arch-mage-alchtonion",
+              "name": "Arch Mage Alchtonion",
+              "npc_id": 215011,
+              "level": 65,
+              "hp": "175,000",
+              "class": "Nilborien Wizard",
+              "strategy": "/strategy/arch_mage_alchtonion",
+              "tables": [
+                {
+                  "id": "12184",
+                  "label": "Arch Mage Alchtonion",
+                  "summary": "100%",
+                  "items": [
+                    {
+                      "id": 20609,
+                      "name": "Radiant Feather",
+                      "chance": 100,
+                      "classes": [
+                        "CLR",
+                        "DRU",
+                        "SHM",
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
+                      ],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "gakamenial-fir-disralsi",
+              "name": "Gakamenial Fir`Disralsi",
+              "npc_id": 215024,
+              "level": 67,
+              "hp": "265,000",
+              "class": "Phoenix Warrior",
+              "strategy": "/strategy/gakamenial_fir_disralsi",
+              "tables": [
+                {
+                  "id": "6188",
+                  "label": "Gakamenial Fir`Disralsi",
+                  "summary": "100%",
+                  "items": [
+                    {
+                      "id": 9586,
+                      "name": "Exquisite Leather Cap",
+                      "chance": 100,
+                      "classes": [
+                        "DRU",
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 100,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "rinturion-windblade",
+              "name": "Rinturion Windblade",
+              "npc_id": 215034,
+              "level": 70,
+              "hp": "306,000",
+              "class": "Efreeti Warrior",
+              "strategy": "/strategy/rinturion_windblade",
+              "tables": [
+                {
+                  "id": "11538",
+                  "label": "Rinturion Windblade",
+                  "summary": "100%",
+                  "items": [
+                    {
+                      "id": 16567,
+                      "name": "Sparkling Satin Pantaloons",
+                      "chance": 100,
+                      "classes": [
+                        "NEC",
+                        "WIZ",
+                        "MAG",
+                        "ENC"
                       ],
                       "table_chance": 100,
                       "lore": true,
