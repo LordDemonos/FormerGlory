@@ -71,7 +71,7 @@ cover-img: /assets/img/strategy.webp
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Avatar of the Elements&gt; - CH Chain: 2sec, 3sec slowed, Hits 1842, Dual Wield, Slowable (20% mit), Procs: Crumbling Earth Breath (PBAE, 1100 DD + 60% snare, Magic -300, 18s recast), 700k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
-Phase 3. [Plane of Time](/strategy/plane_of_time). Eight trash waves. Then **Avatar of the Elements** and **[Supernatural Guardian](/strategy/supernatural_guardian)** at the portal.
+Phase 3. [Plane of Time](/strategy/plane_of_time). Eight trash waves. Then **Avatar of the Elements** and **[Supernatural Guardian](/strategy/supernatural_guardian)** at the portal. Shared Phase 3 loot includes **Ossein of Limitless Time**.
 
 He is **Slowable** (20% mit). Dual Wield. Hits 1842. Attack delay 14. Assist 100. 700k HP. Split him from **Supernatural Guardian**.
 

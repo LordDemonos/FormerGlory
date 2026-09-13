@@ -107,7 +107,9 @@
                           {% if item.kind == "quest" %}<span class="raid-loot-flag">Quest</span>{% endif %}
                         </span>
                         <span class="raid-loot-chance">
-                          {{ item.chance }}%
+                          {% if item.chance %}
+                            {{ item.chance }}%
+                          {% endif %}
                           {% if item.table_chance and item.table_chance != item.chance %}
                             <span class="raid-loot-table-chance">{{ item.table_chance }}% table</span>
                           {% endif %}

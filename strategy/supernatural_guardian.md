@@ -69,7 +69,7 @@ cover-img: /assets/img/strategy.webp
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Supernatural Guardian&gt; - CH Chain: 2sec, Hits 1842, Flurry, Dual Wield, Unslowable, 580k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
-Phase 3. [Plane of Time](/strategy/plane_of_time). Eight trash waves. Then **[Avatar of the Elements](/strategy/avatar_of_the_elements)** and **Supernatural Guardian** at the portal.
+Phase 3. [Plane of Time](/strategy/plane_of_time). Eight trash waves. Then **[Avatar of the Elements](/strategy/avatar_of_the_elements)** and **Supernatural Guardian** at the portal. Shared Phase 3 loot includes **Ossein of Limitless Time**.
 
 He is **Unslowable**. Flurry. Dual Wield. Hits 1842. Attack delay 10. Assist 100. 580k HP. Split him from **Avatar of the Elements**.
 

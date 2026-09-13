@@ -8366,6 +8366,26 @@
                       "table_chance": 100
                     }
                   ]
+                },
+                {
+                  "id": "bo-staff-of-transcendence",
+                  "label": "Bo Staff of Transcendence",
+                  "summary": "10%",
+                  "independent": true,
+                  "items": [
+                    {
+                      "id": 25225,
+                      "name": "Bo Staff of Transcendence",
+                      "chance": 10,
+                      "classes": [
+                        "MNK",
+                        "BST"
+                      ],
+                      "table_chance": 10,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
                 }
               ]
             },
@@ -49712,6 +49732,29 @@
                       "nodrop": true
                     }
                   ]
+                },
+                {
+                  "id": "alabaster-hilted-wind-bow",
+                  "label": "Alabaster Hilted Wind Bow",
+                  "summary": "10%",
+                  "independent": true,
+                  "items": [
+                    {
+                      "id": 27986,
+                      "name": "Alabaster Hilted Wind Bow",
+                      "chance": 10,
+                      "classes": [
+                        "WAR",
+                        "PAL",
+                        "RNG",
+                        "SHD",
+                        "ROG"
+                      ],
+                      "table_chance": 10,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
                 }
               ]
             },
@@ -50680,6 +50723,29 @@
                       "classes": [
                         "PAL",
                         "SHD"
+                      ],
+                      "table_chance": 10,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                },
+                {
+                  "id": "ornate-abalone-recurve-bow",
+                  "label": "Ornate Abalone Recurve Bow",
+                  "summary": "10%",
+                  "independent": true,
+                  "items": [
+                    {
+                      "id": 27646,
+                      "name": "Ornate Abalone Recurve Bow",
+                      "chance": 10,
+                      "classes": [
+                        "WAR",
+                        "PAL",
+                        "RNG",
+                        "SHD",
+                        "ROG"
                       ],
                       "table_chance": 10,
                       "lore": true,
@@ -52972,6 +53038,23 @@
                       "nodrop": true
                     }
                   ]
+                },
+                {
+                  "id": "ossein-of-limitless-time",
+                  "label": "Ossein of Limitless Time",
+                  "summary": "shared Phase 3 pool",
+                  "independent": true,
+                  "items": [
+                    {
+                      "id": 32605,
+                      "name": "Ossein of Limitless Time",
+                      "classes": [
+                        "NEC"
+                      ],
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
                 }
               ]
             },
@@ -53089,6 +53172,23 @@
                         "SHD"
                       ],
                       "table_chance": 14.3,
+                      "lore": true,
+                      "nodrop": true
+                    }
+                  ]
+                },
+                {
+                  "id": "ossein-of-limitless-time",
+                  "label": "Ossein of Limitless Time",
+                  "summary": "shared Phase 3 pool",
+                  "independent": true,
+                  "items": [
+                    {
+                      "id": 32605,
+                      "name": "Ossein of Limitless Time",
+                      "classes": [
+                        "NEC"
+                      ],
                       "lore": true,
                       "nodrop": true
                     }
