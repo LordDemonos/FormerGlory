@@ -6,7 +6,7 @@ subtitle: List of Plane of Sky items in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-08-26
+### Last Update: 2026-09-12
 
 Bnk12 s7 [Acidic Venom](https://www.pqdi.cc/item/20736) x8
 
@@ -168,7 +168,7 @@ Bnk4 s2 [Lightning Rod](https://www.pqdi.cc/item/20995) x20
 
 Bnk12 s2 [Lush Nectar](https://www.pqdi.cc/item/20965) x11
 
-Bnk12 s9 [Manna Nectar](https://www.pqdi.cc/item/20968) x16
+Bnk12 s9 [Manna Nectar](https://www.pqdi.cc/item/20968) x15
 
 Bnk10 s2 [Mithril  Air Ring](https://www.pqdi.cc/item/20747) x2
 
@@ -208,7 +208,7 @@ Bnk6 s2 [Shimmering Diamond](https://www.pqdi.cc/item/20824) x20
 
 Bnk3 s6 [Shimmering Opal](https://www.pqdi.cc/item/20797) x20
 
-Bnk4 s7 [Shimmering Topaz](https://www.pqdi.cc/item/20818) x20
+Bnk4 s7 [Shimmering Topaz](https://www.pqdi.cc/item/20818) x19
 
 Bnk2 s3 [Silver Disc](https://www.pqdi.cc/item/20938) x13
 
@@ -229,8 +229,6 @@ Bnk2 s6 [Sphinx Crown](https://www.pqdi.cc/item/20871) x20
 Bnk8 s8 [Sphinx Hide](https://www.pqdi.cc/item/20839) x18
 
 Bnk4 s8 [Sphinx Tallow](https://www.pqdi.cc/item/20862) x15
-
-Bnk7 s4 [Spiroc Healing Totem](https://www.pqdi.cc/item/20812) x1
 
 Bnk7 s3 [Spiroc Peace Totem](https://www.pqdi.cc/item/20721) x5
 
