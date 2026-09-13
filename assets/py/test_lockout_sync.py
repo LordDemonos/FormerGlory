@@ -261,12 +261,12 @@ title: Cazic Thule
             )
             self.assertIn("2 days and 18 hours", (strategy / "master_yael.md").read_text(encoding="utf-8"))
             self.assertIn("6 days and 18 hours", (strategy / "cazic_thule.md").read_text(encoding="utf-8"))
-            self.assertIn("3 days", (strategy / "cazic_thule_time.md").read_text(encoding="utf-8"))
-            self.assertIn("cazic_thule_time", report.missing_timer)
+            self.assertIn("6 days and 18 hours", (strategy / "cazic_thule_time.md").read_text(encoding="utf-8"))
+            self.assertNotIn("cazic_thule_time", report.missing_timer)
             sources = {c.slug: c.source for c in report.changes}
             self.assertEqual(sources["master_yael"], "instances")
             self.assertEqual(sources["cazic_thule"], "instances")
-            self.assertNotIn("cazic_thule_time", sources)
+            self.assertEqual(sources["cazic_thule_time"], "server")
 
     def test_apply_writes_lf_even_when_page_was_crlf(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
@@ -285,6 +285,56 @@ title: Cazic Thule
             written = (strategy / "shei_vinitras.md").read_bytes()
             self.assertNotIn(b"\r\n", written)
             self.assertIn(b"2 days and 18 hours", written)
+
+    def test_server_override_beats_instances(self) -> None:
+        html = """
+        <li class="list-group-item">
+            <strong>
+                <a href='/zone/209' class="text-decoration-none">Plane of Disease</a>
+            </strong>
+            <ul class="list-group mt-2">
+                <li class="list-group-item">
+                    <a href='/npc/209108' class="text-decoration-none">Grummus</a>
+                    <br>
+                    <small class="text-muted">Respawn Time: 3 days</small>
+                </li>
+            </ul>
+        </li>
+        """
+        index = """
+<h4><a href="https://www.pqdi.cc/zone/209" target="_blank">Plane of Disease</a></h4>
+<div class="card-container">
+  <div class="card dragon">
+    <ul>
+      <li><a href="grummus">Grummus</a></li>
+      <li>Level 70 Giant Warrior</li>
+    </ul>
+  </div>
+</div>
+"""
+        page = """---
+title: Grummus
+---
+<div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/209">Plane of Disease</a></div>
+<div class="info-item"><strong>Faction:</strong> KOS&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/209108" target="_blank" title="View NPC on PQDI">🔗</a></div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+"""
+        with tempfile.TemporaryDirectory() as tmp:
+            strategy = Path(tmp)
+            strategy.mkdir(parents=True, exist_ok=True)
+            (strategy / "grummus.md").write_text(page, encoding="utf-8")
+            report = ls.sync_lockouts(
+                index_text=index,
+                strategy_dir=strategy,
+                instances_html=html,
+                apply=True,
+            )
+            self.assertIn(
+                "2 days and 18 hours",
+                (strategy / "grummus.md").read_text(encoding="utf-8"),
+            )
+            sources = {c.slug: c.source for c in report.changes}
+            self.assertEqual(sources["grummus"], "server")
 
 
 if __name__ == "__main__":

@@ -13,7 +13,7 @@ Five staircases from zone-in, left to right: **[Xuzl](/strategy/xuzl)**, **[Arly
   <img src="/assets/img/Tower-of-Solusek-Ro-Map.jpg" alt="Tower-of-Solusek-Ro-Map"/>
 </a>
 
-The minis and Solusek respawn in 3 days.
+The minis and Solusek respawn in **2 days and 18 hours**. Trash respawns in **19 minutes 30 seconds**.
 
 ## Xuzl
 

@@ -73,7 +73,7 @@ cover-img: /assets/img/Krziik-the-Mighty.jpg
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Krziik the Mighty&gt; - CH Chain: 1sec, Hits 2166, Rampage, Dual Wield, Unslowable, Casts: Battle Cry of Regrua (Single, 3000 DD + 20% movement, Unresistable, 60s recast), 900k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
-Outdoor named in [Plane of Water](/strategy/plane_of_water).
+Outdoor named in [Plane of Water](/strategy/plane_of_water). Loot includes **Ornate Abalone Recurve Bow** (**10%**).
 
 He is **Unslowable**. Rampage. Dual Wield. Hits 2166. 900k HP.
 

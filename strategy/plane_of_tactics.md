@@ -13,7 +13,7 @@ Click the Tactics portal in Plane of Tranquility. Hail **Grand Librarian Maelin*
   <img src="/assets/img/Decorin-Map.png" alt="Decorin-Map"/>
 </a>
 
-Tallon and Vallon respawn in 3 days. Rallos 3 days.
+Tallon, Vallon, and Rallos respawn in **2 days and 18 hours**. If the Rallos event fails, it is available again in **10 minutes**. Anyone can engage Rallos. Players who were not in the raid that first engaged him are not banished. Tallon and Vallon stay protected while they move into position. Door guards, required wraith corpses, and leftover adds recover after a failed attempt.
 
 ## Tallon Zek
 

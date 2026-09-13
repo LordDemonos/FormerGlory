@@ -7,7 +7,7 @@ cover-img: /assets/img/Plane-of-Storms-Map.png
 
 Outdoor nameds and camp Lords. Askr's Bastion flag is on [Bastion of Thunder](/strategy/bastion_of_thunder).
 
-The three Lords respawn in **3 days**. Camp minis in **6 hours**.
+The three Lords respawn in **6 hours**. Secondary medallion minibosses in **18 hours**. Matching trash has a **20%** medallion chance. Trash respawns in **19 minutes 30 seconds**.
 
 <a href="/assets/img/Plane-of-Storms-Map.png" target="_blank">
   <img src="/assets/img/Plane-of-Storms-Map.png" alt="Plane-of-Storms-Map"/>
@@ -15,7 +15,7 @@ The three Lords respawn in **3 days**. Camp minis in **6 hours**.
 
 ## Camps
 
-Clear a camp's giants before that Lord is targetable. Minis drop **three Esoteric Medallions**. Lords drop three more of that camp.
+Each Lord activates when that camp's required giants are dead. Matching trash has a **20%** medallion chance. Secondary medallion minibosses drop **1–3** Esoteric Medallions. **Gurebk**, **Jeplak**, and **Neffiken** drop **5–8**.
 
 - **Srerendi** — south water. Faruek the Bold, Paruek the Strong, then **[Jeplak, Lord of Srerendi](/strategy/jeplak_lord_of_srerendi)**
 - **Kelek\`Vor** — northeast forest. Laruken the Rigid, Zertuken the Unyielding, then **[Neffiken, Lord of Kelek\`Vor](/strategy/neffiken_lord_of_kelek_vor)**

@@ -9,7 +9,9 @@ One person needs an **Odylic Vial**. Combine **Globe of Dancing Flame**, **Amorp
 
 In **[Plane of Innovation](/strategy/plane_of_innovation)**, say **yes** to **Chronographer Muan**. Say **researched** to **Loreseeker Maelin**. Click the machine.
 
-Eighteen people per Phase 1 trial. Click a trial portal to start the **1 hour**. Leftover time carries. Phase 2 adds **1 hour**. Phase 3 adds **75 minutes**. Phase 4 adds **4 hours**. Phase 5 adds **4 hours**. Phase 6 adds **2 hours**. The raid respawns in 3 days.
+Time is a guild timeline. A guild can stop mid-clear, disband, make a new raid later, and change raid leader. Saved kills and timers survive zone and server restarts. Separate guilds keep separate timelines. A new raid reconnects to its guild's existing run. `#timelockout` shows the guild timeline, current phase, encounter availability, and remaining timers.
+
+Time A and B hold **72** players. Eighteen people per Phase 1 trial. Click a trial portal to start the **1 hour**. Leftover time carries. Phase 2 adds **1 hour**. Phase 3 adds **75 minutes**. Phase 4 adds **4 hours**. Phase 5 adds **4 hours**. Phase 6 adds **2 hours**. Time boss lockouts are **6 days and 18 hours**.
 
 ## Phase 1
 
@@ -95,7 +97,7 @@ Three branches. Air and Earth together. Fire and Water together. Undead alone. C
 
 ## Phase 3
 
-Eight trash waves. Two named per wave. Then **[Avatar of the Elements](/strategy/avatar_of_the_elements)** and **[Supernatural Guardian](/strategy/supernatural_guardian)** at the portal. Assist 100. Split them.
+Eight trash waves. Two named per wave. Then **[Avatar of the Elements](/strategy/avatar_of_the_elements)** and **[Supernatural Guardian](/strategy/supernatural_guardian)** at the portal. Assist 100. Split them. Shared Phase 3 loot includes **Ossein of Limitless Time**.
 
 Avatar is **Slowable** (20% mit). Dual Wield. Hits 1842. 700k HP. **Crumbling Earth Breath** is a proc.
 

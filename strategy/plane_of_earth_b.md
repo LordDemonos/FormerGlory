@@ -13,7 +13,7 @@ Zone in from **[Plane of Earth A](/strategy/plane_of_earth_a)** with **Passkey o
 
 ![Rathe-Council](/assets/img/Rathe-Council.jpg)
 
-Kill the twelve **A Rathe Councilman**. **[Avatar of Earth](/strategy/avatar_of_earth)** spawns. 35 minutes. Kill it. Hail **Essence of Earth**. Loot **Mound of Living Stone**. Combine it with the other three elemental essences in an **Odylic Vial** for Plane of Time.
+Kill the twelve **A Rathe Councilman**. **[Avatar of Earth](/strategy/avatar_of_earth)** spawns. Once Avatar is up, the event has a **2.5-hour** active window. That clock pauses while Avatar is in combat. Kill it. If the window expires, Avatar despawns and the Rathe Council is available again in **7 minutes**. After a successful kill, the cycle returns in **5 days and 18 hours**. Loot lockout is **5 days and 18 hours**. Hail **Essence of Earth**. Loot **Mound of Living Stone**. Combine it with the other three elemental essences in an **Odylic Vial** for Plane of Time.
 
 ## The Rathe Council
 

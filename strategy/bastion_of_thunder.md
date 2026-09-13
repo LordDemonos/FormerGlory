@@ -7,7 +7,7 @@ cover-img: /assets/img/Agnarr-the-Storm-Lord.png
 
 Agnarr is a three-phase event. One person needs the Symbol of Torden on their cursor to click the statue that ports the raid up. Askr the Lost moves the raid between rooms after each phase.
 
-**[Emmerik Skyfury](/strategy/emmerik_skyfury)** respawns in 6 hours. **[Agnarr the Storm Lord](/strategy/agnarr_the_storm_lord)** in 3 days. **[Evynd Firestorm](/strategy/evynd_firestorm)** in 6 hours.
+**[Emmerik Skyfury](/strategy/emmerik_skyfury)** respawns in 6 hours. **[Agnarr the Storm Lord](/strategy/agnarr_the_storm_lord)** in **2 days and 18 hours**. **[Evynd Firestorm](/strategy/evynd_firestorm)** in 6 hours. Trash respawns in **19 minutes 30 seconds**.
 
 ## Access
 
@@ -30,9 +30,13 @@ One person needs the Symbol. Combine these in an **Unadorned Symbol of Torden**:
 - **Blizzard Sphere** — vann
 - **Tornado Sphere** — vind
 
-The Unadorned Symbol drops from **Auliffe Chaoswind**, **Brynju Thunderclap**, **Eindride Icestorm**, or **Kuanbyr Hailstorm**. Those named respawn in 6 hours.
+Each of the eight designated tower bosses drops **1 Unadorned Symbol of Torden** every time, including **Auliffe Chaoswind**, **Brynju Thunderclap**, **Eindride Icestorm**, and **Kuanbyr Hailstorm**. Those named respawn in 6 hours.
 
-Hold **Symbol of Torden** on your cursor and click the statue. Your raid or group can click it for 60 seconds. Clicking without that access: first **Magical energies shoot through your body**, then **You hear the cracking of stones around you**, then nearby storm watchers aggro.
+**Laef Windfall**, **Gaukr Sandstorm**, **Oreen Wavecrasher**, and **Hreidar Lynhillig** each drop **3 Rings of Torden** every time.
+
+Selected elemental NPCs have a **25%** chance to carry their progression gem or sphere.
+
+Hold **Symbol of Torden** on your cursor and click the statue. Your raid or group can click it for **5 minutes**. Clicking without that access: first **Magical energies shoot through your body**, then **You hear the cracking of stones around you**, then nearby storm watchers aggro.
 
 ![Bastion-Port-Up](/assets/img/Bastion-Port-Up.jpg)
 

@@ -17,7 +17,7 @@ Zone in from **[Tower of Solusek Ro](/strategy/tower_of_solusek_ro)** by droppin
 
 Kill **[Guardian of Doomfire](/strategy/guardian_of_doomfire)** at the tables to start. Clear the trash packs to the castle. Kill the four lords. Pull the four castle nameds out of the castle. The fourth castle death spawns **[Fennin Ro the Tyrant of Fire](/strategy/fennin_ro)** on his throne. Hail the Planar Projection. Loot **Globe of Dancing Flame**. Combine it with the other three elemental essences in an **Odylic Vial** for Plane of Time.
 
-Guardian of Doomfire respawns in 3 days.
+Trash respawns in **25 minutes 30 seconds**. Outdoor nameds respawn in **2 days and 18 hours**. If Fennin dies, Guardian of Doomfire returns in **5 days and 18 hours**. Loot lockout is **5 days and 18 hours**. If the event fails, Guardian of Doomfire returns in **18 hours**. The event clock pauses while participating NPCs are in combat. When Fennin spawns, the event gets **2** more hours, once per attempt.
 
 ## [Guardian of Doomfire](/strategy/guardian_of_doomfire)
 

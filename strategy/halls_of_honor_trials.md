@@ -15,7 +15,7 @@ Access is **<a href="/strategy/aerin_dar">Aerin\`Dar</a>**. After that hail, dro
 
 Each trial starts by saying **we are ready** to the trial NPC, which spawns A Custodian of Marr. Killing the custodian starts the event.
 
-Hail the trial NPC after the win. Success is white text: *An ethereal mist descends from the air and surrounds your very being.* Trydan Faye, Rhaliq Trell, and Alekson Garn respawn in 3 days.
+Hail the trial NPC after the win. Success is white text: *An ethereal mist descends from the air and surrounds your very being.* After a successful trial, it returns in **18 hours**. Loot lockout is **18 hours**. If a trial fails, it is available again in **10 minutes**. **[Lord Mithaniel Marr](/strategy/lord_mithaniel_marr)** respawns in **2 days and 18 hours**.
 
 ## Trial 1 — Trydan Faye
 

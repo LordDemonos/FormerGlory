@@ -14,6 +14,7 @@ cover-img: /assets/img/Manaetic-Behemoth.png
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+<div class="info-lockoutitem"><strong>Fail Retry:</strong> 10 minutes</div>
 <div class="info-lockoutitem"><strong>CH Chain: 3sec</strong> </div>
 <div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#manaetic-behemoth" title="View raid loot">🔗</a></div>
 </div>
@@ -77,7 +78,7 @@ End of the [Plane of Innovation](/strategy/plane_of_innovation) factory. Tactics
 
 Hail **Giwin Mirakon** on the grate in the first factory room and say **test the machine** before the event.
 
-He starts untargetable in a room with two doors. Power carriers run in and feed the machine. Split the raid on both doors and kill the carriers before they release their energy inside. When they stop feeding it, he becomes targetable. Leave groups on the doors. The rest go in for the kill. Carriers still run after he dies — leave the room as soon as he is down.
+He starts untargetable in a room with two doors. He wakes immediately after **10** qualifying device kills. Split the raid on both doors and kill the carriers before they release their energy inside. When he becomes targetable, leave groups on the doors. The rest go in for the kill. The event has a **3-hour** active window. That clock pauses while he is in combat. If he leashes, he returns home, hate clears, and his health restores. If the event fails, leftover devices clean up and he is available again in **10 minutes**. If he dies, leftover device waves clean up.
 
 He is **Unslowable**. Dual Wield. Hits 843. 150k HP.
 

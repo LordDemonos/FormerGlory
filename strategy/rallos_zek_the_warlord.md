@@ -13,7 +13,8 @@ cover-img: /assets/img/Rallos-Zek-the-Warlord.png
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours</div>
+<div class="info-lockoutitem"><strong>Fail Retry:</strong> 10 minutes</div>
 <div class="info-lockoutitem"><strong>CH Chain: 4sec, 6sec slowed</strong> </div>
 <div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#rallos-zek-the-warlord" title="View raid loot">🔗</a></div>
 </div>
@@ -75,7 +76,7 @@ cover-img: /assets/img/Rallos-Zek-the-Warlord.png
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Rallos Zek the Warlord&gt; - CH Chain: 4sec, 6sec slowed, Hits 1072, AE Rampage, Dual Wield, Slowable (75% mit), Enrage, Corpse Camper, Casts: Rage of Zek (PBAE, 400/tick + 50 mana/tick, Fire -100, 35s recast), Procs: Sedition (Single, AC -442, Unresistable), Adds every minute, 1.05M HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
-[Plane of Tactics](/strategy/plane_of_tactics) arena raid. Do not drop into the pit from zone-in.
+[Plane of Tactics](/strategy/plane_of_tactics) arena raid. Do not drop into the pit from zone-in. Anyone can engage. Players who were not in the raid that first engaged him are not banished. If the event fails, it is available again in **10 minutes**.
 
 <a href="/assets/img/Decorin-Map.png" target="_blank">
   <img src="/assets/img/Decorin-Map.png" alt="Decorin-Map"/>

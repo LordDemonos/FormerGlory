@@ -13,7 +13,7 @@ Hail **Adler Fuirstel** in Plane of Tranquility outside Plane of Disease and say
 
 After Grummus, hail the Planar Projection, push the decaying pipe in his room, and drop down to Crypt of Decay. Zoning there with the Grummus flag grants Crypt of Decay access.
 
-Gryme respawns in 3 hours 8 minutes 20 seconds. Aramin 1 day. Grummus 3 days.
+Gryme respawns in 3 hours 8 minutes 20 seconds. Aramin 1 day. Grummus **2 days and 18 hours**. Trash respawns in **19 minutes 30 seconds**.
 
 <a href="/assets/img/Grummus-Map.jpg" target="_blank">
   <img src="/assets/img/Grummus-Map.jpg" alt="Grummus-Map"/>

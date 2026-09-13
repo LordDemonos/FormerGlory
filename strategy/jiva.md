@@ -13,7 +13,7 @@ cover-img: /assets/img/Jiva.png
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain: 4sec, 6sec slowed</strong> </div>
 <div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#jiva" title="View raid loot">🔗</a></div>
 </div>

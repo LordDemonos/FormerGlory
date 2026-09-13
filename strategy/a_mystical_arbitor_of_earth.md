@@ -80,4 +80,4 @@ He is **Slowable** (30% mit). AE Rampage. Dual Wield. Double Attack. Flurry. Hit
 
 **Elemental Judgement** is a PBAE (500/tick + 350 mana/tick + spin stun + 35% slow, Magic -200, AoE 150, 36s recast). Melee stay max range.
 
-Hail the Planar Projection. It only answers the killer's raid or group, lasts 10 minutes, and can give up to 54 flags. Loot **Passkey of the Twelve**. Click the nearby door to zone into [Plane of Earth B](/strategy/plane_of_earth_b).
+Hail the Planar Projection. It only answers the killer's raid or group, lasts 10 minutes, and can give up to 72 flags. Loot **Passkey of the Twelve**. Click the nearby door to zone into [Plane of Earth B](/strategy/plane_of_earth_b).

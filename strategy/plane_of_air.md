@@ -13,7 +13,7 @@ One person per group needs a **Wind Etched Key**. Click the rainbow to Xegony's 
 
 Kill **[Muzlakh the Chosen](/strategy/muzlakh_the_chosen)** at zone-up. Clear **High Councilman of the Queen** and **A Prismatic Guardian of Xegony** in her room. Kill **[Xegony the Queen of Air](/strategy/xegony)**. Hail the Planar Projection. Loot **Amorphous Cloud of Air**. Combine it with the other three elemental essences in an **Odylic Vial** for Plane of Time.
 
-Xegony respawns in 3 days. Muzlakh respawns in 3 days 12 hours.
+Xegony respawns in **5 days and 18 hours**. Loot lockout is **5 days and 18 hours**. **Queen Silandria**, **Arch Mage Alchtonion**, **Gakamenial Fir`Disralsi**, **Rinturion Windblade**, **Baltaldor the Cursed**, and **Sigismond Windwalker** respawn in **2 days and 18 hours**. Muzlakh respawns in 3 days 12 hours. Trash respawns in **25 minutes 30 seconds**. Ring events run in the raid instance.
 
 ## Wind Etched Key
 
@@ -93,7 +93,7 @@ Clear the island to start each ring. Avatars shout when they spawn.
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box-mist">&lt;Avatar of Mist&gt; - CH Chain: 1sec, 2sec slowed, Hits 2060, AE Rampage, Dual Wield, Slowable (25% mit), Corpse Camper, Casts: Stone Gale (Targeted AE, 1500 DD + 2s stun, Unresistable), Tornado (Single, 200/tick + 1s stun, Magic -100), Procs: Cyclone (Single, 200/tick + 1s stun + 95% agro, Magic -150), 750k HP</pre><button class="copy-button" onclick="copyText('copy-box-mist')">Copy to Clipboard</button></div>
 
-**Spider — [Avatar of Dust](/strategy/avatar_of_dust).** Fight in the tunnel. **An Erratic Arachnid** (15.7k) spawn until the end. Cap about 15. AE mez them. Do not kill them. Kill **A Vorladien Archwalker** (183k, hits 1614) to spawn three **A Vorladien Spawn** (105k, hits 1540). Three rounds. Then **[Sigismond Windwalker](/strategy/sigismond_windwalker)** (600k, hits 1988) under the rainbow. AE Rampage. Dual Wield. **Slowable** (25% mit). **Wave of White Noise**. **Air Strike** is a proc (3500 DD, Unresistable). Erratic arachnids despawn. Then **Avatar of Dust**. Delay 9. **Wave of White Noise**. **Chain Lightning** is a proc (Targeted AE, 500 DD + 500 mana, Magic 0).
+**Spider — [Avatar of Dust](/strategy/avatar_of_dust).** Fight in the tunnel. **An Erratic Arachnid** (15.7k) still spawn during the event and still go into the room. Cap about 15. AE mez them. Do not kill them. Kill **A Vorladien Archwalker** (183k, hits 1614) to spawn three **A Vorladien Spawn** (105k, hits 1540). Three rounds. Then **[Sigismond Windwalker](/strategy/sigismond_windwalker)** (600k, hits 1988) under the rainbow. AE Rampage. Dual Wield. **Slowable** (25% mit). **Wave of White Noise**. **Air Strike** is a proc (3500 DD, Unresistable). Then **Avatar of Dust**. Delay 9. **Wave of White Noise**. **Chain Lightning** is a proc (Targeted AE, 500 DD + 500 mana, Magic 0).
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box-sigismond">&lt;Sigismond Windwalker&gt; - CH Chain: 2sec, 3sec slowed, Hits 1988, AE Rampage, Dual Wield, Slowable (25% mit), Casts: Wave of White Noise (PBAE, Silence, Unresistable, 45s recast), Procs: Air Strike (Single, 3500 DD, Unresistable, 30s recast), 600k HP</pre><button class="copy-button" onclick="copyText('copy-box-sigismond')">Copy to Clipboard</button></div>
 

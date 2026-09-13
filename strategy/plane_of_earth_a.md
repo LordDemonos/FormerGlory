@@ -9,7 +9,7 @@ Zone in from Plane of Tranquility.
 
 One person needs **Gem-Etched Key** from **[Tantisala Jaggedtooth](/strategy/tantisala_jaggedtooth)** to open the tunnel door.
 
-Complete the four ring events within 24 hours to spawn **[A Mystical Arbitor of Earth](/strategy/a_mystical_arbitor_of_earth)** in the caves. 50 minutes. Kill it. Hail the Planar Projection. Loot **Passkey of the Twelve**. Click the nearby door to zone into **[Plane of Earth B](/strategy/plane_of_earth_b)**.
+Complete the four ring events within 24 hours to spawn **[A Mystical Arbitor of Earth](/strategy/a_mystical_arbitor_of_earth)** in the caves. 50 minutes. Kill it. Hail the Planar Projection. It can give up to **72** flags. Loot **Passkey of the Twelve**. Click the nearby door to zone into **[Plane of Earth B](/strategy/plane_of_earth_b)**. The four scripted raid rings run in the raid instance. Ordinary Earth A activity stays available.
 
 Traps on the north field spawn trash.
 
@@ -103,4 +103,4 @@ He is **Slowable** (30% mit). AE Rampage. Dual Wield. Double Attack. Flurry. Hit
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box-arbitor">&lt;A Mystical Arbitor of Earth&gt; - CH Chain: 2sec, 3sec slowed, Hits 1988, AE Rampage, Dual Wield, Double Attack, Flurry, Slowable (30% mit), Do not drop combat, Casts: Elemental Judgement (PBAE, 500/tick + 350 mana/tick + spin stun + 35% slow, Magic -200, 36s recast), 600k HP</pre><button class="copy-button" onclick="copyText('copy-box-arbitor')">Copy to Clipboard</button></div>
 
-Hail the Planar Projection. It only answers the killer's raid or group, lasts 10 minutes, and can give up to 54 flags. Loot **Passkey of the Twelve**. Click the nearby door.
+Hail the Planar Projection. It only answers the killer's raid or group, lasts 10 minutes, and can give up to 72 flags. Loot **Passkey of the Twelve**. Click the nearby door.

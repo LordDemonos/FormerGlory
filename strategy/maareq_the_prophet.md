@@ -74,4 +74,4 @@ He is **Permarooted** and **Slowable** (60% mit). Dual Wield. Hits 1379. 850k HP
 
 **A minion of Maareq** spawns every 5 seconds. Kill them. As they die he powers up: Rampage, then Flurry, then attack delay 8. Minions despawn when he dies.
 
-On death, Tylis becomes targetable. Stand under the cage. A flagged person hails Tylis, says **will assist you**, then **we are ready**. Someone in the raid must have the Screaming Sphere.
+On death, Tylis becomes targetable. Stand under the cage. Teleport radius is **250**. A flagged person hails Tylis, says **will assist you**, then **we are ready** or **I am ready**. Someone in the raid must have the Screaming Sphere.

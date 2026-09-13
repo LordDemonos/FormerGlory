@@ -13,7 +13,8 @@ cover-img: /assets/img/strategy.webp
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 18 hours</div>
+<div class="info-lockoutitem"><strong>Fail Retry:</strong> 10 minutes</div>
 <div class="info-lockoutitem"><strong>CH Chain: 2sec, 3sec slowed</strong> </div>
 </div>
 
@@ -66,6 +67,6 @@ cover-img: /assets/img/strategy.webp
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Advocent Joran&gt; - CH Chain: 2sec, 3sec slowed, Hits 1113, Flurry, Dual Wield, Slowable (80% mit), 115k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
-Room 1 named on the Alekson Garn trial in [Halls of Honor](/strategy/halls_of_honor_trials). He spawns after that room's trash dies.
+Room 1 named on the Alekson Garn trial in [Halls of Honor](/strategy/halls_of_honor_trials). He spawns after that room's trash dies. After a win, the trial returns in **18 hours**. If it fails, it is available again in **10 minutes**.
 
 He is **Slowable** (80% mit). Flurry. Dual Wield. Hits 1113. 115k HP. Protect the NPCs in the room. If they die, the trial fails.

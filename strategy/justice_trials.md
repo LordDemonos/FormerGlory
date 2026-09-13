@@ -25,7 +25,7 @@ Each Tribunal starts one trial. Hail them, say **prove**, then **prepared**. Whe
 
 If that trial is already running, the Tribunal tells you to wait.
 
-To leave, hail Agent of The Tribunal and say **return**. If the trial is still underway, the Agent will not port you out. Fail lockout is 60 seconds. Success lockout is 30 minutes.
+To leave, hail Agent of The Tribunal and say **return**. If the trial is still underway, the Agent will not port you out. Fail retry is **1 minute**. Success reopen is **10 minutes**. Failed participants return after a short cleanup. Successful participants get a warning before the room clears. Boss corpses last **8 minutes**. Pets and leftover hate clear when players leave.
 
 ## Trial of Execution
 
@@ -85,6 +85,6 @@ Do all six trials and loot the Mark from each. Say **knowledge** to one of The T
 
 ![The-Mark-of-Justice](/assets/img/The-Mark-of-Justice.jpg)
 
-**[The Seventh Hammer](/strategy/the_seventh_hammer)** is Unslowable, AE Rampages, hits 1240, and has 1.08M HP. Tremor of Judgment and Verdict of Eternity are cast by an invisible Tribunal on a ~3 minute cadence.
+**[The Seventh Hammer](/strategy/the_seventh_hammer)** is Unslowable, AE Rampages, hits 1240, and has 1.08M HP. Tremor of Judgment and Verdict of Eternity are cast by an invisible Tribunal on a ~3 minute cadence. He respawns in **2 days and 18 hours**.
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box-hammer">&lt;The Seventh Hammer&gt; - CH Chain: 2sec, Hits 1240, AE Rampage, Immune to Slow, Dual Wield, Procs: Justice (Single, 800 DD, Unresistable), Casts: Tremor of Judgment (PBAE, 800 DD, -300 Magic), Verdict of Eternity (PBAE, -100 mana/tick + 200 HP/tick, Unresistable, 9 curse), 1.08M HP</pre><button class="copy-button" onclick="copyText('copy-box-hammer')">Copy to Clipboard</button></div>

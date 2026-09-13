@@ -7,7 +7,7 @@ cover-img: /assets/img/Saryrn-Tower-Door.jpg
 
 Plane of Torment is the tower crawl to flag Saryrn. The Keeper event is required for her Planar Projection.
 
-Maareq and Saryrn respawn in 3 days. The Keeper of Sorrows 2 days 12 hours.
+Maareq respawns in 3 days. Saryrn **2 days and 18 hours**. The Keeper of Sorrows 2 days 12 hours. Trash respawns in **19 minutes 30 seconds**.
 
 ## Access
 
@@ -29,7 +29,7 @@ One Screaming Sphere opens the door for the raid. Kill named on the way up: Salc
 
 ## Keeper
 
-When Maareq dies, Tylis Newleaf in the cage becomes targetable. Everyone stand under the cage. A flagged person hails him, says **will assist you**, then **we are ready**. Someone in the raid must have the Screaming Sphere.
+When Maareq dies, Tylis Newleaf in the cage becomes targetable. Everyone stand under the cage. Teleport radius is **250**. A flagged person hails him, says **will assist you**, then **we are ready** or **I am ready**. Someone in the raid must have the Screaming Sphere.
 
 ![Tylis-Newleaf](/assets/img/Tylis-Newleaf.jpg)
 
@@ -43,7 +43,7 @@ Hail Tylis. He lasts 10 minutes and can give up to 72 flags. Hail first. Then on
 
 ## Saryrn
 
-Pull **[Saryrn](/strategy/saryrn)** in her chamber. She is **Slowable** (70% mit). AE Rampage. Dual Wield. Hits 573. Attack delay 10. 850k HP. Keep the fight in her room.
+Pull **[Saryrn](/strategy/saryrn)** in her chamber. She is **Slowable** (70% mit). AE Rampage. Dual Wield. Hits 573. Attack delay 10. 850k HP. Keep the fight in her room. Her health-reset timer stops when she is re-engaged. Leashing clears hate.
 
 Casts Will of Saryrn (PBAE, 800 DD + 6s stun, Magic 0, 45s recast). Adds spawn at 99% and as she drops. Sorrowsong flies and sings from 99%. At 25% Sorrowsong becomes attackable. Kill it.
 

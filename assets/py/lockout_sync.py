@@ -1,9 +1,9 @@
 """PQDI → Former Glory Respawn Time sync.
 
 Walks strategy.md boss cards, skips event-guide / overview / flagging cards,
-and rewrites the lockout box from PQDI /instances. That list is the raid
-source of truth. Event-only names stay "Event spawn" unless /instances has
-an override. Do not copy NPC-page spawn timers. Do not invent hours.
+and rewrites the lockout box from PQDI /instances. SERVER_LOCKOUT_OVERRIDES
+win when they are set. Event-only names stay "Event spawn" unless
+/instances has an override. Do not copy NPC-page spawn timers.
 """
 from __future__ import annotations
 
@@ -61,6 +61,62 @@ PRESERVE_EVENT_SPAWN_SLUGS = EVENT_ONLY_SLUGS | frozenset(
         "ston_ruak_ancient_of_the_trees",
     }
 )
+
+# Quarm instance lockouts. Win over /instances until that list matches.
+STANDARD_66H = "2 days and 18 hours"
+ELEMENTAL_GOD = "5 days and 18 hours"
+TIME_BOSS = "6 days and 18 hours"
+HOH_TRIAL = "18 hours"
+STORMS_LORD = "6 hours"
+
+SERVER_LOCKOUT_OVERRIDES: dict[str, str] = {
+    "agnarr_the_storm_lord": STANDARD_66H,
+    "lord_mithaniel_marr": STANDARD_66H,
+    "tallon_zek": STANDARD_66H,
+    "vallon_zek": STANDARD_66H,
+    "rallos_zek_the_warlord": STANDARD_66H,
+    "aerin_dar": STANDARD_66H,
+    "terris_thule": STANDARD_66H,
+    "grummus": STANDARD_66H,
+    "bertoxxulous": STANDARD_66H,
+    "carprin_deatharn": STANDARD_66H,
+    "saryrn": STANDARD_66H,
+    "the_seventh_hammer": STANDARD_66H,
+    "baltaldor_the_cursed": STANDARD_66H,
+    "sigismond_windwalker": STANDARD_66H,
+    "arlyxir": STANDARD_66H,
+    "jiva": STANDARD_66H,
+    "rizlona": STANDARD_66H,
+    "xuzl": STANDARD_66H,
+    "the_protector_of_dresolik": STANDARD_66H,
+    "solusek_ro": STANDARD_66H,
+    "halon_of_marr": STANDARD_66H,
+    "edium_guardian_of_marr": STANDARD_66H,
+    "ralthazor_champion_of_marr": STANDARD_66H,
+    "xegony": ELEMENTAL_GOD,
+    "coirnav": ELEMENTAL_GOD,
+    "fennin_ro": ELEMENTAL_GOD,
+    "avatar_of_earth": ELEMENTAL_GOD,
+    "guardian_of_doomfire": ELEMENTAL_GOD,
+    "guardian_of_coirnav": ELEMENTAL_GOD,
+    "rydda_dar": HOH_TRIAL,
+    "advocent_joran": HOH_TRIAL,
+    "halgoz_rellinic": HOH_TRIAL,
+    "freegan_haun": HOH_TRIAL,
+    "gurebk_lord_of_krendic": STORMS_LORD,
+    "jeplak_lord_of_srerendi": STORMS_LORD,
+    "neffiken_lord_of_kelek_vor": STORMS_LORD,
+    "quarm": TIME_BOSS,
+    "innoruuk_time": TIME_BOSS,
+    "rallos_zek_time": TIME_BOSS,
+    "bertoxxulous_time": TIME_BOSS,
+    "cazic_thule_time": TIME_BOSS,
+    "tallon_zek_time": TIME_BOSS,
+    "saryrn_time": TIME_BOSS,
+    "terris_thule_time": TIME_BOSS,
+    "vallon_zek_time": TIME_BOSS,
+    "the_statue_of_rallos_zek": TIME_BOSS,
+}
 
 SKIP_SECOND_LI = frozenset({"Event Guide", "Flagging Guide"})
 RESPAWN_RE = re.compile(
@@ -144,7 +200,7 @@ class BossPage:
 @dataclass
 class TimerHit:
     text: str
-    source: str  # instances | npc | event-allowlist
+    source: str  # instances | npc | event-allowlist | server
 
 
 @dataclass
@@ -480,6 +536,12 @@ def desired_timer(
     page: BossPage,
     instances: InstancesIndex | dict[str, str],
 ) -> TimerHit | None:
+    override = SERVER_LOCKOUT_OVERRIDES.get(page.slug) or SERVER_LOCKOUT_OVERRIDES.get(
+        card.slug
+    )
+    if override:
+        return TimerHit(text=override, source="server")
+
     if isinstance(instances, InstancesIndex):
         instances_text = instances.lookup(page, card)
     else:

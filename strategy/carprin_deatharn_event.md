@@ -7,7 +7,7 @@ cover-img: /assets/img/Carprin-Deatharn.png
 
 Crypt of Decay is the chapel crawl to flag the Bertoxxulous basement, then the basement raid. Access is Grummus.
 
-Carprin respawns in 3 days. Bertoxxulous 3 days. Named after Carprin are event spawns.
+Carprin respawns in **2 days and 18 hours**. Bertoxxulous **2 days and 18 hours**. Named after Carprin are event spawns. Event trash in the basement respawns in **3 minutes 50 seconds**. If Bertoxxulous fails, the trigger returns in **5 minutes**.
 
 ## Access
 
@@ -31,7 +31,7 @@ Kill one named to spawn the next further in.
 4. **[Raex Pwodill](/strategy/raex_pwodill)** and **[Vindor Mawnil](/strategy/vindor_mawnil)** — fought together. Raex is **Unslowable** and Rampages (delay 24). Vindor is **Slowable** and Flurries (delay 10). Both proc Lifeshock (5000 lifetap).
 5. **[High Priest Ultor Szanvon](/strategy/high_priest_ultor_szanvon)** — untargetable until both generals are dead. **Permarooted**. **Unslowable**. Casts Enveloping Entropy (unresistable 90% slow).
 
-Hail **Tarkil Adan** when the High Priest is dead. He lasts 10 minutes and can give up to 36 flags, killer's raid or group only. He tells you to click the bone throne at the ruins entrance.
+Hail **Tarkil Adan** when the High Priest is dead. He lasts 10 minutes and can give up to 72 flags, killer's raid or group only. He tells you to click the bone throne at the ruins entrance.
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box-carprin">&lt;Carprin Deatharn&gt; - CH Chain: 2sec, Hits 1221, Dual Wield, Immune to Slow, Procs: Theft of Life (Single, 3500 lifetap, Magic -200), Mem Blur, 160k HP</pre><button class="copy-button" onclick="copyText('copy-box-carprin')">Copy to Clipboard</button></div>
 
@@ -59,7 +59,7 @@ Hail **Tarkil Adan** when the High Priest is dead. He lasts 10 minutes and can g
 
 Click the bone throne at zone-in. You need the Tarkil flag.
 
-Kill **Spectre of Corruption** (230k HP) to start **[Bertoxxulous](/strategy/bertoxxulous)**. Stay in the main room. Pull hallways. Waves of knights, priests, and necromancers of Decay. Twelve Adan kings spawn through the event. The last four spawn together: Meedo, Qezzin, Pzo, and Bhaly. Bhaly is **Unslowable** and Flurries.
+Kill **Spectre of Corruption** (230k HP) to start **[Bertoxxulous](/strategy/bertoxxulous)**. Event trash respawns in **3 minutes 50 seconds**. If the event fails, the trigger returns in **5 minutes**. Stay in the main room. Pull hallways. Waves of knights, priests, and necromancers of Decay. Twelve Adan kings spawn through the event. The last four spawn together: Meedo, Qezzin, Pzo, and Bhaly. Bhaly is **Unslowable** and Flurries.
 
 He is **Unslowable**. Rampage. Dual Wield. Hits 1957. 600k HP. Casts Rot of the Plaguebringer (PBAE, 500 DD + ATK -150, Disease -500, 72 disease counters).
 

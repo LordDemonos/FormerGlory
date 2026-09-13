@@ -13,7 +13,8 @@ cover-img: /assets/img/Bertoxxulous.png
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours</div>
+<div class="info-lockoutitem"><strong>Fail Retry:</strong> 5 minutes</div>
 <div class="info-lockoutitem"><strong>CH Chain: 2sec</strong> </div>
 <div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#bertoxxulous" title="View raid loot">🔗</a></div>
 </div>
@@ -76,7 +77,7 @@ cover-img: /assets/img/Bertoxxulous.png
 
 Basement raid in [Crypt of Decay](/strategy/carprin_deatharn_event). Click the bone throne at zone-in after you have the Tarkil flag.
 
-Kill **Spectre of Corruption** (230k HP) to start the event. Stay in the main room. Pull hallways. Waves of knights, priests, and necromancers of Decay. Twelve Adan kings spawn through the event. The last four spawn together: Meedo, Qezzin, Pzo, and Bhaly. Bhaly is **Unslowable** and Flurries.
+Kill **Spectre of Corruption** (230k HP) to start the event. Event trash respawns in **3 minutes 50 seconds**. If the event fails, the trigger returns in **5 minutes**. Stay in the main room. Pull hallways. Waves of knights, priests, and necromancers of Decay. Twelve Adan kings spawn through the event. The last four spawn together: Meedo, Qezzin, Pzo, and Bhaly. Bhaly is **Unslowable** and Flurries.
 
 He is **Unslowable**. Rampage. Dual Wield. Hits 1957. 600k HP.
 

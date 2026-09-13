@@ -13,7 +13,7 @@ cover-img: /assets/img/Innoruuk-Time.png
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 6 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain: 1sec</strong> </div>
 <div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#innoruuk-time" title="View raid loot">🔗</a></div>
 </div>

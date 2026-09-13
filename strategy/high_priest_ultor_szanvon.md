@@ -76,4 +76,4 @@ He is **Permarooted** and **Unslowable**. Dual Wield. Hits 1811. 250k HP.
 
 Casts **Enveloping Entropy** (single, unresistable 90% slow + ATK -500, 36 disease counters, 60s recast). Cure it.
 
-On death, hail **Tarkil Adan**. He lasts 10 minutes and can give up to 36 flags, killer's raid or group only. That flag opens the bone throne at zone-in.
+On death, hail **Tarkil Adan**. He lasts 10 minutes and can give up to 72 flags, killer's raid or group only. That flag opens the bone throne at zone-in.

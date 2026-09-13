@@ -25,7 +25,9 @@ One unflagged can piggy per five flagged.
 
 ## Raid order
 
-Most raid targets respawn in **3 days**. Gryme is **3 hours 8 minutes**. Aramin is **1 day**. Hedge and Xanamech are events. Evynd and Emmerik are **6 hours**. The Keeper of Sorrows is **2 days 12 hours**.
+PoP zones need **level 46**. `#popflags` shows your progression. `#popflags 1` through `#popflags 5` show one tier. `#timelockout` shows your guild's Time timeline.
+
+Most raid targets respawn in **2 days and 18 hours**. Loot lockout matches that. The four elemental gods are **5 days and 18 hours**. Halls of Honor trials are **18 hours**. Plane of Time bosses are **6 days and 18 hours**. Gryme is **3 hours 8 minutes**. Aramin is **1 day**. Hedge and Xanamech are events. Evynd and Emmerik are **6 hours**. Storms lords are **6 hours**. The Keeper of Sorrows is **2 days 12 hours**. A wipe does not start those successful-kill timers. Scripted events use their own fail retries.
 
 Do Phase 1 in any order. If you can only run one thing, do Justice first. That hail gates Halls of Honor and Bastion of Thunder.
 
@@ -70,7 +72,7 @@ One person needs an **Odylic Vial**. Combine the four essences for **Quintessenc
 
 In [Plane of Innovation](/strategy/plane_of_innovation), say **yes** to **Chronographer Muan**. Say **researched** to **Loreseeker Maelin**. Click the machine.
 
-Eighteen people per Phase 1 trial. Click a trial portal to start the hour. Leftover time carries. Full event order is on [Plane of Time](/strategy/plane_of_time).
+Eighteen people per Phase 1 trial. Time A and B hold **72**. Time is a guild timeline. `#timelockout` shows the current phase and remaining timers. Click a trial portal to start the hour. Leftover time carries. Full event order is on [Plane of Time](/strategy/plane_of_time).
 
 ## Checklist
 
@@ -183,3 +185,5 @@ Each line is one hail, one flag kill, or one required zone. *One person* keys op
 - Say **yes** to **Chronographer Muan**.
 - Say **researched** to **Loreseeker Maelin**.
 - Click the machine.
+- Time A and B hold **72**. Phase 1 trials hold **18**.
+- `#timelockout` shows the guild timeline.

@@ -13,7 +13,8 @@ cover-img: /assets/img/Rydda-Dar.jpg
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 18 hours</div>
+<div class="info-lockoutitem"><strong>Fail Retry:</strong> 10 minutes</div>
 <div class="info-lockoutitem"><strong>CH Chain: 1sec, 2sec slowed</strong> </div>
 <div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#rydda-dar" title="View raid loot">🔗</a></div>
 </div>
@@ -74,7 +75,7 @@ cover-img: /assets/img/Rydda-Dar.jpg
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Rydda`Dar&gt; - CH Chain: 1sec, 2sec slowed, Hits 2060, Rampage, Dual Wield, Slowable (82% mit), Corpse Camper, Casts: Crystal Roar (PBAE, Fear + 100% snare + 35% slow + AC -177, Magic -200, 60s recast), Procs: Screeching Bellow (PBAE, 2500 DD + 700/tick + 3s stun, Magic -200, 36 disease counters), 500k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
-Northeast [Halls of Honor](/strategy/halls_of_honor_trials) trial. Hail **Trydan Faye**, say **we are ready**, and kill A Custodian of Marr. He spawns on the custodian's death. Be ready.
+Northeast [Halls of Honor](/strategy/halls_of_honor_trials) trial. Hail **Trydan Faye**, say **we are ready**, and kill A Custodian of Marr. He spawns on the custodian's death. Be ready. After a win, the trial returns in **18 hours**. If it fails, it is available again in **10 minutes**.
 
 He is **Slowable** (82% mit). Rampage. Dual Wield. Hits 2060. Attack delay 14. 500k HP. He does not see invis.
 

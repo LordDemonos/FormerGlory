@@ -13,7 +13,8 @@ cover-img: /assets/img/Fennin-Ro.jpg
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 5 days and 18 hours</div>
+<div class="info-lockoutitem"><strong>Fail Retry:</strong> 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain: 2sec</strong> </div>
 <div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#fennin-ro" title="View raid loot">🔗</a></div>
 </div>
@@ -72,7 +73,7 @@ cover-img: /assets/img/Fennin-Ro.jpg
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Fennin Ro the Tyrant of Fire&gt; - CH Chain: 2sec, Hits 1962, AE Rampage, Dual Wield, Reverse Slow, Tank corner of steps, Keep off idle elites, Melee max range, Casts: Cataclysm of Ro (PBAE, 3000 DD + 100 HP/tick + 100 mana/tick, Fire -700, 18 curse, 60s recast), 1M HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
-Kill [Guardian of Doomfire](/strategy/guardian_of_doomfire) in [Plane of Fire](/strategy/plane_of_fire) to start the event. Clear the trash packs, then the four lords, then pull the four castle nameds out of the castle. The fourth castle death spawns Fennin on his throne.
+Kill [Guardian of Doomfire](/strategy/guardian_of_doomfire) in [Plane of Fire](/strategy/plane_of_fire) to start the event. Clear the trash packs, then the four lords, then pull the four castle nameds out of the castle. The fourth castle death spawns Fennin on his throne. The event clock pauses while participating NPCs are in combat. When Fennin spawns, the event gets **2** more hours, once per attempt. If the event fails, Guardian of Doomfire returns in **18 hours**.
 
 Tank him in the outside corner of the steps. Keep him off idle **elite guardian of Ro**. Melee stay max range. Clerics stay max range.
 

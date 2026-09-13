@@ -13,7 +13,8 @@ cover-img: /assets/img/Coirnav.jpg
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 5 days and 18 hours</div>
+<div class="info-lockoutitem"><strong>Fail Retry:</strong> 10 minutes</div>
 <div class="info-lockoutitem"><strong>CH Chain: 2sec, 3sec slowed</strong> </div>
 <div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#coirnav" title="View raid loot">🔗</a></div>
 </div>
@@ -73,7 +74,7 @@ cover-img: /assets/img/Coirnav.jpg
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Coirnav the Avatar of Water&gt; - CH Chain: 2sec, 3sec slowed, Hits 1653, AE Rampage, Dual Wield, Slowable (95% mit), Always Calls for Help, Melee max range, Casts: Curse of the Triumvirate (PBAE, 2000 DD + dispel + ATK -500, Cold -700, 18 curse, 30s recast), 3M HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
-Kill **[Guardian of Coirnav](/strategy/guardian_of_coirnav)** in [Plane of Water](/strategy/plane_of_water) to start. 14 minutes. Root the wave nameds off the raid. AE the adds. Kill the nameds when they respawn at Coirnav. Then burn **Coirnav the Avatar of Water**.
+Kill **[Guardian of Coirnav](/strategy/guardian_of_coirnav)** in [Plane of Water](/strategy/plane_of_water) to start. 14 minutes. Root the wave nameds off the raid. AE the adds. Kill the nameds when they respawn at Coirnav. Then burn **Coirnav the Avatar of Water**. If the event fails at any phase, Guardian of Coirnav is available again in **10 minutes**.
 
 He is **Slowable** (95% mit). AE Rampage. Dual Wield. Hits 1653. Attack delay 15. 3M HP. Run speed 0. He **Always Calls for Help**. Assist 100. Melee stay max range.
 

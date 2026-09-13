@@ -7,7 +7,7 @@ cover-img: /assets/img/Manaetic-Behemoth.png
 
 Innovation has an optional junkyard dragon for the factory door and a factory raid for Plane of Tactics. **[Xanamech Nezmirthafen](/strategy/xanamech_nezmirthafen)** is not required for planar progression. **[Manaetic Behemoth](/strategy/manaetic_behemoth)** is.
 
-Xanamech is an event spawn. Behemoth respawns in 3 days.
+Xanamech is an event spawn. Behemoth has a **3-hour** active window once he wakes. That clock pauses while he is in combat. If the event fails, he is up again in **10 minutes**.
 
 ## Factory door
 
@@ -23,7 +23,7 @@ Xanamech is an event spawn. Behemoth respawns in 3 days.
   <img src="/assets/img/Factory-Door-Map.png" alt="Factory-Door-Map"/>
 </a>
 
-Junkyard trash drops **Copper Node**, **Bundle of Super Conductive Wires**, and **Intact Power Cell**. Give all three to **Nitram Anizok**. He paths northeast to **[Xanamech Nezmirthafen](/strategy/xanamech_nezmirthafen)**. Pre-clear the route. Keep Nitram alive. If he dies, he respawns in 2 hours.
+Junkyard trash drops **Copper Node**, **Bundle of Super Conductive Wires**, and **Intact Power Cell**. Give all three to **Nitram Anizok**. He casts **Spirit of Wolf** on himself when the escort starts. He paths northeast to **[Xanamech Nezmirthafen](/strategy/xanamech_nezmirthafen)**. Pre-clear the route. Keep Nitram alive. If he dies, he respawns in 2 hours.
 
 Xanamech starts lying down and untargetable. He despawns in 30 minutes if nobody engages. Nitram powers it, then it wakes. Kill it. Hail Nitram. He lasts 10 minutes and can give up to 72 flags, killer's raid or group only.
 
@@ -43,9 +43,9 @@ Inside the first factory room, Giwin Mirakon is on a grate. Hail him, then say *
 
 ![Giwin-Mirakon](/assets/img/Giwin-Mirakon.png)
 
-Giwin sends you past the tin soldiers into the main construction area. Power carriers take energy to the machine. Stop them from releasing that energy and **[Manaetic Behemoth](/strategy/manaetic_behemoth)** activates.
+Giwin sends you past the tin soldiers into the main construction area. **[Manaetic Behemoth](/strategy/manaetic_behemoth)** wakes immediately after **10** qualifying device kills. Both Innovation versions of Giwin cannot be killed or dragged into NPC combat.
 
-His room has two doors. Split the raid on both doors and kill the carriers before they enter. When he becomes targetable, leave groups on the doors. The rest go in for the kill. He is **Unslowable**. Carriers still run after he dies — leave the room as soon as he is down.
+His room has two doors. Split the raid on both doors and kill the carriers before they enter. When he becomes targetable, leave groups on the doors. The rest go in for the kill. He is **Unslowable**. The event has a **3-hour** active window. That clock pauses while he is in combat. If he leashes, he returns home, hate clears, and his health restores. If the event fails, new clockwork spawning stops, leftover devices clean up, and he is available again in **10 minutes**. Device waves then start over. If he dies, leftover device waves clean up. The Endurance room checks the correct manaetic device NPC types for the Kelrig transition.
 
 Giwin appears at the east door. Hail him for the Plane of Tactics flag. He lasts 10 minutes and can give up to 72 flags, killer's raid or group only. You need the **test the machine** pre-flag for that hail to grant Tactics. The Tactics portal is in Plane of Tranquility.
 

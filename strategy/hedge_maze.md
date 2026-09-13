@@ -17,7 +17,7 @@ The Hedge Maze flags the raid for The Lair of Terris-Thule. Keep Thelin Poxbourn
 
 In Plane of Tranquility Sick Bay, hail Adroha Jezith and say **tortured by nightmares**.
 
-Find Thelin Poxbourne in the northeast of Plane of Nightmares, across the river inside the hedges. Up to three group leaders say **I am ready** to port in. Once everyone is inside, hail Thelin and say **I am ready** again to start the walk.
+Find Thelin Poxbourne in the northeast of Plane of Nightmares, across the river inside the hedges. Each room holds **24** players. Group leaders say **I am ready** to port in. Once everyone is inside, hail Thelin and say **I am ready** again to start the walk. Thelin gets **Spirit of Wolf** when the event starts. Unstarted rooms warn, then clear themselves. Success and failure remove players, pets, and leftover hate.
 
 Rooting Thelin and mem-blurring him keeps him from aggroing or wandering.
 
@@ -31,6 +31,6 @@ Loot the Dagger Blade Shard from the construct and give it to Thelin. Hail Theli
 
 ## After the maze
 
-Zone into The Lair of Terris-Thule and kill **[Terris-Thule](/strategy/terris_thule)**. Keep the fight in her chamber. Dream defilers spawn at 79% and 69%. Direption of Dreams (unresistable PBAE dispel) at 50%. Four gargoyles at 40%. Hail the Planar Projection, then hail Elder Poxbourne in Plane of Tranquility.
+Zone into The Lair of Terris-Thule and kill **[Terris-Thule](/strategy/terris_thule)**. She respawns in **2 days and 18 hours**. Keep the fight in her chamber. Dream defilers spawn at 79% and 69%. Direption of Dreams (unresistable PBAE dispel) at 50%. Four gargoyles at 40%. Hail the Planar Projection, then hail Elder Poxbourne in Plane of Tranquility.
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box-terris">&lt;Terris-Thule&gt; - CH Chain: 2sec, 3sec slowed, Hits 977, Flurry, Dual Wield, Slowable (75% mit), Procs: Touch of Night (Single, 720 lifetap, Magic -200), Casts: Direption of Dreams (PBAE, mass dispel, Unresistable) at 50%, 450k HP</pre><button class="copy-button" onclick="copyText('copy-box-terris')">Copy to Clipboard</button></div>

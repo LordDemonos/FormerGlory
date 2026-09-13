@@ -13,7 +13,7 @@ cover-img: /assets/img/Saryrn.png
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain: 4sec, 6sec slowed</strong> </div>
 <div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#saryrn" title="View raid loot">🔗</a></div>
 </div>
@@ -75,7 +75,7 @@ cover-img: /assets/img/Saryrn.png
 
 Top of Saryrn's tower in [Plane of Torment](/strategy/keeper_of_sorrows). Do **[The Keeper of Sorrows](/strategy/the_keeper_of_sorrows)** first. You need that Tylis flag for her Planar Projection.
 
-She is **Slowable** (70% mit). AE Rampage. Dual Wield. Hits 573. Attack delay 10. 850k HP. Keep the fight in her chamber. If she is pulled down she ports back and heals.
+She is **Slowable** (70% mit). AE Rampage. Dual Wield. Hits 573. Attack delay 10. 850k HP. Keep the fight in her chamber. If she is pulled down she ports back and heals. Her health-reset timer stops when she is re-engaged. Leashing clears hate.
 
 Casts **Will of Saryrn** (PBAE, 800 DD + 6s stun, Magic 0, AoE 50, 45s recast).
 

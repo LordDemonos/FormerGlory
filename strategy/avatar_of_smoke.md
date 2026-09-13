@@ -75,7 +75,7 @@ cover-img: /assets/img/Avatar-of-Smoke.jpg
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Avatar of Smoke&gt; - CH Chain: 2sec, 3sec slowed, Hits 2060, AE Rampage, Dual Wield, Slowable (25% mit), Corpse Camper, Casts: Tornado (Single, 200/tick + 1s stun, Magic -100), Cyclone (Single, 200/tick + 1s stun + 95% agro, Magic -150), Procs: Hail Storm (PBAE, 400 DD + stun, Magic 0, 30s recast), 750k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
-Elemental ring in [Plane of Air](/strategy/plane_of_air). Kill four **An Elemental Champion**, then **An Elemental Masterpiece**. He spawns in the temple. Loot **Mystical Essence of Smoke**.
+Elemental ring in [Plane of Air](/strategy/plane_of_air). Kill four **An Elemental Champion**, then **An Elemental Masterpiece**. He spawns in the temple. Loot **Mystical Essence of Smoke**. Loot includes **Alabaster Hilted Wind Bow** (**10%**).
 
 He is **Slowable** (25% mit). AE Rampage. Dual Wield. Corpse Camper. Hits 2060. 750k HP.
 

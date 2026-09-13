@@ -15,7 +15,7 @@ Kill **[Guardian of Coirnav](/strategy/guardian_of_coirnav)** to start. 14 minut
 
 If the timer expires, the raid ports to Plane of Knowledge.
 
-Coirnav respawns in 3 days. Guardian of Coirnav respawns in 4 days.
+If Coirnav dies, respawn and loot lockout are **5 days and 18 hours**. If the event fails at any phase, Guardian of Coirnav is available again in **10 minutes**. Trash respawns in **25 minutes 30 seconds**.
 
 ## [Guardian of Coirnav](/strategy/guardian_of_coirnav)
 

@@ -7,7 +7,7 @@ cover-img: /assets/img/Aerin-Dar.png
 
 **<a href="/strategy/aerin_dar">Aerin`Dar</a>** is the Plane of Valor raid. One person needs a Crystalline Globe to open the lair door. After the kill, hail the Planar Projection, then take the underground tunnel to Halls of Honor.
 
-He respawns in 3 days.
+He respawns in **2 days and 18 hours**. Loot lockout is **2 days and 18 hours**. Quest progress does not expire.
 
 <a href="/assets/img/Plane-of-Valor-Map.png" target="_blank">
   <img src="/assets/img/Plane-of-Valor-Map.png" alt="Plane-of-Valor-Map"/>
@@ -25,11 +25,11 @@ Paralin again: hail, **prove**. Turn in **A Crystalline Spider's Heart** (crysta
 
 Aaramis: hail, **glass lair**, **aerin**, **company**, **mission**.
 
-**Captain Ryglot Cupperhide:** hail, **busy**, **help**. Turn in the three globe pieces:
+**Captain Ryglot Cupperhide:** hail, **busy**, **help**. He accepts the later quest states. Turn in the three globe pieces:
 
-- **A Crystalline Orb** — A Luminii Crawler (rare among crystalline crawlers)
+- **A Crystalline Orb** — A Luminii Crawler (**10%**)
 - **A Crystalline Staff** — A Gamite Frog
-- **A Crystalline Gem** — An Undead Vassal or Sergeant Terrick Burns
+- **A Crystalline Gem** — An Undead Vassal (**10%**) or **Sergeant Terrick Burns** (always)
 
 He gives **A Crystalline Globe**. Click the lair door with it. Keep the globe. Invis to that door.
 

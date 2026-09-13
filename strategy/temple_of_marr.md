@@ -13,7 +13,7 @@ Temple of Marr is Halls of Honor B. You need all three [Halls of Honor Trials](/
 
 ![Mithaniel-Marr-Minis](/assets/img/Mithaniel-Marr-Minis.png)
 
-**[Lord Mithaniel Marr](/strategy/lord_mithaniel_marr)** is west of zone-in. If he is visible, he is up. He is untargetable until all three mini bosses are dead. The minis and Marr respawn in 3 days.
+**[Lord Mithaniel Marr](/strategy/lord_mithaniel_marr)** is west of zone-in. If he is visible, he is up. He is untargetable until all three mini bosses are dead. The minis and Marr respawn in **2 days and 18 hours**.
 
 ## The room
 

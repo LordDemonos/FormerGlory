@@ -87,3 +87,5 @@ cover-img: /assets/img/cazic_thule.webp
 </div>
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Cazic Thule&gt; [Unslowable, rampages, fears] - [Assist/fast heals] // Avatar Snare (PBAOE, 200 rng, proc, unresistable): Movement speed debuff // Avatar Power (PBAOE, 75 rng, unresistable, 36s CD): 100 dmg knockback + 1 slot dispel // Panic (targeted, MR, -150 check, proc) 18s max duration fear | **Keep SoW/JBoots top slot and he will dispel his own snare**</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+
+Loot includes **Bo Staff of Transcendence** (**10%**).
