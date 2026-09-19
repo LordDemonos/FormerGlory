@@ -1,7 +1,7 @@
 ---
 published: 'true'
 date: '2026-09-14 12:46 -0400'
-author: Xananx
+author: Xanax
 title: 'Planes of Power Update: Part 2'
 description: Planes of Power Updates for rules and guidelines
 keywords: 'Planes, Power, PoP, Quarm, EverQuest'
@@ -20,4 +20,4 @@ The Former Glory leadership team met and discussed the remainder of rules we wan
 	- As always, Planes of Power content (aka current era content) will be mandatory DKP. Luclin will move to "Free for all, unless someone's planning on raiding it. Raid leaders can choose their own loot rules." 
 - The guild will claim the first 3 Plane of Innovation Factory keys. After that we'll DKP the rest for people who want to bring their own groups through. 
 - Lv61-64 spells parchments will be DKP until the value plummets, likely within 30 days.
-- This is a new expansion and raid leaders will be explaining things. If you have suggestions, please put those in raid chat and do not clutter up voice chat. We need to be patient with each other as we're progressing. We don't want any arguing in voice chat. 
+- This is a new expansion and raid leaders will be explaining things. If you have suggestions, please put those in raid chat and do not clutter up voice chat. We need to be patient with each other as we're progressing. We don't want any arguing in voice chat.
