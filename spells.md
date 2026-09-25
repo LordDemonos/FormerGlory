@@ -6,7 +6,9 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-09-12
+### Last Update: 2026-09-25
+
+FGS Inv1 s6 [Ancient: Chaotic Visions](https://www.pqdi.cc/item/26620)
 
 FGS Inv2 [Bearskin Potion Bag](https://www.pqdi.cc/item/17811)
 
@@ -26,9 +28,7 @@ FGS SBnk5 [Song: Battlecry of the Vah Shir](https://www.pqdi.cc/item/7706) x5
 
 SPD Bnk16 s3 [Song: Composition of Ervaj](https://www.pqdi.cc/item/30452)
 
-FGS Bnk12 s8 [Song: Dreams of Ayonae](https://www.pqdi.cc/item/24548)
-
-FGS Bnk2 s6 [Song: Elemental Chorus](https://www.pqdi.cc/item/7707) x5
+FGS SBnk2 [Song: Elemental Chorus](https://www.pqdi.cc/item/7707) x4
 
 FGS Inv2 s3 [Song: Warsong of the Vah Shir](https://www.pqdi.cc/item/7710) x2
 
@@ -37,8 +37,6 @@ FGS Bnk11 s1 [Spell: Aegis of Ro](https://www.pqdi.cc/item/15863) x3
 FGS Inv3 s3 [Spell: Aegis](https://www.pqdi.cc/item/19227)
 
 SPD Inv4 s1 [Spell: Aid of Khurenz](https://www.pqdi.cc/item/7722)
-
-FGS Bnk29 s7 [Spell: Arch Lich](https://www.pqdi.cc/item/30416)
 
 FGS Bnk10 s1 [Spell: Asphyxiate](https://www.pqdi.cc/item/19402) x2
 
@@ -90,7 +88,7 @@ FGS SBnk3 [Spell: Cripple](https://www.pqdi.cc/item/19269) x2
 
 SPD Bnk5 s9 [Spell: Death Peace](https://www.pqdi.cc/item/30460)
 
-FGS Inv1 s2 [Spell: Deathly Temptation](https://www.pqdi.cc/item/19532)
+FGS Inv1 s2 [Spell: Deathly Temptation](https://www.pqdi.cc/item/19532) x4
 
 FGS Bnk2 s1 [Spell: Decession](https://www.pqdi.cc/item/7658) x3
 
@@ -116,11 +114,11 @@ FGS Bnk15 s1 [Spell: Elemental Maelstrom](https://www.pqdi.cc/item/30403)
 
 FGS Inv1 s5 [Spell: Elnerick's Rending](https://www.pqdi.cc/item/19525)
 
-FGS Inv1 s1 [Spell: Emissary of Thule](https://www.pqdi.cc/item/19311) x2
+FGS Inv1 s3 [Spell: Emissary of Thule](https://www.pqdi.cc/item/19311)
 
 FGS Bnk11 s2 [Spell: Enlightenment](https://www.pqdi.cc/item/19396) x6
 
-FGS Bnk13 s1 [Spell: Enslave Death](https://www.pqdi.cc/item/19313)
+FGS Inv4 s1 [Spell: Enslave Death](https://www.pqdi.cc/item/19313)
 
 FGS Bnk27 s4 [Spell: Enticement of Flame](https://www.pqdi.cc/item/30421)
 
@@ -143,6 +141,8 @@ SPD Bnk19 s4 [Spell: Foliage Shield](https://www.pqdi.cc/item/7616)
 FGS Inv1 s7 [Spell: Forlorn Deeds](https://www.pqdi.cc/item/19395)
 
 FGS Bnk20 s5 [Spell: Form of the Howler](https://www.pqdi.cc/item/19244) x2
+
+FGS Inv4 s4 [Spell: Funeral Pyre of Kelador](https://www.pqdi.cc/item/19527)
 
 FGS Bnk12 s1 [Spell: Gift of Brilliance](https://www.pqdi.cc/item/30410) x7
 
@@ -192,6 +192,8 @@ FGS Bnk13 s7 [Spell: Koadic's Endless Intellect](https://www.pqdi.cc/item/7670) 
 
 FGS Bnk30 s7 [Spell: Largarn`s Lamentation](https://www.pqdi.cc/item/19388) x2
 
+FGS Inv1 s1 [Spell: Legacy of Thorn](https://www.pqdi.cc/item/19259)
+
 FGS Bnk3 s9 [Spell: Maelstrom of Electricity](https://www.pqdi.cc/item/19497) x6
 
 FGS Bnk18 s7 [Spell: Mala](https://www.pqdi.cc/item/19418) x3
@@ -218,6 +220,8 @@ FGS Bnk21 s3 [Spell: Monster Summoning III](https://www.pqdi.cc/item/30404) x4
 
 FGS Bnk25 s2 [Spell: Moonfire](https://www.pqdi.cc/item/19519) x6
 
+FGS Inv4 s6 [Spell: Nature Walkers Behest](https://www.pqdi.cc/item/30475)
+
 FGS Bnk5 s5 [Spell: Nature's Recovery](https://www.pqdi.cc/item/7620) x4
 
 FGS Bnk17 s3 [Spell: Phantasmal Protection](https://www.pqdi.cc/item/7639) x2
@@ -232,7 +236,7 @@ SPD Bnk9 s2 [Spell: Pouch of Quellious](https://www.pqdi.cc/item/19361)
 
 FGS Bnk15 s4 [Spell: Quiver of Marr](https://www.pqdi.cc/item/19354)
 
-FGS Bnk8 s7 [Spell: Quivering Veil of Xarn](https://www.pqdi.cc/item/19309) x5
+FGS SBnk2 [Spell: Quivering Veil of Xarn](https://www.pqdi.cc/item/19309) x4
 
 SPD Bnk3 s6 [Spell: Rage of Zomm](https://www.pqdi.cc/item/19417)
 
@@ -242,7 +246,7 @@ FGS Bnk6 s4 [Spell: Regrowth of Dar Khura](https://www.pqdi.cc/item/7628) x2
 
 FGS Bnk1 s8 [Spell: Remove Curse](https://www.pqdi.cc/item/19542) x5
 
-FGS Inv2 s2 [Spell: Remove Greater Curse](https://www.pqdi.cc/item/19522) x2
+FGS Inv2 s2 [Spell: Remove Greater Curse](https://www.pqdi.cc/item/19522) x3
 
 FGS SBnk2 [Spell: Reoccurring Amnesia](https://www.pqdi.cc/item/15194) x2
 
@@ -253,8 +257,6 @@ FGS Bnk14 s5 [Spell: Ro's Smoldering Disjunction](https://www.pqdi.cc/item/7618)
 FGS SBnk6 [Spell: Scars of Sigil](https://www.pqdi.cc/item/19358) x4
 
 FGS Bnk20 s1 [Spell: Scintillation](https://www.pqdi.cc/item/19346) x2
-
-FGS Bnk8 s4 [Spell: Sedulous Subversion](https://www.pqdi.cc/item/19410)
 
 FGS Bnk29 s6 [Spell: Servant of Bones](https://www.pqdi.cc/item/19305)
 
@@ -310,7 +312,7 @@ SPD Bnk17 s2 [Spell: Torrent of Pain](https://www.pqdi.cc/item/7678)
 
 SPD Bnk17 s7 [Spell: Transons Elemental Infusion](https://www.pqdi.cc/item/7636)
 
-FGS SBnk10 [Spell: Trepidation](https://www.pqdi.cc/item/19220) x4
+FGS SBnk10 [Spell: Trepidation](https://www.pqdi.cc/item/19220) x3
 
 SPD Inv3 s6 [Spell: Tricksters Augmentation](https://www.pqdi.cc/item/7666) x2
 
@@ -346,13 +348,15 @@ FGS Bnk15 s6 [Spell: Wind of Tashanian](https://www.pqdi.cc/item/19405) x7
 
 FGS Inv3 s6 [Spell: Winds of Gelid](https://www.pqdi.cc/item/19343)
 
+FGS Inv4 s2 [Spell: Word of Redemption](https://www.pqdi.cc/item/19229)
+
 FGS Bnk4 s7 [Spell: Words of Tranquility](https://www.pqdi.cc/item/7687) x2
 
-FGS Bnk3 s4 [Spell: Wrath of the Elements](https://www.pqdi.cc/item/30405) x7
+FGS Bnk6 s7 [Spell: Wrath of the Elements](https://www.pqdi.cc/item/30405) x6
 
 FGS Bnk21 s8 [Spell: Yaulp IV](https://www.pqdi.cc/item/19209)
 
-FGS Bnk9 s7 [Spell: Zevfeer's Theft of Vitae](https://www.pqdi.cc/item/7650) x7
+FGS Bnk16 s3 [Spell: Zevfeer's Theft of Vitae](https://www.pqdi.cc/item/7650) x6
 
 FGS SBnk7 [Sphinxian Ring](https://www.pqdi.cc/item/20709) x2
 
