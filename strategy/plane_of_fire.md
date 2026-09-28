@@ -15,7 +15,7 @@ Zone in from **[Tower of Solusek Ro](/strategy/tower_of_solusek_ro)** by droppin
   <img src="/assets/img/Fennin-Map-Setup.jpg" alt="Fennin-Map-Setup"/>
 </a>
 
-Kill **[Guardian of Doomfire](/strategy/guardian_of_doomfire)** at the tables to start. Clear the trash packs to the castle. Kill the four lords. Pull the four castle nameds out of the castle. The fourth castle death spawns **[Fennin Ro the Tyrant of Fire](/strategy/fennin_ro)** on his throne. Hail the Planar Projection. Loot **Globe of Dancing Flame**. Combine it with the other three elemental essences in an **Odylic Vial** for Plane of Time.
+Kill **[Guardian of Doomfire](/strategy/guardian_of_doomfire)** at the tables to start. Clear the trash packs to the castle. Kill the four lords. Pull the four castle nameds out of the castle. The fourth castle death spawns **[Fennin Ro the Tyrant of Fire](/strategy/fennin_ro)** on his throne. Hail the Planar Projection. He always drops **Globe of Dancing Flame**. Combine it with the other three elemental essences in an **Odylic Vial** for Plane of Time.
 
 Trash respawns in **25 minutes 30 seconds**. Outdoor nameds respawn in **2 days and 18 hours**. If Fennin dies, Guardian of Doomfire returns in **5 days and 18 hours**. Loot lockout is **5 days and 18 hours**. If the event fails, Guardian of Doomfire returns in **18 hours**. The event clock pauses while participating NPCs are in combat. When Fennin spawns, the event gets **2** more hours, once per attempt.
 
@@ -91,7 +91,7 @@ He is **Reverse Slow**. Do not slow him. AE Rampage. Dual Wield. Hits 1962. Atta
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box-fennin">&lt;Fennin Ro the Tyrant of Fire&gt; - CH Chain: 2sec, Hits 1962, AE Rampage, Dual Wield, Reverse Slow, Tank corner of steps, Keep off idle elites, Melee max range, Casts: Cataclysm of Ro (PBAE, 3000 DD + 100 HP/tick + 100 mana/tick, Fire -700, 18 curse, 60s recast), 1M HP</pre><button class="copy-button" onclick="copyText('copy-box-fennin')">Copy to Clipboard</button></div>
 
-Hail the Planar Projection. Loot **Globe of Dancing Flame**.
+Hail the Planar Projection. He always drops **Globe of Dancing Flame**.
 
 ## Outdoor nameds
 

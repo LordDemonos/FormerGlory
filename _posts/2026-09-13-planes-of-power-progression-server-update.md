@@ -8,7 +8,22 @@ keywords: 'PoP, Planes, Power, EverQuest, Quarm'
 ---
 # Planes of Power Progression & Server Update
 
-This is the big Plane of Power progression update. The goal is not to make PoP instant. The goal is to remove unnecessary bottlenecks, make failed scripted events recover reasonably, support full 72-player raids for progression, and make raid timing much easier to understand. Some changes below are still awaiting final merge/deployment. The **Luclin section near the bottom is specifically still pending approval**.
+This is the big Plane of Power progression update. The goal is not to make PoP instant. The goal is to remove unnecessary bottlenecks, make failed scripted events recover reasonably, support full raids for progression, and make raid timing much easier to understand. **As of September 28, 2026, these changes are live.**
+
+## Live as of September 28, 2026
+
+- Plane of Time A and B hold **90** players.
+- Guild books in Plane of Tranquility open each plane's instance. You must be in a guild or a raid. Books in Earth A and Nightmare open Earth B and Nightmare B. The Timekeeper sets the guild's pace. Normal pace lets guild members in without a raid. Slowed pace requires a raid, allows allies, and killed mobs take at least **18 hours** to respawn. A change never shortens a timer that is already running. Plane of Time is not affected.
+- The Keeper of Sorrows and Tylis reset in **2 hours**. The Keeper is in the open world.
+- An Unimaginable Horror respawns in **30 minutes**.
+- When Maareq dies, a zone emote announces Tylis, and Maareq's minions clean up. A Screaming Sphere on your keyring or in your inventory counts. Flagged players without one get a hint.
+- The Rallos encounter stays up **2.5 hours**. Wraith corpses respawn when the Warlord appears. A failed attempt brings the door guards back in **10 minutes**.
+- Rizlona and the Protector of Dresolik stay up **2.5 hours**. If they despawn unkilled, they return in **10 minutes**. A portal in the lava sends you to Plane of Tranquility.
+- A failed Avatar of Earth brings the Rathe Council back in **15 minutes**. A failed Earth A ring resets after **15 minutes**.
+- Air ring avatars stay up **2.5 hours**, with a **66-hour** ring lockout. The Wind Etched Key holder opens a **5-minute** window for the raid or group to click the rainbow. Each avatar drops **6** Mystical Essences. Xegony, Fennin Ro, Coirnav, and the Avatar of Earth always drop their essence.
+- Grioihin the Wise is a guaranteed spawn. Respawn and lockout are **18 hours**.
+- Memory-blur aggro drops cut the target's hate to **5%**. That includes Carprin, the Plane of Air bosses and avatars, and the Plane of Earth A ring bosses. Warlord Gintolaken does it less often.
+- Emperor Ssraeshza's eight room guards do not respawn. Vex Thal no longer kills players with the anti-cheat check.
 
 ## First: How Raid Timers Work
 
@@ -359,7 +374,7 @@ If the active window expires before Avatar is defeated:
 
 - Avatar despawns
 - The event is considered failed
-- The Rathe Council becomes available again after **7 minutes**
+- The Rathe Council becomes available again after **15 minutes**
 
 So a failed Avatar attempt does **not** cause a 5-day, 18-hour wait. The ordinary Earth A activity remains available, while the four scripted raid rings are restricted to the appropriate raid-instance environment. War Drums of the Rathe also received improved drop opportunities from Peregrin Rockskull.
 
@@ -401,11 +416,11 @@ Plane of Time is becoming a **guild-owned timeline** instead of being permanentl
 - Separate guilds maintain separate Time timelines.
 - A newly formed raid can reconnect to its guild's existing timeline.
 
-Plane of Time A and B support **72 players**. The individual Phase One trial sections retain their existing **18-player limits**. Time boss lockouts are being standardized to **6 days, 18 hours**. The player command: `#timelockout` shows the guild timeline, current accessible phase, encounter availability, and remaining timers. ---
+Plane of Time A and B support **90 players**. The individual Phase One trial sections retain their existing **18-player limits**. Time boss lockouts are being standardized to **6 days, 18 hours**. The player command: `#timelockout` shows the guild timeline, current accessible phase, encounter availability, and remaining timers. ---
 
 # Player Progression Commands
 
-`#popflags` Shows your overall Plane of Power progression. `#popflags 1` through `#popflags 5` Shows one individual progression tier. `#timelockout` Shows your guild's Plane of Time timeline and encounter availability. ---
+`#popflags` shows your Planes of Power progression flags by tier: overview, **1** through **5**, **time**, or **all**. `#timelockout` shows your Plane of Time timeline. `#timelockout 1` through `#timelockout 6` show one phase. `#glory` shows your Rallosian Glory rank, title, and bonuses. `#petstats` shows your pet's HP, AC, attack, damage, delay, DPS, resists, and equipment. ---
 
 # Missing Launch-Era Loot
 
@@ -417,14 +432,12 @@ Several missing launch-era Plane of Power drops have been restored.
 - **Alabaster Hilted Wind Bow** — Avatar of Smoke, independent **10%**
 - **Ornate Abalone Recurve Bow** — Krziik the Mighty, independent **10%**
 
-# Luclin Changes — Pending Approval
+# Luclin
 
-These are **not final until approved**:
+- Emperor Ssraeshza's eight room guards do not respawn.
+- Vex Thal no longer kills players with the anti-cheat check.
 
-- Vex Thal warders would no longer spawn.
-- Emperor Ssraeshza's guards would no longer respawn.
-
-Neither change removes bane requirements. **Emperor Ssraeshza and Lord Seru will still require their intended bane weapons.** 
+Neither change removes bane requirements. **Emperor Ssraeshza and Lord Seru still require their intended bane weapons.** 
 
 # Guild 1 / PvP Changes
 
@@ -457,20 +470,10 @@ Rallosian Glory is a temporary PvP progression system for Guild 1 battlefields.
 
 ### Experience Bonuses
 
-Every Guild 1 battlefield provides a base:
+Bonuses in the PvP instance:
 
-- **+5% level XP**
-- **+5% AA XP**
-
-Each Glory rank adds:
-
-- **+2.5% level XP**
-- **+0.5% AA XP**
-
-At Rank 10:
-
-- **+30% total level XP**
-- **+10% total AA XP**
+- Level experience: up to **+30%** (**5%** plus **2.5%** per rank).
+- AA experience: up to **+5%**.
 
 ### Earning Glory
 
@@ -483,11 +486,8 @@ Glory is awarded to the character credited with the qualifying killing blow.
 - Defeating a ranked opponent awards **50% of their Glory, rounded up**.
 - Glory is capped at Rank 10.
 
-Both players must have been continuously present in the battlefield for at least **2 minutes** before a Glory award can occur. Anti-feeding cooldowns also apply:
+Both players must have been in the zone for at least **2 minutes**. Repeat kills have **15-minute** cooldowns. The opponent must be within **5 levels**, not a duel, not in your group, raid, or guild, and not on your account.
 
-- Killer/victim pair: **1 hour**
-- Victim-wide grant cooldown: **1 hour**
-- Killer-wide award cooldown: **10 minutes**
+Any death removes your Glory. Zoning or camping out forfeits it too, and everyone hears about it. `#glory` shows your rank, title, and bonuses.
 
-Any death in the Guild 1 battlefield removes the victim's accumulated Glory. Leaving the battlefield also forfeits the temporary rank. Glory is intended to reward staying in the fight, not to become permanent character power. The player command: `#glory` shows your current Rallosian Glory rank and XP bonuses.
-spiders still spawn during the event and still go into the room
+Titles: Unproven, Blooded, Blood Seeker, Blooded Champion, Warbringer, Conqueror, Ravager, Chosen, Harbinger of Rallos Zek, Herald of Rallos Zek, Fury of the Warlord.

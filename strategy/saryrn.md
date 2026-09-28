@@ -75,7 +75,7 @@ cover-img: /assets/img/Saryrn.png
 
 Top of Saryrn's tower in [Plane of Torment](/strategy/keeper_of_sorrows). Do **[The Keeper of Sorrows](/strategy/the_keeper_of_sorrows)** first. You need that Tylis flag for her Planar Projection.
 
-She is **Slowable** (70% mit). AE Rampage. Dual Wield. Hits 573. Attack delay 10. 850k HP. Keep the fight in her chamber. If she is pulled down she ports back and heals. Her health-reset timer stops when she is re-engaged. Leashing clears hate.
+She is **Slowable** (70% mit). AE Rampage. Dual Wield. Hits 573. Attack delay 10. 850k HP. Keep the fight on her platform. If she is pulled off it she snaps back, wipes her hate list, and heals. Her health-reset timer stops when she is re-engaged.
 
 Casts **Will of Saryrn** (PBAE, 800 DD + 6s stun, Magic 0, AoE 50, 45s recast).
 

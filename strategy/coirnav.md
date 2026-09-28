@@ -80,6 +80,6 @@ He is **Slowable** (95% mit). AE Rampage. Dual Wield. Hits 1653. Attack delay 15
 
 **Curse of the Triumvirate** is a PBAE (2000 DD + dispel + ATK -500, Cold -700, 18 curse, AoE 100, 30s recast). Cure curse.
 
-Hail **Essence of Water**. It only answers the killer's raid or group, lasts 20 minutes, and can give up to 72 flags. Loot **Sphere of Coalesced Water**.
+Hail **Essence of Water**. It only answers the killer's raid or group, lasts 20 minutes, and can give up to 72 flags. He always drops **Sphere of Coalesced Water**.
 
 ![Essence-of-Water](/assets/img/Essence-of-Water.jpg)

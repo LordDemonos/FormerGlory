@@ -25,7 +25,7 @@ Each Tribunal starts one trial. Hail them, say **prove**, then **prepared**. Whe
 
 If that trial is already running, the Tribunal tells you to wait.
 
-To leave, hail Agent of The Tribunal and say **return**. If the trial is still underway, the Agent will not port you out. Fail retry is **1 minute**. Success reopen is **10 minutes**. Failed participants return after a short cleanup. Successful participants get a warning before the room clears. Boss corpses last **8 minutes**. Pets and leftover hate clear when players leave.
+To leave, hail Agent of The Tribunal and say **return**. If the trial is still underway, the Agent will not port you out. Fail retry is **1 minute**. A failed trial sends you back after **10 seconds**. Success reopen is **10 minutes**. You get a warning at **9 minutes** and return to the Tribunal at **10**. Boss corpses last **8 minutes**. Pets and leftover hate clear when players leave.
 
 ## Trial of Execution
 

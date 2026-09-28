@@ -11,7 +11,7 @@ Zone in from Plane of Tranquility.
   <img src="/assets/img/Coirnav-Map.jpg" alt="Coirnav-Map"/>
 </a>
 
-Kill **[Guardian of Coirnav](/strategy/guardian_of_coirnav)** to start. 14 minutes. Root the wave nameds off the raid. AE the adds. Kill the nameds when they respawn at Coirnav. Kill **[Coirnav the Avatar of Water](/strategy/coirnav)**. Hail **Essence of Water**. Loot **Sphere of Coalesced Water**. Combine it with the other three elemental essences in an **Odylic Vial** for Plane of Time.
+Kill **[Guardian of Coirnav](/strategy/guardian_of_coirnav)** to start. 14 minutes. Root the wave nameds off the raid. AE the adds. Kill the nameds when they respawn at Coirnav. Kill **[Coirnav the Avatar of Water](/strategy/coirnav)**. Hail **Essence of Water**. He always drops **Sphere of Coalesced Water**. Combine it with the other three elemental essences in an **Odylic Vial** for Plane of Time.
 
 If the timer expires, the raid ports to Plane of Knowledge.
 
@@ -65,7 +65,7 @@ Hail **Essence of Water**. It only answers the killer's raid or group, lasts 20 
 
 ## Named
 
-**[Grioihin the Wise](/strategy/grioihin_the_wise)** (550k, hits 1662). Rampage. Dual Wield. **Slowable** (65% mit). **Tidal Freeze** is a PBAE (2000 DD + 5s stun, Cold -350, AoE 250, 60s recast).
+**[Grioihin the Wise](/strategy/grioihin_the_wise)** (550k, hits 1662) is a guaranteed spawn. Respawn and lockout are **18 hours**. Rampage. Dual Wield. **Slowable** (65% mit). **Tidal Freeze** is a PBAE (2000 DD + 5s stun, Cold -350, AoE 250, 60s recast).
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box-grioihin">&lt;Grioihin the Wise&gt; - CH Chain: 2sec, 3sec slowed, Hits 1662, Rampage, Dual Wield, Slowable (65% mit), Casts: Tidal Freeze (PBAE, 2000 DD + 5s stun, Cold -350, 60s recast), 550k HP</pre><button class="copy-button" onclick="copyText('copy-box-grioihin')">Copy to Clipboard</button></div>
 

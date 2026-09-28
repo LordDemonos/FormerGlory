@@ -14,7 +14,7 @@ cover-img: /assets/img/Avatar-of-Earth.png
 
 <div class="info-lockout">
 <div class="info-lockoutitem"><strong>Respawn Time:</strong> 5 days and 18 hours</div>
-<div class="info-lockoutitem"><strong>Fail Retry:</strong> 7 minutes</div>
+<div class="info-lockoutitem"><strong>Fail Retry:</strong> 15 minutes</div>
 <div class="info-lockoutitem"><strong>CH Chain: 2sec, 3sec slowed</strong> </div>
 <div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#avatar-of-earth" title="View raid loot">🔗</a></div>
 </div>
@@ -73,7 +73,7 @@ cover-img: /assets/img/Avatar-of-Earth.png
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Avatar of Earth&gt; - CH Chain: 2sec, 3sec slowed, Hits 1958, Rampage, Dual Wield, Slowable (70% mit), Casts: Ashen Form (Single, 95% agro, Magic -350, 60s recast), Marl (PBAE, 100/tick, Magic -350, 36 curse, 60s recast), 500k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
-Kill the twelve **A Rathe Councilman** in [Plane of Earth B](/strategy/plane_of_earth_b). **Avatar of Earth** spawns in the middle. Once he is up, the event has a **2.5-hour** active window. That clock pauses while he is in combat. If the window expires, he despawns and the Rathe Council is available again in **7 minutes**.
+Kill the twelve **A Rathe Councilman** in [Plane of Earth B](/strategy/plane_of_earth_b). **Avatar of Earth** spawns in the middle. Once he is up, the event has a **2.5-hour** active window. That clock pauses while he is in combat. If the window expires, he despawns and the Rathe Council is available again in **15 minutes**.
 
 He is **Slowable** (70% mit). Rampage. Dual Wield. Hits 1958. Attack delay 11. 500k HP.
 
@@ -81,4 +81,4 @@ He is **Slowable** (70% mit). Rampage. Dual Wield. Hits 1958. Attack delay 11. 5
 
 **Marl** is a PBAE (100/tick, Magic -350, 36 curse, AoE 300, 60s recast). Cure curse.
 
-Hail **Essence of Earth**. It only answers the killer's raid or group, lasts 20 minutes, and can give up to 72 flags. Loot **Mound of Living Stone**.
+Hail **Essence of Earth**. It only answers the killer's raid or group, lasts 20 minutes, and can give up to 72 flags. It always drops **Mound of Living Stone**.

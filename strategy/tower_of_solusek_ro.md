@@ -13,7 +13,7 @@ Five staircases from zone-in, left to right: **[Xuzl](/strategy/xuzl)**, **[Arly
   <img src="/assets/img/Tower-of-Solusek-Ro-Map.jpg" alt="Tower-of-Solusek-Ro-Map"/>
 </a>
 
-The minis and Solusek respawn in **2 days and 18 hours**. Trash respawns in **19 minutes 30 seconds**.
+The minis and Solusek respawn in **2 days and 18 hours**. **[Rizlona](/strategy/rizlona)** and **[The Protector of Dresolik](/strategy/the_protector_of_dresolik)** stay up **2.5 hours**. If they despawn unkilled, they return in **10 minutes**. Trash respawns in **19 minutes 30 seconds**. A portal in the lava sends you to Plane of Tranquility.
 
 ## Xuzl
 

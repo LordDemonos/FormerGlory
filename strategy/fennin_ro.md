@@ -81,4 +81,4 @@ He is **Reverse Slow**. Do not slow him. AE Rampage. Dual Wield. Enrage. Hits 19
 
 **Cataclysm of Ro** is a PBAE (3000 DD + 100 HP/tick + 100 mana/tick, Fire -700, 18 curse, AoE 100, 60s recast). Cure curse.
 
-Hail the Planar Projection. Loot **Globe of Dancing Flame**.
+Hail the Planar Projection. He always drops **Globe of Dancing Flame**.

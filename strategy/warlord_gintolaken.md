@@ -144,7 +144,7 @@ cover-img: /assets/img/Warlord-Gintolaken.jpg
 
 
 
-Stronghold named in [Plane of Earth B](/strategy/plane_of_earth_b). He becomes targetable when the three War Chieftans are dead. Melee stay max range. He memblurs. Do not drop combat. If he leaves combat below 50% he warps to spawn and heals.
+Stronghold named in [Plane of Earth B](/strategy/plane_of_earth_b). He becomes targetable when the three War Chieftans are dead. Melee stay max range. He cuts the target's hate to **5%**, and he does it less often. Do not drop combat. If he leaves combat below 50% he warps to spawn and heals.
 
 
 

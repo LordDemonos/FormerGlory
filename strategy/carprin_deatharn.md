@@ -72,7 +72,7 @@ cover-img: /assets/img/Carprin-Deatharn.png
 <div class="ability-cell">Always Calls for Help</div>
 </div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Carprin Deatharn&gt; - CH Chain: 2sec, Hits 1221, Dual Wield, Immune to Slow, Procs: Theft of Life (Single, 3500 lifetap, Magic -200), Mem Blur, 160k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Carprin Deatharn&gt; - CH Chain: 2sec, Hits 1221, Dual Wield, Immune to Slow, Procs: Theft of Life (Single, 3500 lifetap, Magic -200), Hate to 5%, 160k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
 First named on the [Crypt of Decay](/strategy/carprin_deatharn_event) chapel path.
 
@@ -80,7 +80,7 @@ Kill **Fran Prisoal**, **Breddan Rutyl**, and **Abroan Drian** first. Carprin is
 
 He is **Unslowable**. Dual Wield. Hits 1221. 160k HP.
 
-Procs **Theft of Life** (single, 3500 lifetap, Magic -200). He mem-blurs his target.
+Procs **Theft of Life** (single, 3500 lifetap, Magic -200). He cuts his target's hate to **5%**.
 
 Does not see invis vs undead.
 

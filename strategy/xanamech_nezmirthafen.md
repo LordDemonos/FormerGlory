@@ -74,7 +74,7 @@ Optional factory-door event in the [Plane of Innovation](/strategy/plane_of_inno
 
 ![Nitram-Anizok](/assets/img/Nitram-Anizok.jpg)
 
-Give **Copper Node**, **Bundle of Super Conductive Wires**, and **Intact Power Cell** to **Nitram Anizok**. He paths to the northeast. Pre-clear the route. Keep Nitram alive.
+Give **Copper Node**, **Bundle of Super Conductive Wires**, and **Intact Power Cell** to **Nitram Anizok**. He casts **Spirit of Wolf** when the escort begins. He paths to the northeast. Pre-clear the route. Keep Nitram alive.
 
 He starts lying down and untargetable. He despawns in 30 minutes if nobody engages. Nitram powers it, then it wakes and aggroes. He is **Slowable**. Dual Wield. Hits 1390.
 

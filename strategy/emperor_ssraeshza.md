@@ -91,7 +91,7 @@ Upon first zoning into the chamber you’ll see a giant golem in the middle and 
 
 ## Snakes
 
-Four of the snakes are mezzable and four must be offtanked. They are all aggro linked. The puller will get harmtouched so you can use DA to pull if necessary. Two of the non-mezzable snakes also proc a -75% heal debuff. It can be curse cured (9 counters). You will need to keep the snakes CC’s for the entire duration of the fight. If you kill the snakes they will simply respawn after 2-2.5 minutes. They hit for around 300-400 each.
+Four of the snakes are mezzable and four must be offtanked. They are all aggro linked. The puller will get harmtouched so you can use DA to pull if necessary. Two of the non-mezzable snakes also proc a -75% heal debuff. It can be curse cured (9 counters). You will need to keep the snakes CC'd for the entire duration of the fight. The eight room guards do not respawn. They hit for around 300-400 each.
 
 - Grziz the Tormentor – mezzable
 
@@ -125,6 +125,6 @@ The raid can move into the front corner of either side of the room and not aggro
 
 ![Emperor-Ssraeshza2](/assets/img/Emperor-Ssraeshza2.jpg)
 
-Once Emperor Ssraeshza is dead finish off the snakes and have the raid move back into the corner so the snakes do not reaggro when they respawn. Upon death, there several A shissar wraith that spawn around the room. Each one drops a handful of Planes Rift. These are part of the Vex Thal Key.
+Once Emperor Ssraeshza is dead, finish off the snakes. They stay dead. Upon death, several A shissar wraith spawn around the room. Each one drops a handful of Planes Rift. These are part of the Vex Thal Key.
 
 ![A-shissar-wraith](/assets/img/A-shissar-wraith.jpg)

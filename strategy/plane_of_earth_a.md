@@ -9,7 +9,7 @@ Zone in from Plane of Tranquility.
 
 One person needs **Gem-Etched Key** from **[Tantisala Jaggedtooth](/strategy/tantisala_jaggedtooth)** to open the tunnel door.
 
-Complete the four ring events within 24 hours to spawn **[A Mystical Arbitor of Earth](/strategy/a_mystical_arbitor_of_earth)** in the caves. 50 minutes. Kill it. Hail the Planar Projection. It can give up to **72** flags. Loot **Passkey of the Twelve**. Click the nearby door to zone into **[Plane of Earth B](/strategy/plane_of_earth_b)**. The four scripted raid rings run in the raid instance. Ordinary Earth A activity stays available.
+Complete the four ring events within 24 hours to spawn **[A Mystical Arbitor of Earth](/strategy/a_mystical_arbitor_of_earth)** in the caves. 50 minutes. A failed ring resets after **15 minutes**. Ring bosses cut the target's hate to **5%**. Kill the Arbitor. Hail the Planar Projection. It can give up to **72** flags. Loot **Passkey of the Twelve**. Click the nearby door to zone into **[Plane of Earth B](/strategy/plane_of_earth_b)**. A book in Earth A also opens Earth B. The four scripted raid rings run in the raid instance. Ordinary Earth A activity stays available.
 
 Traps on the north field spawn trash.
 

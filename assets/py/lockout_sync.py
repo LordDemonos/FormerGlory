@@ -69,6 +69,8 @@ TIME_BOSS = "6 days and 18 hours"
 HOH_TRIAL = "18 hours"
 STORMS_LORD = "6 hours"
 STORMS_MINI = "18 hours"
+GRIOIHIN = "18 hours"
+KEEPER_OF_SORROWS = "2 hours"
 
 SERVER_LOCKOUT_OVERRIDES: dict[str, str] = {
     "agnarr_the_storm_lord": STANDARD_66H,
@@ -113,6 +115,12 @@ SERVER_LOCKOUT_OVERRIDES: dict[str, str] = {
     "coirnav": ELEMENTAL_GOD,
     "fennin_ro": ELEMENTAL_GOD,
     "avatar_of_earth": ELEMENTAL_GOD,
+    "avatar_of_wind": STANDARD_66H,
+    "avatar_of_smoke": STANDARD_66H,
+    "avatar_of_mist": STANDARD_66H,
+    "avatar_of_dust": STANDARD_66H,
+    "grioihin_the_wise": GRIOIHIN,
+    "the_keeper_of_sorrows": KEEPER_OF_SORROWS,
     "guardian_of_doomfire": ELEMENTAL_GOD,
     "guardian_of_coirnav": ELEMENTAL_GOD,
     "rydda_dar": HOH_TRIAL,

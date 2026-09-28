@@ -78,7 +78,7 @@ Four **Guardian of Dresolik** (285k, hits 770) are in the chamber. Rampage. Dual
 
 ![Guardian-of-Dresolik](/assets/img/Guardian-of-Dresolik.jpg)
 
-He is **Slowable**. Rampage. Dual Wield. Enrage. Hits 1030. Attack delay 14. 800k HP.
+He stays up **2.5 hours**. If he despawns unkilled, he returns in **10 minutes**. He is **Slowable**. Rampage. Dual Wield. Enrage. Hits 1030. Attack delay 14. 800k HP.
 
 **Fist of Lava** is a proc (150 DD + 3s stun, Fire -150).
 

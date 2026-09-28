@@ -76,7 +76,7 @@ cover-img: /assets/img/Rallos-Zek-the-Warlord.png
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Rallos Zek the Warlord&gt; - CH Chain: 4sec, 6sec slowed, Hits 1072, AE Rampage, Dual Wield, Slowable (75% mit), Enrage, Corpse Camper, Casts: Rage of Zek (PBAE, 400/tick + 50 mana/tick, Fire -100, 35s recast), Procs: Sedition (Single, AC -442, Unresistable), Adds every minute, 1.05M HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
-[Plane of Tactics](/strategy/plane_of_tactics) arena raid. Do not drop into the pit from zone-in. Anyone can engage. Players who were not in the raid that first engaged him are not banished. If the event fails, it is available again in **10 minutes**.
+[Plane of Tactics](/strategy/plane_of_tactics) arena raid. Do not drop into the pit from zone-in. Anyone can engage. Players who were not in the raid that first engaged him are not banished. The encounter stays up **2.5 hours**. Wraith corpses respawn when the Warlord appears. If the event fails, it is available again in **10 minutes**, and the door guards return with it.
 
 <a href="/assets/img/Decorin-Map.png" target="_blank">
   <img src="/assets/img/Decorin-Map.png" alt="Decorin-Map"/>

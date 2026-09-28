@@ -76,7 +76,7 @@ cover-img: /assets/img/Rizlona.png
 
 Second staircase from the right in [Tower of Solusek Ro](/strategy/tower_of_solusek_ro). Clear **a guardian of Rizlona** (26.5k) on the way.
 
-Keep the fight in her room. If she is pulled out she ports home, wipes hate, and heals.
+She stays up **2.5 hours**. If she despawns unkilled, she returns in **10 minutes**. Keep the fight in her room. If she is pulled out she ports home, wipes hate, and heals.
 
 She is **Slowable**. Dual Wield. Enrage. Human form hits 843. Attack delay 17. 300k HP.
 

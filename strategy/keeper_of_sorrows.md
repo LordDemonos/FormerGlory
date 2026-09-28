@@ -7,13 +7,13 @@ cover-img: /assets/img/Saryrn-Tower-Door.jpg
 
 Plane of Torment is the tower crawl to flag Saryrn. The Keeper event is required for her Planar Projection.
 
-Maareq respawns in 3 days. Saryrn **2 days and 18 hours**. The Keeper of Sorrows 2 days 12 hours. Trash respawns in **19 minutes 30 seconds**.
+Maareq respawns in 3 days. Saryrn **2 days and 18 hours**. The Keeper of Sorrows returns in **2 hours** and is in the open world. Trash respawns in **19 minutes 30 seconds**.
 
 ## Access
 
 You need the **[Terris-Thule](/strategy/terris_thule)** flag and the **[Bertoxxulous](/strategy/bertoxxulous)** / Fuirstel chain finished. Hail **Fahlia Shadyglade** in Plane of Tranquility. Say **condition**, **black cube**, **plane of torment**, **will go**. Click the black cube over the reflecting pool.
 
-Someone in the raid needs **Screaming Sphere** to open the tower and to port with Tylis. Kill the four Avatars for **Orb of Agony**, **Orb of Anguish**, **Orb of Pain**, and **Orb of Suffering**. Aggro **Baraguj Szuul** to port into his stomach. Drop down the floors to **An Unimaginable Horror**, kill it, then kill Baraguj (217k HP). Loot **Mouths of Baraguj Szuul** and combine the four orbs.
+Someone in the raid needs **Screaming Sphere** on their keyring or in their inventory to open the tower and to port with Tylis. A flagged player without one gets a hint. Kill the four Avatars for **Orb of Agony**, **Orb of Anguish**, **Orb of Pain**, and **Orb of Suffering**. Aggro **Baraguj Szuul** to port into his stomach. Drop down the floors to **An Unimaginable Horror**, kill it, then kill Baraguj (217k HP). The Horror respawns in **30 minutes**. Loot **Mouths of Baraguj Szuul** and combine the four orbs.
 
 ## Tower
 
@@ -29,7 +29,7 @@ One Screaming Sphere opens the door for the raid. Kill named on the way up: Salc
 
 ## Keeper
 
-When Maareq dies, Tylis Newleaf in the cage becomes targetable. Everyone stand under the cage. Teleport radius is **250**. A flagged person hails him, says **will assist you**, then **we are ready** or **I am ready**. Someone in the raid must have the Screaming Sphere.
+When Maareq dies, a zone emote announces Tylis Newleaf and his minions clean up. He becomes targetable in the cage. Everyone stand under the cage. Teleport radius is **250**. A flagged person hails him, says **will assist you**, then **we are ready** or **I am ready**. The Screaming Sphere can be on a keyring or in inventory.
 
 ![Tylis-Newleaf](/assets/img/Tylis-Newleaf.jpg)
 

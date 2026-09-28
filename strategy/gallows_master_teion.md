@@ -13,7 +13,7 @@ cover-img: /assets/img/Gallows-Master-Teion.jpg
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> Event spawn — trial lockout 30 minutes on success</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> Event spawn — trial lockout 10 minutes on success</div>
 <div class="info-lockoutitem"><strong>CH Chain: 4sec, 6sec slowed</strong> </div>
 <div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#gallows-master-teion" title="View raid loot">🔗</a></div>
 </div>

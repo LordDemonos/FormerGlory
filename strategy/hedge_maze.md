@@ -17,7 +17,7 @@ The Hedge Maze flags the raid for The Lair of Terris-Thule. Keep Thelin Poxbourn
 
 In Plane of Tranquility Sick Bay, hail Adroha Jezith and say **tortured by nightmares**.
 
-Find Thelin Poxbourne in the northeast of Plane of Nightmares, across the river inside the hedges. Each room holds **24** players. Group leaders say **I am ready** to port in. Once everyone is inside, hail Thelin and say **I am ready** again to start the walk. Thelin gets **Spirit of Wolf** when the event starts. Unstarted rooms warn, then clear themselves. Success and failure remove players, pets, and leftover hate.
+Find Thelin Poxbourne in the northeast of Plane of Nightmares, across the river inside the hedges. Each room holds **24** players. A raid can fill a room and take another. Group leaders say **I am ready** to port in. You have **5 minutes** to begin, with a warning. Once everyone is inside, hail Thelin and say **I am ready** again to start the walk. Thelin gets **Spirit of Wolf** when the event starts. Unstarted rooms warn, then clear themselves. Success and failure remove players, pets, and leftover hate.
 
 Rooting Thelin and mem-blurring him keeps him from aggroing or wandering.
 

@@ -13,7 +13,7 @@ cover-img: /assets/img/Grioihin-the-Wise.jpg
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain: 2sec, 3sec slowed</strong> </div>
 <div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#grioihin-the-wise" title="View raid loot">🔗</a></div>
 </div>
@@ -72,7 +72,7 @@ cover-img: /assets/img/Grioihin-the-Wise.jpg
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Grioihin the Wise&gt; - CH Chain: 2sec, 3sec slowed, Hits 1662, Rampage, Dual Wield, Slowable (65% mit), Casts: Tidal Freeze (PBAE, 2000 DD + 5s stun, Cold -350, 60s recast), 550k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
-Outdoor named in [Plane of Water](/strategy/plane_of_water).
+Outdoor named in [Plane of Water](/strategy/plane_of_water). He is a guaranteed spawn. Respawn and lockout are **18 hours**.
 
 He is **Slowable** (65% mit). Rampage. Dual Wield. Hits 1662. 550k HP.
 

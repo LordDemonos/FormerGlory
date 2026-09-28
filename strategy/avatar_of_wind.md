@@ -13,7 +13,7 @@ cover-img: /assets/img/Avatar-of-Wind.jpg
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain: 2sec, 3sec slowed</strong> </div>
 <div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#avatar-of-wind" title="View raid loot">🔗</a></div>
 </div>
@@ -75,7 +75,7 @@ cover-img: /assets/img/Avatar-of-Wind.jpg
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Avatar of Wind&gt; - CH Chain: 2sec, 3sec slowed, Hits 2060, AE Rampage, Dual Wield, Slowable (25% mit), Corpse Camper, Casts: Lure of the Storm (PBAE, 800 DD + dispel + spin, Magic -250, 36s recast), Cyclone (Single, 200/tick + 1s stun + 95% agro, Magic -150), Procs: Tornado (Single, 200/tick + 1s stun, Magic -100), 750k HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
-Stormrider ring in [Plane of Air](/strategy/plane_of_air). Clear the island. Kill **Stormrider Priest of Destruction**, then the Pherlondien named. He spawns in the temple. Loot **Mystical Essence of Wind**.
+Stormrider ring in [Plane of Air](/strategy/plane_of_air). Clear the island. Kill **Stormrider Priest of Destruction**, then the Pherlondien named. The Avatar spawns in the temple, stays up **2.5 hours**, and always drops **6 Mystical Essence of Wind**.
 
 He is **Slowable** (25% mit). AE Rampage. Dual Wield. Corpse Camper. Hits 2060. 750k HP.
 

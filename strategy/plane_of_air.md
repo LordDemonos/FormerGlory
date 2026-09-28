@@ -5,19 +5,21 @@ subtitle: Event Guide
 cover-img: /assets/img/Xegony.jpg
 ---
 
-One person per group needs a **Wind Etched Key**. Click the rainbow to Xegony's island.
+One person per group needs a **Wind Etched Key**. When that person clicks the rainbow, the raid or group has **5 minutes** to click up.
 
 <a href="/assets/img/Xegony-Key-Map.jpg" target="_blank">
   <img src="/assets/img/Xegony-Key-Map.jpg" alt="Xegony-Key-Map"/>
 </a>
 
-Kill **[Muzlakh the Chosen](/strategy/muzlakh_the_chosen)** at zone-up. Clear **High Councilman of the Queen** and **A Prismatic Guardian of Xegony** in her room. Kill **[Xegony the Queen of Air](/strategy/xegony)**. Hail the Planar Projection. Loot **Amorphous Cloud of Air**. Combine it with the other three elemental essences in an **Odylic Vial** for Plane of Time.
+Kill **[Muzlakh the Chosen](/strategy/muzlakh_the_chosen)** at zone-up. Clear **High Councilman of the Queen** and **A Prismatic Guardian of Xegony** in her room. Kill **[Xegony the Queen of Air](/strategy/xegony)**. Hail the Planar Projection. She always drops **Amorphous Cloud of Air**. Combine it with the other three elemental essences in an **Odylic Vial** for Plane of Time. Air bosses and ring avatars cut the target's hate to **5%**.
 
 Xegony respawns in **5 days and 18 hours**. Loot lockout is **5 days and 18 hours**. **Queen Silandria**, **Arch Mage Alchtonion**, **Gakamenial Fir`Disralsi**, **Rinturion Windblade**, **Baltaldor the Cursed**, and **Sigismond Windwalker** respawn in **2 days and 18 hours**. Muzlakh respawns in 3 days 12 hours. Trash respawns in **25 minutes 30 seconds**. Ring events run in the raid instance.
 
 ## Wind Etched Key
 
 Say **Plane of Air** to **Sarhya the Dawnbreeze** at the Plane of Air stone in Plane of Tranquility for **Pouch of Swirling Winds**. Combine the four Mystical Essences in it.
+
+The ring avatars stay up **2.5 hours**. Ring lockout is **2 days and 18 hours**. Each always drops **6** of its Mystical Essence.
 
 - Stormrider ring → **[Avatar of Wind](/strategy/avatar_of_wind)** → Mystical Essence of Wind
 - Elemental ring → **[Avatar of Smoke](/strategy/avatar_of_smoke)** → Mystical Essence of Smoke

@@ -21,7 +21,7 @@ Kill **[Grummus](/strategy/grummus)** in [Plane of Disease](/strategy/plane_of_d
 
 ![Carprin-Minis](/assets/img/Carprin-Minis.jpg)
 
-Kill **Fran Prisoal**, **Breddan Rutyl**, and **Abroan Drian** first. Fran corpse camps. The guards despawn in 13 minutes. Carprin is shielded until all three are dead. When the last one dies the shield fades and **[Carprin Deatharn](/strategy/carprin_deatharn)** becomes attackable. He is **Unslowable**. He mem-blurs. Named despawn if the chapel sits too long.
+Kill **Fran Prisoal**, **Breddan Rutyl**, and **Abroan Drian** first. Fran corpse camps. The guards despawn in 13 minutes. Carprin is shielded until all three are dead. When the last one dies the shield fades and **[Carprin Deatharn](/strategy/carprin_deatharn)** becomes attackable. He is **Unslowable**. He cuts his target's hate to **5%**. Named despawn if the chapel sits too long.
 
 Kill one named to spawn the next further in.
 
@@ -33,7 +33,7 @@ Kill one named to spawn the next further in.
 
 Hail **Tarkil Adan** when the High Priest is dead. He lasts 10 minutes and can give up to 72 flags, killer's raid or group only. He tells you to click the bone throne at the ruins entrance.
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-carprin">&lt;Carprin Deatharn&gt; - CH Chain: 2sec, Hits 1221, Dual Wield, Immune to Slow, Procs: Theft of Life (Single, 3500 lifetap, Magic -200), Mem Blur, 160k HP</pre><button class="copy-button" onclick="copyText('copy-box-carprin')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-carprin">&lt;Carprin Deatharn&gt; - CH Chain: 2sec, Hits 1221, Dual Wield, Immune to Slow, Procs: Theft of Life (Single, 3500 lifetap, Magic -200), Hate to 5%, 160k HP</pre><button class="copy-button" onclick="copyText('copy-box-carprin')">Copy to Clipboard</button></div>
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box-avhi">&lt;Avhi Escron&gt; - CH Chain: 2sec, Hits 1583, Rampage, Dual Wield, Permarooted, Immune to Slow, Procs: Gathering of Souls (PBAE, 600/tick, Magic 0, 30s recast), 120k HP</pre><button class="copy-button" onclick="copyText('copy-box-avhi')">Copy to Clipboard</button></div>
 

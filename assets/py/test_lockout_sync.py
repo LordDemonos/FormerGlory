@@ -336,6 +336,60 @@ title: Grummus
             sources = {c.slug: c.source for c in report.changes}
             self.assertEqual(sources["grummus"], "server")
 
+    def test_sep28_timers_beat_stale_instances(self) -> None:
+        cases = (
+            ("grioihin_the_wise", "Grioihin the Wise", "216", "3 days", "18 hours"),
+            ("the_keeper_of_sorrows", "The Keeper of Sorrows", "207", "2 days, 12 hours", "2 hours"),
+            ("avatar_of_wind", "Avatar of Wind", "215", "3 days", "2 days and 18 hours"),
+        )
+        for slug, name, zone, stale, locked in cases:
+            with self.subTest(slug=slug):
+                html = f"""
+                <li class="list-group-item">
+                    <strong>
+                        <a href='/zone/{zone}' class="text-decoration-none">Zone</a>
+                    </strong>
+                    <ul class="list-group mt-2">
+                        <li class="list-group-item">
+                            <a href='/npc/1' class="text-decoration-none">{name}</a>
+                            <br>
+                            <small class="text-muted">Respawn Time: {stale}</small>
+                        </li>
+                    </ul>
+                </li>
+                """
+                index = f"""
+<h4><a href="https://www.pqdi.cc/zone/{zone}" target="_blank">Zone</a></h4>
+<div class="card-container">
+  <div class="card dragon">
+    <ul>
+      <li><a href="{slug}">{name}</a></li>
+      <li>Level 70</li>
+    </ul>
+  </div>
+</div>
+"""
+                page = f"""---
+title: {name}
+---
+<div class="info-item"><strong>Zone:</strong> <a href="https://www.pqdi.cc/zone/{zone}">Zone</a></div>
+<div class="info-item"><strong>Faction:</strong> KOS&nbsp;&nbsp;&nbsp;<a href="https://www.pqdi.cc/npc/1" target="_blank" title="View NPC on PQDI">🔗</a></div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> {locked}</div>
+"""
+                with tempfile.TemporaryDirectory() as tmp:
+                    strategy = Path(tmp)
+                    (strategy / f"{slug}.md").write_text(page, encoding="utf-8")
+                    report = ls.sync_lockouts(
+                        index_text=index,
+                        strategy_dir=strategy,
+                        instances_html=html,
+                        apply=True,
+                    )
+                    written = (strategy / f"{slug}.md").read_text(encoding="utf-8")
+                    self.assertIn(locked, written)
+                    self.assertNotIn(stale, written)
+                    self.assertEqual(report.changes, [])
+
 
 if __name__ == "__main__":
     unittest.main()

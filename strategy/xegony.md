@@ -76,7 +76,7 @@ cover-img: /assets/img/Xegony.jpg
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box">&lt;Xegony the Queen of Air&gt; - CH Chain: 1sec, 2sec slowed, Hits 2440, AE Rampage, Dual Wield, Double Attack, Slowable (25% mit), Always Calls for Help, Park raid behind her, Kill adds then boss, Casts: Wind of Xegony (PBAE, 1000 DD + 200/tick + 30% slow, Magic -400, 13 curse, 30s recast), 1.5M HP</pre><button class="copy-button" onclick="copyText('copy-box')">Copy to Clipboard</button></div>
 
-One person per group needs a **Wind Etched Key**. Click the rainbow in [Plane of Air](/strategy/plane_of_air). Kill **[Muzlakh the Chosen](/strategy/muzlakh_the_chosen)** at zone-up.
+One person per group needs a **Wind Etched Key**. When that person clicks the rainbow in [Plane of Air](/strategy/plane_of_air), the raid or group has **5 minutes** to click up. Kill **[Muzlakh the Chosen](/strategy/muzlakh_the_chosen)** at zone-up.
 
 Clear **High Councilman of the Queen** and **A Prismatic Guardian of Xegony** in her room. She **Always Calls for Help**. Assist 135.
 
@@ -96,4 +96,4 @@ Six add waves: on engage, then **85%**, **70%**, **55%**, **40%**, **25%**. Kill
 
 ![Xegony-Wave-1](/assets/img/Xegony-Wave-1.jpg) ![Xegony-Wave-2](/assets/img/Xegony-Wave-2.jpg) ![Xegony-Wave-3](/assets/img/Xegony-Wave-3.jpg) ![Xegony-Wave-4](/assets/img/Xegony-Wave-4.jpg) ![Xegony-Wave-5](/assets/img/Xegony-Wave-5.jpg) ![Xegony-Wave-6](/assets/img/Xegony-Wave-6.jpg)
 
-Hail the Planar Projection. Loot **Amorphous Cloud of Air**.
+Hail the Planar Projection. She always drops **Amorphous Cloud of Air**.
