@@ -2524,3 +2524,89 @@ body:not(.strategy-page):not(.spoilers-page) .view-toggle {
   background: #d0d0d0;
   color: #333;
 }
+
+.pop-map {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin: 0.5rem 0 1.25rem;
+}
+
+.pop-map-phase {
+  display: grid;
+  grid-template-columns: 4.75rem 1fr;
+  gap: 0.35rem 0.75rem;
+  align-items: start;
+}
+
+.pop-map-label {
+  margin: 0;
+  padding-top: 0.4rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #9a9a9a;
+}
+
+.pop-map-nodes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.pop-map-nodes a {
+  display: inline-block;
+  padding: 0.3rem 0.6rem;
+  border: 1px solid #3a3a3a;
+  border-radius: 4px;
+  background: #1e1e1e;
+  color: #d7e8ef;
+  text-decoration: none;
+  line-height: 1.3;
+}
+
+.pop-map-nodes a:hover {
+  border-color: #0085a1;
+  color: #ffffff;
+}
+
+.pop-map-note {
+  grid-column: 2;
+  margin: 0;
+  font-size: 0.9rem;
+  color: #b5b5b5;
+}
+
+[data-theme="light"] .pop-map-label {
+  color: #666666;
+}
+
+[data-theme="light"] .pop-map-nodes a {
+  border-color: #d0d0d0;
+  background: #f7f7f7;
+  color: #1a5270;
+}
+
+[data-theme="light"] .pop-map-nodes a:hover {
+  border-color: #0085a1;
+  color: #0085a1;
+}
+
+[data-theme="light"] .pop-map-note {
+  color: #555555;
+}
+
+@media (max-width: 600px) {
+  .pop-map-phase {
+    grid-template-columns: 1fr;
+  }
+
+  .pop-map-label {
+    padding-top: 0;
+  }
+
+  .pop-map-note {
+    grid-column: 1;
+  }
+}

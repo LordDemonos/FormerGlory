@@ -5,7 +5,7 @@ subtitle: Event Guide
 cover-img: /assets/img/Tower-of-Solusek-Ro-Map.jpg
 ---
 
-You need flags through **[Rallos Zek the Warlord](/strategy/rallos_zek_the_warlord)** to enter Solusek Ro's chamber. Kill the five minis and click the flaming cauldron after each. Warders spawn on the path after a mini dies. Be in the room.
+You need flags through **[Rallos Zek the Warlord](/strategy/rallos_zek_the_warlord)**, and Maelin after **[Agnarr the Storm Lord](/strategy/agnarr_the_storm_lord)**, to enter Solusek Ro's chamber. Kill the five minis and click the flaming cauldron after each. Warders spawn on the path after a mini dies. Be in the room.
 
 Five staircases from zone-in, left to right: **[Xuzl](/strategy/xuzl)**, **[Arlyxir](/strategy/arlyxir)**, **[Jiva](/strategy/jiva)**, **[Rizlona](/strategy/rizlona)**, **[The Protector of Dresolik](/strategy/the_protector_of_dresolik)**. Click the extra shiny orange square in the center for **[Solusek Ro](/strategy/solusek_ro)**.
 

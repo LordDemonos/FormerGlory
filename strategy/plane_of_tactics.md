@@ -7,7 +7,7 @@ cover-img: /assets/img/Rallos-Zek-the-Warlord.png
 
 Drunder, the Fortress of Zek has three raids: **[Tallon Zek](/strategy/tallon_zek)** south, **[Vallon Zek](/strategy/vallon_zek)** north, and **[Rallos Zek the Warlord](/strategy/rallos_zek_the_warlord)** in the halls above the arena then the pit.
 
-Click the Tactics portal in Plane of Tranquility. Hail **Grand Librarian Maelin** in Plane of Knowledge after [Lord Mithaniel Marr](/strategy/lord_mithaniel_marr).
+Click the Tactics portal in Plane of Tranquility. Hail **Grand Librarian Maelin** in Plane of Knowledge after [Saryrn](/strategy/saryrn) and [Lord Mithaniel Marr](/strategy/lord_mithaniel_marr). Say **what lore** after both [Tallon Zek](/strategy/tallon_zek) and [Vallon Zek](/strategy/vallon_zek). Say **what information** after [Rallos Zek the Warlord](/strategy/rallos_zek_the_warlord). That last hail needs Maelin's [Agnarr the Storm Lord](/strategy/agnarr_the_storm_lord) flag.
 
 <a href="/assets/img/Decorin-Map.png" target="_blank">
   <img src="/assets/img/Decorin-Map.png" alt="Decorin-Map"/>
@@ -29,7 +29,7 @@ He is **Unslowable**. Dual Wield. Enrage. **Permarooted**. Hits 955. 440k HP. Ev
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box-tallon">&lt;Tallon Zek&gt; - CH Chain: 2sec, Hits 955, Dual Wield, Immune to Slow, Permarooted, Shadowstep 20s, Casts: Barb of Tallon (Targeted AE Cold: DD + 40% slow + 40% snare; Targeted AE Fire: DD; Targeted AE Disease: 300/tick + AC -147 + 60% agro; Single Poison: DD), Tallon's Balance (PBAE, -300 resists, Unresistable, 60s recast), Avatar Power (PBAE, 100 DD + dispel, Unresistable), 440k HP</pre><button class="copy-button" onclick="copyText('copy-box-tallon')">Copy to Clipboard</button></div>
 
-Hail the Planar Projection. 10 minutes, up to 72 flags, killer's raid or group. You need Maelin after Marr for that hail. Then hail Maelin.
+Hail the Planar Projection. 10 minutes, up to 72 flags, killer's raid or group. You need Maelin after Saryrn and Marr for that hail. Then hail Maelin. Say **what lore**.
 
 ## Vallon Zek
 
@@ -43,7 +43,7 @@ He is **Slowable**. Dual Wield. Enrage. Hits 955. 175k HP on the first Vallon.
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box-vallon">&lt;Vallon Zek&gt; - CH Chain: 4sec, 6sec slowed, Hits 955, Dual Wield, Slowable, Splits at 50% x5, Casts: Vallon's Precision (PBAE, 100/tick + AC -59 + 40% agro, Unresistable, 35s recast), Procs: Vallon's Subversion (Single, 60% agro, Unresistable), 175k HP then 84k reals / 42k fakes</pre><button class="copy-button" onclick="copyText('copy-box-vallon')">Copy to Clipboard</button></div>
 
-Hail the Planar Projection. 10 minutes, up to 72 flags, killer's raid or group. You need Maelin after Marr for that hail. Then hail Maelin.
+Hail the Planar Projection. 10 minutes, up to 72 flags, killer's raid or group. You need Maelin after Saryrn and Marr for that hail. Then hail Maelin. Say **what lore**.
 
 ## Rallos Zek the Warlord
 
@@ -67,4 +67,4 @@ He is **Slowable** (75% mit). AE Rampage. Dual Wield. Enrage. Hits 1072. 1.05M H
 
 <div class="copy-text-container"><pre class="copy-text-content" id="copy-box-rallos">&lt;Rallos Zek the Warlord&gt; - CH Chain: 4sec, 6sec slowed, Hits 1072, AE Rampage, Dual Wield, Slowable (75% mit), Enrage, Corpse Camper, Casts: Rage of Zek (PBAE, 400/tick + 50 mana/tick, Fire -100, 35s recast), Procs: Sedition (Single, AC -442, Unresistable), Adds every minute, 1.05M HP</pre><button class="copy-button" onclick="copyText('copy-box-rallos')">Copy to Clipboard</button></div>
 
-Hail the Planar Projection in the arena. 10 minutes, up to 72 flags, killer's raid or group. You need Maelin after both twins for that hail. Then hail Maelin.
+Hail the Planar Projection in the arena. 10 minutes, up to 72 flags, killer's raid or group. You need Maelin after both twins for that hail. Then hail Maelin. Say **what information**. You need his Agnarr flag. If all three die in one raid, hail Maelin before the Seer.

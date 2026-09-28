@@ -79,4 +79,4 @@ He is **Slowable**. Dual Wield. Enrage. Hits 955. Attack delay 14. 175k HP on th
 
 The real one casts **Vallon's Precision** (PBAE, 100/tick + AC -59 + 40% agro, Unresistable, AoE 75, 35s recast). **Vallon's Subversion** is a proc (single-target 60% agro, Unresistable).
 
-Hail the Planar Projection. It only answers the killer's raid or group, lasts 10 minutes, and can give up to 72 flags. You need Grand Librarian Maelin after [Lord Mithaniel Marr](/strategy/lord_mithaniel_marr) for that hail. Then hail Maelin in Plane of Knowledge.
+Hail the Planar Projection. It only answers the killer's raid or group, lasts 10 minutes, and can give up to 72 flags. You need Grand Librarian Maelin after [Saryrn](/strategy/saryrn) and [Lord Mithaniel Marr](/strategy/lord_mithaniel_marr) for that hail. Then hail Maelin in Plane of Knowledge. Say **what lore**.

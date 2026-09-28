@@ -5,7 +5,7 @@ subtitle: Event Guide
 cover-img: /assets/img/Time-Phase-5.png
 ---
 
-One person needs an **Odylic Vial**. Combine **Globe of Dancing Flame**, **Amorphous Cloud of Air**, **Sphere of Coalesced Water**, and **Mound of Living Stone** for **Quintessence of Elements**.
+One person makes an **Odylic Vial** in a Tanaan kiln in Plane of Knowledge. It is not no-drop. Combine **windy glaze**, **aqua glaze**, **earthen glaze**, and **magma glaze** in a glaze mortar. Combine **1 block of clay**, **1 medium jar sketch**, and **1 flask of water** on a pottery wheel. Combine that container, **2 high quality firing sheets**, and the glaze in the kiln. Make each glaze from components in its elemental plane. Put **Globe of Dancing Flame**, **Amorphous Cloud of Air**, **Sphere of Coalesced Water**, and **Mound of Living Stone** in the vial and combine for **Quintessence of Elements**.
 
 In **[Plane of Innovation](/strategy/plane_of_innovation)**, say **yes** to **Chronographer Muan**. Say **researched** to **Loreseeker Maelin**. Click the machine.
 

@@ -108,4 +108,4 @@ He is **Slowable** (75% mit). AE Rampage. Dual Wield. Enrage. Corpse Camper. Hit
 
 **Rage of Zek** is a PBAE (400/tick + 50 mana/tick, Fire -100, AoE 200, 35s recast). **Sedition** is a proc (AC -442, Unresistable).
 
-Hail the Planar Projection in the arena. It only answers the killer's raid or group, lasts 10 minutes, and can give up to 72 flags. You need Maelin after both [Tallon Zek](/strategy/tallon_zek) and [Vallon Zek](/strategy/vallon_zek) for that hail. Then hail **Grand Librarian Maelin** in Plane of Knowledge.
+Hail the Planar Projection in the arena. It only answers the killer's raid or group, lasts 10 minutes, and can give up to 72 flags. You need Maelin after both [Tallon Zek](/strategy/tallon_zek) and [Vallon Zek](/strategy/vallon_zek) for that hail. Then hail **Grand Librarian Maelin** in Plane of Knowledge. Say **what information**. You need his flag from [Agnarr the Storm Lord](/strategy/agnarr_the_storm_lord). If Tallon, Vallon, and Rallos die in one raid, hail Maelin before the Seer.

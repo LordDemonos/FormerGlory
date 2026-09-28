@@ -90,4 +90,4 @@ Every **20 seconds** he shadowsteps and wipes hate. Tanks reaggro.
 
 **Avatar Power** is a PBAE (100 DD + Cancel Magic, Unresistable, AoE 60). It strips levitate. Recast it.
 
-Hail the Planar Projection. It only answers the killer's raid or group, lasts 10 minutes, and can give up to 72 flags. You need Grand Librarian Maelin after [Lord Mithaniel Marr](/strategy/lord_mithaniel_marr) for that hail. Then hail Maelin in Plane of Knowledge.
+Hail the Planar Projection. It only answers the killer's raid or group, lasts 10 minutes, and can give up to 72 flags. You need Grand Librarian Maelin after [Saryrn](/strategy/saryrn) and [Lord Mithaniel Marr](/strategy/lord_mithaniel_marr) for that hail. Then hail Maelin in Plane of Knowledge. Say **what lore**.

@@ -141,6 +141,6 @@ Named adds spawn during the fight. Kill them as they appear:
 
 ## After the kill
 
-Run up the steps to **Karana**. Hail him, say **follow the path of the Fallen** for the flag, then **send me** to zone out. He lasts 55 minutes and can give up to 72 flags, killer's raid or group only. You need Askr's Plane of Storms path, including the Bastion shrine, for that hail to grant the character flag.
+Run up the steps to **Karana**. Hail him, say **follow the path of the Fallen** for the flag, then **send me** to zone out. He lasts 55 minutes and can give up to 72 flags, killer's raid or group only. You need Askr's Plane of Storms path, including the Bastion shrine, for that hail to grant the character flag. Then hail **Grand Librarian Maelin** in Plane of Knowledge. Say **what lore**. You need the [Lord Mithaniel Marr](/strategy/lord_mithaniel_marr) flag.
 
 ![Karana](/assets/img/Karana.jpg)
