@@ -91,7 +91,7 @@ Phase 1 is any order. Justice first if the raid can only run one. A line under a
 
 ## Raid order
 
-PoP zones need **level 46**. `#popflags` shows your progression flags: overview, **1** through **5**, **time**, or **all**. `#timelockout` shows your Plane of Time timeline. `#timelockout 1` through `#timelockout 6` show one phase. `#glory` shows your Rallosian Glory rank, title, and bonuses. `#petstats` shows your pet's HP, AC, attack, damage, delay, DPS, resists, and equipment.
+PoP zones need **level 46**. `#popflags` shows your progression flags: overview, **1** through **5**, **time**, or **all**. `#timelockout` shows your Plane of Time timeline. `#timelockout 1` through `#timelockout 6` show one phase.
 
 Most raid targets respawn in **2 days and 18 hours**. Loot lockout matches that. The four elemental gods are **5 days and 18 hours**. Halls of Honor trials are **18 hours**. Plane of Time bosses are **6 days and 18 hours**. Gryme is **3 hours 8 minutes**. Aramin is **1 day**. Hedge and Xanamech are events. Evynd and Emmerik are **6 hours**. Storms lords are **6 hours**. The Keeper of Sorrows is **2 days 12 hours**. A wipe does not start those successful-kill timers. Scripted events use their own fail retries.
 
