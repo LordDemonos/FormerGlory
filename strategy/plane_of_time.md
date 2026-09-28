@@ -9,7 +9,7 @@ One person makes an **Odylic Vial** in a Tanaan kiln in Plane of Knowledge. It i
 
 In **[Plane of Innovation](/strategy/plane_of_innovation)**, say **yes** to **Chronographer Muan**. Say **researched** to **Loreseeker Maelin**. Click the machine.
 
-Time is a guild timeline. A guild can stop mid-clear, disband, make a new raid later, and change raid leader. Saved kills and timers survive zone and server restarts. Separate guilds keep separate timelines. A new raid reconnects to its guild's existing run. `#timelockout` shows the guild timeline, current phase, encounter availability, and remaining timers.
+Time is a guild timeline. A guild can stop mid-clear, disband, make a new raid later, and change raid leader. Saved kills and timers survive zone and server restarts. Separate guilds keep separate timelines. A new raid reconnects to its guild's existing run. `#timelockout` shows your Plane of Time timeline, current phase, encounter availability, and remaining timers. `#timelockout 1` through `#timelockout 6` show one phase.
 
 Time A and B hold **72** players. Eighteen people per Phase 1 trial. Click a trial portal to start the **1 hour**. Leftover time carries. Phase 2 adds **1 hour**. Phase 3 adds **75 minutes**. Phase 4 adds **4 hours**. Phase 5 adds **4 hours**. Phase 6 adds **2 hours**. Time boss lockouts are **6 days and 18 hours**.
 
