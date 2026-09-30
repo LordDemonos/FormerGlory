@@ -1,6 +1,13 @@
 {
   "glyphMode": "priority",
   "parchmentMode": "priority",
-  "priorities": [],
+  "priorities": [
+    {
+      "item": "parchment",
+      "class": "Cleric",
+      "spell": "Supernal Light",
+      "want": 4
+    }
+  ],
   "drops": []
 }
