@@ -89,12 +89,28 @@
   function nextText(board, catalog, item) {
     var advice = nextClass(board, catalog, item);
     if (advice.type === 'class') {
-      return itemNoun(item) + ' → ' + advice.className + '.';
+      return 'Next: ' + advice.className + '.';
     }
     if (advice.type === 'unmarked') {
-      return 'No ' + itemNoun(item).toLowerCase() + ' spells are marked.';
+      return 'No next class yet. Mark the spells the raid needs. The next ' + itemNoun(item).toLowerCase() + ' goes to the class with the most of those still short.';
     }
-    return itemNoun(item) + ' coverage is full. DKP ' + itemFull(item) + '.';
+    return 'Coverage is full. DKP ' + itemFull(item) + '.';
+  }
+
+  function spellsFor(catalog, item, className) {
+    return catalog.pools.filter(function (pool) {
+      return pool.item === item && pool.class === className;
+    });
+  }
+
+  function findPriority(board, item, className, spell) {
+    for (var i = 0; i < board.priorities.length; i++) {
+      var priority = board.priorities[i];
+      if (priority.item === item && priority.class === className && priority.spell === spell) {
+        return priority;
+      }
+    }
+    return null;
   }
 
   function escapeHtml(value) {
@@ -114,25 +130,24 @@
         html += '<tr><td>' + escapeHtml(className) + '</td><td>' + turninCount(board, item, className) + '</td></tr>';
       });
       html += '</tbody></table>';
-      return html;
     }
-    var marked = board.priorities.filter(function (priority) {
-      return priority.item === item;
-    });
-    if (marked.length === 0) {
-      html += '<p>No crucial spells are marked yet.</p>';
-      return html;
-    }
-    html += '<table><thead><tr><th>Class</th><th>Spell</th><th>Copies</th></tr></thead><tbody>';
     catalog.priorityClasses.forEach(function (className) {
-      marked.filter(function (priority) {
-        return priority.class === className;
-      }).forEach(function (priority) {
-        var count = securedCount(board, item, className, priority.spell);
-        html += '<tr><td>' + escapeHtml(className) + '</td><td>' + escapeHtml(priority.spell) + '</td><td>' + count + '/' + priority.want + '</td></tr>';
+      var spells = spellsFor(catalog, item, className);
+      if (spells.length === 0) {
+        return;
+      }
+      html += '<h3>' + escapeHtml(className) + '</h3>';
+      html += '<p>' + escapeHtml(spells[0].librarian) + '. Each turn-in is 1/' + spells.length + '.</p>';
+      html += '<table><thead><tr><th>Spell</th><th>Copies</th></tr></thead><tbody>';
+      spells.forEach(function (pool) {
+        var priority = findPriority(board, item, className, pool.spell);
+        var copies = priority
+          ? securedCount(board, item, className, pool.spell) + '/' + priority.want
+          : '—';
+        html += '<tr><td>' + escapeHtml(pool.spell) + '</td><td>' + copies + '</td></tr>';
       });
+      html += '</tbody></table>';
     });
-    html += '</tbody></table>';
     return html;
   }
 

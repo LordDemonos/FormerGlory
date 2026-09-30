@@ -7,7 +7,9 @@ js:
   - /assets/js/spell-turnins.js
 ---
 
-Glyphed Rune Words and Spectral Parchments start on marked spells for Cleric, Druid, Shaman, Enchanter, and Bard. Each marked spell is collected until it has 2 copies. Officers can raise a spell to 3 or 4.
+The lists below are every Glyphed Rune Word and Spectral Parchment spell for Cleric, Druid, Shaman, Enchanter, and Bard, and the odds of each turn-in. Mark the spells the raid needs. The next class is the one with the most of those marks still short.
+
+Each marked spell is collected until it has 2 copies. Officers can raise a spell to 3 or 4.
 
 Those scrolls are DKPed at the start of the next Planes of Power raid night. Vex Thal Wednesday is not a spell DKP night.
 
