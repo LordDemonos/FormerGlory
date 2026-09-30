@@ -1,7 +1,55 @@
 {
   "glyphMode": "priority",
   "parchmentMode": "priority",
+<<<<<<< HEAD
   "priorities": [],
   "drops": [],
   "sightings": []
+=======
+  "priorities": [
+    {
+      "item": "parchment",
+      "class": "Cleric",
+      "spell": "Supernal Light",
+      "want": 4
+    },
+    {
+      "item": "parchment",
+      "class": "Cleric",
+      "spell": "Word of Replenishment",
+      "want": 3
+    },
+    {
+      "item": "parchment",
+      "class": "Cleric",
+      "spell": "Kazad`s Mark",
+      "want": 3
+    },
+    {
+      "item": "parchment",
+      "class": "Cleric",
+      "spell": "Mark of Kings",
+      "want": 3
+    },
+    {
+      "item": "glyph",
+      "class": "Cleric",
+      "spell": "Armor of the Zealot",
+      "want": 4
+    },
+    {
+      "item": "glyph",
+      "class": "Cleric",
+      "spell": "Hand of Virtue",
+      "want": 3
+    },
+    {
+      "item": "glyph",
+      "class": "Cleric",
+      "spell": "Yaulp VI",
+      "want": 3
+    }
+  ],
+  "drops": []
+>>>>>>> 888310832e574d3de589e6e62de498d77c84a2b9
 }
