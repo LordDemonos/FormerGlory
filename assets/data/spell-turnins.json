@@ -31,6 +31,12 @@
       "class": "Cleric",
       "spell": "Armor of the Zealot",
       "want": 4
+    },
+    {
+      "item": "glyph",
+      "class": "Cleric",
+      "spell": "Hand of Virtue",
+      "want": 3
     }
   ],
   "drops": []
