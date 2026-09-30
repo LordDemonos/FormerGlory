@@ -37,6 +37,12 @@
       "class": "Cleric",
       "spell": "Hand of Virtue",
       "want": 3
+    },
+    {
+      "item": "glyph",
+      "class": "Cleric",
+      "spell": "Yaulp VI",
+      "want": 3
     }
   ],
   "drops": []
