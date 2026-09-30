@@ -60,12 +60,6 @@
     },
     {
       "class": "Cleric",
-      "spell": "Destroy Undead",
-      "item": "parchment",
-      "librarian": "Heretic Drahur"
-    },
-    {
-      "class": "Cleric",
       "spell": "Hammer of Damnation",
       "item": "parchment",
       "librarian": "Vicar Ceraen"
@@ -128,12 +122,6 @@
       "class": "Druid",
       "spell": "Blessing of Replenishment",
       "item": "parchment",
-      "librarian": "Mystic Abomin"
-    },
-    {
-      "class": "Druid",
-      "spell": "Blessing of Replenishment",
-      "item": "parchment",
       "librarian": "Wanderer Astobin"
     },
     {
@@ -153,12 +141,6 @@
       "spell": "Destroy Summoned",
       "item": "parchment",
       "librarian": "Wanderer Astobin"
-    },
-    {
-      "class": "Druid",
-      "spell": "Destroy Summoned",
-      "item": "parchment",
-      "librarian": "Elementalist Somat"
     },
     {
       "class": "Druid",
@@ -260,19 +242,7 @@
       "class": "Enchanter",
       "spell": "Shield of Maelin",
       "item": "parchment",
-      "librarian": "Heretic Drahur"
-    },
-    {
-      "class": "Enchanter",
-      "spell": "Shield of Maelin",
-      "item": "parchment",
       "librarian": "Illusionist Jerup"
-    },
-    {
-      "class": "Enchanter",
-      "spell": "Shield of Maelin",
-      "item": "parchment",
-      "librarian": "Elementalist Somat"
     },
     {
       "class": "Enchanter",
@@ -338,12 +308,6 @@
       "class": "Magician",
       "spell": "Destroy Summoned",
       "item": "parchment",
-      "librarian": "Wanderer Astobin"
-    },
-    {
-      "class": "Magician",
-      "spell": "Destroy Summoned",
-      "item": "parchment",
       "librarian": "Elementalist Somat"
     },
     {
@@ -374,12 +338,6 @@
       "class": "Magician",
       "spell": "Malosinia",
       "item": "parchment",
-      "librarian": "Mystic Abomin"
-    },
-    {
-      "class": "Magician",
-      "spell": "Malosinia",
-      "item": "parchment",
       "librarian": "Elementalist Somat"
     },
     {
@@ -387,18 +345,6 @@
       "spell": "Planar Renewal",
       "item": "parchment",
       "librarian": "Elementalist Somat"
-    },
-    {
-      "class": "Magician",
-      "spell": "Shield of Maelin",
-      "item": "parchment",
-      "librarian": "Heretic Drahur"
-    },
-    {
-      "class": "Magician",
-      "spell": "Shield of Maelin",
-      "item": "parchment",
-      "librarian": "Illusionist Jerup"
     },
     {
       "class": "Magician",
@@ -440,12 +386,6 @@
       "class": "Necromancer",
       "spell": "Destroy Undead",
       "item": "parchment",
-      "librarian": "Vicar Ceraen"
-    },
-    {
-      "class": "Necromancer",
-      "spell": "Destroy Undead",
-      "item": "parchment",
       "librarian": "Heretic Drahur"
     },
     {
@@ -459,12 +399,6 @@
       "spell": "Force Shield",
       "item": "parchment",
       "librarian": "Heretic Drahur"
-    },
-    {
-      "class": "Necromancer",
-      "spell": "Force Shield",
-      "item": "parchment",
-      "librarian": "Channeler Olaemos"
     },
     {
       "class": "Necromancer",
@@ -483,18 +417,6 @@
       "spell": "Shield of Maelin",
       "item": "parchment",
       "librarian": "Heretic Drahur"
-    },
-    {
-      "class": "Necromancer",
-      "spell": "Shield of Maelin",
-      "item": "parchment",
-      "librarian": "Illusionist Jerup"
-    },
-    {
-      "class": "Necromancer",
-      "spell": "Shield of Maelin",
-      "item": "parchment",
-      "librarian": "Elementalist Somat"
     },
     {
       "class": "Necromancer",
@@ -684,12 +606,6 @@
     },
     {
       "class": "Shaman",
-      "spell": "Blessing of Replenishment",
-      "item": "parchment",
-      "librarian": "Wanderer Astobin"
-    },
-    {
-      "class": "Shaman",
       "spell": "Breath of Ultor",
       "item": "parchment",
       "librarian": "Mystic Abomin"
@@ -705,12 +621,6 @@
       "spell": "Malosinia",
       "item": "parchment",
       "librarian": "Mystic Abomin"
-    },
-    {
-      "class": "Shaman",
-      "spell": "Malosinia",
-      "item": "parchment",
-      "librarian": "Elementalist Somat"
     },
     {
       "class": "Shaman",
@@ -800,12 +710,6 @@
       "class": "Wizard",
       "spell": "Force Shield",
       "item": "parchment",
-      "librarian": "Heretic Drahur"
-    },
-    {
-      "class": "Wizard",
-      "spell": "Force Shield",
-      "item": "parchment",
       "librarian": "Channeler Olaemos"
     },
     {
@@ -813,24 +717,6 @@
       "spell": "Iceflame of E`ci",
       "item": "parchment",
       "librarian": "Channeler Olaemos"
-    },
-    {
-      "class": "Wizard",
-      "spell": "Shield of Maelin",
-      "item": "parchment",
-      "librarian": "Heretic Drahur"
-    },
-    {
-      "class": "Wizard",
-      "spell": "Shield of Maelin",
-      "item": "parchment",
-      "librarian": "Illusionist Jerup"
-    },
-    {
-      "class": "Wizard",
-      "spell": "Shield of Maelin",
-      "item": "parchment",
-      "librarian": "Elementalist Somat"
     },
     {
       "class": "Wizard",

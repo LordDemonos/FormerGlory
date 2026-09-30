@@ -98,8 +98,13 @@
   }
 
   function spellsFor(catalog, item, className) {
+    var seen = {};
     return catalog.pools.filter(function (pool) {
-      return pool.item === item && pool.class === className;
+      if (pool.item !== item || pool.class !== className || seen[pool.spell]) {
+        return false;
+      }
+      seen[pool.spell] = true;
+      return true;
     });
   }
 
