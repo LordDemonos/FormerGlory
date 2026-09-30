@@ -1,6 +1,6 @@
 {
   "glyphMode": "priority",
-  "parchmentMode": "priority",
+  "parchmentMode": "untracked",
   "priorities": [
     {
       "item": "parchment",
