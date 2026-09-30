@@ -49,6 +49,9 @@
 
   function nextClass(board, catalog, item) {
     var mode = modeOf(board, item);
+    if (mode === 'untracked') {
+      return { type: 'untracked' };
+    }
     if (mode === 'equal') {
       var equalClasses = classesWithItem(catalog, item);
       if (equalClasses.length === 0) {
@@ -94,6 +97,9 @@
     if (advice.type === 'unmarked') {
       return 'No next class yet. Mark the spells the raid needs. The next ' + itemNoun(item).toLowerCase() + ' goes to the class with the most of those still short.';
     }
+    if (advice.type === 'untracked') {
+      return 'DKP ' + itemFull(item) + '. They are not being turned in.';
+    }
     return 'Coverage is full. DKP ' + itemFull(item) + '.';
   }
 
@@ -125,10 +131,37 @@
       .replace(/>/g, '&gt;');
   }
 
+  function modeLabel(mode) {
+    if (mode === 'equal') {
+      return 'Equal';
+    }
+    if (mode === 'untracked') {
+      return 'Untracked';
+    }
+    return 'Priority';
+  }
+
   function renderItem(board, catalog, item) {
     var mode = modeOf(board, item);
     var html = '<h2>' + escapeHtml(itemFull(item)) + '</h2>';
-    html += '<p><strong>' + (mode === 'equal' ? 'Equal' : 'Priority') + '.</strong> ' + escapeHtml(nextText(board, catalog, item)) + '</p>';
+    html += '<p><strong>' + modeLabel(mode) + '.</strong> ' + escapeHtml(nextText(board, catalog, item)) + '</p>';
+    if (mode === 'untracked') {
+      var sightings = (board.sightings || []).filter(function (sighting) {
+        return sighting.item === item;
+      });
+      var seen = sightings.reduce(function (sum, sighting) {
+        return sum + sighting.count;
+      }, 0);
+      html += '<p>Seen: ' + seen + '.</p>';
+      if (sightings.length > 0) {
+        html += '<table><thead><tr><th>Count</th></tr></thead><tbody>';
+        sightings.slice(-6).forEach(function (sighting) {
+          html += '<tr><td>' + sighting.count + '</td></tr>';
+        });
+        html += '</tbody></table>';
+      }
+      return html;
+    }
     if (mode === 'equal') {
       html += '<table><thead><tr><th>Class</th><th>Turn-ins</th></tr></thead><tbody>';
       classesWithItem(catalog, item).forEach(function (className) {
@@ -176,6 +209,7 @@
   ]).then(function (files) {
     var catalog = files[0];
     var board = files[1];
+    board.sightings = board.sightings || [];
     root.innerHTML = renderItem(board, catalog, 'glyph') + renderItem(board, catalog, 'parchment') + renderLog(board);
   }).catch(function () {
     root.textContent = 'The board could not be loaded.';
