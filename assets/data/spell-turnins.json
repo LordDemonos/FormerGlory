@@ -13,6 +13,12 @@
       "class": "Cleric",
       "spell": "Word of Replenishment",
       "want": 3
+    },
+    {
+      "item": "parchment",
+      "class": "Cleric",
+      "spell": "Kazad`s Mark",
+      "want": 3
     }
   ],
   "drops": []
