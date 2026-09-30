@@ -25,6 +25,12 @@
       "class": "Cleric",
       "spell": "Mark of Kings",
       "want": 3
+    },
+    {
+      "item": "glyph",
+      "class": "Cleric",
+      "spell": "Armor of the Zealot",
+      "want": 4
     }
   ],
   "drops": []
