@@ -48,6 +48,7 @@ navbar-links:
   Services:
     - Target Requests: "targets"
     - Spell Bank: "spells"
+    - Spell Turn-ins: "spell-turnins"
     - Gems Bank: "gems"
     - Sky Bank: "sky"
 

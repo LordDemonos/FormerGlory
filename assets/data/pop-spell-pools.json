@@ -1,0 +1,962 @@
+{
+  "notice": "Spell pools extracted from nocturnal-spells (https://github.com/Ziglax/nocturnal-spells), MIT License. Do not edit by hand.",
+  "priorityClasses": [
+    "Cleric",
+    "Druid",
+    "Shaman",
+    "Enchanter",
+    "Bard"
+  ],
+  "classOrder": [
+    "Cleric",
+    "Druid",
+    "Enchanter",
+    "Magician",
+    "Necromancer",
+    "Paladin",
+    "Ranger",
+    "Shadow Knight",
+    "Shaman",
+    "Wizard",
+    "Beastlord",
+    "Bard"
+  ],
+  "pools": [
+    {
+      "class": "Cleric",
+      "spell": "Armor of the Zealot",
+      "item": "glyph",
+      "librarian": "Vicar Ceraen"
+    },
+    {
+      "class": "Cleric",
+      "spell": "Hand of Virtue",
+      "item": "glyph",
+      "librarian": "Vicar Ceraen"
+    },
+    {
+      "class": "Cleric",
+      "spell": "Mark of the Righteous",
+      "item": "glyph",
+      "librarian": "Vicar Ceraen"
+    },
+    {
+      "class": "Cleric",
+      "spell": "The Silent Command",
+      "item": "glyph",
+      "librarian": "Vicar Ceraen"
+    },
+    {
+      "class": "Cleric",
+      "spell": "Yaulp VI",
+      "item": "glyph",
+      "librarian": "Vicar Ceraen"
+    },
+    {
+      "class": "Cleric",
+      "spell": "Destroy Undead",
+      "item": "parchment",
+      "librarian": "Vicar Ceraen"
+    },
+    {
+      "class": "Cleric",
+      "spell": "Destroy Undead",
+      "item": "parchment",
+      "librarian": "Heretic Drahur"
+    },
+    {
+      "class": "Cleric",
+      "spell": "Hammer of Damnation",
+      "item": "parchment",
+      "librarian": "Vicar Ceraen"
+    },
+    {
+      "class": "Cleric",
+      "spell": "Kazad`s Mark",
+      "item": "parchment",
+      "librarian": "Vicar Ceraen"
+    },
+    {
+      "class": "Cleric",
+      "spell": "Mark of Kings",
+      "item": "parchment",
+      "librarian": "Vicar Ceraen"
+    },
+    {
+      "class": "Cleric",
+      "spell": "Sound of Might",
+      "item": "parchment",
+      "librarian": "Vicar Ceraen"
+    },
+    {
+      "class": "Cleric",
+      "spell": "Supernal Light",
+      "item": "parchment",
+      "librarian": "Vicar Ceraen"
+    },
+    {
+      "class": "Cleric",
+      "spell": "Word of Replenishment",
+      "item": "parchment",
+      "librarian": "Vicar Ceraen"
+    },
+    {
+      "class": "Druid",
+      "spell": "Blessing of the Nine",
+      "item": "glyph",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Legacy of Bracken",
+      "item": "glyph",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Mask of the Forest",
+      "item": "glyph",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Winter's Frost",
+      "item": "glyph",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Blessing of Replenishment",
+      "item": "parchment",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Blessing of Replenishment",
+      "item": "parchment",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Brackencoat",
+      "item": "parchment",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Command of Tunare",
+      "item": "parchment",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Destroy Summoned",
+      "item": "parchment",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Destroy Summoned",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Druid",
+      "spell": "E'ci's Frosty Breath",
+      "item": "parchment",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Karana's Renewal",
+      "item": "parchment",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Nature's Infusion",
+      "item": "parchment",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Protection of Seasons",
+      "item": "parchment",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Protection of the Nine",
+      "item": "parchment",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Savage Roots",
+      "item": "parchment",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Shield of Bracken",
+      "item": "parchment",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Summer's Flame",
+      "item": "parchment",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Druid",
+      "spell": "Swarming Death",
+      "item": "parchment",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Enchanter",
+      "spell": "Illusion: Froglok",
+      "item": "glyph",
+      "librarian": "Illusionist Jerup"
+    },
+    {
+      "class": "Enchanter",
+      "spell": "Vallon's Quickening",
+      "item": "glyph",
+      "librarian": "Illusionist Jerup"
+    },
+    {
+      "class": "Enchanter",
+      "spell": "Voice of Quellious",
+      "item": "glyph",
+      "librarian": "Illusionist Jerup"
+    },
+    {
+      "class": "Enchanter",
+      "spell": "Bliss",
+      "item": "parchment",
+      "librarian": "Illusionist Jerup"
+    },
+    {
+      "class": "Enchanter",
+      "spell": "Command of Druzzil",
+      "item": "parchment",
+      "librarian": "Illusionist Jerup"
+    },
+    {
+      "class": "Enchanter",
+      "spell": "Insanity",
+      "item": "parchment",
+      "librarian": "Illusionist Jerup"
+    },
+    {
+      "class": "Enchanter",
+      "spell": "Night`s Dark Terror",
+      "item": "parchment",
+      "librarian": "Illusionist Jerup"
+    },
+    {
+      "class": "Enchanter",
+      "spell": "Shield of Maelin",
+      "item": "parchment",
+      "librarian": "Heretic Drahur"
+    },
+    {
+      "class": "Enchanter",
+      "spell": "Shield of Maelin",
+      "item": "parchment",
+      "librarian": "Illusionist Jerup"
+    },
+    {
+      "class": "Enchanter",
+      "spell": "Shield of Maelin",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Enchanter",
+      "spell": "Sleep",
+      "item": "parchment",
+      "librarian": "Illusionist Jerup"
+    },
+    {
+      "class": "Enchanter",
+      "spell": "Torment of Scio",
+      "item": "parchment",
+      "librarian": "Illusionist Jerup"
+    },
+    {
+      "class": "Enchanter",
+      "spell": "Tranquility",
+      "item": "parchment",
+      "librarian": "Illusionist Jerup"
+    },
+    {
+      "class": "Enchanter",
+      "spell": "Uproar",
+      "item": "parchment",
+      "librarian": "Illusionist Jerup"
+    },
+    {
+      "class": "Magician",
+      "spell": "Call of the Arch Mage",
+      "item": "glyph",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Magician",
+      "spell": "Rathe's Son",
+      "item": "glyph",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Magician",
+      "spell": "Sun Vortex",
+      "item": "glyph",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Magician",
+      "spell": "Black Steel",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Magician",
+      "spell": "Blade of The Kedge",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Magician",
+      "spell": "Child of Ro",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Magician",
+      "spell": "Destroy Summoned",
+      "item": "parchment",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Magician",
+      "spell": "Destroy Summoned",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Magician",
+      "spell": "Elemental Silence",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Magician",
+      "spell": "Girdle of Magi'Kot",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Magician",
+      "spell": "Maelstrom of Ro",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Magician",
+      "spell": "Maelstrom of Thunder",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Magician",
+      "spell": "Malosinia",
+      "item": "parchment",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Magician",
+      "spell": "Malosinia",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Magician",
+      "spell": "Planar Renewal",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Magician",
+      "spell": "Shield of Maelin",
+      "item": "parchment",
+      "librarian": "Heretic Drahur"
+    },
+    {
+      "class": "Magician",
+      "spell": "Shield of Maelin",
+      "item": "parchment",
+      "librarian": "Illusionist Jerup"
+    },
+    {
+      "class": "Magician",
+      "spell": "Shield of Maelin",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Magician",
+      "spell": "Summon Jewelry Bag",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Necromancer",
+      "spell": "Blood of Thule",
+      "item": "glyph",
+      "librarian": "Heretic Drahur"
+    },
+    {
+      "class": "Necromancer",
+      "spell": "Child of Bertoxxulous",
+      "item": "glyph",
+      "librarian": "Heretic Drahur"
+    },
+    {
+      "class": "Necromancer",
+      "spell": "Word of Terris",
+      "item": "glyph",
+      "librarian": "Heretic Drahur"
+    },
+    {
+      "class": "Necromancer",
+      "spell": "Death's Silence",
+      "item": "parchment",
+      "librarian": "Heretic Drahur"
+    },
+    {
+      "class": "Necromancer",
+      "spell": "Destroy Undead",
+      "item": "parchment",
+      "librarian": "Vicar Ceraen"
+    },
+    {
+      "class": "Necromancer",
+      "spell": "Destroy Undead",
+      "item": "parchment",
+      "librarian": "Heretic Drahur"
+    },
+    {
+      "class": "Necromancer",
+      "spell": "Embracing Darkness",
+      "item": "parchment",
+      "librarian": "Heretic Drahur"
+    },
+    {
+      "class": "Necromancer",
+      "spell": "Force Shield",
+      "item": "parchment",
+      "librarian": "Heretic Drahur"
+    },
+    {
+      "class": "Necromancer",
+      "spell": "Force Shield",
+      "item": "parchment",
+      "librarian": "Channeler Olaemos"
+    },
+    {
+      "class": "Necromancer",
+      "spell": "Saryrn's Companion",
+      "item": "parchment",
+      "librarian": "Heretic Drahur"
+    },
+    {
+      "class": "Necromancer",
+      "spell": "Seduction of Saryrn",
+      "item": "parchment",
+      "librarian": "Heretic Drahur"
+    },
+    {
+      "class": "Necromancer",
+      "spell": "Shield of Maelin",
+      "item": "parchment",
+      "librarian": "Heretic Drahur"
+    },
+    {
+      "class": "Necromancer",
+      "spell": "Shield of Maelin",
+      "item": "parchment",
+      "librarian": "Illusionist Jerup"
+    },
+    {
+      "class": "Necromancer",
+      "spell": "Shield of Maelin",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Necromancer",
+      "spell": "Touch of Death",
+      "item": "parchment",
+      "librarian": "Heretic Drahur"
+    },
+    {
+      "class": "Paladin",
+      "spell": "Brell's Stalwart Shield",
+      "item": "glyph",
+      "librarian": "Cavalier Waut"
+    },
+    {
+      "class": "Paladin",
+      "spell": "Shackles of Tunare",
+      "item": "glyph",
+      "librarian": "Cavalier Waut"
+    },
+    {
+      "class": "Paladin",
+      "spell": "Wave of Marr",
+      "item": "glyph",
+      "librarian": "Cavalier Waut"
+    },
+    {
+      "class": "Paladin",
+      "spell": "Aura of the Crusader",
+      "item": "parchment",
+      "librarian": "Cavalier Waut"
+    },
+    {
+      "class": "Paladin",
+      "spell": "Light of Nife",
+      "item": "parchment",
+      "librarian": "Cavalier Waut"
+    },
+    {
+      "class": "Paladin",
+      "spell": "Pious Might",
+      "item": "parchment",
+      "librarian": "Cavalier Waut"
+    },
+    {
+      "class": "Paladin",
+      "spell": "Quellious' Word of Serenity",
+      "item": "parchment",
+      "librarian": "Cavalier Waut"
+    },
+    {
+      "class": "Paladin",
+      "spell": "Supernal Cleansing",
+      "item": "parchment",
+      "librarian": "Cavalier Waut"
+    },
+    {
+      "class": "Ranger",
+      "spell": "Cry of Thunder",
+      "item": "glyph",
+      "librarian": "Pathfinder Viliken"
+    },
+    {
+      "class": "Ranger",
+      "spell": "Protection of the Wild",
+      "item": "glyph",
+      "librarian": "Pathfinder Viliken"
+    },
+    {
+      "class": "Ranger",
+      "spell": "Brushfire",
+      "item": "parchment",
+      "librarian": "Pathfinder Viliken"
+    },
+    {
+      "class": "Ranger",
+      "spell": "Frozen Wind",
+      "item": "parchment",
+      "librarian": "Pathfinder Viliken"
+    },
+    {
+      "class": "Ranger",
+      "spell": "Nature's Rebuke",
+      "item": "parchment",
+      "librarian": "Pathfinder Viliken"
+    },
+    {
+      "class": "Ranger",
+      "spell": "Spirit of the Predator",
+      "item": "parchment",
+      "librarian": "Pathfinder Viliken"
+    },
+    {
+      "class": "Shadow Knight",
+      "spell": "Aura of Hate",
+      "item": "glyph",
+      "librarian": "Reaver Nydlil"
+    },
+    {
+      "class": "Shadow Knight",
+      "spell": "Cloak of Luclin",
+      "item": "glyph",
+      "librarian": "Reaver Nydlil"
+    },
+    {
+      "class": "Shadow Knight",
+      "spell": "Touch of Innoruuk",
+      "item": "glyph",
+      "librarian": "Reaver Nydlil"
+    },
+    {
+      "class": "Shadow Knight",
+      "spell": "Voice of Thule",
+      "item": "glyph",
+      "librarian": "Reaver Nydlil"
+    },
+    {
+      "class": "Shadow Knight",
+      "spell": "Aura of Pain",
+      "item": "parchment",
+      "librarian": "Reaver Nydlil"
+    },
+    {
+      "class": "Shadow Knight",
+      "spell": "Blood of Hate",
+      "item": "parchment",
+      "librarian": "Reaver Nydlil"
+    },
+    {
+      "class": "Shadow Knight",
+      "spell": "Pact of Hate",
+      "item": "parchment",
+      "librarian": "Reaver Nydlil"
+    },
+    {
+      "class": "Shadow Knight",
+      "spell": "Shroud of Chaos",
+      "item": "parchment",
+      "librarian": "Reaver Nydlil"
+    },
+    {
+      "class": "Shadow Knight",
+      "spell": "Spear of Decay",
+      "item": "parchment",
+      "librarian": "Reaver Nydlil"
+    },
+    {
+      "class": "Shadow Knight",
+      "spell": "Terror of Thule",
+      "item": "parchment",
+      "librarian": "Reaver Nydlil"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Blood of Saryrn",
+      "item": "glyph",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Ferine Avatar",
+      "item": "glyph",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Focus of the Seventh",
+      "item": "glyph",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Malos",
+      "item": "glyph",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Quiescence",
+      "item": "glyph",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Blessing of Replenishment",
+      "item": "parchment",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Blessing of Replenishment",
+      "item": "parchment",
+      "librarian": "Wanderer Astobin"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Breath of Ultor",
+      "item": "parchment",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Malicious Decay",
+      "item": "parchment",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Malosinia",
+      "item": "parchment",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Malosinia",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Strength of the Diaku",
+      "item": "parchment",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Talisman of Alacrity",
+      "item": "parchment",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Talisman of the Boar",
+      "item": "parchment",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Talisman of the Diaku",
+      "item": "parchment",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Tears of Saryrn",
+      "item": "parchment",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Tiny Terror",
+      "item": "parchment",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Shaman",
+      "spell": "Velium Strike",
+      "item": "parchment",
+      "librarian": "Mystic Abomin"
+    },
+    {
+      "class": "Wizard",
+      "spell": "Greater Decession",
+      "item": "glyph",
+      "librarian": "Channeler Olaemos"
+    },
+    {
+      "class": "Wizard",
+      "spell": "Shock of Magic",
+      "item": "glyph",
+      "librarian": "Channeler Olaemos"
+    },
+    {
+      "class": "Wizard",
+      "spell": "Strike of Solusek",
+      "item": "glyph",
+      "librarian": "Channeler Olaemos"
+    },
+    {
+      "class": "Wizard",
+      "spell": "Tears of Marr",
+      "item": "glyph",
+      "librarian": "Channeler Olaemos"
+    },
+    {
+      "class": "Wizard",
+      "spell": "Agnarr's Thunder",
+      "item": "parchment",
+      "librarian": "Channeler Olaemos"
+    },
+    {
+      "class": "Wizard",
+      "spell": "Draught of E`ci",
+      "item": "parchment",
+      "librarian": "Channeler Olaemos"
+    },
+    {
+      "class": "Wizard",
+      "spell": "Draught of Thunder",
+      "item": "parchment",
+      "librarian": "Channeler Olaemos"
+    },
+    {
+      "class": "Wizard",
+      "spell": "Force Shield",
+      "item": "parchment",
+      "librarian": "Heretic Drahur"
+    },
+    {
+      "class": "Wizard",
+      "spell": "Force Shield",
+      "item": "parchment",
+      "librarian": "Channeler Olaemos"
+    },
+    {
+      "class": "Wizard",
+      "spell": "Iceflame of E`ci",
+      "item": "parchment",
+      "librarian": "Channeler Olaemos"
+    },
+    {
+      "class": "Wizard",
+      "spell": "Shield of Maelin",
+      "item": "parchment",
+      "librarian": "Heretic Drahur"
+    },
+    {
+      "class": "Wizard",
+      "spell": "Shield of Maelin",
+      "item": "parchment",
+      "librarian": "Illusionist Jerup"
+    },
+    {
+      "class": "Wizard",
+      "spell": "Shield of Maelin",
+      "item": "parchment",
+      "librarian": "Elementalist Somat"
+    },
+    {
+      "class": "Wizard",
+      "spell": "Shield of Maelin",
+      "item": "parchment",
+      "librarian": "Channeler Olaemos"
+    },
+    {
+      "class": "Wizard",
+      "spell": "Tears of Arlyxir",
+      "item": "parchment",
+      "librarian": "Channeler Olaemos"
+    },
+    {
+      "class": "Wizard",
+      "spell": "Telekin",
+      "item": "parchment",
+      "librarian": "Channeler Olaemos"
+    },
+    {
+      "class": "Beastlord",
+      "spell": "Ferocity",
+      "item": "glyph",
+      "librarian": "Primalist Saosith"
+    },
+    {
+      "class": "Beastlord",
+      "spell": "Sha`s Revenge",
+      "item": "glyph",
+      "librarian": "Primalist Saosith"
+    },
+    {
+      "class": "Beastlord",
+      "spell": "Arag`s Celerity",
+      "item": "parchment",
+      "librarian": "Primalist Saosith"
+    },
+    {
+      "class": "Beastlord",
+      "spell": "Frost Spear",
+      "item": "parchment",
+      "librarian": "Primalist Saosith"
+    },
+    {
+      "class": "Beastlord",
+      "spell": "Spirit of Rellic",
+      "item": "parchment",
+      "librarian": "Primalist Saosith"
+    },
+    {
+      "class": "Beastlord",
+      "spell": "Spirit of Sorsha",
+      "item": "parchment",
+      "librarian": "Primalist Saosith"
+    },
+    {
+      "class": "Beastlord",
+      "spell": "Spiritual Dominion",
+      "item": "parchment",
+      "librarian": "Primalist Saosith"
+    },
+    {
+      "class": "Bard",
+      "spell": "Harmony of Sound",
+      "item": "glyph",
+      "librarian": "Minstrel Eoweril"
+    },
+    {
+      "class": "Bard",
+      "spell": "Lullaby of Morell",
+      "item": "glyph",
+      "librarian": "Minstrel Eoweril"
+    },
+    {
+      "class": "Bard",
+      "spell": "Tuyen`s Chant of Fire",
+      "item": "glyph",
+      "librarian": "Minstrel Eoweril"
+    },
+    {
+      "class": "Bard",
+      "spell": "Call of the Banshee",
+      "item": "parchment",
+      "librarian": "Minstrel Eoweril"
+    },
+    {
+      "class": "Bard",
+      "spell": "Chorus of Marr",
+      "item": "parchment",
+      "librarian": "Minstrel Eoweril"
+    },
+    {
+      "class": "Bard",
+      "spell": "Dreams of Terris",
+      "item": "parchment",
+      "librarian": "Minstrel Eoweril"
+    },
+    {
+      "class": "Bard",
+      "spell": "Psalm of Veeshan",
+      "item": "parchment",
+      "librarian": "Minstrel Eoweril"
+    },
+    {
+      "class": "Bard",
+      "spell": "Requiem of Time",
+      "item": "parchment",
+      "librarian": "Minstrel Eoweril"
+    },
+    {
+      "class": "Bard",
+      "spell": "Rizlona's Call of Flame",
+      "item": "parchment",
+      "librarian": "Minstrel Eoweril"
+    },
+    {
+      "class": "Bard",
+      "spell": "Tuyen`s Chant of Ice",
+      "item": "parchment",
+      "librarian": "Minstrel Eoweril"
+    },
+    {
+      "class": "Bard",
+      "spell": "Tuyen`s Chant of Venom",
+      "item": "parchment",
+      "librarian": "Minstrel Eoweril"
+    }
+  ]
+}
