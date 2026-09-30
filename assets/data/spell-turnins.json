@@ -1,11 +1,6 @@
 {
   "glyphMode": "priority",
   "parchmentMode": "priority",
-<<<<<<< HEAD
-  "priorities": [],
-  "drops": [],
-  "sightings": []
-=======
   "priorities": [
     {
       "item": "parchment",
@@ -50,6 +45,6 @@
       "want": 3
     }
   ],
-  "drops": []
->>>>>>> 888310832e574d3de589e6e62de498d77c84a2b9
+  "drops": [],
+  "sightings": []
 }
