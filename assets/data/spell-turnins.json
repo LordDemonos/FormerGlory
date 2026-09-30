@@ -7,6 +7,12 @@
       "class": "Cleric",
       "spell": "Supernal Light",
       "want": 4
+    },
+    {
+      "item": "parchment",
+      "class": "Cleric",
+      "spell": "Word of Replenishment",
+      "want": 3
     }
   ],
   "drops": []
