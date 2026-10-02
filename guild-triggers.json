@@ -1,0 +1,285 @@
+{
+  "pack_name": "Former Glory Guild",
+  "description": "Guild tells for batphone, bumps, CH order, drags, logs, and tanks. Updated October 2, 2026.",
+  "triggers": [
+    {
+      "id": "94852d6a116b914f",
+      "name": "In-Game Batphone Alert",
+      "enabled": true,
+      "pattern": "^(?<person>[\\w]+) tells the guild, '!KBP {s}'",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "KINGDOM BATPHONE - {person} : {S}",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        },
+        {
+          "type": "text_to_speech",
+          "text": "Batphone Alert",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Guild / Batphone",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 120,
+      "worn_off_pattern": "(?:^clearmessages? is not online at this time\\.$)",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Guild",
+      "pack_key": "In-Game Batphone Alert",
+      "sort_order": 0
+    },
+    {
+      "id": "e0b5cd82e0a86c1c",
+      "name": "Bump List",
+      "enabled": true,
+      "pattern": "^(?<person>[\\w]+) tells the guild, '!(?:KBUMPLIST|KBUMPS|KBUMP) {s}'",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "BUMP LIST - {S}",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Guild / Bump List",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Guild",
+      "pack_key": "Bump List",
+      "sort_order": 0
+    },
+    {
+      "id": "5ebba809f7fd1a55",
+      "name": "CH Chain Order",
+      "enabled": true,
+      "pattern": "^(?<person>[\\w]+) tells the guild, '!(?:KCHAIN|KCH) {s}'",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "CH CHAIN ORDER - {S}",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Guild / CH Chain List",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Guild",
+      "pack_key": "CH Chain Order",
+      "sort_order": 0
+    },
+    {
+      "id": "a0cb6f43c908821d",
+      "name": "RCH Chain Order",
+      "enabled": true,
+      "pattern": "^(?<person>[\\w]+) tells the guild, '!(?:KRAMPCHAIN|KRAMPCH|KRCHAIN|KRCH) {s}'",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "RAMP CH CHAIN ORDER - {S}",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Guild / CH Chain List",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Guild",
+      "pack_key": "RCH Chain Order",
+      "sort_order": 1
+    },
+    {
+      "id": "83df30880957ce24",
+      "name": "Consent for Dragging",
+      "enabled": true,
+      "pattern": "^(?<person>[\\w]+) tells the guild, '!(?:KDRAGGER|KDRAGS|KDRAG|KCONSENT)([\\w -'`]+)'",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "Consent {person}",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Guild / Corpse Recovery",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 300,
+      "worn_off_pattern": "(?:^clearmessages? is not online at this time\\.$)|(?:^cleardrags? is not online at this time\\.$)",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Guild",
+      "pack_key": "Consent for Dragging",
+      "sort_order": 0,
+      "timer_key_capture": "person",
+      "timer_target_capture": "person"
+    },
+    {
+      "id": "a64e1cbd9a24a239",
+      "name": "Logs Being Taken",
+      "enabled": true,
+      "pattern": "^(?<person>[\\w]+) tells the guild, '!(?:KLOGS|KLOG) {s}'",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "{person} is TAKINGS LOGS - Tell the log taker if you're dead, helping mobilize, or on another character not associated with you on the website, like guild bots.",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        },
+        {
+          "type": "text_to_speech",
+          "text": "Logs being taken, send tells if needed to {person}",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Guild / Logs",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 600,
+      "worn_off_pattern": "(?:^clearmessages? is not online at this time\\.$)",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Guild",
+      "pack_key": "Logs Being Taken",
+      "sort_order": 0,
+      "timer_key_capture": "person",
+      "timer_target_capture": "person"
+    },
+    {
+      "id": "2135e28bbdd2f768",
+      "name": "Main Tank Notification",
+      "enabled": true,
+      "pattern": "^(?<person>[\\w]+) tells the guild, '!KMT {s}'",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "MAIN TANK - {S}",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        },
+        {
+          "type": "text_to_speech",
+          "text": "Main tank is {S}",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Guild / MT Notification",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Guild",
+      "pack_key": "Main Tank Notification",
+      "sort_order": 0
+    },
+    {
+      "id": "1f4222a772420634",
+      "name": "Tank List",
+      "enabled": true,
+      "pattern": "^(?<person>[\\w]+) tells the guild, '!(?:KTANKLIST|KTANKS|KTANK) {s}'",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "TANK LIST - {S}",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Guild / Tank List",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Guild",
+      "pack_key": "Tank List",
+      "sort_order": 0
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "pack_name": "Former Glory Beastlord",
+  "description": "Beastlord spells, disciplines, and cooldowns. Updated October 2, 2026.",
+  "triggers": [
+    {
+      "id": "c64a437054598668",
+      "name": "Sha's Ferocity",
+      "enabled": true,
+      "pattern": "You begin casting Sha's Ferocity",
+      "actions": [],
+      "pack_name": "Beastlord",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 1057,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Beastlord",
+      "pack_key": "Sha's Ferocity",
+      "sort_order": 0
+    },
+    {
+      "id": "0085e680cc2b9ecc",
+      "name": "Sha's Lethargy",
+      "enabled": true,
+      "pattern": "^([\\w -'`]+) feels lethargic\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "BST Slow",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        },
+        {
+          "type": "text_to_speech",
+          "text": "{1} Beastlord Slowed",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Beastlord",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 204,
+      "worn_off_pattern": "(?:^(You have slain [\\w -'`]+|[\\w -'`]+ has been slain by (?:[^!]+))\\!$)",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Beastlord",
+      "pack_key": "Sha's Lethargy",
+      "sort_order": 1
+    }
+  ]
+}

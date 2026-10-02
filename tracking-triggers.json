@@ -1,0 +1,169 @@
+{
+  "pack_name": "Former Glory Tracking",
+  "description": "Tracking and pet-tracking alerts. Updated October 2, 2026.",
+  "triggers": [
+    {
+      "id": "0ec17672edcb2d4e",
+      "name": "Bind Sight Ended",
+      "enabled": true,
+      "pattern": "^(Your (shifting sight|binding|casting) ends|You return to your body|The strands fade away)\\.$",
+      "actions": [
+        {
+          "type": "text_to_speech",
+          "text": "Recast bind sight",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Tracking / Common",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Tracking",
+      "pack_key": "Bind Sight Ended",
+      "sort_order": 0
+    },
+    {
+      "id": "6ba5a92d28c9e211",
+      "name": "Cazic Thule Pop",
+      "enabled": true,
+      "pattern": "^Cazic Thule shouts 'Denizens of Fear, your master commands you to come forth to his aid\\!\\!'$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "CT POP CT POP CAZIC THULE POP CT POP CT POP",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        },
+        {
+          "type": "text_to_speech",
+          "text": "C T pop pop pop C T pop pop pop",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Tracking / Common",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 40,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Tracking",
+      "pack_key": "Cazic Thule Pop",
+      "sort_order": 1
+    },
+    {
+      "id": "d747ee819280ccc6",
+      "name": "Dain Frostreaver IV Pop",
+      "enabled": true,
+      "pattern": "^([\\w]+) says, 'You can count on my help\\.'$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "DAIN POP DAIN POP DAIN POP DAIN POP DAIN POP",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        },
+        {
+          "type": "text_to_speech",
+          "text": "Dain pop Dain pop Dain pop pop pop",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Tracking / Common",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Tracking",
+      "pack_key": "Dain Frostreaver IV Pop",
+      "sort_order": 2
+    },
+    {
+      "id": "1406180053001243",
+      "name": "Track Cooldown (macro in description)",
+      "enabled": true,
+      "pattern": "^track is not online at this time\\.$",
+      "actions": [],
+      "pack_name": "Tracking / Common",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 47,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Tracking",
+      "pack_key": "Track Cooldown (macro in description)",
+      "sort_order": 3
+    },
+    {
+      "id": "102338e5b4fb1c3d",
+      "name": "Pet Tracking",
+      "enabled": true,
+      "pattern": "\\^\\(\\?:\\[\\\\w\\ \\-'`\\]\\+\\)\\ tells\\ you,\\ 'Attacking\\ \\(\\[\\\\w\\ \\-'`\\]\\+\\)\\ Master\\\\\\.'\\$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "{1} POP {1} POP",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Tracking / Pet tracking",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Tracking",
+      "pack_key": "Pet Tracking",
+      "sort_order": 0
+    }
+  ]
+}

@@ -1,0 +1,839 @@
+{
+  "pack_name": "Former Glory Kunark",
+  "description": "Kunark raid spells and mob cards. Updated October 2, 2026.",
+  "triggers": [
+    {
+      "id": "3e83318ca31052a2",
+      "name": "Fiery Death",
+      "enabled": true,
+      "pattern": "^(You are immolated by flame\\.|([\\w -'`]+) is immolated by flame\\.|You resist the Fiery Death spell\\!)$",
+      "actions": [
+        {
+          "type": "text_to_speech",
+          "text": "AoE",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Spells / Chardok / Overking Bathezid",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 24,
+      "worn_off_pattern": "(?:^Overking Bathezid has been slain by (?:[^!]+)\\!$)|(?:^You have slain Overking Bathezid\\!$)",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Fiery Death",
+      "sort_order": 0
+    },
+    {
+      "id": "3d9d4282e5c386b0",
+      "name": "Flame Song of Ro (Lord Rak`Ashiir)",
+      "enabled": true,
+      "pattern": "^(([\\w -'`]+) is immolated in flame\\.|You resist the Flame Song of Ro spell\\!)$",
+      "actions": [
+        {
+          "type": "text_to_speech",
+          "text": "AoE",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Spells / Chardok / Queen Velazul Di`zok",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 12,
+      "worn_off_pattern": "(?:^Queen Velazul Di`zok has been slain by (?:[^!]+)\\!$)|(?:^You have slain Queen Velazul Di`zok\\!$)",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Flame Song of Ro (Lord Rak`Ashiir)",
+      "sort_order": 0
+    },
+    {
+      "id": "f5d2839321220b43",
+      "name": "Freezing Breath (Gorenaire/Ventani the Warder)",
+      "enabled": true,
+      "pattern": "^(An icy cold shoots through your body, slowing your movements\\.  You have taken {N} points of damage\\.|([\\w -'`]+) is slowed by the freezing blast\\.|You resist the Freezing Breath spell\\!)$",
+      "actions": [
+        {
+          "type": "text_to_speech",
+          "text": "AoE",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Spells / Non-VP Dragons / Gorenaire",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 12,
+      "worn_off_pattern": "(?:^You have slain (Gorenaire|Ventani the Warder)\\!$)|(?:^(Gorenaire|Ventani the Warder) has been slain by (?:[^!]+)\\!$)",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Freezing Breath (Gorenaire/Ventani the Warder)",
+      "sort_order": 0
+    },
+    {
+      "id": "7862518744e27648",
+      "name": "Immolating Breath",
+      "enabled": true,
+      "pattern": "^(Your flesh is seared from your bones\\.|([\\w -'`]+)'s flesh is seared\\.|You resist the Immolating Breath spell\\!)$",
+      "actions": [
+        {
+          "type": "text_to_speech",
+          "text": "AoE",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Spells / Non-VP Dragons / Talendor",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 12,
+      "worn_off_pattern": "(?:^Talendor has been slain by (?:[^!]+)\\!$)|(?:^You have slain Talendor\\!$)",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Immolating Breath",
+      "sort_order": 0
+    },
+    {
+      "id": "46224a438634c166",
+      "name": "Blinding Fear (Trakanon/Overking Bathezid/Prince Selrach Di'zok)",
+      "enabled": true,
+      "pattern": "^You freeze in terror\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "Blinded!",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        },
+        {
+          "type": "text_to_speech",
+          "text": "Blinded",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Spells / Non-VP Dragons / Trakanon - No Trigger for Poison Breath AoE",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 6,
+      "worn_off_pattern": "(?:^Trakanon has been slain by (?:[^!]+)\\!$)|(?:^You have slain Trakanon\\!$)",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Blinding Fear (Trakanon/Overking Bathezid/Prince Selrach Di'zok)",
+      "sort_order": 0
+    },
+    {
+      "id": "304f91e374ee4f7d",
+      "name": "Poison Breath",
+      "enabled": true,
+      "pattern": "^(You resist the Poison Breath spell\\!|^A green mist seeps in to your skin\\.  You have taken {N} points of damage\\.)$",
+      "actions": [
+        {
+          "type": "text_to_speech",
+          "text": "AoE",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Spells / Non-VP Dragons / Trakanon - No Trigger for Poison Breath AoE",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 35,
+      "worn_off_pattern": "(?:^You have slain Trakanon\\!$)|(?:^Trakanon has been slain by (?:[^!]+)\\!$)",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Poison Breath",
+      "sort_order": 1
+    },
+    {
+      "id": "ead494f4a1fa476e",
+      "name": "Poison Breath (Self)",
+      "enabled": true,
+      "pattern": "^A green mist seeps in to your skin\\.  You have taken {N} points of damage\\.$",
+      "actions": [
+        {
+          "type": "text_to_speech",
+          "text": "Request cure",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Spells / Non-VP Dragons / Trakanon - No Trigger for Poison Breath AoE",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Poison Breath (Self)",
+      "sort_order": 2
+    },
+    {
+      "id": "b34105f87ee7e6b2",
+      "name": "Trakanon's Touch (Banish)",
+      "enabled": true,
+      "pattern": "^You have been teleported\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "{1} banished!",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        },
+        {
+          "type": "text_to_speech",
+          "text": "Banished",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Spells / Non-VP Dragons / Trakanon - No Trigger for Poison Breath AoE",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 30,
+      "worn_off_pattern": "(?:^Trakanon has been slain by (?:[^!]+)\\!$)|(?:^You have slain Trakanon\\!$)",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Trakanon's Touch (Banish)",
+      "sort_order": 3
+    },
+    {
+      "id": "e8a8778c0524528c",
+      "name": "Stream of Acid (Nexona/Hraashna the Warder)",
+      "enabled": true,
+      "pattern": "^(Your body burns as the acid hits you\\.|([\\w]+)'s body burns as the acid hits them\\.|You resist the Stream of Acid spell\\!)$",
+      "actions": [
+        {
+          "type": "text_to_speech",
+          "text": "AoE",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Spells / Veeshan's Peak / Nexona",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 12,
+      "worn_off_pattern": "(?:^You have slain (Nexona|Hraashna the Warder)\\!$)|(?:^(Nexona|Hraashna the Warder) has been slain by (?:[^!]+)\\!$)",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Stream of Acid (Nexona/Hraashna the Warder)",
+      "sort_order": 0
+    },
+    {
+      "id": "ccbf3a69da3143a5",
+      "name": "Mesmerizing Breath (Self)",
+      "enabled": true,
+      "pattern": "^You are in a cloud of silence\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "You are silenced!",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        },
+        {
+          "type": "text_to_speech",
+          "text": "Silenced",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Spells / Veeshan's Peak / Xygoz",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Mesmerizing Breath (Self)",
+      "sort_order": 0
+    },
+    {
+      "id": "4d413b423dd36970",
+      "name": "Mesmerizing Breath (Xygoz/Ventani the Warder)",
+      "enabled": true,
+      "pattern": "^(([\\w]+) is surrounded by a cloud of silence\\.|You resist the Mesmerizing Breath spell\\!)$",
+      "actions": [
+        {
+          "type": "text_to_speech",
+          "text": "AoE",
+          "duration_secs": 0,
+          "color": "",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Spells / Veeshan's Peak / Xygoz",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 12,
+      "worn_off_pattern": "(?:^You have slain ((Tukaarak|Ventani) The Warder|Xygoz)\\!$)|(?:^((Tukaarak|Ventani) The Warder|Xygoz) has been slain by (?:[^!]+)\\!$)",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Mesmerizing Breath (Xygoz/Ventani the Warder)",
+      "sort_order": 1
+    },
+    {
+      "id": "d00d918af9312148",
+      "name": "Overking Bathezid",
+      "enabled": true,
+      "pattern": "^(chardo(k|k_)king|overkin(g|(g|g_)bathezid)|bathezid|kin(g|g_)bathezid) is not online at this time\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "<Overking Bathezid> [Slowable, CHs] - [CH: As needed] // Fiery Death (PBAOE, 200 rng, FR, 0 check, 24s CD): 400 dmg AOE + 1 slot dispel // Blinding Fear (PBOE, 15 rng, unresistable, 30s CD): 24s max duration, curable blind | **Must be sieved!**",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Chardok",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Overking Bathezid",
+      "sort_order": 0
+    },
+    {
+      "id": "437944efd9c5caba",
+      "name": "Queen Velazul Di`zok",
+      "enabled": true,
+      "pattern": "^(chardo(k|k_)queen|velazul|quee(n|n_)velazu(l|(l|l_)d(i|i`)zok)) is not online at this time\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "<Queen Velazul Di`zok> [Unslowable] - [CH: As needed] // Flame Song of Ro (PBAOE, 35 rng, FR, -100 check, 12s CD): 850 dmg AOE",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Chardok",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Queen Velazul Di`zok",
+      "sort_order": 1
+    },
+    {
+      "id": "7a0b1461c510e144",
+      "name": "Gorenaire",
+      "enabled": true,
+      "pattern": "^gor(e|enaire) is not online at this time\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "<Gorenaire> [Unslowable, CHs, fears] - [Remedy/DL spam] // Freezing Breath (PBAOE, 300 rng, CR, -150 check, 12s CD): 750 dmg AOE + 70% atk slow // Dragon Roar (PBAOE, 300 rng, MR, -150 check, 36s CD): 18s max duration fear",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Dreadlands",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Gorenaire",
+      "sort_order": 0
+    },
+    {
+      "id": "b964de5761779748",
+      "name": "Severilous",
+      "enabled": true,
+      "pattern": "^severilous is not online at this time\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "<Severilous> [Slowable, fears] - [Remedy/DL spam] // Ceticious Cloud (PBAOE, 300 rng, PR, 0 check, 12s CD): 600 dmg + 8s stun // Dragon Roar (PBAOE, 300 rng, MR, -150 check, 36s CD): 18s max duration fear",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Emerald Jungle",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Severilous",
+      "sort_order": 0
+    },
+    {
+      "id": "628bb1e0b2339e9e",
+      "name": "Venril Sathir",
+      "enabled": true,
+      "pattern": "^(vs|venri(l|(l|l_)sathir)) is not online at this time\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "<Venril Sathir> [Unslowable, lifetaps] - [Assist/fast heals] // Deadly Lifetap (targeted lifetap proc, unresistable): 1500 dmg lifetap | **Tank should use evasive, enchanters run a rune chain**",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Karnor's Castle",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Venril Sathir",
+      "sort_order": 0
+    },
+    {
+      "id": "b441269b6dabd069",
+      "name": "Trakanon",
+      "enabled": true,
+      "pattern": "^tra(k|kanon) is not online at this time\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "<Trakanon> [Unslowable, banishes] - [Remedy/DL spam] // Trakanon's Touch (Banish, 30s CD): Banish to mushrooms // Deadly Lifetap (targeted lifetap proc, unresistable): 1500 dmg lifetap // Poison Breath (PBAOE, 300 rng, PR, -150 check, 35s CD): 1200 dmg AOE + 150 dmg DoT (long duration, must be cured) // Blinding Fear (PBOE, 15 rng, unresistable, 30s CD): 24s max duration, curable blind | **Snap agro tank w/ Rune + kiter required**",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Old Sebilis",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Trakanon",
+      "sort_order": 0
+    },
+    {
+      "id": "88f98c30ab584a6f",
+      "name": "Talendor",
+      "enabled": true,
+      "pattern": "^talendor is not online at this time\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "<Talendor> [Unslowable, fears, charms] - [Remedy/DL spam] // Immolating Breath (PBAOE, 300 rng, FR, 0 check, 12s CD): 500 dmg AOE // Dragon Roar (PBAOE, 300 rng, MR, -150 check, 36s CD): 18s max duration fear // Dragon Charm (targeted, MR, 0 check, 35s CD): Charms a target",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Skyfire",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Talendor",
+      "sort_order": 0
+    },
+    {
+      "id": "4536c836d38c664a",
+      "name": "Master Yael",
+      "enabled": true,
+      "pattern": "Master Yael shouts",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "Death Touch",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / The Hole",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "custom",
+      "timer_duration_secs": 45,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Master Yael",
+      "sort_order": 0
+    },
+    {
+      "id": "16380e6515e16a52",
+      "name": "Faydedar",
+      "enabled": true,
+      "pattern": "^fa(y|ydedar) is not online at this time\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "<Faydedar> [Unslowable, fears] - [CH: As needed] // Lava Breath (PBAOE, 300 rng FR, 0 check, 12s CD): 500 dmg AOE + 1 slot dispel // Dragon Roar (PBAOE, 300 rng, MR, -150 check, 36s CD): 18s max duration fear **Keep junk buff in top slot**",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Timorous Deep",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Faydedar",
+      "sort_order": 0
+    },
+    {
+      "id": "5a2f41197fe13aea",
+      "name": "Druushk",
+      "enabled": true,
+      "pattern": "^dr(u|uushk) is not online at this time\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "<Druushk> [Unslowable, gates] - [Remedy/DL spam] // Lightning Breath (PBAOE, 300 rng, MR, 0 check, 12s CD): 1500 dmg + 1 slot dispel | **Keep junk buff in top slot**",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Veeshan's Peak",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Druushk",
+      "sort_order": 0
+    },
+    {
+      "id": "523b4243d20dc44d",
+      "name": "Hoshkar",
+      "enabled": true,
+      "pattern": "^hos(h|hkar) is not online at this time\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "<Hoshkar> [Unslowable, gates] - [Words of Restoration] // Diseased Cloud (PBAOE, 300 rng, DR, -150 check, 12s CD): 1250 dmg + 55% slow",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Veeshan's Peak",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Hoshkar",
+      "sort_order": 1
+    },
+    {
+      "id": "c4c7e7a3d5f1597d",
+      "name": "Nexona",
+      "enabled": true,
+      "pattern": "^ne(x|xona) is not online at this time\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "<Nexona> [Unslowable] - [Words of Redemption, Remedy/DL spam, Wort pots] // Stream of Acid (PBOE, 300 rng, FR, -150 check, 12s CD): 500 dmg + 500/tick DoT (2m duration) **Keep SoW/JBoots top slot, dispel DoT ASAP**",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Veeshan's Peak",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Nexona",
+      "sort_order": 2
+    },
+    {
+      "id": "573cfa3be712c60f",
+      "name": "Phara Dar",
+      "enabled": true,
+      "pattern": "^(pd|pha(ra|r(a|a_)dar)) is not online at this time\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "<Phara Dar> [Unslowable, CHs, gates] - [Remedy/DL spam] // Stun Breath (PBAOE, 300 rng, MR, 0 check, 12s CD): 900 dmg + 12s max duration stun",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Veeshan's Peak",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Phara Dar",
+      "sort_order": 3
+    },
+    {
+      "id": "6a1d9b898bd10320",
+      "name": "Silverwing",
+      "enabled": true,
+      "pattern": "^(sw|silverwing) is not online at this time\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "<Silverwing> [Unslowable, gates] - [Remedy/DL spam] // Chaos Breath (targeted AOE, 35 rng, MR, 0 check, 12s CD): 1200 dmg gravity flux | **Max MR**",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Veeshan's Peak",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Silverwing",
+      "sort_order": 4
+    },
+    {
+      "id": "631fb6ef15b43bf0",
+      "name": "Xygoz",
+      "enabled": true,
+      "pattern": "^x(y|ygoz) is not online at this time\\.$",
+      "actions": [
+        {
+          "type": "overlay_text",
+          "text": "<Xygoz> [Unslowable, silences, gates] - [Remedy/DL spam] // Mesmerizing Breath (PBAOE, 300 rng, MR, -150 check, 12s CD): AOE silence",
+          "duration_secs": 5,
+          "color": "#ffffff",
+          "sound_path": "",
+          "volume": 0,
+          "voice": ""
+        }
+      ],
+      "pack_name": "Kunark / Veeshan's Peak",
+      "created_at": "2026-10-02T17:21:50Z",
+      "source": "log",
+      "timer_type": "none",
+      "timer_duration_secs": 0,
+      "worn_off_pattern": "",
+      "spell_id": 0,
+      "display_threshold_secs": 0,
+      "timer_alerts": [],
+      "extra_patterns": [],
+      "exclude_patterns": [],
+      "source_pack": "Former Glory Kunark",
+      "pack_key": "Xygoz",
+      "sort_order": 5
+    }
+  ]
+}
