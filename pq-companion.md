@@ -25,7 +25,7 @@ Folders land as `PoP / {tier} / {zone} / {boss}`. Enable the bosses you are figh
 
 **Luclin:** [Download luclin-triggers.json](https://github.com/LordDemonos/FormerGlory/blob/master/luclin-triggers.json?raw=true) — Updated October 2, 2026
 
-111 triggers. Folders land as `Luclin / {zone} / {boss}`.
+111 triggers. Folders land as `Luclin / {zone} / {boss}`. Shei and Exiled DT bars speak when they end, including "Xanax One minute until Death Touch" and "XANAX DA THE TANK."
 
 ### Raiding
 

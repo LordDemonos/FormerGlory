@@ -140,7 +140,18 @@
       "worn_off_pattern": "",
       "spell_id": 0,
       "display_threshold_secs": 0,
-      "timer_alerts": [],
+      "timer_alerts": [
+        {
+          "id": "end",
+          "seconds": 0,
+          "type": "text_to_speech",
+          "sound_path": "",
+          "volume": 0,
+          "tts_template": "Xanax One minute until Death Touch",
+          "voice": "",
+          "tts_volume": 100
+        }
+      ],
       "extra_patterns": [],
       "exclude_patterns": [],
       "source_pack": "Former Glory Luclin",
@@ -162,7 +173,18 @@
       "worn_off_pattern": "",
       "spell_id": 0,
       "display_threshold_secs": 0,
-      "timer_alerts": [],
+      "timer_alerts": [
+        {
+          "id": "end",
+          "seconds": 0,
+          "type": "text_to_speech",
+          "sound_path": "",
+          "volume": 0,
+          "tts_template": "DT in 30 seconds",
+          "voice": "",
+          "tts_volume": 100
+        }
+      ],
       "extra_patterns": [],
       "exclude_patterns": [],
       "source_pack": "Former Glory Luclin",
@@ -184,7 +206,18 @@
       "worn_off_pattern": "",
       "spell_id": 0,
       "display_threshold_secs": 0,
-      "timer_alerts": [],
+      "timer_alerts": [
+        {
+          "id": "end",
+          "seconds": 0,
+          "type": "text_to_speech",
+          "sound_path": "",
+          "volume": 0,
+          "tts_template": "25 seconds until Shei Touch.",
+          "voice": "",
+          "tts_volume": 100
+        }
+      ],
       "extra_patterns": [],
       "exclude_patterns": [],
       "source_pack": "Former Glory Luclin",
@@ -206,7 +239,18 @@
       "worn_off_pattern": "",
       "spell_id": 0,
       "display_threshold_secs": 0,
-      "timer_alerts": [],
+      "timer_alerts": [
+        {
+          "id": "end",
+          "seconds": 0,
+          "type": "text_to_speech",
+          "sound_path": "",
+          "volume": 0,
+          "tts_template": "DT in 20 seconds",
+          "voice": "",
+          "tts_volume": 100
+        }
+      ],
       "extra_patterns": [],
       "exclude_patterns": [],
       "source_pack": "Former Glory Luclin",
@@ -228,7 +272,18 @@
       "worn_off_pattern": "",
       "spell_id": 0,
       "display_threshold_secs": 0,
-      "timer_alerts": [],
+      "timer_alerts": [
+        {
+          "id": "end",
+          "seconds": 0,
+          "type": "text_to_speech",
+          "sound_path": "",
+          "volume": 0,
+          "tts_template": "DT in 15 seconds",
+          "voice": "",
+          "tts_volume": 100
+        }
+      ],
       "extra_patterns": [],
       "exclude_patterns": [],
       "source_pack": "Former Glory Luclin",
@@ -250,7 +305,18 @@
       "worn_off_pattern": "",
       "spell_id": 0,
       "display_threshold_secs": 0,
-      "timer_alerts": [],
+      "timer_alerts": [
+        {
+          "id": "end",
+          "seconds": 0,
+          "type": "text_to_speech",
+          "sound_path": "",
+          "volume": 0,
+          "tts_template": "XANAX DA THE TANK IN 10 seconds",
+          "voice": "",
+          "tts_volume": 100
+        }
+      ],
       "extra_patterns": [],
       "exclude_patterns": [],
       "source_pack": "Former Glory Luclin",
@@ -272,7 +338,18 @@
       "worn_off_pattern": "",
       "spell_id": 0,
       "display_threshold_secs": 0,
-      "timer_alerts": [],
+      "timer_alerts": [
+        {
+          "id": "end",
+          "seconds": 0,
+          "type": "text_to_speech",
+          "sound_path": "",
+          "volume": 0,
+          "tts_template": "XANAX DA THE TANK IN 5 Seconds",
+          "voice": "",
+          "tts_volume": 100
+        }
+      ],
       "extra_patterns": [],
       "exclude_patterns": [],
       "source_pack": "Former Glory Luclin",
@@ -2069,7 +2146,18 @@
       "worn_off_pattern": "",
       "spell_id": 0,
       "display_threshold_secs": 0,
-      "timer_alerts": [],
+      "timer_alerts": [
+        {
+          "id": "end",
+          "seconds": 0,
+          "type": "text_to_speech",
+          "sound_path": "",
+          "volume": 0,
+          "tts_template": "Xanax One minute until Death Touch",
+          "voice": "",
+          "tts_volume": 100
+        }
+      ],
       "extra_patterns": [],
       "exclude_patterns": [],
       "source_pack": "Former Glory Luclin",
@@ -2091,7 +2179,18 @@
       "worn_off_pattern": "",
       "spell_id": 0,
       "display_threshold_secs": 0,
-      "timer_alerts": [],
+      "timer_alerts": [
+        {
+          "id": "end",
+          "seconds": 0,
+          "type": "text_to_speech",
+          "sound_path": "",
+          "volume": 0,
+          "tts_template": "DT in 30 seconds",
+          "voice": "",
+          "tts_volume": 100
+        }
+      ],
       "extra_patterns": [],
       "exclude_patterns": [],
       "source_pack": "Former Glory Luclin",
@@ -2113,7 +2212,18 @@
       "worn_off_pattern": "",
       "spell_id": 0,
       "display_threshold_secs": 0,
-      "timer_alerts": [],
+      "timer_alerts": [
+        {
+          "id": "end",
+          "seconds": 0,
+          "type": "text_to_speech",
+          "sound_path": "",
+          "volume": 0,
+          "tts_template": "DT in 25 seconds",
+          "voice": "",
+          "tts_volume": 100
+        }
+      ],
       "extra_patterns": [],
       "exclude_patterns": [],
       "source_pack": "Former Glory Luclin",
@@ -2135,7 +2245,18 @@
       "worn_off_pattern": "",
       "spell_id": 0,
       "display_threshold_secs": 0,
-      "timer_alerts": [],
+      "timer_alerts": [
+        {
+          "id": "end",
+          "seconds": 0,
+          "type": "text_to_speech",
+          "sound_path": "",
+          "volume": 0,
+          "tts_template": "DT in 20 seconds",
+          "voice": "",
+          "tts_volume": 100
+        }
+      ],
       "extra_patterns": [],
       "exclude_patterns": [],
       "source_pack": "Former Glory Luclin",
@@ -2157,7 +2278,18 @@
       "worn_off_pattern": "",
       "spell_id": 0,
       "display_threshold_secs": 0,
-      "timer_alerts": [],
+      "timer_alerts": [
+        {
+          "id": "end",
+          "seconds": 0,
+          "type": "text_to_speech",
+          "sound_path": "",
+          "volume": 0,
+          "tts_template": "DT in 15 seconds",
+          "voice": "",
+          "tts_volume": 100
+        }
+      ],
       "extra_patterns": [],
       "exclude_patterns": [],
       "source_pack": "Former Glory Luclin",
@@ -2179,7 +2311,18 @@
       "worn_off_pattern": "",
       "spell_id": 0,
       "display_threshold_secs": 0,
-      "timer_alerts": [],
+      "timer_alerts": [
+        {
+          "id": "end",
+          "seconds": 0,
+          "type": "text_to_speech",
+          "sound_path": "",
+          "volume": 0,
+          "tts_template": "XANAX DA THE TANK IN 10 seconds",
+          "voice": "",
+          "tts_volume": 100
+        }
+      ],
       "extra_patterns": [],
       "exclude_patterns": [],
       "source_pack": "Former Glory Luclin",
@@ -2201,7 +2344,18 @@
       "worn_off_pattern": "",
       "spell_id": 0,
       "display_threshold_secs": 0,
-      "timer_alerts": [],
+      "timer_alerts": [
+        {
+          "id": "end",
+          "seconds": 0,
+          "type": "text_to_speech",
+          "sound_path": "",
+          "volume": 0,
+          "tts_template": "XANAX DA THE TANK IN 5 Seconds",
+          "voice": "",
+          "tts_volume": 100
+        }
+      ],
       "extra_patterns": [],
       "exclude_patterns": [],
       "source_pack": "Former Glory Luclin",
