@@ -61,6 +61,12 @@
       "class": "Shaman",
       "spell": "Malos",
       "want": 2
+    },
+    {
+      "item": "glyph",
+      "class": "Shaman",
+      "spell": "Ferine Avatar",
+      "want": 2
     }
   ],
   "drops": [],
