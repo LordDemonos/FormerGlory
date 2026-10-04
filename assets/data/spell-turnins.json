@@ -34,12 +34,6 @@
     },
     {
       "item": "glyph",
-      "class": "Cleric",
-      "spell": "Yaulp VI",
-      "want": 3
-    },
-    {
-      "item": "glyph",
       "class": "Druid",
       "spell": "Blessing of the Nine",
       "want": 3
