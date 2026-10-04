@@ -91,6 +91,12 @@
       "class": "Bard",
       "spell": "Lullaby of Morell",
       "want": 4
+    },
+    {
+      "item": "glyph",
+      "class": "Bard",
+      "spell": "Tuyen`s Chant of Fire",
+      "want": 2
     }
   ],
   "drops": [
