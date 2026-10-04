@@ -49,6 +49,12 @@
       "class": "Druid",
       "spell": "Blessing of the Nine",
       "want": 3
+    },
+    {
+      "item": "glyph",
+      "class": "Druid",
+      "spell": "Legacy of Bracken",
+      "want": 3
     }
   ],
   "drops": [],
