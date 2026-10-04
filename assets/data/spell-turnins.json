@@ -67,6 +67,12 @@
       "class": "Shaman",
       "spell": "Ferine Avatar",
       "want": 2
+    },
+    {
+      "item": "glyph",
+      "class": "Shaman",
+      "spell": "Focus of the Seventh",
+      "want": 3
     }
   ],
   "drops": [],
