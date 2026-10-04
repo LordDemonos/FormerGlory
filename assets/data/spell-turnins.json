@@ -91,6 +91,12 @@
       "class": "Enchanter",
       "spell": "Voice of Quellious",
       "want": 3
+    },
+    {
+      "item": "glyph",
+      "class": "Bard",
+      "spell": "Harmony of Sound",
+      "want": 2
     }
   ],
   "drops": [],
