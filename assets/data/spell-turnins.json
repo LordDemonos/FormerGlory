@@ -85,6 +85,12 @@
       "class": "Enchanter",
       "spell": "Vallon's Quickening",
       "want": 3
+    },
+    {
+      "item": "glyph",
+      "class": "Enchanter",
+      "spell": "Voice of Quellious",
+      "want": 3
     }
   ],
   "drops": [],
