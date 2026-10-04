@@ -97,6 +97,12 @@
       "class": "Bard",
       "spell": "Harmony of Sound",
       "want": 2
+    },
+    {
+      "item": "glyph",
+      "class": "Bard",
+      "spell": "Lullaby of Morell",
+      "want": 4
     }
   ],
   "drops": [],
