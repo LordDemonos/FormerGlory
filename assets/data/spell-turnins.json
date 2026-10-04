@@ -93,6 +93,16 @@
       "want": 4
     }
   ],
-  "drops": [],
+  "drops": [
+    {
+      "id": "1791087211194-1556157295044468777",
+      "ts": 1791087211194,
+      "item": "glyph",
+      "class": "Shaman",
+      "spell": "Quiescence",
+      "result": "secured",
+      "by": "lorddemonos"
+    }
+  ],
   "sightings": []
 }
