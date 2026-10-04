@@ -79,6 +79,12 @@
       "class": "Shaman",
       "spell": "Quiescence",
       "want": 2
+    },
+    {
+      "item": "glyph",
+      "class": "Enchanter",
+      "spell": "Vallon's Quickening",
+      "want": 3
     }
   ],
   "drops": [],
