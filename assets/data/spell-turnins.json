@@ -55,6 +55,12 @@
       "class": "Druid",
       "spell": "Legacy of Bracken",
       "want": 3
+    },
+    {
+      "item": "glyph",
+      "class": "Shaman",
+      "spell": "Malos",
+      "want": 2
     }
   ],
   "drops": [],
