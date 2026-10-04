@@ -73,6 +73,12 @@
       "class": "Shaman",
       "spell": "Focus of the Seventh",
       "want": 3
+    },
+    {
+      "item": "glyph",
+      "class": "Shaman",
+      "spell": "Quiescence",
+      "want": 2
     }
   ],
   "drops": [],
