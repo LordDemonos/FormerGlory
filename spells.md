@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-09-25
+### Last Update: 2026-10-05
 
 FGS Inv1 s6 [Ancient: Chaotic Visions](https://www.pqdi.cc/item/26620)
 
@@ -204,8 +204,6 @@ FGS Bnk10 s7 [Spell: Mark of Retribution](https://www.pqdi.cc/item/7607) x6
 
 FGS Bnk17 s6 [Spell: Markar`s Discord](https://www.pqdi.cc/item/19331) x2
 
-FGS Inv2 s6 [Spell: Mask of the Stalker](https://www.pqdi.cc/item/19529)
-
 FGS Bnk7 s4 [Spell: Mass Mystical Transvergan](https://www.pqdi.cc/item/7638) x4
 
 FGS Bnk3 s5 [Spell: Mental Corruption](https://www.pqdi.cc/item/7676) x2
@@ -276,7 +274,7 @@ FGS Bnk19 s4 [Spell: Spirit of Khurenz](https://www.pqdi.cc/item/7727) x3
 
 SPD Inv4 s7 [Spell: Spirit of Omakin](https://www.pqdi.cc/item/7723)
 
-FGS Inv2 s4 [Spell: Spirit of Snow](https://www.pqdi.cc/item/19531) x4
+FGS Bnk4 s8 [Spell: Spirit of Snow](https://www.pqdi.cc/item/19531) x3
 
 SPD Bnk4 s8 [Spell: Stun Command](https://www.pqdi.cc/item/30446)
 
