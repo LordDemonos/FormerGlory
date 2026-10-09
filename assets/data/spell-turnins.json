@@ -29,22 +29,95 @@
     {
       "item": "glyph",
       "class": "Cleric",
-      "spell": "Armor of the Zealot",
-      "want": 4
-    },
-    {
-      "item": "glyph",
-      "class": "Cleric",
       "spell": "Hand of Virtue",
       "want": 3
     },
     {
       "item": "glyph",
-      "class": "Cleric",
-      "spell": "Yaulp VI",
+      "class": "Druid",
+      "spell": "Blessing of the Nine",
       "want": 3
+    },
+    {
+      "item": "glyph",
+      "class": "Druid",
+      "spell": "Legacy of Bracken",
+      "want": 3
+    },
+    {
+      "item": "glyph",
+      "class": "Shaman",
+      "spell": "Malos",
+      "want": 2
+    },
+    {
+      "item": "glyph",
+      "class": "Shaman",
+      "spell": "Ferine Avatar",
+      "want": 2
+    },
+    {
+      "item": "glyph",
+      "class": "Shaman",
+      "spell": "Focus of the Seventh",
+      "want": 3
+    },
+    {
+      "item": "glyph",
+      "class": "Shaman",
+      "spell": "Quiescence",
+      "want": 2
+    },
+    {
+      "item": "glyph",
+      "class": "Enchanter",
+      "spell": "Vallon's Quickening",
+      "want": 3
+    },
+    {
+      "item": "glyph",
+      "class": "Enchanter",
+      "spell": "Voice of Quellious",
+      "want": 3
+    },
+    {
+      "item": "glyph",
+      "class": "Bard",
+      "spell": "Harmony of Sound",
+      "want": 3
+    },
+    {
+      "item": "glyph",
+      "class": "Bard",
+      "spell": "Lullaby of Morell",
+      "want": 4
+    },
+    {
+      "item": "glyph",
+      "class": "Bard",
+      "spell": "Tuyen`s Chant of Fire",
+      "want": 2
     }
   ],
-  "drops": [],
+  "drops": [
+    {
+      "id": "1791087211194-1556157295044468777",
+      "ts": 1791087211194,
+      "item": "glyph",
+      "class": "Shaman",
+      "spell": "Quiescence",
+      "result": "secured",
+      "by": "lorddemonos"
+    },
+    {
+      "id": "1791087482555-1556158433043030046",
+      "ts": 1791087482555,
+      "item": "glyph",
+      "class": "Enchanter",
+      "spell": "Voice of Quellious",
+      "result": "secured",
+      "by": "lorddemonos"
+    }
+  ],
   "sightings": []
 }

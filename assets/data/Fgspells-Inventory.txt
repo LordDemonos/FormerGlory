@@ -33,9 +33,9 @@ General2	Bearskin Potion Bag	17811	1	10
 General2-Slot1	Spell: Wake of Karana	19413	1	0
 General2-Slot2	Spell: Remove Greater Curse	19522	1	0
 General2-Slot3	Song: Warsong of the Vah Shir	7710	1	0
-General2-Slot4	Spell: Spirit of Snow	19531	1	0
+General2-Slot4	Empty	0	0	0
 General2-Slot5	Spell: Brell's Mountainous Barrier	7690	1	0
-General2-Slot6	Spell: Mask of the Stalker	19529	1	0
+General2-Slot6	Empty	0	0	0
 General2-Slot7	Spell: Greater Familiar	7660	1	0
 General2-Slot8	Spell: Greater Familiar	7660	1	0
 General2-Slot9	Spell: Remove Greater Curse	19522	1	0
