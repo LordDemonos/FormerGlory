@@ -17,9 +17,16 @@ Planes of Power and Luclin files for GINA and EQLogParser stay on the [GINA Guid
 
 ### Planes of Power
 
-**Planes of Power:** [Download pop-triggers.json](https://github.com/LordDemonos/FormerGlory/blob/master/pop-triggers.json?raw=true) — Updated September 13, 2026
+Import one file at a time. Updated October 2, 2026.
 
-Folders land as `PoP / {tier} / {zone} / {boss}`. Enable the bosses you are fighting.
+- **T1** (126): [pop-t1-triggers.json](https://github.com/LordDemonos/FormerGlory/blob/master/pop-t1-triggers.json?raw=true) — Disease, Innovation, Justice, Nightmares, Lair of Terris Thule
+- **T2** (48): [pop-t2-triggers.json](https://github.com/LordDemonos/FormerGlory/blob/master/pop-t2-triggers.json?raw=true) — Storms, Valor, Crypt of Decay, Torment
+- **T3** (82): [pop-t3-triggers.json](https://github.com/LordDemonos/FormerGlory/blob/master/pop-t3-triggers.json?raw=true) — Bastion of Thunder, Temple of Marr, Halls of Honor, Drunder
+- **Air** (62): [pop-air-triggers.json](https://github.com/LordDemonos/FormerGlory/blob/master/pop-air-triggers.json?raw=true) — Plane of Air
+- **Earth** (52): [pop-earth-triggers.json](https://github.com/LordDemonos/FormerGlory/blob/master/pop-earth-triggers.json?raw=true) — Plane of Earth
+- **Fire** (65): [pop-fire-triggers.json](https://github.com/LordDemonos/FormerGlory/blob/master/pop-fire-triggers.json?raw=true) — Plane of Fire, Tower of Solusek Ro
+- **Water** (24): [pop-water-triggers.json](https://github.com/LordDemonos/FormerGlory/blob/master/pop-water-triggers.json?raw=true) — Plane of Water
+- **Time** (92): [pop-time-triggers.json](https://github.com/LordDemonos/FormerGlory/blob/master/pop-time-triggers.json?raw=true) — Plane of Time
 
 ### Luclin
 
@@ -143,7 +150,7 @@ Open **Triggers** in the sidebar. The import wizard detects and previews:
 
 1. Open **Triggers**.
 
-2. Start the import wizard and select the pack you want (`pop-triggers.json`, `luclin-triggers.json`, a class pack, and so on). Import one pack at a time.
+2. Start the import wizard and select the pack you want (`pop-t1-triggers.json`, `luclin-triggers.json`, a class pack, and so on). Import one pack at a time.
 
 3. Review the preview, then commit the pack into a category.
 
@@ -182,4 +189,4 @@ Under **Settings → Backups**, use **App Backup & Restore** to export settings,
 - **Zeal:** [github.com/iamclint/Zeal](https://github.com/iamclint/Zeal)
 - **Former Glory GINA Guide:** [GINA Guide](/gina/) — `pop.gtp` (Planes of Power) and Fabio's Luclin `.gtp`
 - **Former Glory EQLogParser Guide:** [EQLogParser Guide](/eqlp/) — `pop.tgf.gz` (Planes of Power)
-- **Former Glory PQ Companion packs:** listed at the top of this page, starting with [pop-triggers.json](https://github.com/LordDemonos/FormerGlory/blob/master/pop-triggers.json?raw=true)
+- **Former Glory PQ Companion packs:** listed at the top of this page, starting with the Planes of Power tier files
