@@ -17,29 +17,27 @@ cover-img: /assets/img/raids.webp
 
 ### Week of 10/11 - 10/17 {#week-10-10-11---10-17}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-bt1s721sa">&lt;Next Scheduled Raid&gt;Monday, 10/12, 9pm ET: Aerin`Dar + Halls of Honor + Lord Mithaniel Marr - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-bt1s721sa')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-ca7rx0wzx">&lt;Next Scheduled Raid&gt;<!-- Error: Could not parse new raid schedule - 10/15/2026, 6:51:09 PM --> - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-ca7rx0wzx')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-l743buh2y">&lt;Next Scheduled Raid&gt;Wednesday, 10/14, 9pm ET: Manaetic Behemoth + Rallos Zek + Agnarr - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-l743buh2y')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-pqyo16wun">&lt;Next Scheduled Raid&gt;Friday, 10/16, 9pm ET: Terris-Thule + Grummus + Carprin Deatharn + Bertoxxulous - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-pqyo16wun')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-wcay4e0is">&lt;Next Scheduled Raid&gt;Friday, 10/16, 9pm ET: Terris-Thule + Grummus + Carprin Deatharn + Bertoxxulous - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-wcay4e0is')">Copy to Clipboard</button></div>
-
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-t1cvkrmk2">&lt;Next Scheduled Raid&gt;Saturday, 10/17, 9pm ET: Saryrn + Tower of Solusek Ro - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-t1cvkrmk2')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-90zm668eo">&lt;Next Scheduled Raid&gt;Saturday, 10/17, 9pm ET: Saryrn + Tower of Solusek Ro - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-90zm668eo')">Copy to Clipboard</button></div>
 
 
 ### Week of 10/18 - 10/24 {#week-10-10-18---10-24}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-pniq9bvw2">&lt;Next Scheduled Raid&gt;Monday, 10/19, 9pm ET: Planes of Power - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-pniq9bvw2')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-mcqnztn9d">&lt;Next Scheduled Raid&gt;Monday, 10/19, 9pm ET: Planes of Power - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-mcqnztn9d')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-lgcpcftsa">&lt;Next Scheduled Raid&gt;Friday, 10/23, 9pm ET: Planes of Power - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-lgcpcftsa')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-lngympi3d">&lt;Next Scheduled Raid&gt;Friday, 10/23, 9pm ET: Planes of Power - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-lngympi3d')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-pklf6iqmo">&lt;Next Scheduled Raid&gt;Saturday, 10/24, 9pm ET: Planes of Power - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-pklf6iqmo')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-kfd70ujnk">&lt;Next Scheduled Raid&gt;Saturday, 10/24, 9pm ET: Planes of Power - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-kfd70ujnk')">Copy to Clipboard</button></div>
 
 
 ### Week of 10/25 - 10/31 {#week-10-10-25---10-31}
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-p93x7013o">&lt;Next Scheduled Raid&gt;Monday, 10/26, 9pm ET: Planes of Power - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-p93x7013o')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-z1cgj89uu">&lt;Next Scheduled Raid&gt;Monday, 10/26, 9pm ET: Planes of Power - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-z1cgj89uu')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-k64rwyy77">&lt;Next Scheduled Raid&gt;Friday, 10/30, 9pm ET: Planes of Power - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-k64rwyy77')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-uusltilsg">&lt;Next Scheduled Raid&gt;Friday, 10/30, 9pm ET: Planes of Power - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-uusltilsg')">Copy to Clipboard</button></div>
 
-<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-y9bt5hu1g">&lt;Next Scheduled Raid&gt;Saturday, 10/31, 9pm ET: Planes of Power - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-y9bt5hu1g')">Copy to Clipboard</button></div>
+<div class="copy-text-container"><pre class="copy-text-content" id="copy-box-dflgs8yv4">&lt;Next Scheduled Raid&gt;Saturday, 10/31, 9pm ET: Planes of Power - Lv60+Run3 to raid - Join us at FormerGlory.LOL</pre><button class="copy-button" onclick="copyText('copy-box-dflgs8yv4')">Copy to Clipboard</button></div>
 
