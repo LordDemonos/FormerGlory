@@ -21,3 +21,5 @@
 - Saturday, 10/31, 9pm ET: Planes of Power
 
 <!-- Error: Could not parse new raid schedule - 10/15/2026, 6:51:09 PM -->
+
+<!-- Error: Could not parse new raid schedule - 10/15/2026, 6:53:03 PM -->
