@@ -19,3 +19,5 @@
 - Monday, 10/26, 9pm ET: Planes of Power
 - Friday, 10/30, 9pm ET: Planes of Power
 - Saturday, 10/31, 9pm ET: Planes of Power
+
+<!-- Error: Could not parse new raid schedule - 10/17/2026, 12:05:42 AM -->
