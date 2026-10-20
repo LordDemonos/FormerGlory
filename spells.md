@@ -6,7 +6,7 @@ subtitle: List of Spells in the guild bank
 ---
 ### Speak with Dihat if you wish to make a withdraw.
 
-### Last Update: 2026-10-05
+### Last Update: 2026-10-20
 
 FGS Inv1 s6 [Ancient: Chaotic Visions](https://www.pqdi.cc/item/26620)
 
@@ -114,7 +114,7 @@ FGS Bnk15 s1 [Spell: Elemental Maelstrom](https://www.pqdi.cc/item/30403)
 
 FGS Inv1 s5 [Spell: Elnerick's Rending](https://www.pqdi.cc/item/19525)
 
-FGS Inv1 s3 [Spell: Emissary of Thule](https://www.pqdi.cc/item/19311)
+FGS Inv2 s4 [Spell: Emissary of Thule](https://www.pqdi.cc/item/19311)
 
 FGS Bnk11 s2 [Spell: Enlightenment](https://www.pqdi.cc/item/19396) x6
 
@@ -141,8 +141,6 @@ SPD Bnk19 s4 [Spell: Foliage Shield](https://www.pqdi.cc/item/7616)
 FGS Inv1 s7 [Spell: Forlorn Deeds](https://www.pqdi.cc/item/19395)
 
 FGS Bnk20 s5 [Spell: Form of the Howler](https://www.pqdi.cc/item/19244) x2
-
-FGS Inv4 s4 [Spell: Funeral Pyre of Kelador](https://www.pqdi.cc/item/19527)
 
 FGS Bnk12 s1 [Spell: Gift of Brilliance](https://www.pqdi.cc/item/30410) x7
 
