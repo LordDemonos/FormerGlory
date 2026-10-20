@@ -23,7 +23,7 @@ Ammo	Empty	0	0	0
 General1	Backpack	17005	1	8
 General1-Slot1	Spell: Legacy of Thorn	19259	1	0
 General1-Slot2	Spell: Deathly Temptation	19532	1	0
-General1-Slot3	Spell: Emissary of Thule	19311	1	0
+General1-Slot3	Empty	0	0	0
 General1-Slot4	Spell: Warder's Protection	7700	1	0
 General1-Slot5	Spell: Elnerick's Rending	19525	1	0
 General1-Slot6	Ancient: Chaotic Visions	26620	1	0
@@ -33,7 +33,7 @@ General2	Bearskin Potion Bag	17811	1	10
 General2-Slot1	Spell: Wake of Karana	19413	1	0
 General2-Slot2	Spell: Remove Greater Curse	19522	1	0
 General2-Slot3	Song: Warsong of the Vah Shir	7710	1	0
-General2-Slot4	Empty	0	0	0
+General2-Slot4	Spell: Emissary of Thule	19311	1	0
 General2-Slot5	Spell: Brell's Mountainous Barrier	7690	1	0
 General2-Slot6	Empty	0	0	0
 General2-Slot7	Spell: Greater Familiar	7660	1	0
@@ -53,7 +53,7 @@ General4	Trader's Satchel	17899	1	10
 General4-Slot1	Spell: Enslave Death	19313	1	0
 General4-Slot2	Spell: Word of Redemption	19229	1	0
 General4-Slot3	Spell: Deathly Temptation	19532	1	0
-General4-Slot4	Spell: Funeral Pyre of Kelador	19527	1	0
+General4-Slot4	Empty	0	0	0
 General4-Slot5	Spell: Remove Greater Curse	19522	1	0
 General4-Slot6	Spell: Nature Walkers Behest	30475	1	0
 General4-Slot7	Empty	0	0	0
