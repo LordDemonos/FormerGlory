@@ -13,7 +13,7 @@ cover-img: /assets/img/Hydrotha.jpg
 </div>
 
 <div class="info-lockout">
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 18 hours</div>
 <div class="info-lockoutitem"><strong>CH Chain: 1sec, 2sec slowed</strong> </div>
 <div class="info-lockoutitem info-lockout-loot"><a href="/raid-loot#hydrotha" title="View raid loot">🔗</a></div>
 </div>
