@@ -28,7 +28,7 @@ cover-img: /assets/img/Tantisala-Jaggedtooth.jpg
 
 <div class="info-lockout">
 
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> 3 days</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours</div>
 
 <div class="info-lockoutitem"><strong>CH Chain: 2sec, 3sec slowed</strong> </div>
 
