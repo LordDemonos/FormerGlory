@@ -28,7 +28,7 @@ cover-img: /assets/img/War-Chieftan-Awisano.jpg
 
 <div class="info-lockout">
 
-<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 weeks, 5 days, 16 hours</div>
+<div class="info-lockoutitem"><strong>Respawn Time:</strong> 2 days and 18 hours</div>
 
 <div class="info-lockoutitem"><strong>CH Chain: 2sec, 3sec slowed</strong> </div>
 
